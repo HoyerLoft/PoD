@@ -78,9 +78,9 @@
  k_golden_cross_adj:0 "Occitan" #NT!
  k_grand_court:0 "Grand Court" #NT!
  k_grand_court_adj:0 "French" #NT!
- e_dream:0 "Dream" #NT!
- e_dream_adj:0 "Dreamer" #NT!
- e_lhiannan:0 "Witching-Lands" #NT!
+ e_dream:0 "Мечта" #NT!
+ e_dream_adj:0 "Мечтатель" #NT!
+ e_lhiannan:0 "Ведьмины Земли" #NT!
  e_lhiannan_adj:0 "Witch" #NT!
  e_lhiannan_article:0 "The " #NT!
  k_timisoara_banat:0 "Banat Timisoara" #NT!
