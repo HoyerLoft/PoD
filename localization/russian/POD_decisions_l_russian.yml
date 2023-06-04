@@ -51,7 +51,7 @@
  senate_victory_objective_decision_desc:0 "До того, как он превратился в бездонную яму греха, Неживой Рим был утопией республиканских канитов. Мечта о Сенате, где каждый, ну, в общем, большинство кланов могли бы иметь своего представителя, все еще достижима. Если ошибочная попытка немецкого Вентру построить новую империю будет пресечена первой..." #NT!
  senate_victory_objective_decision_confirm:0 "Мы есть Сенат" #NT!
  senate_victory_objective_decision_effect_tooltip:1 "Республиканский Рим будет восстановлен, и будет введена новая политика, чтобы соответствующим образом вознаграждать и наказывать кланы." #NT!
- senate_victory_objective_decision_custom:1 "[TARGET_TITLE.GetNameNoTier] титул должен быть ваш или не существовать вовсе." #NT!
+ senate_victory_objective_decision_custom:1 "[GetTitleByKey('e_fiefs_of_the_black_cross').GetNameNoTier] титул должен быть ваш или не существовать вовсе." #NT!
  brujah_victory_objective_decision:0 "Карфаген" #NT!
  brujah_victory_objective_decision_tooltip:1 "Мы никогда не забудим Карфаген, утопию Троиль, где люди и каиниты сосуществуют. Сожженный завистливыми римлянами, его дух все еще живет в каждом из нас." #NT!
  brujah_victory_objective_decision_desc:0 "Рим и Камилла разрушили наш священный Карфаген, идеальный город. Но это никогда по-настоящему не исчезнет, пока Клан Бруха все еще жив. Возможно, в эти времена, когда пал сам Рим, мы могли бы увидеть возрождение нашей утопии." #NT!
@@ -68,7 +68,7 @@
  nosferatu_victory_objective_decision_tooltip:1 "Угрозы в буквальном смысле слова таятся в темноте. [Clan|E] Носферату нуждается в защитнике." #NT!
  nosferatu_victory_objective_decision_desc:0 "Ваш [Clan|E] истребляется своим прародителем, Абсимильярдом. Таким образом, вы вынуждены прятаться в тени, ожидая, когда его гнев поглотит вас. Но, возможно, кто-то сможет объединить Клан и нанести ответный удар..." #NT!
  nosferatu_victory_objective_decision_confirm:0 "Мы переживем тебя, основатель" #NT!
- nosferatu_victory_objective_decision_effect_tooltip:1 "Вы объедините [Clan|E] Носферату, мощное достоинство, учитывая насколько a устойчива и коварна ваша родословная." #NT!
+ nosferatu_victory_objective_decision_effect_tooltip:1 "Вы объедините [Clan|E] Носферату, мощное достоинство, учитывая насколько живуча и коварна ваша родословная." #NT!
  urshulgi_victory_objective_decision:0 "Мечты Бога" #NT!
  urshulgi_victory_objective_decision_tooltip:1 "Единственный любимый сын, Ур-Шульги, знает волю Хакима." #NT!
  urshulgi_victory_objective_decision_desc:0 "[Clan|E] Ассамитов находится в состоянии отрицания. Наше предназначение - очистить землю от нечистой крови Детей Кхаина и вернуть ее нашему прародителю Хакиму. Мы должны показать им правду." #NT!
@@ -216,7 +216,7 @@
  restore_the_sea_of_shadows_tooltip:1 "Наш прародитель, Ласомбра, нуждается в твердой руке, чтобы вести его [Clan|E]." #NT!
  restore_the_sea_of_shadows_desc:0 "Королевством Ласомбра всегда руководил Монтано, самый преданный сын Ласомбры. Но времена меняются, и на первый план может выйти новый фаворит." #NT!
  restore_the_sea_of_shadows_confirm:0 "Отец, узри мое восхождение!" #NT!
- restore_the_sea_of_shadows_effect_tooltip:1 "Вы создадите титул "Море Теней"." #NT!
+ restore_the_sea_of_shadows_effect_tooltip:1 "Вы создадите титул ранга империя "Море Теней"." #NT!
  restore_avalon:0 "Восстановить Авалон" #NT!
  restore_avalon_tooltip:1 "Царство Бога никогда по-настоящему не умирает." #NT!
  restore_avalon_desc:0 "Как вы знаете, Митра - скорее Бог, чем вампир. Независимо от того, решит ли он однажды вернуться к своим последователям, вы должны подготовить царство смертных для его последователей." #NT!
@@ -249,14 +249,14 @@
  restore_giovanni_effect_tooltip:1 "Вы создадите титул ранга королевства "Семья Джованни"." #NT!
  restore_ravnos:0 "Восстановить [Clan|E]" #NT!
  restore_ravnos_tooltip:1 "Вечная война не допускает никакого инакомыслия." #NT!
- restore_ravnos_desc:0 "We have lost the unifying heartland of [Clan|E] Ravnos. This crushing blow to our pride and spirit must be avenged as quickly as possible." #NT!
- restore_ravnos_confirm:0 "The war rages on." #NT!
- restore_ravnos_effect_tooltip:1 "You will create the Ravnos Empire title." #NT!
- restore_setite:0 "Restoring the [Clan|E]" #NT!
- restore_setite_tooltip:1 "The Chosen Land must be controlled by the Faithful." #NT!
- restore_setite_desc:0 "Egypt has always been the heartland of our [Clan|E] and our faith. If we are to spread Set's word to the world, we must first secure our rule here." #NT!
- restore_setite_confirm:0 "Set be praised!" #NT!
- restore_setite_effect_tooltip:1 "You will create the Setite Empire title." #NT!
+ restore_ravnos_desc:0 "Мы потеряли объединяющее сердце [Clan|E]а Равнос. Этот сокрушительный удар по нашей гордости и духу должен быть отомщен как можно быстрее." #NT!
+ restore_ravnos_confirm:0 "Война продолжается." #NT!
+ restore_ravnos_effect_tooltip:1 "Вы создадите титул империи Равнос." #NT!
+ restore_setite:0 "Восстановить [Clan|E]" #NT!
+ restore_setite_tooltip:1 "Избранная земля должна находиться под контролем благоверных." #NT!
+ restore_setite_desc:0 "Египет всегда был сердцем нашего [Concept('Clan', 'клана')|E] и нашей веры. Если мы хотим донести слово Сета до всего мира, мы должны сначала закрепить наше правление здесь." #NT!
+ restore_setite_confirm:0 "Славься Сет!" #NT!
+ restore_setite_effect_tooltip:1 "Вы создадите титул Империи Сетитов." #NT!
  restore_talmahera:0 "Restoring the Tal'mahe'Ra" #NT!
  restore_talmahera_tooltip:1 "Even Enoch must have a foothold on Earth." #NT!
  restore_talmahera_desc:0 "Although we still rule firmly in the [underworld|E], having our connection to the mortal realm severed isn't a good thing. Reconquering our lost bastions is a priority." #NT!
