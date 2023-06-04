@@ -1,0 +1,8 @@
+﻿l_russian:
+ raise_arete_decision:0 "Raise Arete" #NT!
+ raise_arete_decision_tooltip:1 "Your magic will become more powerful." #NT!
+ raise_arete_decision_desc:0 "Increase your spiritual enlightenment, empowering your magical abilities." #NT!
+ raise_arete_decision_effect_tooltip:1 "Your magic will become more powerful." #NT!
+ raise_arete_decision_confirm:0 "I See It All" #NT!
+
+

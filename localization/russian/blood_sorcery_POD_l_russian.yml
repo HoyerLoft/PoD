@@ -1,0 +1,259 @@
+﻿l_russian:
+
+ open_bs_menu:0 "Открывает меню колдовства крови, позволяя вам изучать и применять заклинания магии крови." #NT!
+ blood_sorcery_interaction:0 "Магия крови" #NT!
+ blood_sorcery_interaction_desc:0 "Открывает меню магии крови с вашей целью в качестве объекта заклинания." #NT!
+ blood_sorcery_open.ct:0 "Меню магии крови уже открыто." #NT!
+
+ nothingloc:0 "Выберите путь" #NT!
+ use_willpower:0 "Используйте силу воли" #NT!
+ title_bs:0 "[bloodsorcery|E]" #NT!
+ cost_loc:0 "Стоимость увеличения:" #NT!
+ purchase:0 "Изучение" #NT!
+ execute_loc:0 "Выполнять" #NT!
+ effects_loc:0 "Эффекты" #NT!
+ caster_loc:0 "Кастер" #NT!
+ target_loc:0 "Цель" #NT!
+ current_exp:0 "Опыт [bloodsorcery_exp_short|E]:" #NT!
+
+path_of_bloodloc:0 "Путь Крови" #NT!
+path_of_cursesloc:0 "Путь Проклятий" #NT!
+path_of_marsloc:0 "Путь Марса" #NT!
+path_of_fathersvengence_loc:0 "Путь Возмездия Отца" #NT!
+path_of_neptunes_mightloc:0 "Путь Мощи Нептуна" #NT!
+path_of_focused_mindloc:0 "Путь Сосредоточенного Разума" #NT!
+path_of_ritualsloc:0 "Ритуалы" #NT!
+path_of_praaptiloc:0 "Путь Праапти" #NT!
+path_of_music_of_the_shperesloc:0 "Музыка сфер" #NT!
+
+NOT_SAME_PLACE:0 "Вы и цель должны находиться в одном месте, в одном дворе или на поле боя." #NT!
+NOT_I_need_rating:0 "У меня еще нет этих способностей!" #NT!
+NOT_can_only_be_used_once_on_target:0 "Можно использовать только один раз на цель." #NT!
+POWER_COOLDOWN:0 "Эта способность перезаряжается." #NT!
+path_maxed:0 "Я уже узнал все, что мог узнать об этом пути." #NT!
+not_enough_points:0 "Мне не хватает XP, чтобы освоить новое заклинание." #NT!
+not_adept_enough:0 "Мне нужно продвинуться дальше в Пути Магии Крови,чтобы изучить новые заклятья." #NT!
+
+path_buy_toast:0 "Путь Изучен!" #NT!
+spell_botch:0 "Заклинание Провалилось!" #NT!
+
+
+ path_of_blood_botch_ct:0 "#R Провал; Ваша кровь взрывается, повреждая ваши внутренности и доставляя ужасную боль."
+power_a_taste_of_blood:0 "Вкус Крови"
+power_blood_of_potency:0 "Сила Крови"
+power_theft_of_vitae:0 "Кража Витэ"
+taste_of_blood_works:0 "Вы узнаете секреты крови [target.GetTitledFirstName], такие как поколение, диаблери,тип питания и многое другое."
+taste_of_blood_works.toast:0 "Заклинание Удалось!"
+taste_of_blood_works.toast.ct:0 "Вы извлекли из крови все, что могли."
+taste_of_blood_fail:0 "Ваше заклинание не удалось."
+taste_of_blood_fail.toast:0 "Заклинание не удалось!"
+taste_of_blood_fail.toast.ct:0 "Секреты Витэ остались скрытыми для вас"
+
+blood_of_potency.toast.3:0 "Заклинание Удалось!"
+blood_of_potency.toast.3.ct:0 "Ваша сила крови увеличена на 3!"
+BS_bp_increase_3:0 "Ваша сила крови"
+path_of_blood.1000.toast:0 "Сгущение Крови"
+path_of_blood.1000.toast.blood_potency_reduced:0 "Заклинание, сгущающее вашу кровь, исчезает ..."
+blood_of_potency.toast.2:0 "Заклинание Удалось!"
+blood_of_potency.toast.2.ct:0 "Ваша сила крови увеличена на 2!"
+BS_bp_increase_2:0 "Ваша сила крови"
+
+blood_of_potency.toast.1:0 "Заклинание Удалось!"
+blood_of_potency.toast.1.ct:0 "Ваша сила крови увеличена на 1!"
+BS_bp_increase_1:0 "Ваша сила крови"
+blood_of_potency_fail.toast:0 "Заклинание не удалось!"
+blood_of_potency_fail.toast.ct:0 "Секреты Витэ остались скрытыми для вас."
+BS_bp_fail:0 "Вам не удалось сгустить свою кровь."
+
+theft_of_vitae_hunger_increase:0 "Голод [target.GetTitledFirstName] будет усилен."
+theft_of_vitae_fail:0 "Вам не удалось наполнить себя кровью."
+theft_of_vitae_fail.toast.1:0 "Заклинание не удалось!"
+theft_of_vitae_fail.toast.1.ct:0 "Вам не удалось наполнить себя кровью."
+theft_of_vitae.toast.1:0 "Заклинание Удалось!"
+theft_of_vitae.toast.1.ct:0 "Густая и мощная кровь достигает ваши клыков ..."
+theft_of_vitae_steal_blood:0 "Вы крадете немного крови [target.GetTitledFirstName] и питаетесь ею, пополняя свои запасы и осушая их."
+
+power_strike_true:0 "Истинный Удар"
+power_wind_dance:0 "Танец Ветра"
+power_comrades_in_arms:0 "Товарищи по Оружию"
+path_of_mars_botch_ct:0 "#R Провал; Заклинание будет мешать вашим войскам, вместо того, чтобы помочь им."
+path_of_mars_botch_modifier:0 "Магическое Иссушение"
+
+strike_true.toast.1:0 "Заклинание Удалось!"
+strike_true.toast.1.ct:0 "Меч [target.GetTitledFirstName] всегда найдет свою цель."
+strike_true_fail.toast.1:0 "Заклинание не удалось!"
+strike_true_fail.toast.1.ct:0 "Ваше благословение не дано."
+strike_true_fail:0 "Меч НЕ ударит верно."
+
+wind_dance.toast.1:0 "Заклинание Удалось!"
+wind_dance.toast.1.ct:0 "Даже ветер не может поспеть за [target.GetTitledFirstName]."
+wind_dance_fail.toast.1:0 "Заклинание не удалось!"
+wind_dance_fail.toast.1.ct:0 "Слишком медленно, слишком неуклюже"
+wind_dance_fail:0 "Ваше заклинание провалится."
+
+comrades_in_arms_knight_ct:0 "Рыцари [target.GetTitledFirstName] станут сильнее на время действия заклинания."
+comrades_in_arms.toast.1:0 "Заклинание Удалось!"
+comrades_in_arms.toast.1.ct:0 "Нашим воинам была дана эссенция мужества."
+comrades_in_arms_fail.toast.1:0 "Заклинание не удалось!"
+comrades_in_arms_fail.toast.1.ct:0 "Вам не удалось вселить истинное мужество в сердца своих последователей."
+comrades_in_arms_fail:0 "Ваши последователи не получают мужества, а вы не получаете их верности"
+path_of_mars_1_modifier:0 "Истинный Удар"
+path_of_mars_2_modifier:0 "Танец Ветра"
+path_of_mars_3_modifier:0 "CТоварищи по Оружию"
+path_of_mars_3_knights_modifier:0 "Поддерживается Магией"
+
+
+
+power_eyes_of_the_sea:0 "Глаза моря"
+power_prison_of_water:0 "Водяная Тюрьма"
+power_dehydrate:0 "Обезвоживание"
+path_of_neptunes_might_botch_ct:0 "#R Провал; Вы слишком перестарались и результат оказался.... Неприятным."
+path_of_neptunes_might_botch_modifier:0 "Рыбный"
+
+eyes_of_the_sea_works:0 "Вода выпускает вам случайную тайну из двора, если таковая существует."
+eyes_of_the_sea_fail:0 "Море молчит."
+eyes_of_the_sea.toast.1:0 "Заклинание Удалось!"
+eyes_of_the_sea_fail.toast.1:0 "Заклинание не удалось!"
+eyes_of_the_sea_fail.toast.1.ct:0 "Вы не узнаете секрета."
+
+prison_of_water_works:0 "Вы заковываете [target.GetTitledFirstName] в нерушимые водные цепи, и они уносятся в ваши темницы."
+prison_of_water.toast.1:0 "Заклинание Удалось!"
+prison_of_water_fail:0 "Сила цели захватывает вашу магию."
+prison_of_water_fail.toast.1:0 "Заклинание не удалось!"
+prison_of_water_fail.toast.1.ct:0 "Возможно, водные цепи были неблагоприятными идеями?"
+
+dehydrate_3:0 "Кровь [target.GetTitledFirstName] почти полностью высохнет и сделает протокол. Если цель смертна, это сильно его ранит или даже убьет!"
+dehydrate_2:0 "[target.GetTitledFirstName] потеря большого количества крови. Если цель смертна, это сильно его ранит или даже убьет!"
+dehydrate.toast.2:0 "Заклинание Удалось!"
+dehydrate.toast.1:0 "Заклинание Удалось!"
+dehydrate_fail:0 "Ваша магия не может оказать влияние на кровь [target.GetTitledFirstName]."
+dehydrate_fail.toast.1.ct:0 "Заклинание не было достаточно сильно, чтобы навредить цели."
+dehydrate_fail.toast.1:0 "Заклинание не удалось!"
+
+power_stigma:0 "Стигма"
+power_malady:0 "Недуг"
+power_acedia:0 "Акедия"
+
+power_template.toast.1:0 ""
+power_template_fail.toast.1:0 ""
+power_template_fail.toast.1.:0 ""
+
+stigma_modifier:0 "Проклятие Стигмы"
+malady_modifier:0 "Проклятие Недуга"
+acedia_modifier:0 "Проклятие Акеди"
+path_of_curses_botch_ct:0 "#R Провал; Проклятие возвращается на вас!"
+
+stigma_works:0 "Жертву будут ненавидеть все, кого [target.GetSheHe] встретит и увидит, а близкие [target.GetHerHim] станут [target.GetHerHis] заклятыми врагами."
+stigma_fail:0 "Жертва отмахивается от твоего проклятия."
+stigma.toast.1:0 "Заклинание Удалось!"
+stigma_fail.toast.1:0 "Заклинание не удалось!"
+stigma_fail.toast.1.ct:0 "[target.GetTitledFirstName] блокирует твое гнусное проклятие."
+
+malady_works:0 "Цель [target.GetTitledFirstName] будет поражена недугом, ослаблена и обеспокоена."
+malady_fail:0 "Могущество [target.GetTitledFirstName] слишком велико, чтобы пострадать от мелких проклятий."
+malady.toast.1:0 "Заклинание Удалось!"
+malady_fail.toast.1:0 "Заклинание не удалось!"
+malady_fail.toast.1.ct:0 "[target.GetTitledFirstName] блокирует твое гнусное проклятие."
+
+acedia_works:0 "Ультимативное проклятие - ничто не может сберечь [target.GetTitledFirstName] от вашего тёмного влияния."
+acedia_fail:0 "[target.GetTitledFirstName] использует свою силу воли и ментальные силы, сокрушая твоё заклинание."
+acedia.toast.1:0 "Заклинание Удалось!"
+acedia.toast.1.ct:0 "Следующие два года жертвы ничего не будут знать, кроме страданий."
+acedia_fail.toast.1:0 "Заклинание не удалось!"
+acedia_fail.toast.1.ct:0 "[target.GetTitledFirstName] блокирует твое гнусное проклятие."
+
+
+murder_save.toast.1:0 "Спасен от убийства"
+murder_save.toast.1.ct:0 "Вы были спасены от смерти прочитанным заклинанием!"
+
+power_readiness:0 "Осведомленность"
+power_centering:0 "Сосредоточение"
+power_perfect_clarity:0 "Совершенная Ясность"
+path_of_focused_mind_botch_ct:0 "#R Провал; Ваш разум опустошен."
+
+readiness_works:0 "Вас невозможно удивить и вы всегда будете готовы к резким возражениям. Ваша постоянная осведомленность даже спасет вас от тех, кто замышляет убить вас - один раз."
+readiness_fail:0 "Ваш ум не преуспевает с полным осознанием человечества."
+readiness.toast.1:0 "Заклинание Удалось!"
+readiness_fail.toast.1:0 "Заклинание не удалось!"
+readiness_fail.toast.1.ct:0 "Вам не удалось зачаровать свой разум."
+
+
+centering_works_1:0 "Вы воздвигаете слабый барьер между своим умом и остальным миром, избавляясь от некоторых раздражающих факторов."
+centering_works_2:0 "Вы более глубоко погружаетесь в психику, защищаете себя от стресса."
+centering_works_3:0 "Есть Вы, и есть все остальное. Никакой стресс или отвлечение не могут пройти ваш ментальный барьер, и у вас есть место для размышлений о глубоких тайнах мироздания."
+centering_fail:0 "Вам не удалось погрузиться в собственный разум."
+centering.toast.1:0 "Заклинание Удалось!"
+centering_fail.toast.1:0 "Заклинание не удалось!"
+centering_fail.toast.1.ct:0 "Было слишком много отвлекающих развлечений...."
+
+perfect_clarity_works:0 "Ваше понимание мира будет граничить с божественным - вы станете умнее и лучше. Прежде всего, вы на время обуздаете своего зверя и будете невосприимчивы к безумию."
+perfect_clarity_fail:0 "Ваш (метафорический) третий глаз остается закрытым и не видит прекрасную грань абсолютной ясности."
+perfect_clarity.toast.1:0 "Заклинание Удалось!"
+perfect_clarity_fail.toast.1:0 "Заклинание не удалось!"
+perfect_clarity_fail.toast.1.ct:0 "Полное понимание снова ускользает от вас."
+
+
+centering_1_modifier:0 "Сосредоточение 1"
+centering_2_modifier:0 "Сосредоточение 2"
+centering_3_modifier:0 "Сосредоточение 3"
+
+perfect_clarity_modifier:0 "Идеальная Ясность"
+readiness_modifier:0 "Сознающий"
+
+power_emergency_recall:0 "Срочный призыв"
+emergency_recall.toast.1:0 "Заклинание успешно!"
+emergency_recall_fail.toast.1.ct:0 "Застрял на месте...."
+emergency_recall_fail.toast.1:0 "Заклинание не удалось"
+emergency_recall_works:0 "Вы вместе со всей своей армией перенесетесь в свою столицу."
+emergency_recall_fail:0 "Ваши просьбы остаются без ответа, и вы остаетесь в опасности."
+path_of_praapti_botch_ct:0 "#R При искривлении самого пространства все может выйти из-под контроля... Будьте осторожны, чтобы не телепортироваться не в то место.#!"
+praapti_3_botch_modifier:0 "Застрял на месте"
+emergency_recall_succ.ct:0 "Ваша армия благополучно возвращается домой через вихрь"
+
+power_bind_in_vine_and_sand:0 "Связать в лозе и песке"
+bind_in_vine_and_sand_fail:0 "Вы не можете сделать какой-либо заметной разницы"
+bind_in_vine_and_sand_fail.toast.1:0 "Заклинание не удалось!"
+bind_in_vine_and_sand_fail.toast.1.ct:0 "Сет не благословил твои усилия сегодня вечером..."
+bind_in_vine_and_sand_works:0 "Вы сгущаете пространство вокруг своей цели, значительно замедляя их армии."
+praapti_2_modifier:0 "Утолщенное пространство"
+
+power_travel_on_mythic_strings:0 "Путешествие по мифическим струнам"
+travel_on_mythic_strings_works:0 "Вы тянете за нити, связывающие все в реальности, и направляетесь к месту назначения, увлекая за собой свою армию. Эта способность имеет 5-летний кулдаун."
+travel_on_mythic_strings.toast.1:0 "Заклинание успешно!"
+travel_on_mythic_strings_fail:0 "Вы остаетесь на месте, как мелкий смертный, неспособный путешествовать в высшие измерения."
+travel_on_mythic_strings_fail.toast.1:0 "Заклинание не удалось!"
+travel_on_mythic_strings_fail.toast.1.ct:0 "Нити реальности замкнулись перед тобой"
+travel_on_mythic_strings_succ.ct:0 "Вы прибываете в [target.GetCurrentLocation.GetName]"
+emergency_recall_botch.ct:0 "Вы беспомощно мечетесь по варп-пространству, падая в случайном графстве."
+
+
+path_of_music_of_the_shperes_botch_ct:0 "#R Когда колдун злит небесные сферы, результаты обычно бывают ироничными. Мистик может потерять голос, песня может быть изменена на него или даже его права на магию будут отозваны.#!"
+power_song_of_venus:0 "Песня Венеры"
+song_of_venus_works:0 "Нежной небесной песней Венеры практикующий может вызвать чувства привязанности или уменьшить эмоции ненависти или злобы. Это заклинание приближает цель на один шаг к дружбе или стремится уменьшить соперничество. Можно использовать только один раз на субъект."
+song_of_venus_fail:0 "Ваш субъект отвергает небесную песню."
+song_of_venus.toast.1:0 "Заклинание успешно!"
+song_of_venus_fail.toast.1:0 "Заклинание не удалось!"
+song_of_venus_fail.toast.1.ct:0 "Небеса отказали в твоей просьбе о любви"
+song_of_venus_botch_modifier:0 "Приглушен"
+song_of_venus_rival:0 "Ваша цель теперь просто соперник"
+song_of_venus_potential_rival:0 "Ваша цель теперь только потенциальный соперник"
+song_of_venus_neutral:0 "Ваша цель теперь нейтральна по отношению к вам"
+
+power_song_of_saturn:0 "Песня Сатурна"
+song_of_saturn_modifier:0 "Песня Сатурна"
+song_of_saturn_works:0 "Вы рычите глубоким порывом холодного ветра и кромешной темноты, пробуждая страх перед неизвестностью. Любой, кто видит вашу цель, наполняется этим страхом, придавая им осязаемую ауру ужаса и величия."
+song_of_saturn_fail:0 "Вам не удается вызвать глубокие душевные эмоции, необходимые для панихиды."
+song_of_saturn.toast.1:0 "Заклинание успешно!"
+song_of_saturn_fail.toast.1:0 "Заклинание не работает!"
+song_of_saturn_fail.toast.1.ct:0 "Визг, исходящий из ваших уст, скорее смешной, чем ужасный."
+song_of_saturn_botch_modifier:0 "Издевательство над Сатурном"
+
+power_song_of_jupiter:0 "Песня Юпитера"
+song_of_jupiter_works:0 "Мистические песни о великих героях, о людях, устоявших перед искушением и победивших порыв. Звуки образуют какофонию, которая окутывает ауру цели, защищая ее от дисциплин, контролирующих разум, таких как Присутствие и Доминирование."
+song_of_jupiter_fail:0 "Вы колеблетесь перед лицом великой истории, которую пытаетесь передать."
+song_of_jupiter.toast.1:0 "Заклинание успешно!"
+song_of_jupiter_succ.ct:0 "Ваш венец, ваша защита над вашей целью"
+song_of_jupiter_fail.toast.1:0 "Заклинание не удалось!"
+song_of_jupiter_fail.toast.1.ct:0 "Твой голос ошеломил тебя и не окружил твою цель"
+song_of_jupiter_botch.ct:0 "Боги гневаются. В течение пяти лет вы не сможете использовать магию крови."
+

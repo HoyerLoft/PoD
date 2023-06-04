@@ -1,0 +1,39 @@
+﻿l_russian:
+
+POD_heart_of_darkness.001.t:0 "Сердце Тьмы" #NT!
+POD_heart_of_darkness.001.desc:0 "Пришло время отойти еще дальше от человечества. Все готово для темного ритуала, который позволит вам удалить свое собственное сердце, став хозяином своей судьбы, а ваш Зверь получит меньшее влияние на вас. Но хватит ли у вас смелости продолжить?" #NT!
+POD_heart_of_darkness.001.option.a:0 "Время пришло" #NT!
+POD_heart_of_darkness.001.option.a.tt:0 "Вы извлечете свое сердце" #NT!
+POD_heart_of_darkness.001.option.a.tt.beast:0 "#R Большая ошибка!#!" #NT!
+POD_heart_of_darkness.001.option.b:0 "Ещё не время" #NT!
+POD_heart_of_darkness.001.option.b.tt:0 "Вы забросите попытки провести ритуал" #NT!
+POD_heart_of_darkness.001.option.b.tt.beast:0 "#R Верно! Ты не сможешь выжить без меня!#!" #NT!
+
+POD_heart_of_darkness.002.t:0 "Бессердечный" #NT!
+POD_heart_of_darkness.002.desc:0 "Наконец-то это сделано, ритуал завершен. Вы чувствуете, что ваши эмоции притупляются, и вам становится легче выживать. Недостатком является то, что вам становится все труднее понимать людей, и теперь ваши враги могут найти ваше сердце и уничтожить его. Но самое большое преимущество касается Зверя, теперь он стал тише, его легче одолеть." #NT!
+POD_heart_of_darkness.002.option.a:0 "Эмоции не властны надо мной!" #NT!
+POD_heart_of_darkness.002.option.a.tt:0 "Вы успешно удалили свое сердце, но вы всегда можете вернуть его обратно в свою грудную клетку" #NT!
+
+POD_heart_of_darkness.003.t:0 "Кража Сердец" #NT!
+POD_heart_of_darkness.003.desc:0 "Время пришло, вы готовы совершить свой темный ритуал на [heart_victim.GetFirstName]. [heart_victim.GetSheHe] вы даже не узнаете, что произошло, пока не станет слишком поздно и вы не станете владельцем сердца [heart_victim.GetHerHis]! Теперь единственное, что осталось, - это привести в действие свой темный план." #NT!
+POD_heart_of_darkness.003.option.a:0 "[heart_victim.GetHerHis|U] сердце будет моим!" #NT!
+POD_heart_of_darkness.003.option.a.tt:0 "Вы пытаетесь украсть сердце [heart_victim.GetFirstName]" #NT!
+POD_heart_of_darkness.003.option.a.tt.beast:0 "#R Мы завладеем сердцем [heart_victim.GetHerHim]!#!" #NT!
+POD_heart_of_darkness.003.option.a.desc:0 "План приводится в действие." #NT!
+POD_heart_of_darkness.003.option.a.success:0 "Вы успешно украли сердце." #NT!
+POD_heart_of_darkness.003.option.a.failure:0 "У вас не получилось украсть сердце." #NT!
+POD_heart_of_darkness.003.option.a.tt.attacker_wins:0 "Вы владеете сердцем [heart_victim.GetFirstName]" #NT!
+POD_heart_of_darkness.003.option.a.tt.defender_wins:0 "Вы потерпели впечатляющую неудачу, и теперь вам приходится иметь дело с последствиями." #NT!
+POD_heart_of_darkness.003.option.b:0 "Еще не время..." #NT!
+POD_heart_of_darkness.003.option.b.tt:0 "Вы отказываетесь от своего плана украсть сердце [heart_victim.GetFirstName]." #NT!
+POD_heart_of_darkness.003.option.b.tt.beast:0 "#R Ты разочаровываешь меня!#!" #NT!
+
+POD_heart_of_darkness.004.t:0 "Захваченное Серце" #NT!
+POD_heart_of_darkness.004.desc:0 "Ваш темный ритуал удался! [heart_victim.GetFirstName] беспомощно смотрит, как вы вытаскиваете сердце, не в силах остановить ритуал. И теперь жертва может только надеяться, что вы не решите оборвать её нежизнь. Вы возвращаетесь домой с новой вещью для вашей темной коллекции." #NT!
+POD_heart_of_darkness.004.option.a:0 "Твоя жизнь в моих руках" #NT!
+POD_heart_of_darkness.004.option.a.tt:0 "Вы успешно украли сердце [heart_victim.GetFirstName]." #NT!
+
+POD_heart_of_darkness.005.t:0 "Незахваченое сердце" #NT!
+POD_heart_of_darkness.005.desc:0 "[heart_victim.GetFirstName] раскрывает ваши коварные планы и избегает вас. Ритуал еще не закончен, и мало что может сравниться с гневом вашей цели. Едва сбежав, вы боитесь того, что [heart_victim.getFirstName] может предпринять попытку отомстить вам." #NT!
+POD_heart_of_darkness.005.option.a:0 "Время бежать!" #NT!
+POD_heart_of_darkness.005.option.a.tt:0 "Ваш план провалился." #NT!

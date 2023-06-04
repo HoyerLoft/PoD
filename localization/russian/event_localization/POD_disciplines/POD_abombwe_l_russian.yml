@@ -1,0 +1,14 @@
+﻿l_russian:
+
+ POD_predators_mastery.100.t:0 "Мастерство Хищника" #NT!
+ POD_predators_mastery.100.desc:0 "Вы готовитесь использовать вашего Зверя, чтобы заставить [recipient.GetFirstNameNoTooltip] слушаться ваших приказов." #NT!
+ POD_predators_mastery.100.option.a:0 "Пробудите кровь, чтобы доминировать над [recipient.GetHerHim]." #NT!
+ POD_predators_mastery.100.option.a.tt:0 "" #NT!
+ POD_predators_mastery.100.option.a.success.desc:0 "[recipient.GetFirstNameNoTooltip] склоняется перед вами." #NT!
+ POD_predators_mastery.100.option.a.failure.desc:0 "[recipient.GetFirstNameNoTooltip] не впечатлен." #NT!
+ POD_predators_mastery.100.option.b:0 "Пробудить кровь и использовать всю волю. [recipient.GetSheHe|U] склонится предо мной!" #NT!
+ POD_predators_mastery.100.option.b.tt:0 "" #NT!
+ POD_predators_mastery.100.option.b.success.desc:0 "[recipient.GetFirstNameNoTooltip] склоняется перед вами." #NT!
+ POD_predators_mastery.100.option.b.failure.desc:0 "[recipient.GetFirstNameNoTooltip] не впечатлен." #NT!
+ POD_predators_mastery.100.option.c:0 "Неважно, забросить этот замысел." #NT!
+ POD_predators_mastery.100.option.c.tt:0 "Вы отказываетесь пытаться доминировать над [recipient.GetFirstNameNoTooltip]" #NT!

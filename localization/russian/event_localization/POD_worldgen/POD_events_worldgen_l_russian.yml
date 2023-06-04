@@ -1,0 +1,24 @@
+﻿l_russian:
+
+ POD_worldgen.1.t:0 "A World of Darkness" #NT!
+ POD_worldgen.1.desc:0 "What kind of world is this?" #NT!
+ POD_worldgen.1.option.a:0 "Supernatural" #NT!
+ POD_worldgen.1.option.a.tt:0 "The supernatural world is depicted, with all landed title characters being supernatural or hunters.." #NT!
+ POD_worldgen.1.option.b:0 "Majority Mortal" #NT!
+ POD_worldgen.1.option.b.tt:0 "Most characters with landed title are mortals, only a 10% minority are secretly supernatural." #NT!
+ POD_worldgen.1.option.c:0 "I am a mere mortal!" #NT!
+ POD_worldgen.1.option.c.tt:0 "Your character starts as a mortal, only 5% of the characters with landed title are supernatural." #NT!
+
+ POD_worldgen.2.t:0 "The Supernatural World" #NT!
+ POD_worldgen.2.desc:0 "Does a particular type of supernatural have dominance?" #NT!
+ POD_worldgen.2.option.a:0 "Vampires" #NT!
+ POD_worldgen.2.option.b:0 "Werewolves" #NT!
+ POD_worldgen.2.option.c:0 "Mages" #NT!
+ POD_worldgen.2.option.d:0 "Fae" #NT!
+ POD_worldgen.2.option.e:0 "Demons" #NT!
+ POD_worldgen.2.option.f:0 "Hunters" #NT!
+ POD_worldgen.2.option.g:0 "Vampires and Werewolves Struggle for Dominance" #NT!
+ POD_worldgen.2.option.h:0 "It is a varied World of Darkness" #NT!
+
+ guest_description.learning_physician_trait.desc:0 "Learning Physician Trait" #NT!
+ guest_description.learning_mystic_trait.desc:0 "Learning Mystic Trait" #NT!

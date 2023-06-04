@@ -1,0 +1,20 @@
+﻿l_russian:
+  CHOLERIC_RESONANCE_01_TT:0 "#bold Choleric Resonance#!\nКровь этого персонажа имеет едва заметный [choleric_lifestyle|E]" #NT!
+  CHOLERIC_RESONANCE_02_TT:0 "#bold Choleric Resonance#!\nКровь этого персонажа имеет мимолетный [choleric_lifestyle|E]" #NT!
+  CHOLERIC_RESONANCE_03_TT:0 "#bold Choleric Resonance#!\nКровь этого персонажа имеет сильный [choleric_lifestyle|E]" #NT!
+  CHOLERIC_RESONANCE_04_TT:0 "#bold Choleric Resonance#!\nКровь этого персонажа имеет острейший [choleric_lifestyle|E]" #NT!
+
+  PHLEGMATIC_RESONANCE_01_TT:0 "#bold Phlegmatic Resonance#!\nКровь этого персонажа имеет едва заметный [phlegmatic_lifestyle|E]" #NT!
+  PHLEGMATIC_RESONANCE_02_TT:0 "#bold Phlegmatic Resonance#!\nКровь этого персонажа имеет мимолетный [phlegmatic_lifestyle|E]" #NT!
+  PHLEGMATIC_RESONANCE_03_TT:0 "#bold Phlegmatic Resonance#!\nКровь этого персонажа имеет сильный [phlegmatic_lifestyle|E]" #NT!
+  PHLEGMATIC_RESONANCE_04_TT:0 "#bold Phlegmatic Resonance#!\nКровь этого персонажа имеет острейший [phlegmatic_lifestyle|E]" #NT!
+
+  MELANCHOLY_RESONANCE_01_TT:0 "#bold Melancholy Resonance#!\nКровь этого персонажа имеет едва заметный [melancholy_lifestyle|E]" #NT!
+  MELANCHOLY_RESONANCE_02_TT:0 "#bold Melancholy Resonance#!\nКровь этого персонажа имеет мимолетный [melancholy_lifestyle|E]" #NT!
+  MELANCHOLY_RESONANCE_03_TT:0 "#bold Melancholy Resonance#!\nКровь этого персонажа имеет сильный [melancholy_lifestyle|E]" #NT!
+  MELANCHOLY_RESONANCE_04_TT:0 "#bold Melancholy Resonance#!\nКровь этого персонажа имеет острейший [melancholy_lifestyle|E]" #NT!
+
+  SANGUINE_RESONANCE_01_TT:0 "#bold Sanguine Resonance#!\nКровь этого персонажа имеет едва заметный [sanguine_lifestyle|E]" #NT!
+  SANGUINE_RESONANCE_02_TT:0 "#bold Sanguine Resonance#!\nКровь этого персонажа имеет мимолетный [sanguine_lifestyle|E]" #NT!
+  SANGUINE_RESONANCE_03_TT:0 "#bold Sanguine Resonance#!\nКровь этого персонажа имеет сильный [sanguine_lifestyle|E]" #NT!
+  SANGUINE_RESONANCE_04_TT:0 "#bold Sanguine Resonance#!\nКровь этого персонажа имеет острейший [sanguine_lifestyle|E]" #NT!

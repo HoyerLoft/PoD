@@ -1,0 +1,90 @@
+﻿l_russian:
+
+ #Common Road of Zarathustra Localization #NT!
+ roadofzarathustra_religion:0 "Road of Zarathustra" #NT!
+ roadofzarathustra_religion_adj:0 "Zarathustrian" #NT!
+ roadofzarathustra_religion_adherent:0 "Zarathustrian" #NT!
+ roadofzarathustra_religion_adherent_plural:0 "Zarathustrians" #NT!
+ roadofzarathustra_religion_desc:0 "Kindred following a morality based on Zoroastrianism. Although the religion is mostly gone from mortal's minds, Vampires live much longer and don't forget as easily." #NT!
+ roadofzarathustra_high_god_name:0 "Ahura Mazda" #NT!
+ roadofzarathustra_high_god_name_possessive:0 "Ahura Mazda's" #NT!
+ roadofzarathustra_high_god_name_alternate:0 "Ahura Mazda" #NT!
+ roadofzarathustra_high_god_name_alternate_possessive:0 "Ahura Mazda's" #NT!
+ roadofzarathustra_good_god_jesus:0 "$roadofzarathustra_health_god_name$" #NT!
+ roadofzarathustra_good_god_christ:0 "Zarathustra" #NT!
+ roadofzarathustra_devil_name:0 "Angra Mainyu" #NT!
+ roadofzarathustra_devil_name_possessive:0 "Angra Mainyu's" #NT!
+ roadofzarathustra_evil_god_lucifer:0 "Angra Mainyu" #NT!
+ roadofzarathustra_evil_god_beelzebub:0 "Angra Mainyu" #NT!
+ roadofzarathustra_evil_god_mephistopheles:0 "Angra Mainyu" #NT!
+ roadofzarathustra_death_deity_name:0 "Destruction" #NT!
+ roadofzarathustra_death_deity_name_possessive:0 "Destruction's" #NT!
+ roadofzarathustra_house_of_worship:0 "refuge" #NT!
+ roadofzarathustra_house_of_worship_plural:0 "refuges" #NT!
+ roadofzarathustra_religious_symbol:0 "Farahavar" #NT!
+ roadofzarathustra_religious_text:0 "Avesta" #NT!
+ roadofzarathustra_religious_head_title:0 "dastur" #NT!
+ roadofzarathustra_religious_head_title_name:0 "dastur" #NT!
+ roadofzarathustra_devotee_male:0 "dastur" #NT!
+ roadofzarathustra_devotee_male_plural:0 "dasturs" #NT!
+ roadofzarathustra_devotee_female:0 "dastur" #NT!
+ roadofzarathustra_devotee_female_plural:0 "dasturs" #NT!
+ roadofzarathustra_devotee_neuter:0 "dastur" #NT!
+ roadofzarathustra_devotee_neuter_plural:0 "dasturs" #NT!
+ roadofzarathustra_priest_male:0 "dastur" #NT!
+ roadofzarathustra_priest_male_plural:0 "dasturs" #NT!
+ roadofzarathustra_priest_alternate_plural:0 "dastur" #NT!
+ roadofzarathustra_bishop:0 "dastur" #NT!
+ roadofzarathustra_bishop_plural:0 "dastur" #NT!
+ roadofzarathustra_positive_afterlife:0 "heaven" #NT!
+ roadofzarathustra_negative_afterlife:0 "the abyss" #NT!
+ roadofzarathustra_witchgodname_the_horned_god:0 "Angra Mainyu" #NT!
+
+ roadofzarathustra_creator_god_name:0 "$roadofzarathustra_high_god_name$" #NT!
+ roadofzarathustra_creator_god_name_possessive:0 "$roadofzarathustra_high_god_name_possessive$" #NT!
+ roadofzarathustra_health_god_name:0 "blood" #NT!
+ roadofzarathustra_health_god_name_possessive:0 "blood's" #NT!
+ roadofzarathustra_fertility_god_name:0 "$roadofzarathustra_high_god_name$" #NT!
+ roadofzarathustra_fertility_god_name_possessive:0 "$roadofzarathustra_high_god_name_possessive$" #NT!
+ roadofzarathustra_wealth_god_name:0 "$roadofzarathustra_high_god_name$" #NT!
+ roadofzarathustra_wealth_god_name_possessive:0 "$roadofzarathustra_high_god_name_possessive$" #NT!
+ roadofzarathustra_household_god_name:0 "$roadofzarathustra_health_god_name$" #NT!
+ roadofzarathustra_household_god_name_possessive:0 "$roadofzarathustra_health_god_name_possessive$" #NT!
+ roadofzarathustra_fate_god_name:0 "$roadofzarathustra_high_god_name$" #NT!
+ roadofzarathustra_fate_god_name_possessive:0 "$roadofzarathustra_high_god_name_possessive$" #NT!
+ roadofzarathustra_knowledge_god_name:0 "$roadofzarathustra_high_god_name$" #NT!
+ roadofzarathustra_knowledge_god_name_possessive:0 "$roadofzarathustra_high_god_name_possessive$" #NT!
+ roadofzarathustra_war_god_name:0 "$roadofzarathustra_high_god_name$" #NT!
+ roadofzarathustra_war_god_name_possessive:0 "$roadofzarathustra_high_god_name_possessive$" #NT!
+ roadofzarathustra_trickster_god_name:0 "Fortuna" #NT!
+ roadofzarathustra_trickster_god_name_possessive:0 "Fortuna's" #NT!
+ roadofzarathustra_night_god_name:0 "$roadofzarathustra_high_god_name$" #NT!
+ roadofzarathustra_night_god_name_possessive:0 "$roadofzarathustra_high_god_name_possessive$" #NT!
+ roadofzarathustra_water_god_name:0 "$roadofzarathustra_health_god_name$" #NT!
+ roadofzarathustra_water_god_name_possessive:0 "$roadofzarathustra_health_god_name_possessive$" #NT!
+
+ #Zoroastrian-Group Faiths #NT!
+
+ roadofagramainyu:0 "Road of Angra Mainyu" #NT!
+ roadofagramainyu_adj:0 "Road of Angra Mainyu" #NT!
+ roadofagramainyu_adherent:0 "Corrupter" #NT!
+ roadofagramainyu_adherent_plural:0 "Corrupters" #NT!
+ roadofagramainyu_desc:0 "Zoroastrians believe that they — beholden to the Angra Mainyu, Hunger, and eternal night — are cursed by Angra Mainyu. They must explore this state of being and, once they fully understand evil, choose to be good and return to Ahura Mazda’s grace. Of course, not all make it there." #NT!
+
+ roadofahuramazda:0 "Road of Ahura Mazda" #NT!
+ roadofahuramazda_adj:0 "Road of Ahura Mazda" #NT!
+ roadofahuramazda_adherent:0 "Penitent" #NT!
+ roadofahuramazda_adherent_plural:0 "Penitents" #NT!
+ roadofahuramazda_desc:0 "The path to redemption is through Ahura Mazda. Having passed through the evil of Angra Mainyu, they choose to be good and return to the grace of Ahura Mazda. The initiate of the Road of Ahura Mazda cleanses herself extensively with water." #NT!
+
+ pathofdaena:0 "Path of Daena" #NT!
+ pathofdaena_adj:0 "Path of Daena" #NT!
+ pathofdaena_adherent:0 "Behdin" #NT!
+ pathofdaena_adherent_plural:0 "Behdins" #NT!
+ pathofdaena_desc:0 "The Path of Daena teaches that virtuous acts and adhering to law and duty brings great personal power. By acting in accordance with these laws and their duty, they will be rewarded justly. Laws provide structure for a civil society; break the law, and society itself breaks down." #NT!
+
+ cultofzilah:0 "Cult of Zilah" #NT!
+ cultofzilah_adj:0 "Cult of Zilah" #NT!
+ cultofzilah_adherent:0 "Cultist" #NT!
+ cultofzilah_adherent_plural:0 "Cultists" #NT!
+ cultofzilah_desc:0 "A group of [cainites|E] centered around the Weeping Master and his disciple Anosh. After the finding of a weeping stone in a lost valley, the cult became worshipers of the second generation vampire named Zilah. They now stand as enemies of the third generation, who rebelled against Caine and Caine's childer commands." #NT!

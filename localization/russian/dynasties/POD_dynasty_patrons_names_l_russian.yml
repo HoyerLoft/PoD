@@ -1,0 +1,295 @@
+﻿l_russian:
+
+ ############################################################ #NT!
+ # Names #NT!
+ ############################################################ #NT!
+
+ # Patrons #NT!
+ dynn_powodz:0 "Powódź" #NT!
+ dynn_powodz_motto:0 "Thou Soweth What Thou Reap" #NT!
+
+ dynn_pastelos:0 "The Black Moon" #NT!
+ dynn_pastelos_motto:0 "The Black Sea is Mine" #NT!
+
+ dynn_blackmoon:0 "Black Moon" #NT!
+ dynn_blackmoon_motto:0 "The Black Sea is Mine" #NT!
+
+ dynn_minceiri:0 "Mincéirí" #NT!
+ dynn_minceiri_motto:0 "To Do and Suffer Great Things" #NT!
+
+ dynn_imperiosvs:0 "Fvria Imperiosa" #NT!
+ dynn_imperiosvs_motto:0 "Si Vis Bellvm, Para Bellvm" #NT!
+
+ dynn_petronia:0 "Petronia" #NT!
+ dynn_petronia_motto:0 "" #NT!
+
+ dynn_nacearda:0 "na Ceàrda" #NT!
+ dynn_nacearda_motto:0 "Chlanna nan con thigibh a’ so ‘s gheibh sibh feòil" #NT!
+
+ dynn_decalamar:0 "De Calamar" #NT!
+ dynn_decalamar_motto:0 "" #NT!
+
+ dynn_uagemred:0 "Ua Gemred" #NT!
+ dynn_uagemred_motto:0 "In our Final Grasp" #NT!
+
+ dynn_masterson:0 "Masterson" #NT!
+ dynn_masterson_motto:0 "Ad Augusta Per Angusta" #NT!
+
+ dynn_shadovie:0 "Shadovie" #NT!
+ dynn_shadovie_motto:0 "" #NT!
+
+ dynn_helid:0 "Helid" #NT!
+ dynn_helid_motto:0 "" #NT!
+
+ dynn_hawk:0 "Hawk" #NT!
+ dynn_hawk_motto:0 "" #NT!
+
+ dynn_dio:0 "Dio" #NT!
+ dynn_dio_motto:0 "" #NT!
+
+ dynn_varten:0 "Varten" #NT!
+ dynn_varten_motto:0 "Transcendence of the Flesh" #NT!
+
+ dynn_sagaard:0 "Sagaard" #NT!
+ dynn_sagaard_motto:0 "We Already Know" #NT!
+
+ dynn_lividus:0 "Lividus" #NT!
+ dynn_lividus_motto:0 "Centurions of Seth" #NT!
+
+ dynn_canale:0 "Canale" #NT!
+ dynn_canale_motto:0 "A Light in the Maelstrom" #NT!
+
+ dynn_cathail:0 "Cathail" #NT!
+ dynn_cathail_motto:0 "" #NT!
+
+ dynn_ramos:0 "Ramos" #NT!
+ dynn_ramos_motto:0 "" #NT!
+
+ dynn_delacasta:0 "de la Casta" #NT!
+ dynn_delacasta_motto:0 "" #NT!
+
+ dynn_natasson:0 "Natasson" #NT!
+ dynn_natasson_motto:0 "" #NT!
+
+ dynn_desdeuxvalleesvertes:0 "des Deux Vallées Vertes" #NT!
+ dynn_desdeuxvalleesvertes_motto:0 "" #NT!
+
+ dynn_custom:0 "Custom" #NT!
+ dynn_custom_motto:0 "By My Own Hand" #NT!
+
+ dynn_oruairc:0 "Ó Ruairc" #NT!
+ dynn_oruairc_motto:0 "Serviendo Guberno" #NT!
+
+ dynn_fystond:0 "Fýstönd" #NT!
+ dynn_fystond_motto:0 "" #NT!
+
+ dynn_bimbeet:0 "Bimbeet" #NT!
+ dynn_bimbeet_motto:0 "Þeir blendu hunangi við blóðit" #NT!
+
+ dynn_tenebris:0 "Tenebris" #NT!
+ dynn_tenebris_motto:0 "Dark Flames of Chernivtsi" #NT!
+
+ dynn_eridanus:0 "Eridanus" #NT!
+ dynn_eridanus_motto:0 "Still Waters Run Deep" #NT!
+
+ dynn_hastur:0 "Hastur" #NT!
+ dynn_hastur_motto:0 "Thou Shalt Not Say Thy Name!" #NT!
+
+ dynn_vovkulaka:0 "Vovkulaka" #NT!
+ dynn_vovkulaka_motto:0 "Defy Defy" #NT!
+
+ dynn_barcid:0 "Barcid" #NT!
+ dynn_barcid_motto:0 "Rome's Reckoning" #NT!
+
+ dynn_sutherland:0 "Sutherland" #NT!
+ dynn_sutherland_motto:0 "For the Greater Good" #NT!
+
+ dynn_pendragon:0 "Pendragon" #NT!
+ dynn_pendragon_motto:0 "" #NT!
+
+ dynn_mortifier:0 "Mortifier" #NT!
+ dynn_mortifier_motto:0 "" #NT!
+
+ dynn_avry:0 "D'Avry" #NT!
+ dynn_avry_motto:0 "" #NT!
+
+ dynn_onmyoji:0 "Onmyōji" #NT!
+ dynn_onmyoji_motto:0 "" #NT!
+
+ dynn_murchadh:0 "Murchadh" #NT!
+ dynn_murchadh_motto:0 "" #NT!
+
+ dynn_fitzroy:0 "Fitzroy" #NT!
+ dynn_fitzroy_motto:0 "" #NT!
+
+ dynn_draeck:0 "de Draeck" #NT!
+ dynn_draeck_motto:0 "" #NT!
+
+ dynn_cathasach:0 "Cathasach" #NT!
+ dynn_cathasach_motto:0 "" #NT!
+
+ dynn_markov:0 "Markov" #NT!
+ dynn_markov_motto:0 "With Brass and Blood" #NT!
+
+ dynn_dominatus:0 "Dominatus" #NT!
+ dynn_dominatus_motto:0 "" #NT!
+
+ dynn_morningstar:0 "Morningstar" #NT!
+ dynn_morningstar_motto:0 "" #NT!
+
+ dynn_yelbeghen:0 "Yelbeghen" #NT!
+ dynn_yelbeghen_motto:0 "" #NT!
+
+ dynn_tertia:0 "Tertia" #NT!
+ dynn_tertia_motto:0 "" #NT!
+
+ dynn_cephissus:0 "Cephissus" #NT!
+ dynn_cephissus_motto:0 "" #NT!
+
+ dynn_verrucosus:0 "Verrucosus" #NT!
+ dynn_verrucosus_motto:0 "" #NT!
+
+ dynn_cecilia:0 "Cecilia" #NT!
+ dynn_cecilia_motto:0 "Do Not Cry Over Spilt Wine" #NT!
+
+ dynn_tenoctis:0 "Tenoctis" #NT!
+ dynn_tenoctis_motto:0 "Gaze into the Abyss" #NT!
+
+ dynn_hectsaehtf:0 "Hectsaehtf" #NT!
+ dynn_hectsaehtf_motto:0 "With Sword and Fire" #NT!
+
+ dynn_namesh:0 "Namesh" #NT!
+ #dynn_namesh_motto:0 "" #NT!
+
+ dynn_de_gray:0 "de Gray" #NT!
+ dynn_de_gray_motto:0 "" #NT!
+
+ dynn_memnon:0 "Memnon" #NT!
+ dynn_memnon_motto:0 "" #NT!
+
+ dynn_forsworn:0 "Forsworn" #NT!
+ dynn_forsworn_motto:0 "" #NT!
+
+ dynn_doe:0 "Doe" #NT!
+ dynn_doe_motto:0 "" #NT!
+
+ dynn_eris:0 "Eris" #NT!
+ dynn_eris_motto:0 "τῇ καλλίστῃ" #NT!
+
+ dynn_leanhaun_patron:0 "Leanhaun" #NT!
+ dynn_leanhaun_patron_motto:0 "Love Deeply, Drink Deeply" #NT!
+
+ dynn_sora:0 "Sora" #NT!
+ dynn_sora_motto:0 "" #NT!
+
+ dynn_vraalstad:0 "Vraalstad" #NT!
+ dynn_vraalstad_motto:0 "Tre Roses" #NT!
+
+ dynn_tsondu:0 "Tsondu" #NT!
+ dynn_tsondu_motto:0 "The Beauties of Tibet" #NT!
+
+ dynn_huyen:0 "Huyền" #NT!
+ dynn_huyen_motto:0 "Be Magnificent in your Monstrosity" #NT!
+
+ dynn_orban:0 "Orbán" #NT!
+ dynn_orban_motto:0 "Breakers of Wolves" #NT!
+
+ dynn_valuk:0 "Valuk" #NT!
+ dynn_valuk_motto:0 "" #NT!
+
+ dynn_brunestud:0 "Brunestud" #NT!
+ dynn_brunestud_motto:0 "Childer of the Crescent Moon" #NT!
+
+ dynn_arua:0 "Arua" #NT!
+ dynn_arua_motto:0 "Custodians of the Sea" #NT!
+
+ dynn_atticus:0 "Atticus" #NT!
+ dynn_atticus_motto:0 "" #NT!
+
+ dynn_nyx:0 "Nyx" #NT!
+ dynn_nyx_motto:0 "" #NT!
+
+ dynn_sha:0 "Sha" #NT!
+ dynn_sha_motto:0 "" #NT!
+
+ dynn_cultusveteriscustodiae:0 "Cultus Veteris Custodiae" #NT!
+ dynn_cultusveteriscustodiae_motto:0 "" #NT!
+
+ dynn_mckraken:0 "McKraken" #NT!
+ dynn_mckraken_motto:0 "" #NT!
+
+ dynn_tigray:0 "Tigray" #NT!
+ dynn_tigray_motto:0 "Not by lineage, but by Blood" #NT!
+
+ dynn_ramil:0 "Ramil" #NT!
+ dynn_ramil_motto:0 "" #NT!
+
+ dynn_zsoldos:0 "Zsoldos" #NT!
+ dynn_zsoldos_motto:0 "" #NT!
+
+ dynn_flynn:0 "Flynn" #NT!
+ dynn_flynn_motto:0 "" #NT!
+
+ dynn_degigli:0 "De'Gigli" #NT!
+ dynn_degigli_motto:0 "" #NT!
+
+ dynn_lirissa:0 "Lirissa" #NT!
+ dynn_lirissa_motto:0 "" #NT!
+
+ dynn_dankovsky:0 "Dankovsky" #NT!
+ dynn_dankovsky_motto:0 "Vastum Silentium" #NT!
+
+ dynn_ying:0 "Ying" #NT!
+ dynn_ying_motto:0 "Swallow the Sky and Devour the Earth" #NT!
+
+ dynn_mjolnir:0 "Mjölnir" #NT!
+ dynn_mjolnir_motto:0 "Have a care how you speak!" #NT!
+
+ dynn_ilie:0 "Ilie" #NT!
+# dynn_ilie_motto:0 "" #NT!
+
+ dynn_angelista:0 "Angelista" #NT!
+# dynn_angelista_motto:0 "" #NT!
+
+ dynn_lev:0 "Lev" #NT!
+# dynn_lev_motto:0 "" #NT!
+
+ dynn_branco:0 "Branco" #NT!
+# dynn_branco_motto:0 "" #NT!
+
+ dynn_barachiel:0 "Barachiel" #NT!
+# dynn_barachiel_motto:0 "" #NT!
+
+ dynn_putnik:0 "Putnik" #NT!
+# dynn_putnik_motto:0 "" #NT!
+
+ dynn_seonjong:0 "Seonjong" #NT!
+# dynn_seonjong_motto:0 "" #NT!
+
+ dynn_lancaster:0 "Lancaster" #NT!
+# dynn_lancaster_motto:0 "" #NT!
+
+ dynn_zonaras:0 "Zonaras" #NT!
+# dynn_zonaras_motto:0 "" #NT!
+
+ dynn_abhartach:0 "Abhartach" #NT!
+# dynn_abhartach_motto:0 "" #NT!
+
+ dynn_daniel:0 "Dàniel" #NT!
+# dynn_daniel_motto:0 "" #NT!
+
+ dynn_ashurbanipal:0 "Ashurbanipal" #NT!
+# dynn_ashurbanipal_motto:0 "" #NT!
+
+ dynn_larva:0 "Larva" #NT!
+ dynn_larva_motto:0 "What is mine is mine. What is yours is mine." #NT!
+
+ dynn_caerellius:0 "Caerellius" #NT!
+# dynn_caerellius_motto:0 "" #NT!
+
+ dynn_thutmosid:0 "Thutmosid" #NT!
+ dynn_thutmosid_motto:0 "Powerful of strength, Sacred of appearance" #NT!
+
+ dynn_ahmosid:0 "Ahmosid" #NT!
+ dynn_ahmosid_motto:0 "I came as Hor-watit flaming against my enemies" #NT!
+

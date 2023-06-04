@@ -1,0 +1,460 @@
+﻿l_russian:
+
+ POD_animals_maa:0 "[POD_animals_maa|E]" #NT!
+
+ POD_legendary_maa:0 "[POD_legendary_maa|E]" #NT!
+
+ POD_demonic_maa:0 "[POD_demonic_maa|E]" #NT!
+
+ POD_spirit_maa:0 "[POD_spirit_maa|E]" #NT!
+
+ POD_shapeshifter_maa:0 "[POD_shapeshifter_maa|E]" #NT!
+
+ POD_gargoyle_maa:0 "[POD_gargoyle_maa|E]" #NT!
+
+ POD_ghoul_maa:0 "[POD_ghoul_maa|E]" #NT!
+
+ POD_plasmic_maa:0 "[POD_plasmic_maa|E]" #NT!
+
+ POD_faerie_maa:0 "[POD_faerie_maa|E]" #NT!
+
+ POD_chimera_maa:0 "[POD_chimera_maa|E]" #NT!
+
+ ZMEI_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('zmei').GetName] as [men_at_arms|E]" #NT!
+ DEMONS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('demons').GetName] as [men_at_arms|E]" #NT!
+ DEMONIC_THRALLS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('demonic_thralls').GetName] as [men_at_arms|E]" #NT!
+ WOLVES_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('wolves').GetName] as [men_at_arms|E]" #NT!
+ INSECTS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('insects').GetName] as [men_at_arms|E]" #NT!
+ SZLACHTA_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('szlachta').GetName] as [men_at_arms|E]" #NT!
+ VOZHD_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('vozhd').GetName] as [men_at_arms|E]" #NT!
+ GARGOYLES_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('gargoyle_warriors').GetName], [GetMaA('gargoyle_sentinels').GetName], [GetMaA('gargoyle_scouts').GetName] and [GetMaA('gargoyle_razorbats').GetName] as [men_at_arms|E]" #NT!
+ SHADES_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('shades').GetName] as [men_at_arms|E]" #NT!
+ RATS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('rats').GetName] as [men_at_arms|E]" #NT!
+ ELITE_SWORDSMEN_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('elite_swordsmen').GetName] as [men_at_arms|E]" #NT!
+ GHOULED_CAVALRY_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('ghouled_cavalry').GetName] as [men_at_arms|E]" #NT!
+ GUARDS_GUARDS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('guards_guards').GetName] as [men_at_arms|E]" #NT!
+ BRIGANDS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('brigands').GetName] as [men_at_arms|E]" #NT!
+ CULTISTS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('cultists').GetName] as [men_at_arms|E]" #NT!
+ SNAKES_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('snakes').GetName] as [men_at_arms|E]" #NT!
+ THINBLOODS_LEGACY_PERK_UNLOCK_DESC:0 "Can recruit [GetMaA('thinbloods').GetName] as [men_at_arms|E]" #NT!
+ NEED_MASSREGNANT_TO_UNLOCK_MAA_TEXT:0 "#Weak You need to use the Unlock [men_at_arms|E] [character_interaction|E] to unlock the [POD_ghoul_maa|E] type [men_at_arms|E] first.#!" #NT!
+ NEED_MASSSIRE_TO_UNLOCK_MAA_TEXT:0 "#Weak You need to use the Unlock [men_at_arms|E] [character_interaction|E] to unlock the vampire type [men_at_arms|E] first.#!" #NT!
+
+ ghouls:0 "Гули" #NT!
+ ghouls_flavor:0 "#F Кровожадные рабы вампиров. #!" #NT!
+
+ szlachta:0 "Szlachta" #NT!
+ szlachta_flavor:0 "#F Ghouls fleshcrafted by Vicissitude to increase their combat prowess. While this process makes them more powerful, they are also hideously deformed. #!" #NT!
+
+ vozhd:0 "Vozhd" #NT!
+ vozhd_flavor:0 "#F About a dozen lobotomized ghouls are merged through Koldunic sorcery and Vicissitude, resulting in a 15-foot high walking biological weapon. A mishmash of living beings melded together into an elephant-sized, multi-limbed monster. #!" #NT!
+
+ zmei:0 "Zmei" #NT!
+ zmei_flavor:0 "#F Fearsome creatures of immense power, once servants of the Wyrm, are now bound to Baba Yaga, the Little Grandmother. #!" #NT!
+
+ massvampires:0 "Массово обращенные Вампиры" #NT!
+ massvampires_flavor:0 "#F Стая вампиров-неонатов, произведенных массовым [Embrace|E]м. Кровь сделала их сильнее смертных, но они не владеют в своими силами. #!" #NT!
+
+ kinfolk:0 "Kinfolk" #NT!
+ kinfolk_flavor:0 "#F Wolf-blood tribal skirmishers. #!" #NT!
+
+ werewolfpack:0 "Werewolf Pack" #NT!
+ werewolf_pack_flavor:0 "#F Lupines, Lycans, sheer terror! #!" #NT!
+ werewolf_pack:0 "Werewolf Pack" #NT!
+
+ witchhunters:0 "Witch-Hunters" #NT!
+ witchhunters_flavor:0 "#F Mortals who specialize in hunting monsters. #!" #NT!
+
+ wolves:0 "Wolves" #NT!
+ wolves_flavor:0 "#F Few sounds in nature are more chilling than a wolf's howl. Somehow it encompasses everything humanity fears about the wilderness, as well as everything we ache for.#!" #NT!
+
+ bats:0 "Bats" #NT!
+ bats_flavor:0 "#F Unearthly and forbidding, bats spend their days sleeping upside down in trees and caves, and their nights flying about in search of meals of insects, fruit and sometimes human blood.#!" #NT!
+
+ gargoyle_warriors:0 "Gargoyle Warriors" #NT!
+ gargoyle_warriors_flavor:0 "#F #!" #NT!
+
+ gargoyle_sentinels:0 "Gargoyle Sentinels" #NT!
+ gargoyle_sentinels_flavor:0 "#F #!" #NT!
+
+ gargoyle_scouts:0 "Gargoyle Scouts" #NT!
+ gargoyle_scouts_flavor:0 "#F #!" #NT!
+
+ gargoyle_razorbats:0 "Razor Bats" #NT!
+ gargoyle_razorbats_flavor:0 "#F #!" #NT!
+
+ rats:0 "Rats" #NT!
+ rats_flavor:0 "#F #!" #NT!
+
+ scorpions:0 "Scorpions" #NT!
+ scorpions_flavor:0 "#F These arachnids can vary in size from a small as one’s thumb to as large as one’s hand, and they deliver a powerful venom with but a lightning-quick flick of their curled tails.#!" #NT!
+
+ snakes:0 "Snakes" #NT!
+ snakes_flavor:0 "#F A tempter, a deceiver, an opener of doors and a poisoner of unwary souls, the serpent coils, slithers and bites her way into the human imagination.#!" #NT!
+
+ insects:0 "Insects" #NT!
+ insects_flavor:0 "#F #!" #NT!
+
+ maniacs:0 "Maniacs" #NT!
+ maniacs_flavor:0 "#F #!" #NT!
+
+ demonic_thralls:0 "Demonic Thralls" #NT!
+ demonic_thralls_flavor:0 "#F Demonic Thralls, serving their horrible Baali masters #!" #NT!
+
+ elite_swordsmen:0 "Elite Swordsmen" #NT!
+ elite_swordsmen_flavor:0 "#F Most skilled swordsmen, taken from local nobles, and taught how to fight alongside [cainites|E] #!" #NT!
+
+ ghouled_cavalry:0 "Ghouled Cavalry" #NT!
+ ghouled_cavalry_flavor:0 "#F Ghouled knights that are ready to fight everyone their masters want dead #!" #NT!
+
+ guards_guards:0 "Controlled Guards" #NT!
+ guards_guards_flavor:0 "#F Local guards, controlled by [cainites|E] and taught how to fight alongside them #!" #NT!
+
+ brigands:0 "Brigands" #NT!
+ brigands_flavor:0 "#F Mortals, skilled into ambushes that know how to fight alongside [cainites|E] #!" #NT!
+
+ cultists:0 "Cultists" #NT!
+ cultists_flavor:0 "#F Mortals devoted to supernatural monsters and profane Gods, controlled by [cainites|E]. #!" #NT!
+
+ serpentis_monsters:0 "Typhonic Beasts" #NT!
+ serpentis_monsters_flavor:0 "#F Terrific beasts made with Serpentis [discipline|E], ready to tear and bite.#!" #NT!
+
+ crowds:0 "Controlled Crowd" #NT!
+ crowds_flavor:0 "#F A crowd of mortals, believing that your cause is just and ready to help you.#!" #NT!
+
+ musketmen:0 "Musketmen" #NT!
+ musketmen_flavor:0 "#F The fearsome power of gunpowder is starting to get widespread use, putting the mortals at less and less of an disadvantage against the supernatural.#!" #NT!
+
+ thinbloods:0 "Слабокровные" #NT!
+ thinbloods_flavor:0 "#F Массово обращенные вампиры 14-го и более выского поколения.#!" #NT!
+
+ amazons:0 "Amazons" #NT!
+ amazons_flavor:0 "#F These women, liberated from the patriarchal yoke, will fight for their Black Furies benefactors like the legends of old.#!" #NT!
+
+ defenders:0 "Defenders" #NT!
+ defenders_flavor:0 "#F Humanity needs to be defended, and these strong and well prepared kinfolk are ready to do their part.#!" #NT!
+
+ herne:0 "Brothers of Herne" #NT!
+ herne_flavor:0 "#F A rapid strike force comprised almost entirely of Ahrouns, ready to defend any Fianna Caerns in danger at a moment's notice.#!" #NT!
+
+ mjolnir:0 "Sons of Mjolnir" #NT!
+ mjolnir_flavor:0 "#F Considered bloodthirsty maniacs even by the rest of the Get, these savages warriors are a sight to behold.#!" #NT!
+
+ stormcrows:0 "Stormcrows" #NT!
+ stormcrows_flavor:0 "#F Favored by Grandfather Thunder, Stormcrows mostly act as spies for the Shadow Lords, but they can be a potent force when numerous enough.#!" #NT!
+
+ whitewolves:0 "White Wolves" #NT!
+ whitewolves_flavor:0 "#F Rumored to be the ancestral, purest, form of the Silver Fangs, the White Wolves appear in time of need to help the Tribe.#!" #NT!
+
+ heavenlysuccessors_maa:0 "Heavenly Successors" #NT!
+ heavenlysuccessors_maa_flavor:0 "#F Heirs to Zhong Kuei, the Heavenly Successors have sworn themselves to the destruction of vampires and other creatures that leech Gaia's soul off#!" #NT!
+
+ materialized_spirits:0 "Materialized Spirits" #NT!
+ materialized_spirits_flavor:0 "#F Spirits convinced, or sometimes coerced, to send help to the Theurge in their time of need. They make for difficult opponents to predict.#!" #NT!
+
+ animated_tree:0 "Animated Tree" #NT!
+ animated_tree_flavor:0 "#F The trees around the Child of Gaia animate, and they can restrain or right foes.#!" #NT!
+
+ the_lost_ancients:0 "The Lost Ancients" #NT!
+ the_lost_ancients_flavor:0 "#F Formless shadows forgotten by the universe called to aid the mummy.#!" #NT!
+
+ POD_controlled_animals:0 "Controlled Animals" #NT!
+ POD_controlled_animals_flavor:0 "#F Oh God, so many squirrels...#!" #NT!
+
+ war_avatar_of_great_fenris:0 "War Avatar of Great Fenris" #NT!
+ war_avatar_of_great_fenris_flavor:0 "#F Few spirits — short of Incarnae themselves — are as frightening and dangerous as the war-avatar of Great Fenris. The avatar of Fenris Wolf appears as an enormous wolf, 10 feet tall at the shoulder. His eyes burn with rage and his jaws drip with the blood of countless enemies. His coat is a deep gray that seems to shimmer from black to red and even to white as the light shifts across it. The war-avatar of Fenris is not as powerful as the Incarna himself would be, but it still defies the usual limitations of spirits, and has Traits even more powerful than Nexus Crawlers.#!" #NT!
+
+ materialized_banes:0 "Materialized Banes" #NT!
+ materialized_banes_flavor:0 "#F Evil spirits convinced, or sometimes coerced, to send help to the Dancer in their time of need. They make for difficult opponents to predict.#!" #NT!
+
+ wyrm_elemental:0 "Wyrmish Elemental" #NT!
+ wyrm_elemental_flavor:0 "#F There are wyrmish counterparts to each element that serve the correspondent Elemental Wyrm, often classified as just another type of Banes.#!" #NT!
+ elemental:0 "Elemental" #NT!
+ elemental_flavor:0 "#F Elder Garou believe that the Elementals are Gaia's first creation and that newer elementals are a perversion that signals the Apocalypse. Others believe that these elementals were always present but lacked the material substance to manifest themselves. Although there are stories of an Elemental Court in the High Umbra, most Garou do not believe in its existence. Theurges say that what outsiders perceive as a hierarchy are only reflections of one's own assumptions that the Elemental reflects in order to better communicate with a creature of flesh.#!" #NT!
+
+ enochian_guards:0 "Enochian Temple Guards" #NT!
+ enochian_guards_flavor:0 "#F The warriors of old assembled once more to protect their immortal masters.#!" #NT!
+
+ maryannu:0 "Maryannu" #NT!
+ maryannu_flavor:0 "#F The chariot-warrior mounted nobility might have been forgotten by the mortals but this proud tradition still survive in those that knew it during their previous lives.#!" #NT!
+
+ romani_scouts:0 "Romani Scouts" #NT!
+ romani_scouts_flavor:0 "#F Speedy and hardy horse riders adept at finding the best way of approach to a battle.#!" #NT!
+
+ jagglings:0 "Jagglings" #NT!
+ jagglings_flavor:0 "#F Jagglings are the common umbral "citizens". They are usually sentient, and posses an individual identity. Jagglings usually serve an Incarna.#!" #NT!
+
+ cockatrices:0 "Cockatrices" #NT!
+ cockatrices_flavor:0 "#F Amidst the desert's shifting sands, there lived a serpent most foul, whose breath and gaze killed many a warrior.#!" #NT!
+ drake:0 "Drake" #NT!
+ drake_flavor:0 "#F The drake has a heavily armored, serpentine body that is all but impervious to the efforts of bow and sword.#!" #NT!
+ orm:0 "Orm" #NT!
+ orm_flavor:0 "#F The wyrm (alternately orm) lairs in cold climes and closely resembles a giant serpent or eel.#!" #NT!
+ wyverns:0 "Wyverns" #NT!
+ wyverns_flavor:0 "#F The wyvern is a coiling, winged serpent whose hunting grounds extend from the very northern reaches of Europe all the way to Greece and Ethiopia.#!" #NT!
+ lindworm:0 "Lindworm" #NT!
+ lindworm_flavor:0 "#F The elusive lindworm, stalker of the barren wastes.#!" #NT!
+ amphiptere:0 "Amphiptere" #NT!
+ amphiptere_flavor:0 "#F The amphiptere is a winged, but legless, serpent that travels exclusively by flying.#!" #NT!
+ sphinx:0 "Sphinx" #NT!
+ sphinx_flavor:0 "#F A sphinx or dragon-cat resembles nothing so much as a tiger or panther with membranous wings, huge fangs, serpent's eyes and smoky breath.#!" #NT!
+ fu_guardian:0 "Fu Guardian" #NT!
+ fu_guardian_flavor:0 "#F A watchdog of order and civility, this minor dragon resembles a cross between a lion, a dragon and a dog.#!" #NT!
+ feng_huang:0 "Feng Huang" #NT!
+ feng_huang_flavor:0 "#F One fire burns out another's burning, One pain is lessen'd by another's anguish.#!" #NT!
+ ghul:0 "Ghul" #NT!
+ ghul_flavor:0 "#F These children of Iblis, Prince of Darkness, went out among men to tempt and feed.#!" #NT!
+ gryphon:0 "Gryphon" #NT!
+ gryphon_flavor:0 "#F Artifacts pre-dating the glories of Egypt depict the gryphon, the half-lion, half-raptor that soars on the wings of dawn.#!" #NT!
+ harpy:0 "Harpy" #NT!
+ harpy_flavor:0 "#F Originally documented in Greek lore, harpies were the harbingers of death and the punishers of pride.#!" #NT!
+ hippocampi:0 "Hippocampi" #NT!
+ hippocampi_flavor:0 "#F Horses, running along lakes and oceans, would join with the protean spirits of the waves and water. On occasion, their games would culminate in love-play.#!" #NT!
+ hippogryph:0 "Hippogryph" #NT!
+ hippogryph_flavor:0 "#F Like the dark legends of their origin, the eagle-horses known as hippogryphs possess a melancholic air and a vicious temperament.#!" #NT!
+ manticore:0 "Manticore" #NT!
+ manticore_flavor:0 "#F As each animal has its place in the food chain and the cycle of life, the manticore is a living parody of that order.#!" #NT!
+ pegasus:0 "Pegasus" #NT!
+ pegasus_flavor:0 "#F As wild and natural as the gems from which its wings draw their coloration — sapphire, ruby, emerald and amethyst — a pegasus is a rare and valuable creature.#!" #NT!
+ peryton:0 "Peryton" #NT!
+ peryton_flavor:0 "#F The peryton is strangely compelling for such a lethal animal. Its deer's head has soft black, brown or gray fur.#!" #NT!
+ phoboros:0 "Phoboros" #NT!
+ phoboros_flavor:0 "#F A phoboros resembles a small white bull. Many aspects of this creature link it symbolically to the moon, and thus to the waters of the world.#!" #NT!
+ roc:0 "Roc" #NT!
+ roc_flavor:0 "#F Rocs are gigantic birds resembling brilliant white or speckled golden hawks.#!" #NT!
+ seabishop:0 "Seabishop" #NT!
+ seabishop_flavor:0 "#F The elusive "sea bishop" is an enigma. Discovered when one was beached, these entities hide from humanity beneath the waves, shunning contact with the surface world.#!" #NT!
+ sea_serpent:0 "Sea Serpent" #NT!
+ sea_serpent_flavor:0 "#F Haunting the deepest parts of the ocean and large seas and bays, sea serpents are the bane of far-traveling ships.#!" #NT!
+ shadhavar:0 "Shadhavar" #NT!
+ shadhavar_flavor:0 "#F An antelopelike creature, the shadhavar roams the plains where the wind blows freely.#!" #NT!
+ simurgh:0 "Simurgh" #NT!
+ simurgh_flavor:0 "#F The oracle at Delphi, the old man on the mountain and the three Fates in a cave all exemplify the omniscient hermit who secludes him or herself from humankind.#!" #NT!
+ umkovu:0 "Umkovu" #NT!
+ umkovu_flavor:0 "#F The wretched desert takes its form, the jackal proud and tight. In search of you, I feel my way through the slowest heaving night.#!" #NT!
+ unicorn:0 "Unicorn" #NT!
+ unicorn_flavor:0 "#F One by one in the moonlight there, Neighing far off on the haunted air. The unicorns come down to the sea.#!" #NT!
+ vodayany:0 "Vodayany" #NT!
+ vodayany_flavor:0 "#F Creatures throughout the ages have crawled out from the gloomy surface of still lakes and left their marks on shore for mortals to ponder.#!" #NT!
+ wilde_beast:0 "Wilde Beast" #NT!
+ wilde_beast_flavor:0 "#F A wilde beast combines the best predatory skills of the lion with the docile, loyal personality traits of a spaniel.#!" #NT!
+
+ demonhound:0 "Demonhound" #NT!
+ demonhound_flavor:0 "#F Possessed by spirits of the Pit, these hounds are lean and sinister, with baleful eyes glazing from skeletal heads and boiling spit bubbling from flaming jaws.#!" #NT!
+ imps:0 "Imps" #NT!
+ imps_flavor:0 "#F Minor demons of the Pit, imps are resourceful tricksters. While not fond of direct fighting, they can be surprisingly tough when cornered.#!" #NT!
+ lucifergia:0 "Lucifergia" #NT!
+ lucifergia_flavor:0 "#F The bloodhounds of the soul are the Devil's enforcers. When a pact isn't fulfilled, these demons will chase the offender to the Heavens if need be.#!" #NT!
+ malebranche:0 "Malebranche" #NT!
+ malebranche_flavor:0 "#F The tormentors of Hell have had an eternity to perfect their art. There is no weakness in the human body and soul that they don't know about.#!" #NT!
+ war_servitors:0 "War-Servitors" #NT!
+ war_servitors_flavor:0 "#F The battle caste of the Abyss, these fearsome entities only bow (oftentimes begrudgingly) to Greater Demons. Force incarnate, they are a raging whirlwind of claws, hellfire and infernal weapons.#!" #NT!
+
+ the_unnamable:0 "The Unnamable" #NT!
+ the_unnamable_flavor:0 "#F The Earthbound can rip open a small portal between Creation and the chaos realms and pull something through— a creature too bizarre and dangerous to exist in this reality. The creatures summoned by this evocation are always dangerous monstrosities with terrible killing powers and a desire for destruction.#!" #NT!
+
+ nervosa:0 "Nervosa" #NT!
+ nervosa_flavor:0 "#F Born from madness, they can look like normal humans, animals, or alien creatures, or even have no body at all.#!" #NT!
+ monster_under_the_bed:0 "The Monster Under the Bed" #NT!
+ monster_under_the_bed_flavor:0 "#F There are things like giant purple snakes that wait for your hands or feet to stick out over the edge of the mattress so they can grab you, and there are small things that simply sit and stare back at you (with big, googly, yellow eyes) just outside the beam of the flashlight.#!" #NT!
+ nocnitsa:0 "Nocnitsa" #NT!
+ nocnitsa_flavor:0 "#F These monsters born from changeling nightmares are some of the most feared of chimera and usually take their forms directly or symbolically from the greatest and most debilitating fears of their creator.#!" #NT!
+ sprites:0 "Sprites" #NT!
+ sprites_flavor:0 "#F Sprites are born of fancy and delight. They are usually playful and at the worst mischievous.#!" #NT!
+ monsters:0 "Monsters" #NT!
+ monsters_flavor:0 "#F Monster is the name given to Animate Chimera that do not fit one of the other categories of Chimerical creatures known to the Fae.#!" #NT!
+ feral_chimera:0 "Feral Chimera" #NT!
+ feral_chimera_flavor:0 "#F Most feral chimera are the Dreaming’s counterparts to mundane wild animals: rabbits, cats, wolves, horses, etc.#!" #NT!
+ urban_legends:0 "Urban Legends" #NT!
+ urban_legends_flavor:0 "#F Urban legends are almost as diverse as nocnitsa, and can be as unpredictable as nervosa. They may manifest as alligators in the sewers, poltergeists tormenting family homes, or anything in between.#!" #NT!
+
+ sidhe_wild_hunt:0 "Sidhe Wild Hunt" #NT!
+ sidhe_wild_hunt_flavor:0 "#F The chosen of a Freehold Lord, the Wild Hunt are the best riders among the Changelings, illustrious knights of the Great Hunt. They are among the finest warriors a Fae can unleash upon their now doomed enemies, and even the old gods fear the tread of their horses.#!" #NT!
+ troll_berserkers:0 "Troll Berserkers" #NT!
+ troll_berserkers_flavor:0 "#F Trolls stand two heads taller than the tallest man, differing only in stature on first glance. Their faces are often comely, in the rough-hewn, angular way of the less-civilized peoples. They wear their hair long,braided over each ear. The length in the back is never cut, growing until it reaches mid-back.#!" #NT!
+ nuckelavee:0 "Nuckelavee" #NT!
+ nuckelavee_flavor:0 "#F The Nuckelavee is a sea-creature that is human from the waist up, but horse-like from the waist down. Although the idea of a seafaring centaur may strike some as laughable, this creature is anything but. Nuckelavee have the ability to frighten all but the most stout of heart for one simple reason: the creatures have no skin. Instead, they are a mess of pulsing organs and throbbing blood, and the sight of such a creature rising up out of the surf quite understandably terrifies anyone unfortunate enough to witness it.#!" #NT!
+ duergar:0 "Duergar" #NT!
+ duergar_flavor:0 "#F The Duergar are hill-dwellers. They stand approximately one or two feet tall, but otherwise resemble human men with long beards and piercing eyes. Despite their small stature, the Duergar have the strength of the strongest man and a fiery temper to match it. They are fiercely territorial, and will strike out at any one who trespasses on their lands. The only defense against their ire is to beg for their hospitality and offer a gift in exchange.#!" #NT!
+ skoggra:0 "Skoggra" #NT!
+ skoggra_flavor:0 "#F The Skoggra, or Wood-Wives, can actually be quite friendly with humans. They are all female and quite pretty, although they appear wild. Their lower torso is covered in bark, as well as leaves and flowers in the spring. But their faces are beautiful, with eyes green as moss and brown hair that twines wildly over their shoulders.#!" #NT!
+ ovinniks:0 "Ovinniks" #NT!
+ ovinniks_flavor:0 "#F The Ovinniks, on first glance, appear to be very similar to the Brownies. They live in barns or stables and are particularly fond of animals. In fact, they are believed to have the ability to converse with them in their own language. However, the resemblance ends there. While the Brownies are generally helpful and become angry only when they feel they are not appreciated, the Ovinniks are malicious creatures through and through. While they will never do anything to hurt an animal, humans are fair game.#!" #NT!
+ brownies:0 "Brownies" #NT!
+ brownies_flavor:0 "#F These helpful creatures live in and about households all over Europe. They come out only at night, performing needed chores around the household, from cleaning and scrubbing to polishing and darning. The moment just before they are spotted, they vanish without a trace, leaving most to wonder exactly how that boot was repaired or who refilled the wood box.#!" #NT!
+ night_elves:0 "Night Elves" #NT!
+ night_elves_flavor:0 "#F The dark elves of Bavaria have long terrorized local villages. Their habits and habitats are largely unknown. Only the deranged tales of those who have discovered their treetop villages speak of them. Few men survive this experience with mind intact, damaging the credibility of these tales.#!" #NT!
+ goblins:0 "Goblins" #NT!
+ goblins_flavor:0 "#F These fiendish beasts live in the darker forests of most of Europe. They look like misshapen childrens'dolls grown large, left in the peat for months then brought to life, complete with a taste for human flesh.#!" #NT!
+ malicious_faerie:0 "Malicious Faerie" #NT!
+ malicious_faerie_flavor:0 "#F These spiteful creatures are the bane of the living. They can think of nothing better to do than create mischief, from harmless pranks to the destruction of villages, and are more than happy to send a lost traveler down the wrong road, conjure up a poison to "cure" the well water or even lead a band of goblins to a merchant's camp.#!" #NT!
+
+ chitterers:0 "Chitterers" #NT!
+ chitterers_flavor:0 "#F Made up of the hindquarters of two wolves with a hairless surface and a pinkish body covered in dozens of squawking bird beaks; Chitterers are some of the most disturbing Tremere creations ever finished.#!" #NT!
+ reapers:0 "Reapers" #NT!
+ reapers_flavor:0 "#F The Reaper, named for two large, scything forelimbs perfectly engineered for decapitation, is a man-sized beetle with a concatenation of feuding, hissing rat heads where its face should be.#!" #NT!
+ skin_eaters:0 "Skin-Eaters" #NT!
+ skin_eaters_flavor:0 "#F Tiny flea like insects with a voracious appetite, Skin-Eaters were engineered to follow simple commands and hunger for skin instead of blood.#!" #NT!
+
+ crocodiles:0 "Crocodiles" #NT!
+ crocodiles_flavor:0 "#F With their long bodies and rough, barklike hide, alligators, caimans and crocodiles are easily mistaken for rotting logs — a fatal error.#!" #NT!
+ bears:0 "Bears" #NT!
+ bears_flavor:0 "#F Rearing like a man on her stout legs, the bear dwells in cold, lonely places — heavily forested kingdoms with water (and fish) nearby.#!" #NT!
+ lions:0 "Lions" #NT!
+ lions_flavor:0 "#F With their golden coats and the long, full manes of the males, lions are magnificent creatures.#!" #NT!
+ tigers:0 "Tigers" #NT!
+ tigers_flavor:0 "#F Huge, sleek and lithe, these beautiful animals move swiftly through the jungle shadows, camouflaged by their striped coats.#!" #NT!
+ bulls:0 "Bulls" #NT!
+ bulls_flavor:0 "#F Cattle have played a crucial role in the history of human civilization, and accordingly, in its mythology.#!" #NT!
+ horses:0 "Horses" #NT!
+ horses_flavor:0 "#F Tall and muscular, with long, arched necks, intelligent eyes, and flowing manes and tails, these beasts truly seem like the elements in living form.#!" #NT!
+ camels:0 "Camels" #NT!
+ camels_flavor:0 "#F The workhorse of Arabia, a camel is a bad-tempered beast, and it typically ignores any but the strongest voice of authority.#!" #NT!
+ stags:0 "Stags" #NT!
+ stags_flavor:0 "#F With their slender limbs, improbably small hooves, and large, liquid eyes, it's easy to see how deer got their fey reputation.#!" #NT!
+ goats:0 "Goats" #NT!
+ goats_flavor:0 "#F Leaner and shaggier than wild sheep, goats are incredibly agile.#!" #NT!
+ rams:0 "Rams" #NT!
+ rams_flavor:0 "#F Bland-faced and curly-coated creatures, sheep live wherever they can graze.#!" #NT!
+ boars:0 "Boars" #NT!
+ boars_flavor:0 "#F Larger (three to four feet at the shoulder), coarser, and far, far meaner than domestic pigs, the wild boar is ill-temper made flesh.#!" #NT!
+ monkeys:0 "Monkeys" #NT!
+ monkeys_flavor:0 "#F From the jungles of Africa and South America to the Asiatic mountains, simians cast a shadow disconcertingly similar to humankind.#!" #NT!
+ cats:0 "Cats" #NT!
+ cats_flavor:0 "#F The feline is a walking enigma, a bit of wildness that has accepted a place by the human hearth.#!" #NT!
+ foxes:0 "Foxes" #NT!
+ foxes_flavor:0 "#F Foxes are cunning creatures. They get their way not by menace or physical violence, but rather by cunning and quick thinking.#!" #NT!
+ raptors:0 "Raptors" #NT!
+ raptors_flavor:0 "#F Raptors — hawks, falcons, eagles — are to the birds what lions and tigers are to the beasts.#!" #NT!
+ gooses:0 "Gooses" #NT!
+ gooses_flavor:0 "#F In the air or gliding on the water, the swan is the epitome of beauty and grace.#!" #NT!
+ owls:0 "Owls" #NT!
+ owls_flavor:0 "#F With their soft feathers, which let them fly noiselessly, and huge, sensitive eyes, which allow them to see in almost perfect darkness, owls are masters of the night sky.#!" #NT!
+ ravens:0 "Ravens" #NT!
+ ravens_flavor:0 "#F The larger bird, the raven, spreads his wings like a graceful yet ominous cloak.#!" #NT!
+ toads:0 "Toads" #NT!
+ toads_flavor:0 "#F Frogs and toads were once believed to grow spontaneously out of mud.#!" #NT!
+
+ golems:0 "Golems" #NT!
+ golems_flavor:0 "#F Tales of monsters made of sticks, stone, clay, earth and even wheat litter local legends across Europe.#!" #NT!
+ guardians:0 "Guardians" #NT!
+ guardians_flavor:0 "#F Priests of powerful orders, secret wizards of great strength and even the occasional hedge witch are known to place power upon normally inanimate objects to guard their sanctuaries.#!" #NT!
+ homunculus:0 "Homunculus" #NT!
+ homunculus_flavor:0 "#F Each homunculus is a signature work of its creator, possessing a real awareness of its creator's goals and wishes, and the magickal theories that have produced it.#!" #NT!
+
+ hidden:0 "Hidden" #NT!
+ hidden_flavor:0 "#F A hidden is a highly independent and self-motivated walking dead corpse that can usually pass for human — unlike other walking dead.#!" #NT!
+ walker:0 "Walker" #NT!
+ walker_flavor:0 "#F The midpoint between subtle hidden and the truly vile shamblers, walkers decompose slowly, although most have sufficient sense to cover their deformities with perfume, clothing and the like.#!" #NT!
+ shambler:0 "Shambler" #NT!
+ shambler_flavor:0 "#F They’re lurching, fluidspewing, putrescent corpses that should not live but do. They are so named because they shamble and twitch as they move, since their rotting tendons and decomposing ligaments are unable to move their bodies properly.#!" #NT!
+ skeletons:0 "Skeletons" #NT!
+ skeletons_flavor:0 "#F Those without fresh materials to work with can still string together some bones and animate them anew. Animated skeletal warriors are a chilling sight.#!" #NT!
+ dragons_teeth:0 "Dragon's Teeth" #NT!
+ dragons_teeth_flavor:0 "#F Unable to fully depend on human lackeys, many a sorcerer has been able to carry his protectors with him,leaving them hidden in a bag until needed. A simple bag with a handful of eyeteeth can contain an army of these unholy warriors-each tooth, once tossed to the earth, sprouts a full skeletal warrior, ready to rend, maim and kill at its master's bidding.#!" #NT!
+
+ yulan_jin:0 "Yulan-jin" #NT!
+ yulan_jin_flavor:0 "#F The Yulan-jin are those Kuei-jin whose souls have been shredded by the torments of Yomi Wan and are, as a result, unable to inhabit their own body.#!" #NT!
+ ban_ren_guei:0 "Ban Ren Guei" #NT!
+ ban_ren_guei_flavor:0 "#F Ban Ren Guei, or Half-Demon People, are the off-spring of a Sleeper-Seducing Bane and a mortal.#!" #NT!
+ rat_headed_dragonfly_demon:0 "Rat-Headed Dragonfly Demons" #NT!
+ rat_headed_dragonfly_demon_flavor:0 "#F From a foot to a foot-and-a-half long, and with a wingspan of up to two feet, the dragonfly demons have carapaces with the same brilliant iridescence as a fly's thorax or oil on water.#!" #NT!
+ sleeper_seducing_bane:0 "Sleeper-Seducing Bane" #NT!
+ sleeper_seducing_bane_flavor:0 "#F These succubus-like demons are anything but attractive. Indeed, Sleeper-Seducing Banes appear as wet, fleshy red masses a few feet across and studded with tentacles of various sizes.#!" #NT!
+ face_robe_demon:0 "Face-Robe Demons" #NT!
+ face_robe_demon_flavor:0 "#F Face-Robe Demons are unpleasant even by the standards of evil spirits. Dwellers among atrocities and despair, Face-Robe Demons are so named because of their unpleasant habit of dressing in elegant robes made from the faces of their victims.#!" #NT!
+ unwholesome_nightmare_inducing_ghost:0 "Unwholesome Nightmare-Inducing Ghosts" #NT!
+ unwholesome_nightmare_inducing_ghost_flavor:0 "#F These beings are a form of Spectre, the powerful kuei that remains when a ghost falls to his Po.#!" #NT!
+ unrighteous_cult_leading_ghost:0 "Unrighteous Cult-Leading Ghost" #NT!
+ unrighteous_cult_leading_ghost_flavor:0 "#F A form of ghost known as an Apparition in the west, these Yin-spirits delight in raising cults among the living.#!" #NT!
+
+ shikome_assassin:0 "Shikome Assassin" #NT!
+ shikome_assassin_flavor:0 "#F Icily beautiful, the shikome are the assassins and spies of Emma-0.#!" #NT!
+ kumo_huntress:0 "Kumo Huntress" #NT!
+ kumo_huntress_flavor:0 "#F Thin and pallid,the Kumo inhabitants of Kakuri Yomi are spidery even in their human form.#!" #NT!
+ raksha_of_ravana:0 "Raksha of Ravana" #NT!
+ raksha_of_ravana_flavor:0 "#F The raksha travel to the Middle Kingdom with fail regularity to feed and conduct business,as well as furtively roaming Yomi in search of offerings for Lanka.#!" #NT!
+ the_children_of_tou_mou:0 "The Children of Tou Mou" #NT!
+ the_children_of_tou_mou_flavor:0 "#F Blocky, hunched,black-iron figures with glowing red eyes, half man-shaped automaton and half insect, the Children of Tou Mou are designed to survive the harsh conditions of the Yama Queen's realm.#!" #NT!
+ mikaboshis_demons_of_iron_and_violence:0 "Mikaboshi's Demons of Iron and Violence" #NT!
+ mikaboshis_demons_of_iron_and_violence_flavor:0 "#F Seek out target. Terminate target. Cause as much collateral damage as possible during termination.#!" #NT!
+ shinjuku_undercity_scavengers:0 "Shinjuku Undercity Scavengers" #NT!
+ shinjuku_undercity_scavengers_flavor:0 "#F These feral, withered beings still cling, cargo cultist-like ,to the trappings of the structure in which they once clawed out a position.#!" #NT!
+ fat_striders_of_the_hell_of_boiling_oil:0 "Fat-Striders of the Hell of Boiling Oil" #NT!
+ fat_striders_of_the_hell_of_boiling_oil_flavor:0 "#F Almost two meters long from head to what passes for a tail, the Fat-Striders are almost twice that size with their legs extended.#!" #NT!
+ wu_huas_corpse_tiger_demons:0 "Wu Hua's Corpse-Tiger Demons" #NT!
+ wu_huas_corpse_tiger_demons_flavor:0 "#F The corpse-tiger Demons appear to be huge (three meters tall), heavily muscled men and women with the heads and tails of tigers, and tiger like paws with long,black retractable claws instead of hands.#!" #NT!
+ kani_no_jingoku:0 "Kani no Jingoku" #NT!
+ kani_no_jingoku_flavor:0 "#F The Kani no Jingoku are inhabitants of the Seven Burning Seas and servants of the mysterious Yama Queen the Empress of the Pearls.#!" #NT!
+ generic_servitor:0 "Generic Servitor" #NT!
+ generic_servitor_flavor:0 "#F Not everyone in Yomi can be an exciting and unique servant of evil. Someone has to take the role of the middle-level monstrosity, the shambling horror, the run-of-the-mill torturer who helps to make up the rank and file of the legions of Yomi.#!" #NT!
+
+ carnosaurs:0 "Carnosaurs" #NT!
+ carnosaurs_flavor:0 "#F The ultimate “killing machines” of prehistoric times, carnosaurs range from 10' long to more than 50' from nose to tail.#!" #NT!
+ herbosaurs:0 "Herbosaurs" #NT!
+ herbosaurs_flavor:0 "#F The chief danger associated with these gigantic herbivores is being trampled by them, or getting between them and whatever might be pursuing them.#!" #NT!
+ pterosaurs:0 "Pterosaurs" #NT!
+ pterosaurs_flavor:0 "#F Pterosaurs are winged reptiles, contemporaries of the dinosaurs.#!" #NT!
+ plesiosaurs:0 "Plesiosaurs" #NT!
+ plesiosaurs_flavor:0 "#F Plesiosaurs are marine mammals，often mistaken for dinosaurs. Possessed of long necks, compact broad bodies,flipper like paddle arms and short tails, they also have sharp teeth and large mouths.#!" #NT!
+
+ shades:0 "Shades" #NT!
+ shades_flavor:0 "#F Among the most powerful of Spectres, Shades are former wraiths who were thrown into the Tempest, were caught in a Maelstrom or Great Maelstrom, or lost themselves during a Harrowing.#!" #NT!
+ wraiths:0 "Wraiths" #NT!
+ wraiths_flavor:0 "#F Materialized wraiths summoned from the [underworld|E].#!" #NT!
+ spectres:0 "Spectres" #NT!
+ spectres_flavor:0 "#F Materialized spectres called from the Labyrinth.#!" #NT!
+ phantasies:0 "Phantasies" #NT!
+ phantasies_flavor:0 "#F Plasmics that strongly resemble living creatures.#!" #NT!
+ deliriums:0 "Deliriums" #NT!
+ deliriums_flavor:0 "#F Plasmics that appear to be modified animals, such as winged horses or cats with antennae.#!" #NT!
+ legendaries:0 "Legendaries" #NT!
+ legendaries_flavor:0 "#F Plasmics that emulate some type of mythical beast, such as a Phoenix.#!" #NT!
+ wyrds:0 "Wyrds" #NT!
+ wyrds_flavor:0 "#F Plasmics that have no reference point to a living or legendary creatures.#!" #NT!
+ dopplegangers:0 "Dopplegangers" #NT!
+ dopplegangers_flavor:0 "#F Dopplegangers are wraiths whose Shadows have consumed them, but they retain their personalities, free will and knowledge of Arcanos.#!" #NT!
+ the_reavers_of_ur:0 "The Reavers of Ur" #NT!
+ the_reavers_of_ur_flavor:0 "#F A swarm of horrid undulating gray shapes summoned from an unknown place to gruesomely dispatch of foes.#!" #NT!
+ soldiers_of_the_emperor:0 "Soldiers of the Emperor" #NT!
+ soldiers_of_the_emperor_flavor:0 "#F Soldiers enjoy tremendous prestige in the Jade Empire, as they defend the Empire against demons, Spectres and other invaders.#!" #NT!
+ bureaucrats_of_jade_palace:0 "Bureaucrats of Jade Palace" #NT!
+ bureaucrats_of_jade_palace_flavor:0 "#F The Ministers who inhabit the halls and courtyards of the Emperor's Tempest-shrouded Palace are a special breed, the most effective connivers and bureaucrats in the entire Empire.#!" #NT!
+ demon_jailer:0 "Demon Jailer" #NT!
+ demon_jailer_flavor:0 "#F The jailers, torturers and taskmasters of Hell have all used the ghostly power Moliate to fashion themselves into demons out of legend. #!" #NT!
+
+ mist_dragons:0 "Mist Dragons" #NT!
+ mist_dragons_flavor:0 "#F Deep within these magical fogs are diminutive dragons, no larger than cats.#!" #NT!
+ giants:0 "Giants" #NT!
+ giants_flavor:0 "#F Their massive bodies, often well over 20 feet tall, are akin to heavily-muscled humans with rough, stony skin, prompting theories that they may be distant relatives of stone inanimae.#!" #NT!
+ tarrkel:0 "T'arrkel" #NT!
+ tarrkel_flavor:0 "#F The abyss of Underbridge spawns twisted, nightmarish creatures beyond the capacity of human understanding,creatures that thrive on pain and survive on the flesh of the living.#!" #NT!
+ fire_salamanders:0 "Fire Salamanders" #NT!
+ fire_salamanders_flavor:0 "#F These creatures, while resembling their mundane cousins, are creatures of magic that live mostly in faerie realms beyond the natural world.#!" #NT!
+ firebirds:0 "Firebirds" #NT!
+ firebirds_flavor:0 "#F The firebird is a brilliantly colored creature from the Slavic lands of Eastern Europe.#!" #NT!
+
+ aughisky:0 "Aughisky" #NT!
+ aughisky_flavor:0 "#F Dark demonic horses that haunt crossroads or prowl near brackish ponds and streams.#!" #NT!
+ lazarites:0 "Lazarites" #NT!
+ lazarites_flavor:0 "#F Lepers are profoundly effective hosts for Banes. Possessed by Breeder Banes, Lazarites are created for a singular purpose: procreation.#!" #NT!
+ skull_pigs:0 "Skull Pigs" #NT!
+ skull_pigs_flavor:0 "#F Skull Pigs are nothing short of the maddened remnants of the shapeshifting race once called the Grondr — Gaia's stewards of cleanliness and disposal who once kept the whole of Gaia free of rot and decay.#!" #NT!
+ fir_bolgs:0 "Fir Bolgs" #NT!
+ fir_bolgs_flavor:0 "#F A violent and brutal race composed almost entirely of warriors and hunters.#!" #NT!
+ glutton_worms:0 "Glutton Worms" #NT!
+ glutton_worms_flavor:0 "#F They look roughly like a cross between a giant grub and a bloated, skinless serpent; they have no eyes, only rolls of pale pinkish-gray flesh surrounding a long, barracudalike set of jaws.#!" #NT!
+ liderci:0 "Liderci" #NT!
+ liderci_flavor:0 "#F These cunning spirits are manifestations of pure desire, spirit tempters and demon lovers.#!" #NT!
+
+ sirens:0 "Sirens" #NT!
+ sirens_flavor:0 "#F Long haired temptresses of the sea, Sirens lure sailors to watery graves on unseen reefs or in dangerous straights.#!" #NT!
+ night_hound:0 "The Black Dog of the Crossroads" #NT!
+ night_hound_flavor:0 "#F A myth surrounding this dire dog in Britain states that his coming heralds death. People are told to avoid the crossroads at night for fear they may meet the Black Dog.#!" #NT!
+ incubus:0 "Incubus" #NT!
+ incubus_flavor:0 "#F The Incubus is the male form of this demon of temptation and lust, known to nearly all cultures (although by different names).#!" #NT!
+ succubus:0 "Succubus" #NT!
+ succubus_flavor:0 "#F The Succubus is the female form of this demon of temptation and lust, known to nearly all cultures (although by different names).#!" #NT!
+
+ pelesit:0 "Pelesit" #NT!
+ pelesit_flavor:0 "#F Small creatures constructed from wan-kuei own flesh and send them out for errands.#!" #NT!

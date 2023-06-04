@@ -1,0 +1,23 @@
+﻿l_russian:
+
+ POD_blood_tithe:0 "Кровавая Десятина" #NT!
+ POD_blood_tithe_interaction:0 "Кровавая Десятина" #NT!
+ POD_blood_tithe_interaction_desc:0 "Требовать кровь от вассала или придворного." #NT!
+ POD_blood_tithe_interaction_options_heading:0 "Какой тип крови я требую?" #NT!
+ POD_blood_tithe_option_animal:0 "Десятина Животных" #NT!
+ POD_blood_tithe_option_kine:0 "Десятина Смертного Скота" #NT!
+ POD_blood_tithe_interaction_kine_random.tt:0 "[recipient.GetTitledFirstName] пришлет кровавую десятину к моему двору." #NT!
+ POD_blood_tithe_option_random:0 "Любой смертный подойдет" #NT!
+ POD_blood_tithe_option_specific:0 "Я хочу кого-то определенного" #NT!
+ POD_blood_tithe_option_vitae:0 "Десятина Витэ" #NT!
+ POD_blood_tithe_option_childer:0 "Десятина Чада" #NT!
+ POD_blood_tithe_option_nothing:0 "Я не буду требовать Десятину." #NT!
+ POD_blood_tithe_option_exclusive:0 "У меня особые вкусы." #NT!
+ POD_blood_tithe_option_exclusive.tt:0 "[recipient.GetTitledFirstName] пошлет смертного под мои вкусы." #NT!
+ POD_blood_tithe_requirements_animal.tt:0 "Требования Кровавой Десятины Животных." #NT!
+ POD_blood_tithe_requirements_kine.tt:0 "Требования Кровавой Десятины Смертного Скота." #NT!
+ POD_blood_tithe_requirements_vitae.tt:0 "Требования Кровавой Десятины Витэ." #NT!
+ POD_blood_tithe_specific_interaction:0 "Кровавая Десятина, Специфичный выбор" #NT!
+ POD_blood_tithe_specific_interaction_desc:0 "Требовать специфичного придворного вассала в качестве кровавой десятины." #NT!
+ recipient_secondary_POD_blood_tithe_specific_interaction:0 "Жертва Кровавой Десятины" #NT!
+

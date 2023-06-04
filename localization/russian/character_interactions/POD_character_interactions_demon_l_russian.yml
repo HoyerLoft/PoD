@@ -1,0 +1,228 @@
+﻿l_russian:
+ POD_set_thrall_interaction:0 "Enthrall" #NT!
+ POD_set_thrall_interaction_desc:0 "Enthrall [recipient.GetFirstName], making them a Thrall in your service." #NT!
+ POD_set_thrall_interaction_extra_icon:0 "$hook_extra_icon$" #NT!
+ POD_remove_thrall_interaction:0 "Cancel Pact" #NT!
+ POD_remove_thrall_interaction_desc:0 "Cancel the pact, making [recipient.GetFirstName] no longer your [thrall|E]." #NT!
+
+ POD_designate_vessel_interaction:0 "Designate Vessel" #NT!
+ POD_designate_vessel_interaction_desc:0 "Designate [recipient.GetFirstName] as your next vessel for when your current one is no longer useable." #NT!
+
+ POD_demonic_possess_character_interaction:0 "Demonic Possess #weak (Person)#!" #NT!
+ POD_demonic_possess_artifact_interaction:0 "Demonic Possess #weak (Object)#!" #NT!
+ POD_demonic_possess_title_interaction:0 "Demonic Possess #weak (Place)#!" #NT!
+ POD_demonic_possess_dead_interaction:0 "Demonic Possess #weak (Dead)#!" #NT!
+ POD_demonic_possess_interaction_desc:0 "Possess a vessel so you won't be end up in the abyss." #NT!
+ POD_abandon_vessel_interaction:0 "Abandon Vessel" #NT!
+ POD_abandon_vessel_interaction_desc:0 "Abandon your current vessel to enter a spirit state, with the risk of ending in the abyss at any moment." #NT!
+
+ POD_arcana_shapeshift_interaction:0 "Shapeshift" #NT!
+ POD_arcana_shapeshift_interaction_desc:0 "Use your arcana to shapeshift your form." #NT!
+ POD_shapeshift_interaction_purchase_arsenal_of_the_beast:0 "Purchase Arsenal of the Beast" #NT!
+
+ POD_revelation_interaction:0 "Revelation" #NT!
+ POD_revelation_interaction_desc:0 "Harvest Resolve by directly magnifying [recipient.GetFirstName]." #NT!
+
+ POD_regeneration_interaction:0 "Regeneration" #NT!
+ POD_regeneration_interaction_desc:0 "Use the power of Arcana to heal your wounds." #NT!
+ POD_regeneration_interaction_options_heading:0 "What shall I call on Arcana to heal?" #NT!
+
+ POD_healing_touch_interaction:0 "Healing Touch" #NT!
+ POD_healing_touch_interaction_desc:0 "Use the power of Arcana to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_healing_touch_interaction_options_heading:0 "What shall I call on Arcana to heal?" #NT!
+
+ POD_arcana_purge_disease_interaction:0 "Purge Disease" #NT!
+ POD_arcana_purge_disease_interaction_desc:0 "Use the power of Arcana to heal [recipient.GetFirstName]'s disease." #NT!
+ POD_arcana_purge_disease_interaction_options_heading:0 "What disease shall I call on Arcana to heal?" #NT!
+
+ POD_arcana_inflict_disease_interaction:0 "Inflict Disease" #NT!
+ POD_arcana_inflict_disease_interaction_desc:0 "Use the power of Arcana to infect [recipient.GetFirstName] with a disease." #NT!
+ POD_arcana_inflict_disease_interaction_options_heading:0 "What disease shall I call on Arcana to infect?" #NT!
+
+ POD_open_gate_interaction:0 "Open Gate" #NT!
+ POD_open_gate_interaction_desc:0 "Tears space into a portal to [recipient.GetFirstName]'s location." #NT!
+
+ POD_compel_sin_interaction:0 "Compel Sin" #NT!
+
+ POD_donate_resolve_interaction:0 "Donate Resolve" #NT!
+ POD_donate_resolve_interaction_desc:0 "Donate Resolve to [recipient.GetFirstName] to reduce [stress|E]." #NT!
+ POD_donate_resolve_interaction_options_heading:0 "How much Resolve should I donate?" #NT!
+
+ POD_arcana_discover_true_name_interaction:0 "Discover Celestial Name #weak (Scheme)#!" #NT!
+ POD_infernalist_discover_true_name_interaction:0 "Discover Celestial Name #weak (Scheme)#!" #NT!
+
+ POD_arcana_summon_interaction:0 "Summon" #NT!
+ POD_arcana_summon_interaction_desc:0 "Invoke [recipient.GetFirstName]'s name, and summon [recipient.GetHerHim] to your court." #NT!
+ POD_arcana_summon_interaction_sucess:0 "[recipient.GetFirstName] has been summoned to your court." #NT!
+ POD_arcana_summon_interaction_fail:0 "[recipient.GetFirstName] has resisted." #NT!
+
+ POD_sin_eating_interaction:0 "Sin Eating" #NT!
+ POD_sin_eating_interaction_desc:0 "Use Torment to tempt, threaten or coerce [recipient.GetFirstName] into sin, which let you gain Resolve." #NT!
+ POD_sin_eating_interaction_sucess:0 "[recipient.GetFirstName] has committed the sin." #NT!
+ POD_sin_eating_interaction_fail:0 "[recipient.GetFirstName] has resisted." #NT!
+
+ POD_raise_the_dead_interaction:0 "Raise the Dead" #NT!
+ POD_raise_the_dead_interaction_desc:0 "Raise dead bodies as mindless zombies to do [recipient.GetFirstName] bidding." #NT!
+
+ POD_train_arcana_interaction:0 "Arcana Training" #NT!
+ POD_train_arcana_interaction_desc:0 "Teach [recipient.GetFirstName] one of your arcanas." #NT!
+
+ POD_summon_demon_interaction:0 "Summon Demon" #NT!
+ POD_summon_demon_interaction_desc:0 "Summon a [GetTrait('demon').GetName( GetPlayer )] into [recipient.GetFirstName]." #NT!
+
+ POD_tempt_interaction:0 "Tempt #weak (Scheme)#!" #NT!
+ POD_tempt_interaction_desc:0 "Tempt [recipient.GetFirstName], making them gain your Sin trait, which allows for deeper corruption afterwards." #NT!
+
+ POD_corrupt_interaction:0 "Corrupt #weak (Scheme)#!" #NT!
+ POD_corrupt_interaction_desc:0 "Corrupt [recipient.GetFirstName] using their existing Sin trait to make them convert to your faith." #NT!
+
+ SAME_FAITH:0 "You are of the same faith：$VALUE|+0$" #NT!
+
+ POD_command_thrall_gold_interaction:0 "Command [thrall|E] #Weak (Gold)#!" #NT!
+ POD_command_thrall_gold_interaction_desc:0 "Offer a gift of power to make [recipient.GetFirstName] pay gold to you." #NT!
+ POD_command_thrall_gold_interaction_option_minor_gold:0 "Minor Gold" #NT!
+ POD_command_thrall_gold_interaction_option_medium_gold:0 "Medium Gold" #NT!
+ POD_command_thrall_gold_interaction_option_major_gold:0 "Major Gold" #NT!
+ POD_command_thrall_gold_interaction_option_massive_gold:0 "Massive Gold" #NT!
+ POD_command_thrall_gold_interaction_option_monumental_gold:0 "Monumental Gold" #NT!
+ POD_command_thrall_gold_interaction_option_excessive_gold:0 "Excessive Gold" #NT!
+ POD_command_thrall_gold_interaction_option_omega_gold:0 "Omega Gold" #NT!
+
+ POD_command_thrall_artifact_interaction:0 "Command [thrall|E] #Weak (Artifact)#!" #NT!
+ POD_command_thrall_artifact_interaction_desc:0 "Offer a gift of power to make [recipient.GetFirstName] gift an artifact to you." #NT!
+
+ POD_command_thrall_title_interaction:0 "Command [thrall|E] #Weak (Title)#!" #NT!
+ POD_command_thrall_title_interaction_desc:0 "Offer a gift of power to make [recipient.GetFirstName] gift a title (never the primary one) to you." #NT!
+
+ POD_command_thrall_war_interaction:0 "Command [thrall|E] #Weak (War)#!" #NT!
+ POD_command_thrall_war_interaction_desc:0 "Offer a gift of power to make [recipient.GetFirstName] start a war against a neighboring ruler." #NT!
+ recipient_secondary_POD_command_thrall_war_interaction:0 "War Target" #NT!
+
+ POD_demonic_submission_interaction:0 "Power behind the Throne" #NT!
+ POD_demonic_submission_interaction_desc:0 "Gift your primary title to [recipient.GetFirstName] and swear fealty to [recipient.GetHerHim]." #NT!
+
+ EMINENCE_LEVEL_DESC:0 "Your Eminence level provides the following bonus : $VALUE|+0=-+$" #NT!
+
+ POD_add_potential_vessel_interaction:0 "Add Potential Host" #NT!
+ POD_add_potential_vessel_interaction_desc:0 "Add [recipient.GetFirstName] to your list of potential hosts. If your current host dies, they will become the next one in their stead." #NT!
+
+ POD_demonic_influence_inversion_interaction:0 "Invert Demonic Influence" #NT!
+ POD_demonic_influence_inversion_interaction_desc:0 "Invert your influence effect in the selected county." #NT!
+
+ POD_train_lore_interaction:0 "Lore Training" #NT!
+ POD_train_lore_interaction_desc:0 "Teach [recipient.GetFirstName] one of your lores." #NT!
+
+ POD_break_alliance_interaction:0 "Break Alliance" #NT!
+ POD_break_alliance_interaction_desc:0 "Break an alliance that [recipient.GetFirstName] has." #NT!
+ actor_secondary_POD_break_alliance_interaction:0 "Ally" #NT!
+
+ POD_cancel_truce_interaction:0 "Cancel Truce" #NT!
+ POD_cancel_truce_interaction_desc:0 "Cancel an truce that [recipient.GetFirstName] has." #NT!
+ actor_secondary_POD_cancel_truce_interaction:0 "Truce With" #NT!
+
+ POD_end_scheme_interaction:0 "Hide from Scheme" #NT!
+ POD_end_scheme_interaction_desc:0 "End all schemes against [recipient.GetFirstName]." #NT!
+
+ POD_remove_title_claim_interaction:0 "Remove Claim #Weak (Title)#!" #NT!
+ POD_remove_title_claim_interaction_desc:0 "Remove a claim that [recipient.GetFirstName] has on your title." #NT!
+
+ POD_remove_artifact_claim_interaction:0 "Remove Claim #Weak (Artifact)#!" #NT!
+ POD_remove_artifact_claim_interaction_desc:0 "Remove a claim that [recipient.GetFirstName] has on your artifact." #NT!
+
+ POD_unspeakable_servitor_interaction:0 "Unspeakable Servitor" #NT!
+ POD_unspeakable_servitor_interaction_desc:0 "Create a statue that you can use as a temporary host body to fight in wars." #NT!
+
+ POD_enslave_interaction:0 "Enslave" #NT!
+
+ POD_mind_rape_interaction:0 "Mind Rape" #NT!
+ POD_mind_rape_interaction_desc:0 "Use your evocation to learn of every secret and scheme of [recipient.GetFirstName]." #NT!
+
+ POD_create_corrupt_relic_interaction:0 "Create Corrupt Relic" #NT!
+ POD_create_corrupt_relic_interaction_desc:0 "Create your personal magical artifacts." #NT!
+ artifact_corrupt_relic_name:0 "Corrupt Relic" #NT!
+ artifact_corrupt_relic_description:0 "Relics are objects with supernatural powers created through either the [lore_lifestyle|E] of the Forge or the [lore_lifestyle|E] of Contamination. Relics often combine the effects of several paths of Lore into one special effect, not unlike a ritual. They must be activated by a person through an act of will." #NT!
+
+ POD_unleash_chaos_interaction:0 "Unleash Chaos" #NT!
+ POD_unleash_chaos_interaction_desc:0 "Unleash chaos in [recipient.GetFirstName]'s realm." #NT!
+ POD_unleash_chaos_interaction.tt:0 "You will unleash chaos over [recipient.GetFirstName]'s realm" #NT!
+ POD_unleash_chaos_interaction.duel.desc:0 "Power Challenge" #NT!
+ POD_unleash_chaos_interaction.duel.success:0 "You successfully unleashed Chaos" #NT!
+ POD_unleash_chaos_interaction.duel.tt.attacker_wins:0 "[recipient.GetFirstName]'s realm submerges into Chaos, creating a small piece of Hell on Earth." #NT!
+ POD_unleash_chaos_interaction.duel.failure:0 "You fail to unleash the Chaos" #NT!
+ POD_unleash_chaos_interaction.duel.tt.attacker_lost:0 "You fail" #NT!
+ POD_unleash_chaos_interaction_actor_toast:0 "You've successfully unleashed Chaos over [recipient.GetFirstName]'s realm" #NT!
+ POD_unleash_chaos_interaction_recipient_toast:0 "Chaos was unleashed on your capital by [actor.GetFirstName]" #NT!
+ POD_unleash_chaos_interaction_failed_toast:0 "You couldn't unleash Chaos over [recipient.GetFirstName]'s realm" #NT!
+ reality_tremors_modifier:0 "Disturbed by Reality Tremors" #NT!
+ reality_tremors_modifier_desc:0 "This area is disturbed by a rain of fish or something similar that is not possible under the normal laws of reality." #NT!
+ sphere_of_chaos_modifier:0 "Damaged by a Sphere of Chaos" #NT!
+ sphere_of_chaos_modifier_desc:0 "The laws of cause and effect of this area are suspended." #NT!
+ wave_of_mutilation_modifier:0 "Damaged by a Wave of Mutilation" #NT!
+ wave_of_mutilation_modifier_desc:0 "The population of this area is damaged by chaotic energies." #NT!
+ hell_on_earth_modifier:0 "Hell on Earth" #NT!
+ hell_on_earth_modifier_desc:0 "Anything is possible in the affected area - the laws of physics and sanity are completely suspended, and nightmares walk the Earth. Rains of blood; floating pillars covered with screaming, fanged mouths; tentacles erupting at random from flesh - anything that is impossible becomes reality." #NT!
+ POD_unleash_chaos_interaction_custom:0 "All building in [target.GetNameNoTier]'s capital will be removed." #NT!
+
+ POD_distant_damage_interaction:0 "Distant Damage" #NT!
+ POD_distant_damage_interaction_desc:0 "Cause harm from afar to [recipient.GetFirstName]." #NT!
+
+ POD_declare_soul_interaction:0 "Declare Soul" #NT!
+
+ POD_bind_demon_interaction:0 "Bind Demon" #NT!
+ POD_bind_demon_interaction_desc:0 "Bind [recipient.GetFirstName] with [recipient.GetHerHis] true name." #NT!
+ POD_request_pact_interaction:0 "Request Pact" #NT!
+ POD_request_pact_interaction_desc:0 "Pact with [recipient.GetFirstName] to gain a demonic investment." #NT!
+ POD_infernalist_sacrifice_prisoner_interaction:0 "Sacrifice #Weak (Prisoner)#!" #NT!
+ POD_infernalist_sacrifice_prisoner_interaction_desc:0 "Sacrifice all your prisoners to [actor.Custom('GreatDemonName')], the modifier's duration will depend of the number of prisoner (truly immortal prisoners don't count)." #NT!
+ POD_infernalist_sacrifice_holding_interaction:0 "Sacrifice #Weak (Holding)#!" #NT!
+ POD_infernalist_sacrifice_holding_interaction_desc:0 "Sacrifice a holding and all its population to [actor.Custom('GreatDemonName')], the modifier's duration will depend of the combined building level of this holding." #NT!
+ POD_infernalist_sacrifice_region_interaction:0 "Sacrifice #Weak (Region)#!" #NT!
+ POD_infernalist_sacrifice_region_interaction_desc:0 "Sacrifice an entire region and all its population to [actor.Custom('GreatDemonName')], the modifier's duration will depend of the combined development level of this title." #NT!
+ lesser_abaddon_buff_modifier:0 "#Weak (Lesser)#! Abaddon's Gift" #NT!
+ greater_abaddon_buff_modifier:0 "#Weak (Greater)#! Abaddon's Gift" #NT!
+ potent_abaddon_buff_modifier:0 "#Weak (Potent)#! Abaddon's Gift" #NT!
+ lesser_asmodeus_buff_modifier:0 "#Weak (Lesser)#! Asmodeus' Gift" #NT!
+ greater_asmodeus_buff_modifier:0 "#Weak (Greater)#! Asmodeus' Gift" #NT!
+ potent_asmodeus_buff_modifier:0 "#Weak (Potent)#! Asmodeus' Gift" #NT!
+ lesser_azrael_buff_modifier:0 "#Weak (Lesser)#! Azrael's Gift " #NT!
+ greater_azrael_buff_modifier:0 "#Weak (Greater)#! Azrael's Gift " #NT!
+ potent_azrael_buff_modifier:0 "#Weak (Potent)#! Azrael's Gift " #NT!
+ lesser_belial_buff_modifier:0 "#Weak (Lesser)#! Belial's Gift" #NT!
+ greater_belial_buff_modifier:0 "#Weak (Greater)#! Belial's Gift " #NT!
+ potent_belial_buff_modifier:0 "#Weak (Potent)#! "Belial's Gift " #NT!
+ lesser_dagon_buff_modifier:0 "#Weak (Lesser)#! Dagon's Gift" #NT!
+ greater_dagon_buff_modifier:0 "#Weak (Greater)#! Dagon's Gift" #NT!
+ potent_dagon_buff_modifier:0 "#Weak (Potent)#! Dagon's Gift" #NT!
+ POD_infernalist_sacrifice_holding_interaction_custom:0 "All building in [target.GetNameNoTier] will be removed." #NT!
+ POD_infernalist_sacrifice_region_interaction_custom:0 "All building in [target.GetNameNoTier] will be removed." #NT!
+ NOT_POD_infernalist_sacrifice_prisoner_interaction_valid:0 "You do #bold not#! have any mortal prisoner." #NT!
+ NOT_POD_infernalist_sacrifice_region_interaction_valid:0 "You do #bold not#! have any title with enough development." #NT!
+
+ POD_emotion_projection_interaction:0 "Emotion Projection" #NT!
+ POD_life_leech_interaction:0 "Life Leech" #NT!
+ POD_life_leech_interaction_desc:0 "Consume [recipient.GetFirstName]'s willpower to gain life-force." #NT!
+ POD_investiture_teleportation_interaction:0 "Teleport" #NT!
+ POD_investiture_teleportation_interaction_desc:0 "Teleport to [recipient.GetFirstName]'s location." #NT!
+ POD_turn_to_toad_interaction:0 "Turn to Toad" #NT!
+ POD_turn_to_toad_interaction_desc:0 "Turn [recipient.GetFirstName] into toad." #NT!
+ POD_mammons_gift_interaction:0 "Mammon's Gift" #NT!
+ POD_mammons_gift_interaction_desc:0 "Turn one small non-living into gold." #NT!
+ POD_command_demon_interaction:0 "Command Demon" #NT!
+ POD_command_demon_interaction_desc:0 "Command your bound demon." #NT!
+ POD_command_demon_interaction_option_assist_arcana:0 "Assist Arcana training" #NT!
+ POD_command_demon_interaction_option_assist_lore:0 "Assist Lore training" #NT!
+ POD_command_demon_interaction_option_assist_investiture:0 "Provide more Investiture" #NT!
+ POD_command_demon_interaction_option_cancel:0 "Cancel Task" #NT!
+ bound_demon_assist_arcana_modifier:0 "Assisted Arcana Training" #NT!
+ bound_demon_assist_lore_modifier:0 "Assisted Lore Training" #NT!
+ bound_demon_assist_investiture_modifier:0 "Increased Investiture Gain" #NT!
+
+ POD_summon_demon_character_interaction:0 "Summon Demon #weak (Person)#!" #NT!
+ POD_summon_demon_character_interaction_desc:0 "Summon [recipient.GetFirstName] from abyss to a prisoner." #NT!
+ any_prisoner_can_be_demonic_possesed:0 "You do #bold not#! have any prisoner that can be possessed by demon." #NT!
+ recipient_secondary_POD_summon_demon_character_interaction:0 "Prisoner" #NT!
+ POD_summon_demon_artifact_interaction:0 "Summon Demon #weak (Object)#!" #NT!
+ POD_summon_demon_artifact_interaction_desc:0 "Summon [recipient.GetFirstName] from abyss to a artifact." #NT!
+
+ POD_banish_demon_interaction:0 "Banish Demon" #NT!
+ POD_banish_demon_interaction_desc:0 "Banish [recipient.GetFirstName] to the abyss." #NT!

@@ -1,0 +1,215 @@
+﻿l_russian:
+
+ POD_inspiration_interaction:0 "Inspiration" #NT!
+ POD_inspiration_interaction_desc:0 "As the Alpha of this pack, it is your duty to show your strength in order to inspire your followers." #NT!
+ inspiration_modifier:0 "Inspiration" #NT!
+ inspiration_modifier_desc:0 "With your Alpha near, your battle prowess has been enhanced." #NT!
+ pack_tactics_modifier:0 "Pack Tactics" #NT!
+ pack_tactics_modifier_desc:0 "To the outsider eye, your pack moves as one." #NT!
+ strength_will_modifier:0 "Strength of Will" #NT!
+ strength_will_modifier_desc:0 "An unstoppable force, a pack united to a single purpose : the destruction of their enemies." #NT!
+
+ POD_divide_interaction:0 "Divide" #NT!
+ POD_divide_interaction_desc:0 "You will sow the seed of discord in this realm, leaving the vassals discontent with their liege." #NT!
+ divide_modifier:0 "Divide" #NT!
+ divide_modifier_desc:0 "Everything you do or say seems to be misinterpreted by your vassals. As if a malign force twisted your words somehow..." #NT!
+
+ POD_primal_song_interaction:0 "Primal Song" #NT!
+ POD_primal_song_interaction_desc:0 "You will choose between one of the songs you know, gaining various bonus depending on your choice." #NT!
+ POD_werewolves_interactions.1.t:0 "Primal Songs" #NT!
+ POD_werewolves_interactions.1.desc:0 "Galliard Werewolves are the voice of the People, calling them to battle and inspiring them to greatness in life and in death. They are also keepers of traditions, carrying the lore of tribes all the way back to the beginning.\nAs the storytellers around the campfire, Galliard pass down stories and songs told since the beginning of time. Which one will it be today?" #NT!
+ POD_werewolves_interactions.1.option.a:0 "A song of tribal unity." #NT!
+ primal_song_modifier:0 "Song of Unity" #NT!
+ primal_song_modifier_desc:0 "Like the heroes of old, we must stand together!" #NT!
+ POD_werewolves_interactions.1.option.b:0 "A retelling of ancient victories." #NT!
+ song_heroes_modifier:0 "Song of Heroes" #NT!
+ song_heroes_modifier_desc:0 "There is wisdom to be find in the victories, and even the defeats, of our ancestors." #NT!
+ POD_werewolves_interactions.1.option.c:0 "A tale of blood and battle." #NT!
+ song_rage_modifier:0 "Song of Rage" #NT!
+ song_rage_modifier_desc:0 "First and foremost, we are warriors and must always remember our fighting spirit." #NT!
+ POD_werewolves_interactions.1.option.d:0 "A tale of unity and courage." #NT!
+ song_siren_modifier:0 "Song of the Siren" #NT!
+ song_siren_modifier_desc:0 "By following the call, we grow stronger." #NT!
+
+ POD_wereshapeshift:0 "Shapeshift" #NT!
+ POD_wereshapeshift_interaction:0 "Shapeshift" #NT!
+ POD_wereshapeshift_interaction_desc:0 "Use your rage or gnosis to shapeshift your form." #NT!
+ POD_wereshapeshift_interaction_options_heading:0 "Into what form shall I shapeshift?" #NT!
+ POD_wereshapeshift_interaction_homid:0 "Return to a Homid form." #NT!
+ POD_wereshapeshift_interaction_crinos:0 "Shapeshift to Crinos form." #NT!
+ POD_wereshapeshift_interaction_lupus:0 "Shapeshift to Lupus form." #NT!
+ POD_wereshapeshift_interaction_glabro:0 "Shapeshift to Glabro form." #NT!
+ POD_wereshapeshift_interaction_hispo:0 "Shapeshift to Hispo form." #NT!
+
+ POD_wereshapeshift_diseae_heal.0001.desc:0 "I Have Recovered From My Illness" #NT!
+
+ POD_packmember_interaction:0 "Pack Creation" #NT!
+ POD_packmember_interaction_desc:0 "You will include this character into your Pack, they will as such become a [packmember|E], allowing you to interact with them further." #NT!
+ WW_PACK_OPINION_TT:0 "The target must have 25 or more opinion of you to accept." #NT!
+
+ POD_ebon_binding_interaction:0 "Ebon Binding" #NT!
+ POD_ebon_binding_interaction_desc:0 "Bind a fitting punishment to [recipient.GetFirstName]. [recipient.GetFirstName] will suffer crippling pain when [recipient.GetSheHe] thinks of indulging in the forbidden action." #NT!
+ ebon_binding_modifier:0 "Ebon Binding" #NT!
+
+ POD_rouse_to_anger_interaction:0 "Rouse to Anger" #NT!
+ POD_rouse_to_anger_interaction_desc:0 "Spend Gnosis to refresh [recipient.GetFirstName] inner Rage." #NT!
+
+ POD_savagery_of_the_taloned_hunter_interaction:0 "Savagery of the Taloned Hunter" #NT!
+ POD_savagery_of_the_taloned_hunter_interaction_desc:0 "Spend one Rage and willpower to gain two Rage." #NT!
+
+ POD_burden_of_knowledge_interaction:0 "Burden of Knowledge" #NT!
+ POD_burden_of_knowledge_interaction_desc:0 "Making the [recipient.GetFirstName] gain [GetModifier('murderous_frenzy_modifier').GetNameWithTooltip], [GetModifier('change_for_better_modifier').GetNameWithTooltip] or suicide" #NT!
+
+ POD_essential_transformation_interaction:0 "Essential Transformation" #NT!
+ POD_essential_transformation_interaction_desc:0 "Increase wounds to gain Gnosis." #NT!
+
+ POD_unleash_storm_of_mothers_wrath_interaction:0 "Unleash Storm of Mother’s Wrath" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction_desc:0 "Unleashing a Storm of Mother’s Wrath that will wreak havoc in an area." #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction.tt:0 "You will unleash a Storm of Mother’s Wrath over [recipient.GetFirstName]'s realm" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction.duel.desc:0 "Power Challenge" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction.duel.success:0 "You successfully caused the Storm" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction.duel.tt.attacker_wins:0 "[recipient.GetFirstName]'s realm submerges into a Storm of Mother’s Wrath that wreaks havoc wherever it goes." #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction.duel.failure:0 "You fail to cause the Storm" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction.duel.tt.attacker_lost:0 "You fail" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction_actor_toast:0 "You've successfully released a Storm of Mother’s Wrath over [recipient.GetFirstName]'s realm" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction_recipient_toast:0 "A Storm of Mother’s Wrath was released on your capital by [actor.GetFirstName]" #NT!
+ POD_unleash_storm_of_mothers_wrath_interaction_failed_toast:0 "You couldn't release a Storm of Mother’s Wrath over [recipient.GetFirstName]'s realm" #NT!
+ storm_of_mothers_wrath_modifier:0 "Damaged by a Storm of Mother’s Wrath" #NT!
+ storm_of_mothers_wrath_modifier_desc:0 "This area is damaged by a fearful dark hailstorm, coming out even with a clear sky." #NT!
+
+ POD_firebringer_interaction:0 "Gift Teaching" #NT!
+ POD_firebringer_interaction_desc:0 "Teach a Gift that you stole from a foe to gain prestige." #NT!
+
+ POD_break_the_bonds_interaction:0 "Break the Bonds" #NT!
+ POD_break_the_bonds_interaction_desc:0 "Use gnosis to make [recipient.GetFirstName] spend a hook [recipient.GetSheHe] have on you." #NT!
+
+ POD_shared_strength_interaction:0 "Share Strength" #NT!
+ POD_shared_strength_interaction_desc:0 "Transfer your skill to [recipient.GetFirstName]." #NT!
+ shared_strength_diplomacy_gain_modifier:0 "Shared Strength: Diplomacy Gain" #NT!
+ shared_strength_diplomacy_loss_modifier:0 "Shared Strength: Diplomacy Loss" #NT!
+ shared_strength_martial_gain_modifier:0 "Shared Strength: Martial Gain" #NT!
+ shared_strength_martial_loss_modifier:0 "Shared Strength: Martial Loss" #NT!
+ shared_strength_stewardship_gain_modifier:0 "Shared Strength: Stewardship Gain" #NT!
+ shared_strength_stewardship_loss_modifier:0 "Shared Strength: Stewardship Loss" #NT!
+ shared_strength_intrigue_gain_modifier:0 "Shared Strength: Intrigue Gain" #NT!
+ shared_strength_intrigue_loss_modifier:0 "Shared Strength: Intrigue Loss" #NT!
+ shared_strength_learning_gain_modifier:0 "Shared Strength: Learning Gain" #NT!
+ shared_strength_learning_loss_modifier:0 "Shared Strength: Learning Loss" #NT!
+ shared_strength_prowess_gain_modifier:0 "Shared Strength: Prowess Gain" #NT!
+ shared_strength_prowess_loss_modifier:0 "Shared Strength: Prowess Loss" #NT!
+
+ POD_storyteller_interaction:0 "Storytelling" #NT!
+ POD_storyteller_interaction_desc:0 "Use gnosis to have a chance of a random event happening." #NT!
+ POD_storyteller_interaction.tt:0 "25% chance of a random event happening." #NT!
+
+ POD_tagalong_interaction:0 "Tagalong" #NT!
+ POD_tagalong_interaction_desc:0 "Gain the totem’s blessings from [recipient.GetFirstName]." #NT!
+
+ POD_beg_interaction:0 "Beg" #NT!
+ POD_beg_interaction_desc:0 "Beg [recipient.GetFirstName] for some scraps." #NT!
+
+ POD_riot_interaction:0 "Provoke Riot" #NT!
+ POD_riot_interaction_desc:0 "Summons a horde of malevolent spirits to provoke the inhabitants of [recipient.GetFirstName]'s capital county into violent rioting." #NT!
+
+ POD_moon_bridge_interaction:0 "Moon Bridge" #NT!
+ POD_moon_bridge_interaction_desc:0 "Walk the moon path through the mists of the Umbra, allowing you to teleport into the caern of [recipient.GetFirstName]'s location." #NT!
+
+ POD_dumpster_diving_interaction:0 "Garbage Diving" #NT!
+ POD_dumpster_diving_interaction_desc:0 "Venture from one shrine of the Great Trash Heap to another, allowing you to teleport into [recipient.GetFirstName]'s location." #NT!
+
+ POD_airitechs_daughters_interaction:0 "Turn into a Crinos Werewolf" #NT!
+ POD_airitechs_daughters_interaction_desc:0 "Forcing the visage of a Crinos werewolf onto [recipient.GetFirstName]." #NT!
+
+ POD_home_in_all_lands_perk_interaction:0 "Appear" #NT!
+ POD_home_in_all_lands_perk_interaction_desc:0 "Stepping sideways, and appear in [recipient.GetFirstName]'s location where wolves might be found naturally." #NT!
+
+ POD_shadow_pack_interaction:0 "Summons Shadowy Duplicate" #NT!
+ POD_shadow_brethren_interaction:0 "Summons Shadowy Duplicate" #NT!
+ POD_shadow_pack_interaction_desc:0 "Summons up shadowy duplicates of yourself." #NT!
+ POD_shadow_pack_interaction.tt:0 "You will try to summons up shadowy duplicates of yourself." #NT!
+ POD_werewolves_interactions.11.t:0 "Summons Shadowy Duplicates" #NT!
+ POD_werewolves_interactions.11.desc:0 "With your mastery of night-spirit's Gift, you can try to summons up shadowy duplicates of yourself for combat." #NT!
+ POD_werewolves_interactions.11.option.a:0 "I summon you!" #NT!
+ POD_werewolves_interactions.11.option.a.tt:0 "You will try to summon shadowy duplicates" #NT!
+ POD_werewolves_interactions.11.option.a.desc:0 "A struggle with your willpower" #NT!
+ POD_werewolves_interactions.11.option.a.tt.success:0 "Your shadowy duplicate is successfully summoned" #NT!
+ POD_werewolves_interactions.11.option.a.tt.failure:0 "You fail to summon your shadowy duplicate" #NT!
+ POD_werewolves_interactions.11.option.b:0 "Now is not the right time" #NT!
+ POD_werewolves_interactions.11.option.b.tt:0 "You will abandon your idea of summoning shadowy duplicates" #NT!
+ POD_werewolves_interactions.12.t:0 "Summons Shadowy Duplicate II" #NT!
+ POD_werewolves_interactions.12.desc:0 "With your mastery of the night-spirit's Gift, you managed to successfully summon shadowy duplicates of yourself, now it's time to give orders." #NT!
+ POD_werewolves_interactions.12.option.a:0 "Stand for me in battle" #NT!
+ POD_werewolves_interactions.12.option.a.tt:0 "Your shadowy duplicate is successfully summoned." #NT!
+ POD_werewolves_interactions.13.t:0 "Summons Shadowy Duplicate II" #NT!
+ POD_werewolves_interactions.13.desc:0 "Even your mastery of the night-spirit's Gift is not enough to summon your shadowy duplicate... for now." #NT!
+ POD_werewolves_interactions.13.option.a:0 "I am not ready yet" #NT!
+ POD_werewolves_interactions.13.option.a.tt:0 "You failed to summon your shadowy duplicate" #NT!
+ POD_werewolves_interactions.14.t:0 "Fade of Shadowy Duplicate" #NT!
+ POD_werewolves_interactions.14.desc:0 "Your shadowy duplicate has suffered an incident and faded." #NT!
+ POD_werewolves_interactions.14.option.a:0 "My shadowy duplicate is destroyed" #NT!
+ POD_werewolves_interactions.14.option.a.tt:0 "Your shadowy duplicate is no more" #NT!
+ POD_werewolves_interactions.15.t:0 "Baptism of Fire" #NT!
+ POD_werewolves_interactions.15.desc:0 "Most tribes attempt to track down all children born to their Kinfolk within one month of the children's birth to see if they "share the blood". Those who are Garou are "baptized" in the light of their auspice moon, beside a rite fire. Such a baptism most commonly involves mingling ashes with a few drops of Garou blood; the mixture is then touched to the child's ears, nose, eyelids, and tongue.." #NT!
+ POD_werewolves_interactions.15.option.a:0 "Does my child share the blood?" #NT!
+ POD_werewolves_interactions.15.a.sucess:0 "Baptized" #NT!
+ POD_werewolves_interactions.15.a.sucess.tt:0 "You child will be a werewolf once an adult." #NT!
+ POD_werewolves_interactions.15.a.failure:0 "Baptized" #NT!
+ POD_werewolves_interactions.15.a.failure.tt:0 "You child won't be a werewolf once an adult." #NT!
+ POD_werewolves_interactions.15.option.b:0 "I don't have time" #NT!
+ POD_werewolves_interactions.16.t:0 "Auspice Renunciation" #NT!
+ POD_werewolves_interactions.16.desc:0 "In this rare rite, a werewolf rejects the auspice under which he was born and chooses a new one. You wish to adopt..." #NT!
+
+
+ POD_renew_the_cycle_interaction:0 "Renew the Cycle" #NT!
+ POD_renew_the_cycle_interaction_desc:0 "Make [recipient.GetFirstName] reduced to its natural state (turn to dust or simply lose their animation)." #NT!
+
+ POD_thought_form_of_the_twelve_ministers_interaction:0 "Attain True Spiritual Balance" #NT!
+ POD_thought_form_of_the_twelve_ministers_interaction_desc:0 "By a spoken mantra, you attain true spiritual balance for a single moment." #NT!
+
+ POD_dagger_of_the_mind_interaction:0 "Seed Emotion" #NT!
+
+ POD_deny_the_hungry_perk_interaction:0 "Deny the Hungry" #NT!
+ POD_deny_the_hungry_perk_interaction_desc:0 "The target county gains [GetModifier( 'deny_the_hungry_per_modifier' ).GetNameWithTooltip|L]." #NT!
+ deny_the_hungry_per_modifier:0 "Deny the Hungry" #NT!
+
+ POD_madness_perk_interaction:0 "Madness" #NT!
+ POD_madness_perk_interaction_desc:0 "Use this power to give [recipient.GetFirstName] a negative mental trait." #NT!
+ POD_madness_perk_interaction_options_heading:0 "What trait shall I give?" #NT!
+
+ POD_absorb_disease_interaction:0 "Absorb Disease" #NT!
+ POD_absorb_disease_interaction_desc:0 "Absorb a disease from [recipient.GetFirstName] for later use." #NT!
+
+ POD_release_disease_interaction:0 "Release Disease" #NT!
+ POD_release_disease_interaction_desc:0 "Release an owned disease in [recipient.GetFirstName]'s court." #NT!
+ POD_release_disease_interaction_options_heading:0 "What disease shall I release?" #NT!
+
+ POD_ojas_surge_perk_interaction:0 "Ojas Surge" #NT!
+ POD_ojas_surge_perk_interaction_desc:0 "Temporary boost an attribute." #NT!
+ POD_ojas_surge_perk_interaction_options_heading:0 "Which attribute shall I boost?" #NT!
+
+ POD_bastetshapeshift_interaction:0 "Shapeshift" #NT!
+ POD_bastetshapeshift_interaction_desc:0 "Use your rage or gnosis to shapeshift your form." #NT!
+
+ POD_earth_heal_interaction:0 "Earth Heal" #NT!
+ POD_earth_heal_interaction_desc:0 "Use your gnosis to heal the wyrm taint in [recipient.GetFirstName]'s location." #NT!
+
+ POD_rallying_challenge_perk_interaction:0 "Rallying Challenge" #NT!
+ POD_rallying_challenge_perk_interaction_desc:0 "Temporary boost an attribute." #NT!
+ POD_rallying_challenge_perk_interaction_options_heading:0 "Which attribute shall I boost?" #NT!
+
+ POD_ghost_caress_perk_interaction:0 "Ghost Caress" #NT!
+ POD_ghost_caress_perk_interaction_desc:0 "Cause harm from afar to [recipient.GetFirstName]." #NT!
+
+ POD_mothers_blessing_curse_perk_interaction:0 "Mother's Blessing/Curse" #NT!
+ POD_mothers_blessing_curse_perk_interaction_desc:0 "Give [GetModifier( 'mothers_blessing_perk_modifier' ).GetNameWithTooltip|L] or [GetModifier( 'mothers_curse_perk_modifier' ).GetNameWithTooltip|L] to [recipient.GetFirstName]." #NT!
+ mothers_blessing_perk_modifier:0 "Mother's Blessing" #NT!
+ mothers_curse_perk_modifier:0 "Mother's Curse" #NT!
+
+ POD_sorcerers_blade_perk_interaction:0 "Sorcerer's Blade" #NT!
+ POD_sorcerers_blade_perk_interaction_desc:0 "Use gnosis to increase the prowess of the targeted weapon artifact." #NT!
+
+ POD_the_madness_of_crowds_interaction:0 "The Madness of Crowds" #NT!
+ POD_the_madness_of_crowds_interaction_desc:0 "Stir up the wild side of everyone nearby to do [recipient.GetFirstName] bidding." #NT!
+
+ POD_train_gift_interaction:0 "Train Gift" #NT!
+ POD_train_gift_interaction_desc:0 "Teach [recipient.GetFirstName] one of your Gift" #NT!

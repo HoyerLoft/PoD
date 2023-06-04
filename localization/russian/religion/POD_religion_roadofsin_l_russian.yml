@@ -1,0 +1,183 @@
+﻿l_russian:
+
+ #Common Road of Humanity Localization #NT!
+ roadofsin_religion:0 "Дорога Греха" #NT!
+ roadofsin_religion_adj:0 "Грешник" #NT!
+ roadofsin_religion_adherent:0 "Грешник" #NT!
+ roadofsin_religion_adherent_plural:0 "Грешники" #NT!
+ roadofsin_religion_desc:0 "Сородичи, которые контролируют своего Зверя, потворствуя грехам. Наиболее распространенный архетип - беспечный гедонист, но эта философия может привести к куда более ужасным свершениям." #NT!
+ roadofsin_high_god_name:0 "Грех" #NT!
+ roadofsin_high_god_name_possessive:0 "Греховный послушник" #NT!
+ roadofsin_high_god_name_alternate:0 "Грех" #NT!
+ roadofsin_high_god_name_alternate_possessive:0 "Греховный послушник" #NT!
+ roadofsin_good_god_jesus:0 "$roadofsin_health_god_name$" #NT!
+ roadofsin_good_god_christ:0 "Грех" #NT!
+ roadofsin_devil_name:0 "Искуситель" #NT!
+ roadofsin_devil_name_possessive:0 "Искусителс" #NT!
+ roadofsin_evil_god_lucifer:0 "Дьявол" #NT!
+ roadofsin_evil_god_beelzebub:0 "Вельзевул" #NT!
+ roadofsin_evil_god_mephistopheles:0 "Сатана" #NT!
+ roadofsin_death_deity_name:0 "Разрушение" #NT!
+ roadofsin_death_deity_name_possessive:0 "Разругительн" #NT!
+ roadofsin_house_of_worship:0 "логовл" #NT!
+ roadofsin_house_of_worship_plural:0 "логова" #NT!
+ roadofsin_religious_symbol:0 "плод" #NT!
+ roadofsin_religious_text:0 "О голоде и его Удовлетворении" #NT!
+ roadofsin_religious_head_title:0 "Примас" #NT!
+ roadofsin_religious_head_title_name:0 "Примас" #NT!
+ roadofsin_devotee_male:0 "грешник" #NT!
+ roadofsin_devotee_male_plural:0 "грешники" #NT!
+ roadofsin_devotee_female:0 "грешница" #NT!
+ roadofsin_devotee_female_plural:0 "грешницы" #NT!
+ roadofsin_devotee_neuter:0 "грешник" #NT!
+ roadofsin_devotee_neuter_plural:0 "грешники" #NT!
+ roadofsin_priest_male:0 "грешник" #NT!
+ roadofsin_priest_male_plural:0 "грешники" #NT!
+ roadofsin_priest_alternate_plural:0 "грешники" #NT!
+ roadofsin_bishop:0 "наставник" #NT!
+ roadofsin_bishop_plural:0 "наставники" #NT!
+ roadofsin_positive_afterlife:0 "вечность" #NT!
+ roadofsin_negative_afterlife:0 "бездна" #NT!
+ roadofsin_witchgodname_the_horned_god:0 "Искуситель" #NT!
+
+ roadofsin_creator_god_name:0 "$roadofsin_high_god_name$" #NT!
+ roadofsin_creator_god_name_possessive:0 "$roadofsin_high_god_name_possessive$" #NT!
+ roadofsin_health_god_name:0 "грех" #NT!
+ roadofsin_health_god_name_possessive:0 "грешн" #NT!
+ roadofsin_fertility_god_name:0 "$roadofsin_high_god_name$" #NT!
+ roadofsin_fertility_god_name_possessive:0 "$roadofsin_high_god_name_possessive$" #NT!
+ roadofsin_wealth_god_name:0 "$roadofsin_high_god_name$" #NT!
+ roadofsin_wealth_god_name_possessive:0 "$roadofsin_high_god_name_possessive$" #NT!
+ roadofsin_household_god_name:0 "$roadofsin_health_god_name$" #NT!
+ roadofsin_household_god_name_possessive:0 "$roadofsin_health_god_name_possessive$" #NT!
+ roadofsin_fate_god_name:0 "$roadofsin_high_god_name$" #NT!
+ roadofsin_fate_god_name_possessive:0 "$roadofsin_high_god_name_possessive$" #NT!
+ roadofsin_knowledge_god_name:0 "$roadofsin_high_god_name$" #NT!
+ roadofsin_knowledge_god_name_possessive:0 "$roadofsin_high_god_name_possessive$" #NT!
+ roadofsin_war_god_name:0 "$roadofsin_high_god_name$" #NT!
+ roadofsin_war_god_name_possessive:0 "$roadofsin_high_god_name_possessive$" #NT!
+ roadofsin_trickster_god_name:0 "Фортуна" #NT!
+ roadofsin_trickster_god_name_possessive:0 "Фортунск" #NT!
+ roadofsin_night_god_name:0 "$roadofsin_high_god_name$" #NT!
+ roadofsin_night_god_name_possessive:0 "$roadofsin_high_god_name_possessive$" #NT!
+ roadofsin_water_god_name:0 "$roadofsin_health_god_name$" #NT!
+ roadofsin_water_god_name_possessive:0 "$roadofsin_health_god_name_possessive$" #NT!
+
+ #Sinner-Group Faiths #NT!
+ viapeccati:0 "Via Peccati" #NT!
+ viapeccati_adj:0 "Дорога Греха" #NT!
+ viapeccati_adherent:0 "Грешник" #NT!
+ viapeccati_adherent_plural:0 "Грешники" #NT!
+ viapeccati_desc:0 "Последователи Дороги Греха управляют своим Зверем, потакая его прихотям и желаниям, независимо от того, кому они причиняют боль. Неспособность поступать так, как им заблагорассудится, ухудшает их положение, а это означает, что мораль, этика и законы обычно отходят на второй план, когда они идут по этому пути. Последователи Дороги Греха сами по себе не являются злыми, просто полностью потакают своим желаниям." #NT!
+
+ viavoluptuous:0 "Via Voluptarius" #NT!
+ viavoluptuous_adj:0 "Путь Наслаждения" #NT!
+ viavoluptuous_adherent:0 "Гедонист" #NT!
+ viavoluptuous_adherent_plural:0 "Гедонисты" #NT!
+ viavoluptuous_desc:0 "Грешники на Пути наслаждения - самые гедонистичные из тех, кто следует Путем Греха. Для них удовольствие - это все, что касается их существования, и абсолютно ничто не является табу." #NT!
+
+ viacrudelitas:0 "Via Crudelitas" #NT!
+ viacrudelitas_adj:0 "Путь Жестокости" #NT!
+ viacrudelitas_adherent:0 "Бессердечный" #NT!
+ viacrudelitas_adherent_plural:0 "Бессердечные" #NT!
+ viacrudelitas_desc:0 "Последователи Пути Жестокости это самые циничные и жестокие из грешников. Во многом исходя из философии "причини им боль прежде, чем они причинят боль тебе", здешние грешники не верят в милосердие, сострадание или жалость. Скорее всего, их единственное удовольствие заключается в причинении боли другим." #NT!
+
+ viaadversarius:0 "Via Adversarius" #NT!
+ viaadversarius_adj:0 "Путь Дьявола" #NT!
+ viaadversarius_adherent:0 "Искуситель #NT!
+ viaadversarius_adherent_plural:0 "Искусители" #NT!
+ viaadversarius_desc:0 "'Путь Дьявола' не следует путать с так называемой Виа Диаболис, these Sinners work to keep themselves from being manipulated. The ultimate control freaks, they will go to extreme lengths to protect their free will and, unusually, the free will of others. Many consider them the most 'pleasant' of the Sinners." #NT!
+
+ viadiabolis:0 "Via Diabolis" #NT!
+ viadiabolis_adj:0 "Дорога Дьявола" #NT!
+ viadiabolis_adherent:0 "Дьявол" #NT!
+ viadiabolis_adherent_plural:0 "Дьяволы" #NT!
+ viadiabolis_desc:0 "Будучи по своей сути разрушительной дорогой, Via Diabolis не считается путем, к которому следует относиться легкомысленно; те, кто осмеливается следовать ему, предаются всевозможному разврату и разрушению. Многие на самом деле не являются злыми сами по себе, а просто верят, что добродетельная нежизнь - это бесплодное стремление. Некоторые, однако, серьезно относились к роли дьявола, даже называя себя воплощенными дьяволами и слугами сатаны. Баали, в частности, ассоциируются с Виа Диаболис." #NT!
+
+ viaprometheus:0 "Via Prometheus" #NT!
+ viaprometheus_adj:0 "Путь Прометея" #NT!
+ viaprometheus_adherent:0 "Прометеанец" #NT!
+ viaprometheus_adherent_plural:0 "Прометеанцы" #NT!
+ viaprometheus_desc:0 "Так же называемые Приносящие Пламя, [cainites|E] которые мечтают воссоздать Карфаген и гармонию сородичей и людей, связанную с ним. Неудивительно, что многие участники - Бруха. Поскольку многие члены Высших кланов расценивают эти верования как измену, прометеанцы вынуждены действовать тайно." #NT!
+
+ viafurores:0 "Via Furores" #NT!
+ viafurores_adj:0 "Путь Фурий" #NT!
+ viafurores_adherent:0 "Фурор" #NT!
+ viafurores_adherent_plural:0 "Фуроры" #NT!
+ viafurores_desc:0 "Члены этой секты имеют репутацию преступников среди [Cocnept('cainites', 'каинитов')|E]. Осуждаемые большинством князей как воры и нарушители спокойствия, они существуют на задворках вампирского общества, влача жалкое существование, как и их смертные собратья. Фуроры считаются хаотичными, но они могут проявлять такой уровень страсти к своему делу, которого нет нигде больше в обществе каинитов." #NT!
+
+ viaquiritare:0 "Via Quiritare" #NT!
+ viaquiritare_adj:0 "Путь Крика" #NT!
+ viaquiritare_adherent:0 "Крикун" #NT!
+ viaquiritare_adherent_plural:0 "Крикуны" #NT!
+ viaquiritare_desc:0 "Самые безумные из грешников и противоположность Пути Дьявола, the followers of the Path of Screams believe that as they are already damned, they are also already prey to the Beast, and therefore allow themselves to be manipulated by it to do the Beast's bidding. They are essentially walking examples of Hell-on-Earth; even other Sinners are loathe to associate with these madmen." #NT!
+
+ tariqelshaitan:0 "Tariq el-Shaitan" #NT!
+ tariqelshaitan_adj:0 "Путь Шайтана" #NT!
+ tariqelshaitan_adherent:0 "Шайтан" #NT!
+ tariqelshaitan_adherent_plural:0 "Шайтан" #NT!
+ tariqelshaitan_desc:0 "Путь Дьявола в Исламском мире. Затравленные почти до полного исчезновения воинами кланов салюбри и ассамитов, эти монстры с тех пор научились играть в долгую игру." #NT!
+
+ pathoftheeightfoldwheel:0 "Путь Восьмеричного Колеса" #NT!
+ pathoftheeightfoldwheel_adj:0 "Путь Восьмеричного Колеса" #NT!
+ pathoftheeightfoldwheel_adherent:0 "Друид" #NT!
+ pathoftheeightfoldwheel_adherent_plural:0 "Друиды" #NT!
+ pathoftheeightfoldwheel_desc:0 ""Путь восьмеричного колеса" основан на кельтском язычестве с особым акцентом на друидизм. Они придают большое значение почитанию богов и духов природы, соблюдению баланса во всем, а также вращающемуся календарю астрономических праздников." #NT!
+
+ pathofwatchfulgods:0 "Via Deorum Vigilans" #NT!
+ pathofwatchfulgods_adj:0 "Путь Бдительных Богов" #NT!
+ pathofwatchfulgods_adherent:0 "Ватиканатор" #NT!
+ pathofwatchfulgods_adherent_plural:0 "Ватиканаторы" #NT!
+ pathofwatchfulgods_desc:0 "Путь бдительных богов чтит языческий пантеон древних греков и римлян, хотя пантеоны разных языческих традиций также ориентируются на этот путь.Вампиры на этом пути посвящают себя служению богам, регулярно принося жертвы, почитая и защищая то, что боги считают священным, и придерживаясь строгих кодексов чести." #NT!
+
+ viahyron:0 "Via Hyron" #NT!
+ viahyron_adj:0 "Путь Улья" #NT!
+ viahyron_adherent:0 "Авельсианин" #NT!
+ viahyron_adherent_plural:0 "Авельсиане" #NT!
+ viahyron_desc:0 "Дорогой Улья следуют почти исключительно Баали из ордена Молоха. Дорога проповедует всеобъемлющую преданность родословной в целом и своему [Sire|E]у в частности. Главная причина этого заключается в том, что Великие дела, которых хотят достичь баали, не могут быть совершены в одиночку или когда они мешают работе других. Вампир должен был впустить голоса Роя в свою душу, чтобы понять сны существ из Внешней Тьмы и хранить их сон. Кроме того, большинство других вампиров активно уничтожили бы Баали, если бы он был достаточно глуп, чтобы выдать себя за приверженца." #NT!
+
+ viatartaros:0 "Via Tártaros" #NT!
+ viatartaros_adj:0 "Путь Тартарос" #NT!
+ viatartaros_adherent:0 "Тартаросин" #NT!
+ viatartaros_adherent_plural:0 "Тартароси" #NT!
+ viatartaros_desc:0 "Эта неканоническая религия была создана по заказу Покровителя\nБерегитесь, здесь могут быть демоны. Ключи к нашим тюрьмам из плоти и костей нельзя найти с помощью одних только исследований и экспериментов; вместо этого мы должны искать, нет, брать те знания, которыми обладают те, кто стоит за порогом мира. Некоторые могли бы назвать нас интерналистами, если бы знали наше истинное намерение подняться за пределы тюрьмы, в которую мы были заключены дважды рожденными. Эта дорога темна и полна опасностей, и единственный свет, который мы можем найти, - это ужасное пронзительное сияние, которое угрожает сжечь нашу плоть и обескровить сам наш дух." #NT!
+
+ holy_order_the_sinful:0 "Греховные" #NT!
+ holy_order_order_of_pustula:0 "Орден Пустулы" #NT!
+ holy_order_brothers_of_the_black_mountain:0 "Братство Черной  Скалы" #NT!
+ holy_order_legio_peccati:0 "Легион Греха" #NT!
+ holy_order_order_of_aconia_messalina:0 "Орден Изящнейшей Аконии" #NT!
+ holy_order_the_voluptuaries:0 "Сладострастники" #NT!
+ holy_order_daughters_of_venus:0 "Дочери Венеры" #NT!
+ holy_order_the_heartless:0 "Бессердечные" #NT!
+ holy_order_the_adversaries:0 "Искусители" #NT!
+ holy_order_the_firebringers:0 "Приносящие Пламя" #NT!
+ holy_order_the_outlaws:0 "Изгои" #NT!
+ holy_order_the_screamers:0 "Крикуны" #NT!
+ holy_order_order_of_abelenes:0 "Орден Авеля" #NT!
+ holy_order_order_of_iblis:0 "Орден Иблиса" #NT!
+ holy_order_cult_of_augurs:0 "Орден Прорицаний" #NT!
+ holy_order_order_of_vaticinators:0 "Орден Ватиканаторов" #NT!
+ holy_order_ancient_order_of_druids:0 "Древний Орден Друидов" #NT!
+ holy_order_order_of_morrigan:0 "Орден Морриган" #NT!
+ holy_order_order_of_tartaros:0 "Орден Тартарос" #NT!
+
+ deimosianism:0 "Деймосиализм" #NT!
+ deimosianism_adj:0 "Деймосиалисзм" #NT!
+ deimosianism_adherent:0 "Деймосиан" #NT!
+ deimosianism_adherent_plural:0 "Деймосиане" #NT!
+ deimosianism_desc:0 "Вампиры - воплощение первобытных страхов человечества. Как таковые, они должны проявляться в своем состоянии. Возможно, однажды человечество станет достаточно сильным, чтобы победить свои страхи. А до тех пор деймосиане берут все в свои руки." #NT!
+
+ servitorsofirad:0 "Слуги Ирада" #NT!
+ servitorsofirad_adj:0 "Слуги Ирада" #NT!
+ servitorsofirad_adherent:0 "Служитель" #NT!
+ servitorsofirad_adherent_plural:0 "Служители" #NT!
+ servitorsofirad_desc:0 "Само правозглашенные слуги [Concept('antediluvians', 'допотопных')|E], Слуги Ирада не ищут ничего, кроме бесконечной войны и кровопролития. Планета будет залита кровью, и они все это время будут во главе." #NT!
+
+ baobhansith:0 "Баобан сит" #NT!
+ baobhansith_adj:0 "Баобан ситск" #NT!
+ baobhansith_adherent:0 "Сит" #NT!
+ baobhansith_adherent_plural:0 "Ситы" #NT!
+ baobhansith_desc:0 "Эта неканоническая религия была создана по заказу Покровителя.\n\nБаобхан Сит придерживаются наследия своей основательницы, Эшлинг Линхаун, чье первое кормление вдохновило легенду о Баобхан Сит в Шотландском нагорье.  Очарованные мифом об убийцах, соблазнительных фейри-вампирах, приверженцы подходят под этот шаблон, чтобы сохранить легенду живой." #NT!
+ holy_order_host_of_the_broken_heart:0 "Хозяйка Разбитого Сердца" #NT!
+ holy_order_host_of_the_unseelie:0 "Хозяйка Невидимых" #NT!

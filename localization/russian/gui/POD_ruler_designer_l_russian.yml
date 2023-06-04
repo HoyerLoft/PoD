@@ -1,0 +1,118 @@
+﻿l_russian:
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS:0 "Monstrous" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_HEAD:0 "Monstrous Head" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_head:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_HEAD$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_FACE:0 "Monstrous Face" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_face:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_FACE$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EYES:0 "Monstrous Eyes" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_eyes:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EYES$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_NOSE:0 "Monstrous Nose" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_nose:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_NOSE$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_LIMBS:0 "Monstrous Limbs" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_limbs:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_LIMBS$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EARS:0 "Monstrous Ears" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_ears:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EARS$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_SKIN:0 "Monstrous Skin" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_skin:0 "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_SKIN$" #NT!
+ monstrous_head:0 "Monstrous Head" #NT!
+ monstrous_face:0 "Monstrous Face" #NT!
+ monstrous_eyes:0 "Monstrous Eyes" #NT!
+ monstrous_nose:0 "Monstrous Nose" #NT!
+ monstrous_limbs:0 "Monstrous Limbs" #NT!
+ monstrous_ears:0 "Monstrous Ears" #NT!
+ monstrous_skin:0 "Monstrous Skin" #NT!
+ POD_horn:0 "Horns" #NT!
+ horns:0 "Dermal Horns" #NT!
+ POD_NOSsification:0 "Nossification" #NT!
+ nossification:0 "Nossification" #NT!
+ nosferatitude:0 "Nosferatitude" #NT!
+ nosfferization:0 "Nosfferization" #NT!
+ nossimization:0 "Nossimization" #NT!
+ POD_NOSschnoz:0 "Nosferatu Noses" #NT!
+ nosies:0 "Nosies" #NT!
+ schnozies:0 "Schnozies" #NT!
+ POD_NOSjawz:0 "Nosferatu Jaws" #NT!
+ jawwies:0 "Jawwies" #NT!
+ wawwies:0 "Wawwies" #NT!
+ POD_NOSeye:0 "Big Eye" #NT!
+ aye:0 "Right Eye" #NT!
+ eyee:0 "Left Eye" #NT!
+ POD_NOSconifier:0 "Conehead" #NT!
+ smallerhats:0 "Conehead" #NT!
+ POD_NOSforehead_height:0 "Nosferatu Forehead Height" #NT!
+ Nosheadhigh:0 "Forehead Height" #NT!
+ POD_NOSforehead_forward:0 "Nosferatu Forehead Forward" #NT!
+ Nosheadforward:0 "Forehead Forward" #NT!
+ POD_NOSforehead_curve:0 "Nosferatu Forehead Curve" #NT!
+ Nosheadcurve:0 "Forehead Curve" #NT!
+ POD_NOSear:0 "Pointy Ears" #NT!
+ nosear:0 "Pointy Ears" #NT!
+ POD_tzm_browcrest:0 "Vicissitude Brow Crest" #NT!
+ zerghead:0 "Zerg Head" #NT!
+ POD_tzm_amphibieyes:0 "Amphibieyes" #NT!
+ igoreyes:0 "Igor Eyes" #NT!
+ POD_tzm_spliceeyes:0 "Eyes: Splice" #NT!
+ thegreys:0 "The Greys" #NT!
+ POD_tzm_widebrain:0 "Vicissitude Wide Brain" #NT!
+ galaxybrain:0 "Galaxy Brains" #NT!
+ POD_tzm_longbrain:0 "Vicissitude Long Brain" #NT!
+ akhenaten:0 "Akhenaten" #NT!
+ POD_tzm_serpentinejaw:0 "Serpentine Jaw" #NT!
+ smile:0 "Smile" #NT!
+ POD_tzm_BROW:0 "Vicissitude Brow" #NT!
+ pox:0 "Pox" #NT!
+ spike:0 "Spike" #NT!
+ POD_tzm_FACE:0 "Mowhak" #NT!
+ mowhawk:0 "Mowhawk" #NT!
+ POD_tzm_JAW:0 "Jaw Spikes" #NT!
+ jawspike:0 "Jaw Spikes" #NT!
+ POD_tzm_NOSE:0 "Vicissitude Nose" #NT!
+ nosblade:0 "Nose Blade" #NT!
+ nosespike:0 "Nose Spikes" #NT!
+ nosespine:0 "Nose Spine" #NT!
+ POD_tzm_upperlip:0 "Lip Spikes" #NT!
+ catfish:0 "Catfish Spikes" #NT!
+ POD_tzm_TEMPLE:0 "Vicissitude Temples" #NT!
+ templecuts:0 "Temple Cuts" #NT!
+ templepox:0 "Temple Pox" #NT!
+ templespike:0 "Temple Spike" #NT!
+ POD_beasty_claws:0 "Lengthen Forearms" #NT!
+ bloodliny_sabbatiztion:0 "Lengthen Forearms" #NT!
+ gene_cappadocian:0 "Cappadocian Elder" #NT!
+ cappadocian:0 "Cappadocian Elder" #NT!
+ gene_banuhaqim:0 "Banu Haqim Elder" #NT!
+ banuhaqim:0 "Banu Haqim Elder" #NT!
+ gene_POD_bloodsmear:0 "Blood Smear" #NT!
+ bloodsmear_1:0 "Smear 1" #NT!
+ bloodsmear_2:0 "Smear 2" #NT!
+ bloodsmear_3:0 "Smear 3" #NT!
+ bloodsmear_4:0 "Smear 4" #NT!
+ bloodsmear_5:0 "Smear 5" #NT!
+ salubri:0 "Third Eye" #NT!
+ salubrilid:0 "Eyelid" #NT!
+ salubrieye:0 "Eye" #NT!
+ POD_vamp_open_mouth:0 "Open Mouth" #NT!
+ POD_splat_gene_skin_color:0 "Fantasy Skin Color" #NT!
+ normal_skin:0 "Normal Skin" #NT!
+ blue_skin:0 "Blue Skin" #NT!
+ grey_skin:0 "Grey Skin" #NT!
+ red_skin:0 "Red Skin" #NT!
+ green_skin:0 "Green Skin" #NT!
+ yellow_skin:0 "Yellow Skin" #NT!
+ longear:0 "Longer Ears" #NT!
+ POD_splat_gene_hair_color:0 "Fantasy Hair Color" #NT!
+ normal_hair:0 "Normal Hair" #NT!
+ pure_black_hair:0 "Pure Black Hair" #NT!
+ light_blue_hair:0 "Light Blue Hair" #NT!
+ dark_blue_hair:0 "Dark Blue Hair" #NT!
+ light_green_hair:0 "Light Green Hair" #NT!
+ dark_green_hair:0 "Green Hair" #NT!
+ purple_hair:0 "Purple Hair" #NT!
+ orange_hair:0 "Orange Hair" #NT!
+ red_hair:0 "Red Hair" #NT!
+ POD_hairstyles:0 "" #NT!
+ POD_egyptian_hairstyles:0 "" #NT!
+ splat_trait_reminder:0 "#R Pick a supernatural trait first!" #NT!
+ splat_trait_warning:0 "#R You have to pick a supernatural trait before proceeding!" #NT!
+

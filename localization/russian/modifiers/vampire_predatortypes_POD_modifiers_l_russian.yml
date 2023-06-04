@@ -1,0 +1,34 @@
+﻿l_russian:
+ predatortype_farmer_modifier:0 "Predator Type: Фермер" #NT!
+ predatortype_farmer_modifier_desc:0 "Этот вампир предпочитает питаться от животных." #NT!
+ predatortype_bloodleech_modifier:0 "Predator Type: Кровопийца" #NT!
+ predatortype_bloodleech_modifier_desc:0 "Этот вампир предпочитает питаться кровью других вампиров!" #NT!
+ predatortype_phlebotomist_modifier:0 "Predator Type: Кровопускатель" #NT!
+ predatortype_phlebotomist_modifier_desc:0 "Этот вампир приобретает кровь под видом врача, проводящего кровопускание." #NT!
+ predatortype_bedlamite_modifier:0 "Predator Type: Бедламит" #NT!
+ predatortype_bedlamite_modifier_desc:0 "Этот вампир охотится на сумасшедших.  Они также могут быть безумными или, по крайней мере, казаться таковыми своей жертве." #NT!
+ predatortype_cenobite_modifier:0 "Predator Type: Сенобит" #NT!
+ predatortype_cenobite_modifier_desc:0 "У этого вампира есть стадо в религиозном учреждении, таком как монастырь." #NT!
+ predatortype_alleycat_modifier:0 "Predator Type: Уличный кот" #NT!
+ predatortype_alleycat_modifier_desc:0 "Этот вампир выслеживает и яростно нападает на смертных, чтобы получить кровь.  Это вульгарный подход." #NT!
+ predatortype_cauchemar_modifier:0 "Predator Type: Кошмар" #NT!
+ predatortype_cauchemar_modifier_desc:0 "Этот вампир питается только теми, кто спит." #NT!
+ predatortype_familias_modifier:0 "Predator Type: Семьи" #NT!
+ predatortype_familias_modifier_desc:0 "Этот вампир питается почти исключительно от одной конкретной семейной династии.  Они могут даже быть родственниками семьи; по крайней мере, так думает семья." #NT!
+ predatortype_footpad_modifier:0 "Predator Type: Разбойник" #NT!
+ predatortype_footpad_modifier_desc:0 "Этот лич якшается с отбросами общества, выпивая кровь обнищавших. Если они исчезают, власти не проявляют никакого интереса." #NT!
+ predatortype_consensualist_modifier:0 "Predator Type: Вопрошающий" #NT!
+ predatortype_consensualist_modifier_desc:0 "Этот вампир питается только от тех, кто этого хочет... что значительно усложняет соблюдение Маскарада в домене." #NT!
+ predatortype_osiris_modifier:0 "Predator Type: Осирис" #NT!
+ predatortype_osiris_modifier_desc:0 "Этот вампир возглавляет культ крови, как в древние времена.  "Скот"" поклоняется этому кровавому богу и добровольно приносят себя в жертву." #NT!
+ predatortype_siren_modifier:0 "Predator Type: Сирена" #NT!
+ predatortype_siren_modifier_desc:0 "Этот вампир соблазняет влюбленных, чтобы высосать их кровь через поцелуй." #NT!
+ predatortype_gentry_modifier:0 "Predator Type: Дворянство" #NT!
+ predatortype_gentry_modifier_desc:0 "Этот вампир занимает определенное положение в обществе смертных.  Они используют этот статус для охоты на богатых и могущественных.  Никто не поверит, что кто-то с такой утонченностью - чудовище." #NT!
+ predatortype_graverobber_modifier:0 "Predator Type: Грабитель могил" #NT!
+ predatortype_graverobber_modifier_desc:0 "Этот вампир обитает на кладбищах и в склепах, питаясь скорбящими и холодной кровью недавно умерших." #NT!
+ predatortype_extortionist_modifier:0 "Predator Type: Вымогатель" #NT!
+ predatortype_extortionist_modifier_desc:0 "Этот вампир угрожает смертным и эксплуатирует их ради их крови. Вымогатели делают "предложения, от которых невозможно отказаться"." #NT!
+
+
+

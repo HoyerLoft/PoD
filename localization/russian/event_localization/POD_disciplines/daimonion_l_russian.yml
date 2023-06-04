@@ -1,0 +1,77 @@
+﻿l_russian:
+
+POD_daimonion_events.1000.title:0 "Чувство Греха - Схватка" #NT!
+POD_daimonion_events.1000.desc:0 "Даже обладая демоническими силами, трудно разрушить барьеры невежества, которые глупцы возводят, чтобы сдержать свои собственные желания.Это зависит от вас, сможете ли вы проскользнуть в разум [recipient.GetFirstName] и даровать освобождение. Но сначала вы должен прорваться сквозь ментальный барьер." #NT!
+POD_daimonion_events.1000.option.a:0 "Силы крови достаточно." #NT!
+POD_daimonion_events.1000.a.tt_true_faith:0 "Их Вера сопротивляется мне!" #NT!
+POD_daimonion_events.1000.a.success.desc:0 "Победа!" #NT!
+POD_daimonion_events.1000.a.failure.desc:0 "Поражение" #NT!
+POD_daimonion_events.1000.a.tt_success:0 "Их Грехи усилятся и поглотят их" #NT!
+POD_daimonion_events.1000.a.tt_failure:0 "[recipient.GetSheHe] останется недосягаемым" #NT!
+POD_daimonion_events.1000.option.b:0 "Моя собственная воля уничтожит их защиту!" #NT!
+POD_daimonion_events.1000.option.c:0 "Сегодня не подходящее время...." #NT!
+POD_daimonion_events.1000.option.c.tt:0 "Сдаться" #NT!
+POD_daimonion_events.1000.option.b.tt.beast:0 "#R Я думал, что я здесь плохой парень....#!" #NT!
+POD_daimonion_events.2000.title:0 "Чувство Греха - Триумф" #NT!
+POD_daimonion_events.2000.desc:0 "Я прорвался сквозь ментальную защиту, демоническая сила скручивает и развращает [recipient.GetName]." #NT!
+POD_daimonion_events.2000.option_a:0 "Еще одна душа в моем списке" #NT!
+POD_daimonion_events.3000.title:0 "Чувство Греха - Осквернение" #NT!
+POD_daimonion_events.3000.desc:0 "Всю свою жизнь вы подавляли свои эмоции, свои потребности. Вы слушали, как другие говорят вам, что правильно, а что неправильно. Вы подавляли и подталкивали себя к тому, чтобы стать лучше. \n #R Зачем?#! \n С вас довольно. Вы знаете, чего вы хотите и что вам нужно делать." #NT!
+POD_daimonion_events.3000.desc.auspex:0 "И все же что-то здесь не так. Эти чувства, они исходят не от вас. Вы видите видения некоего существа.... Мужчины? Женщины? Демона? Трудно сказать. Но ваши сверхъестественные чувства кричат вам имя - [actor.GetFirstNameNoTooltip]" #NT!
+POD_daimonion_events.3000.option_a:0 "Это приятное чувство" #NT!
+POD_daimonion_events.4000.title:0 "Чувство Греха - Провал" #NT!
+POD_daimonion_events.4000.desc:0 "Это была неподходящая ночь для того, чтобы ваша цель поддалась своим грехам, но это всего лишь вопрос времени - все ангелы низвергаются, и вы будете ждать их, когда они попадут в ад." #NT!
+POD_daimonion_events.4000.option_a:0 "Скоро....." #NT!
+POD_daimonion_events.5000.title:0 "Психомахия - Итог" #NT!
+POD_daimonion_events.5000.option.loss:0 "Здравствуй, тьма, мой старый друг...." #NT!
+POD_daimonion_events.5000.option.loss.ct:0 "Вы получите несколько новых грехов с их усиленной версией" #NT!
+POD_daimonion_events.5000.option.victory:0 "Величайший герой - это тот, кто владеет собой" #NT!
+POD_daimonion_events.5000.desc.victory:0 "Вы боролись с худшими сторонами себя - грехами, изъянами и тьмой. И вы победили. Тьма все еще внутри вас, но теперь она отвечает твоим желаниям.\n\nСила ваших грехов в вашем распоряжении." #NT!
+POD_daimonion_events.5000.desc.loss:0 "Все это было так внезапно - проявление греха появилось из ниоткуда и атаковало с силой каждой зазубренной, ущербной части вас самих. Это было безнадежно....Как можно сражаться с существом, которое олицетворяет все то, что делает вас такими, такими слабыми?\n\n Вы не можете. Лучше сдаться." #NT!
+POD_daimonion_events.5000.loss.toast:0 "[recipient.GetFirstName] поддается" #NT!
+POD_daimonion_events.5000.loss.toast.torpor:0 "Они быстро впадают в [torpor|E], чтобы уцелеть" #NT!
+POD_daimonion_events.5000.loss.toast.sins:0 "Они поддались разврату" #NT!
+POD_daimonion_events.5000.victory.toasttitle:0 "[recipient.GetFirstName] побеждает" #NT!
+POD_daimonion_events.5000.victory.toast:0 "[recipient.GetFirstName] берет верх над своими грехами" #NT!
+POD_daimonion_events.5001.title:0 "Психомахия - Начало" #NT!
+POD_daimonion_events.5001.desc:0 "Битва с самыми темными уголками души - такова судьба, которую вы предрекли [recipient.GetName]. Увы, они не понимают ценности такого противостояния и пытаются сопротивляться. Да начнется борьба." #NT!
+POD_daimonion_events.5001.a.tt_success:0 "Схватка началась" #NT!
+POD_daimonion_events.5001.a.tt_failure:0 "[recipient.GetSheHe] будет оставаться в безопасности и в неведении" #NT!
+POD_daimonion_events.5001.power_fail:0 "Психомахия провалилась" #NT!
+invite_infernalist_decision:0 "Призвать Инферналиста" #NT!
+invite_infernalist_decision_desc:0 "Погрузившись в свою собственную извращенную силу, найдите смертного, погрязшего в сделаках с демонами, и привлеките их к себе" #NT!
+invite_infernalist_decision_tooltip:0 "Возьмите к себе на службу талантливого инферналиста" #NT!
+invite_infernalist_decision_effect_tooltip:0 "Инферналист присоединяется к вашему двору" #NT!
+invite_infernalist_decision_tp:0 "Тьма обогощает....." #NT!
+invite_infernalist_decision_confirm:0 "Как паук в паутине...." #NT!
+POD_daimonion_events.6000.title:0 "Грехопадение" #NT!
+POD_daimonion_events.6000.desc:0 "Вы провели месяцы, проникая в разум [recipient.GetFirstName], подвергая сомнению их путь и восхваляя силу демонов. Вы использовали темные дары, чтобы найти их слабости и надавить на их боль. Сейчас самое время завершить их падение." #NT!
+POD_daimonion_events.6000.option.a:0 "Это будет легко." #NT!
+POD_daimonion_events.6000.a.tt_true_faith:0 "Их Вера сопротивляется Мне!" #NT!
+POD_daimonion_events.6000.a.success.desc:0 "Победа!" #NT!
+POD_daimonion_events.6000.a.failure.desc:0 "Поражение" #NT!
+POD_daimonion_events.6000.a.tt_success:0 "Они будут служить темным хозяевам!" #NT!
+POD_daimonion_events.6000.a.tt_failure:0 "[recipient.GetSheHe] останется недосягаемым" #NT!
+POD_daimonion_events.6000.option.b:0 "Моя собственная сила воли сокрушит их оборону!" #NT!
+POD_daimonion_events.6000.option.c:0 "Сегодня неудачное время...." #NT!
+POD_daimonion_events.6000.option.c.tt:0 "Сдаться" #NT!
+POD_daimonion_events.6000.option.b.tt.beast:0 "#R Я думал, что я здесь плохой парень....#!" #NT!
+POD_daimonion_events.7000.title:0 "Грехопадение - Триумф" #NT!
+POD_daimonion_events.7000.desc:0 "Получилось. [recipient.GetFirstName] перешел на темную сторону и отныне будет подчиняться и служить великим темным силам." #NT!
+POD_daimonion_events.7000.option_a:0 "Работа темного властелина никогда не бывает оконченной" #NT!
+POD_daimonion_events.8000.title:0 "Грехопадение - Осквернение" #NT!
+POD_daimonion_events.8000.desc:0 "Почему бы и нет? Честно. Они предлагают так много. Дают так много. Демоны даруют мне то, что я хочу, и все, что я должен сделать взамен, - это оказать случайную услугу? Я в деле. Люди говорят, что они злые, но люди тоже злые. Просто князья платят не так много, как демоны." #NT!
+POD_daimonion_events.8000.option_a:0 "Это приятное чувство" #NT!
+POD_daimonion_events.9000.title:0 "Грехопадение - Провал" #NT!
+POD_daimonion_events.9000.desc:0 "Несмотря на все ваши усилия, ваша жертва предпочла остаться слепой. Жаль, вы хотели избавить их от грядущей эры тьмы... Что ж, вам просто придется как-нибудь попробовать еще раз." #NT!
+POD_daimonion_events.9000.option_a:0 "Скоро..." #NT!
+tempt_ct:0 "Запустите происки, чтобы склонить цель к интернализму." #NT!
+demonic_plague_contraction:0 "Заражение Демонической Чумой" #NT!
+demonic_plague_contraction_ct:0 "Вы заболели страшной демонической чумой и обречены умирать медленной, мучительной смертью." #NT!
+demonic_plague_wound:0 "Демоническая чума прогрессирует" #NT!
+demonic_plague_overcome:0 "Демоническая чума закрепилась" #NT!
+demonic_plague_overcome_ct:0 "По крайней мере, на какое-то время ваша жизненная сила удерживает чуму на расстоянии. Продолжайте в том же духе, и вы, возможно, преодолеете это." #NT!
+demonic_plague_overcome_complete:0 "Демоническая чума побеждена" #NT!
+demonic_plague_overcome_complete_ct:0 "Вы победили страшную демоническую чуму и очистили свой организм от нее!" #NT!
+
+

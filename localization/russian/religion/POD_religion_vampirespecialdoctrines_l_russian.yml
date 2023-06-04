@@ -1,0 +1,75 @@
+﻿l_russian:
+
+ burning_faith_name:0 "Burning Faith" #NT!
+ burning_faith_doctrine_name:0 "Warriors of Mithras" #NT!
+ burning_faith_doctrine_desc:0 "As warriors of the Unconquered Sun, we must be as formidable as He is. The world of the night will finally see the light of the Sun." #NT!
+ undead_aesir_name:0 "Undead Aesir" #NT!
+ undead_aesir_doctrine_name:0 "Rejuvenated [einherjar|E]" #NT!
+ undead_aesir_doctrine_desc:0 "The Warriors of Caharl are hungry for glory and battle, and rightfully feared by the weak [cainites|E]." #NT!
+ restored_republic_name:0 "Restored Republic" #NT!
+ restored_republic_doctrine_name:0 "Senate in Session" #NT!
+ restored_republic_doctrine_desc:0 "For a [cainite|E] institution, the Senate is surprisingly open minded. But no less stressful and bloody than other." #NT!
+ senatorial_clans_name:0 "Friends of the Republic" #NT!
+ senatorial_clans_doctrine_name:0 "Senatorial Clans" #NT!
+ senatorial_clans_doctrine_desc:0 "The Senate hasn't forget the betrayal of Michael of Constantinople or Carthage. Their decadent 'Clans' are not welcome in the hallowed Senate halls." #NT!
+ vengeful_carthage_name:0 "Vengeful Carthage" #NT!
+ vengeful_carthage_doctrine_name:0 "Pitiless Utopia" #NT!
+ vengeful_carthage_doctrine_desc:0 "Carthage has generations of wrongs to be righted. In the blood of the Romans traitors preferably." #NT!
+ broken_hope_name:0 "Broken Hope" #NT!
+ broken_hope_doctrine_name:0 "Failed Utopia" #NT!
+ broken_hope_doctrine_desc:0 "New Carthage is just a political tool with no soul. The spirit of the true Prometheans has been crushed by this new defeat." #NT!
+ secure_anda_name:0 "Secure Anda" #NT!
+ secure_anda_doctrine_name:0 "Managing an Empire" #NT!
+ secure_anda_doctrine_desc:0 "From skilled warmongers, the Anda also became skilled statesmen, using the religious tolerance of their Mongol kin as a building block." #NT!
+ crimsom_curia_name:0 "Crimson Curia" #NT!
+ crimsom_curia_doctrine_name:0 "Restored See of Nod" #NT!
+ crimsom_curia_doctrine_desc:0 "The restored ecclesiastic council of the Church of the Third Caine is handling the day to day affairs... but also calling for the expansion of the Church's dominion before the coming of the Savior." #NT!
+ militarized_experiments_name:0 "Workshop of Horrors" #NT!
+ militarized_experiments_doctrine_name:0 "Militarized Experiments" #NT!
+ militarized_experiments_doctrine_desc:0 "Twisted horrors and abominations are now even more routinely used by [Clan|E] Tzimisce as shock troops." #NT!
+ warden_network_name:0 "Warden Network" #NT!
+ warden_network_doctrine_name:0 "Eyes and Ears" #NT!
+ warden_network_doctrine_desc:0 "The Order of Moloch is more unified than it has ever been, ensuring that any warden can find help anywhere." #NT!
+ knights_acre_name:0 "Knights of Acre" #NT!
+ knights_acre_doctrine_name:0 "Readied Sword of God" #NT!
+ knights_acre_doctrine_desc:0 "The brave Knights are fully committed to the Inquisition purpose now, ready to unleash holy fury on the hellspawns." #NT!
+ oculi_dei_name:0 "Oculi Dei" #NT!
+ oculi_dei_doctrine_name:0 "Watchful Eyes" #NT!
+ oculi_dei_doctrine_desc:0 "The Oculi Dei has reined down its more paranoid members, making it an even more formidable asset against Evil." #NT!
+ sisters_stjohn_name:0 "Sisters of St. John" #NT!
+ sisters_stjohn_doctrine_name:0 "Godly Care" #NT!
+ sisters_stjohn_doctrine_desc:0 "The Sisters are the heart of the Inquisition, the very rock that supports it through the creeping darkness." #NT!
+ red_order_name:0 "Red Order" #NT!
+ red_order_doctrine_name:0 "Careful Guardians" #NT!
+ red_order_doctrine_desc:0 "The Red Order is the keeper of secrets of the Inquisition. And they only release their knowledge with the utmost precaution." #NT!
+ von_murnau_name:0 "House von Murnau" #NT!
+ von_murnau_doctrine_name:0 "Hounds of God" #NT!
+ von_murnau_doctrine_desc:0 "The German family is fully committed to the cause of Inquisition, bringing its considerable resources to bear." #NT!
+ great_awakening_name:0 "Great Awakening" #NT!
+ great_awakening_doctrine_name:0 "Great Awakening" #NT!
+ great_awakening_doctrine_desc:0 "Long have the Calomena's Forsaken struggled to pass the truth revealed to them to the masses, but they struggle no more. Wherever they preach the people listen and follow." #NT!
+ champions_gaia_name:0 "Champions of Gaia" #NT!
+ champions_gaia_doctrine_name:0 "Champions of Gaia" #NT!
+ champions_gaia_doctrine_desc:0 "Gaia is rightfully proud of her most brave defenders. The Garou are united behind their banner, finally saving the world from apocalypse." #NT!
+ under_wufeng_cause_name:0 "Under the Wu Feng's Cause" #NT!
+ under_wufeng_cause_doctrine_name:0 "Under the Wu Feng's Cause" #NT!
+ under_wufeng_cause_doctrine_desc:0 "Peace brings hope, hope brings healing, healing brings life. In all of these things, hell is defeated." #NT!
+ special_doctrine_is_wufeng_faith_name:0 "Wu Feng" #NT!
+ special_doctrine_is_wufeng_faith_desc:0 "Peace brings hope, hope brings healing, healing brings life. In all of these things, hell is defeated." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_wufeng_faith:0 "[faiths|E] with [GetFaithDoctrine('under_wufeng_cause_doctrine').GetBaseName] [doctrine|E] are considered to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ hostility_override_under_wufeng_cause_doctrine:0 "[faiths|E] that follow Wu Feng are considered to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+
+ hunter_schism_mended_name:0 "Hunter Schism Mended" #NT!
+ special_doctrine_hunter_schism_mended_name:0 "Hunter Schism Mended" #NT!
+ special_doctrine_hunter_schism_mended_desc:0 "Shadow Inquisition is under our mandate." #NT!
+ doctrine_parameter_access_to_holy_arts:0 "Gain access to Holy Arts" #NT!
+
+ theurgist_ordination_name:0 "Theurgist Ordination" #NT!
+ special_doctrine_theurgist_ordination_name:0 "Theurgist Ordination" #NT!
+ special_doctrine_theurgist_ordination_desc:0 "We teach theurgy." #NT!
+ doctrine_parameter_theurgist_ordination:0 "Disciple will gain [GetTrait('theurgist').GetName( GetPlayer )] [trait|E] on ordination." #NT!
+
+ sorcerer_ordination_name:0 "Sorcerer Ordination" #NT!
+ special_doctrine_sorcerer_ordination_name:0 "Sorcerer Ordination" #NT!
+ special_doctrine_sorcerer_ordination_desc:0 "We teach sorcery." #NT!
+ doctrine_parameter_sorcerer_ordination:0 "Disciple will gain [GetTrait('sorcerer').GetName( GetPlayer )] [trait|E] on ordination." #NT!

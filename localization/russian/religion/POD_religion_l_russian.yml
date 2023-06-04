@@ -1,0 +1,375 @@
+﻿l_russian:
+
+ rf_kindred:0 "Сородичи" #NT!
+ rf_ignorance:0 "Игнорирование" #NT!
+ rf_mummies:0 "Мумии" #NT!
+ rf_wraiths:0 "Призраки" #NT!
+ rf_kueijin:0 "Дхарма" #NT!
+ rf_demons:0 "Демоны" #NT!
+ holy_site_paris_name:0 "Париж" #NT!
+ holy_site_paris_effect_name:0 "From [holy_site|E] #weak ($holy_site_paris_name$)#!" #NT!
+ holy_site_burgos_name:0 "Бургос" #NT!
+ holy_site_burgos_effect_name:0 "From [holy_site|E] #weak ($holy_site_burgos_name$)#!" #NT!
+ holy_site_magdeburg_name:0 "Магдебург" #NT!
+ holy_site_magdeburg_effect_name:0 "From [holy_site|E] #weak ($holy_site_magdeburg_name$)#!" #NT!
+ holy_site_london_name:0 "Лондиниум" #NT!
+ holy_site_london_effect_name:0 "From [holy_site|E] #weak ($holy_site_london_name$)#!" #NT!
+ holy_site_chester_name:0 "Честер" #NT!
+ holy_site_chester_effect_name:0 "From [holy_site|E] #weak ($holy_site_chester_name$)#!" #NT!
+ holy_site_lothian_name:0 "Lothian" #NT!
+ holy_site_lothian_effect_name:0 "From [holy_site|E] #weak ($holy_site_lothian_name$)#!" #NT!
+ holy_site_gwynedd_name:0 "Гвинедд" #NT!
+ holy_site_gwynedd_effect_name:0 "From [holy_site|E] #weak ($holy_site_gwynedd_name$)#!" #NT!
+ holy_site_anjou_name:0 "Анжу" #NT!
+ holy_site_anjou_effect_name:0 "From [holy_site|E] #weak ($holy_site_anjou_name$)#!" #NT!
+ holy_site_acrocorinth_name:0 "Акрокоринф" #NT!
+ holy_site_acrocorinth_effect_name:0 "From [holy_site|E] #weak ($holy_site_acrocorinth_name$)#!" #NT!
+ holy_site_acrocorinthaphrodite_name:0 "Акрокоринф, Храм Афродиты" #NT!
+ holy_site_acrocorinthaphrodite_effect_name:0 "From [holy_site|E] #weak ($holy_site_acrocorinthaphrodite_name$)#!" #NT!
+ holy_site_lochleven_name:0 "Loch Leven" #NT!
+ holy_site_lochleven_effect_name:0 "From [holy_site|E] #weak ($holy_site_lochleven_name$)#!" #NT!
+ holy_site_the_seventh_church_name:0 "The Seventh Church" #NT!
+ holy_site_the_seventh_church_effect_name:0 "From [holy_site|E] #weak ($holy_site_the_seventh_church_name$)#!" #NT!
+ holy_site_the_isle_of_glass_name:0 "The Isle of Glass" #NT!
+ holy_site_isle_of_glass_effect_name:0 "From [holy_site|E] #weak ($holy_site_the_isle_of_glass_name$)#!" #NT!
+ holy_site_golconda_name:0 "Голконда" #NT!
+ holy_site_golconda_effect_name:0 "From [holy_site|E] #weak ($holy_site_golconda_name$)#!" #NT!
+ holy_site_chorazin_name:0 "Хоразин" #NT!
+ holy_site_chorazin_effect_name:0 "From [holy_site|E] #weak ($holy_site_chorazin_name$)#!" #NT!
+ holy_site_tyre_name:0 "Тир" #NT!
+ holy_site_tyre_effect_name:0 "From [holy_site|E] #weak ($holy_site_tyre_name$)#!" #NT!
+ holy_site_susa_name:0 "Susa" #NT!
+ holy_site_susa_effect_name:0 "From [holy_site|E] #weak ($holy_site_susa_name$)#!" #NT!
+ holy_site_milan_name:0 "Милан" #NT!
+ holy_site_milan_effect_name:0 "From [holy_site|E] #weak ($holy_site_milan_name$)#!" #NT!
+ holy_site_nikaea_name:0 "Никея" #NT!
+ holy_site_nikaea_effect_name:0 "From [holy_site|E] #weak ($holy_site_nikaea_name$)#!" #NT!
+ holy_site_zachlumia_name:0 "Zachlumia" #NT!
+ holy_site_zachlumia_effect_name:0 "From [holy_site|E] #weak ($holy_site_zachlumia_name$)#!" #NT!
+ holy_site_frankfurt_name:0 "Франкфурт" #NT!
+ holy_site_frankfurt_effect_name:0 "From [holy_site|E] #weak ($holy_site_frankfurt_name$)#!" #NT!
+ holy_site_memphis_sin_name:0 "Мемфис, Сад Гадюк" #NT!
+ holy_site_memphis_sin_effect_name:0 "From [holy_site|E] #weak ($holy_site_memphis_sin_name$)#!" #NT!
+ holy_site_alexandria_set_name:0 "Александрия, Двор Чудес" #NT!
+ holy_site_alexandria_set_effect_name:0 "From [holy_site|E] #weak ($holy_site_alexandria_set_name$)#!" #NT!
+ holy_site_carthage_set_name:0 "Карфаген, Лабиринт Костей" #NT!
+ holy_site_carthage_set_effect_name:0 "From [holy_site|E] #weak ($holy_site_carthage_set_name$)#!" #NT!
+ holy_site_ancona_name:0 "Афродизиум" #NT!
+ holy_site_ancona_effect_name:0 "From [holy_site|E] #weak ($holy_site_ancona_name$)#!" #NT!
+ holy_site_venice_name:0 "Венеция" #NT!
+ holy_site_venice_effect_name:0 "From [holy_site|E] #weak ($holy_site_venice_name$)#!" #NT!
+ holy_site_lisbon_name:0 "Лисбон" #NT!
+ holy_site_lisbon_effect_name:0 "From [holy_site|E] #weak ($holy_site_lisbon_name$)#!" #NT!
+ holy_site_vienna_name:0 "Вена" #NT!
+ holy_site_vienna_effect_name:0 "From [holy_site|E] #weak ($holy_site_vienna_name$)#!" #NT!
+ holy_site_ceoris_name:0 "Цеорис" #NT!
+ holy_site_ceoris_effect_name:0 "From [holy_site|E] #weak ($holy_site_ceoris_name$)#!" #NT!
+ holy_site_erciyes_name:0 "Аргеос" #NT!
+ holy_site_erciyes_effect_name:0 "From [holy_site|E] #weak ($holy_site_erciyes_name$)#!" #NT!
+ holy_site_kaymakli_name:0 "Kaymakli" #NT!
+ holy_site_kaymakli_effect_name:0 "From [holy_site|E] #weak ($holy_site_kaymakli_name$)#!" #NT!
+ holy_site_thessalia_name:0 "Thessalia" #NT!
+ holy_site_thessalia_effect_name:0 "From [holy_site|E] #weak ($holy_site_thessalia_name$)#!" #NT!
+ holy_site_alamut_name:0 "Аламут" #NT!
+ holy_site_alamut_effect_name:0 "From [holy_site|E] #weak ($holy_site_alamut_name$)#!" #NT!
+ holy_site_petra_name:0 "Петра" #NT!
+ holy_site_petra_effect_name:0 "From [holy_site|E] #weak ($holy_site_petra_name$)#!" #NT!
+ holy_site_tripoli_name:0 "Триполи" #NT!
+ holy_site_tripoli_effect_name:0 "From [holy_site|E] #weak ($holy_site_tripoli_name$)#!" #NT!
+ holy_site_hunedoara_name:0 "Hunedoara" #NT!
+ holy_site_hunedoara_effect_name:0 "From [holy_site|E] #weak ($holy_site_hunedoara_name$)#!" #NT!
+ holy_site_sernog_name:0 "Монастырь Сернога" #NT!
+ holy_site_sernog_effect_name:0 "From [holy_site|E] #weak ($holy_site_sernog_name$)#!" #NT!
+ holy_site_krakow_name:0 "Краков" #NT!
+ holy_site_krakow_effect_name:0 "From [holy_site|E] #weak ($holy_site_krakow_name$)#!" #NT!
+ holy_site_biskupin_name:0 "Biskupin" #NT!
+ holy_site_biskupin_effect_name:0 "From [holy_site|E] #weak ($holy_site_biskupin_name$)#!" #NT!
+ holy_site_pinsk_name:0 "Pinsk Marshes" #NT!
+ holy_site_pinsk_effect_name:0 "From [holy_site|E] #weak ($holy_site_pinsk_name$)#!" #NT!
+ holy_site_uruk_name:0 "Uruk" #NT!
+ holy_site_uruk_effect_name:0 "From [holy_site|E] #weak ($holy_site_uruk_name$)#!" #NT!
+ holy_site_irbil_name:0 "Ирбил" #NT!
+ holy_site_irbil_effect_name:0 "From [holy_site|E] #weak ($holy_site_irbil_name$)#!" #NT!
+ holy_site_philae_name:0 "Philae" #NT!
+ holy_site_philae_effect_name:0 "From [holy_site|E] #weak ($holy_site_philae_name$)#!" #NT!
+ holy_site_drepung_name:0 "Drepung" #NT!
+ holy_site_drepung_effect_name:0 "From [holy_site|E] #weak ($holy_site_drepung_name$)#!" #NT!
+ holy_site_timbuktu_name:0 "Timbuktu" #NT!
+ holy_site_timbuktu_effect_name:0 "From [holy_site|E] #weak ($holy_site_timbuktu_name$)#!" #NT!
+ holy_site_boure_name:0 "Boure" #NT!
+ holy_site_boure_effect_name:0 "From [holy_site|E] #weak ($holy_site_boure_name$)#!" #NT!
+ holy_site_gao_name:0 "Гао" #NT!
+ holy_site_gao_effect_name:0 "From [holy_site|E] #weak ($holy_site_gao_name$)#!" #NT!
+ holy_site_elghaba_name:0 "Эль-Габа" #NT!
+ holy_site_elghaba_effect_name:0 "From [holy_site|E] #weak ($holy_site_elghaba_name$)#!" #NT!
+ holy_site_tibesti_name:0 "Tibesti" #NT!
+ holy_site_tibesti_effect_name:0 "From [holy_site|E] #weak ($holy_site_tibesti_name$)#!" #NT!
+ holy_site_napoli_set_name:0 "Naples, Cave of Apples" #NT!
+ holy_site_napoli_effect_name:0 "From [holy_site|E] #weak ($holy_site_napoli_set_name$)#!" #NT!
+ holy_site_tangiers_set_name:0 "Tangiers, Descending Aerie" #NT!
+ holy_site_tangiers_effect_name:0 "From [holy_site|E] #weak ($holy_site_tangiers_set_name$)#!" #NT!
+ holy_site_cairo_set_name:0 "Каир, Двор Сновидений" #NT!
+ holy_site_cairo_effect_name:0 "From [holy_site|E] #weak ($holy_site_cairo_set_name$)#!" #NT!
+ holy_site_siracusa_name:0 "Кастель д'Омбро" #NT!
+ holy_site_siracusa_effect_name:0 "From [holy_site|E] #weak ($holy_site_siracusa_name$)#!" #NT!
+ holy_site_madrid_name:0 "Мадрид" #NT!
+ holy_site_madrid_effect_name:0 "From [holy_site|E] #weak ($holy_site_madrid_name$)#!" #NT!
+ holy_site_knidos_name:0 "Knidos, Temple of Aphrodite Euploia" #NT!
+ holy_site_knidos_effect_name:0 "From [holy_site|E] #weak ($holy_site_knidos_name$)#!" #NT!
+ holy_site_paphos_name:0 "Paphos, Sanctuary of Aphrodite Paphia" #NT!
+ holy_site_paphos_effect_name:0 "From [holy_site|E] #weak ($holy_site_paphos_name$)#!" #NT!
+ holy_site_abonoteichos_name:0 "Abonoteichos, Temple of Glycon" #NT!
+ holy_site_abonoteichos_effect_name:0 "From [holy_site|E] #weak ($holy_site_abonoteichos_name$)#!" #NT!
+ holy_site_mosala_name:0 "Мосада, Дом Катарагамы" #NT!
+ holy_site_mosala_effect_name:0 "From [holy_site|E] #weak ($holy_site_mosala_name$)#!" #NT!
+ holy_site_trincomalee_name:0 "Battlefield of Trincomalee" #NT!
+ holy_site_trincomalee_effect_name:0 "From [holy_site|E] #weak ($holy_site_trincomalee_name$)#!" #NT!
+ holy_site_demchok_name:0 "Demchok" #NT!
+ holy_site_demchok_effect_name:0 "From [holy_site|E] #weak ($holy_site_demchok_name$)#!" #NT!
+ holy_site_aksay_name:0 "Aksay" #NT!
+ holy_site_aksay_effect_name:0 "From [holy_site|E] #weak ($holy_site_aksay_name$)#!" #NT!
+ holy_site_dimapur_name:0 "Dimapur" #NT!
+ holy_site_dimapur_effect_name:0 "From [holy_site|E] #weak ($holy_site_dimapur_name$)#!" #NT!
+ holy_site_rebgong_pod_name:0 "Rebgong" #NT!
+ holy_site_rebong_pod_effect_name:0 "From [holy_site|E] #weak ($holy_site_rebgong_pod_name$)#!" #NT!
+ holy_site_tawang_name:0 "Tawang" #NT!
+ holy_site_tawang_effect_name:0 "From [holy_site|E] #weak ($holy_site_tawang_name$)#!" #NT!
+ holy_site_radha_name:0 "Radha" #NT!
+ holy_site_radha_effect_name:0 "From [holy_site|E] #weak ($holy_site_radha_name$)#!" #NT!
+ holy_site_uulynkhol_name:0 "Uulynkhöl" #NT!
+ holy_site_uulynkhol_effect_name:0 "From [holy_site|E] #weak ($holy_site_uulynkhol_name$)#!" #NT!
+ holy_site_tripuri_name:0 "Tripuri" #NT!
+ holy_site_tripuri_effect_name:0 "From [holy_site|E] #weak ($holy_site_tripuri_name$)#!" #NT!
+ holy_site_geneva_name:0 "Женева" #NT!
+ holy_site_geneva_effect_name:0 "From [holy_site|E] #weak ($holy_site_tripuri_name$)#!" #NT!
+ holy_site_salerno_name:0 "Università degli Studi di Salerno" #NT!
+ holy_site_salerno_effect_name:0 "From [holy_site|E] #weak ($holy_site_salerno_name$)#!" #NT!
+ holy_site_marseilles_name:0 "Couvent de la Madeleine Noire" #NT!
+ holy_site_marseilles_effect_name:0 "From [holy_site|E] #weak ($holy_site_marseilles_name$)#!" #NT!
+ holy_site_blackmonastery_name:0 "Black Monastery" #NT!
+ holy_site_blackmonastery_effect_name:0 "From [holy_site|E] #weak ($holy_site_blackmonastery_name$)#!" #NT!
+ holy_site_praha_name:0 "Прага" #NT!
+ holy_site_praha_effect_name:0 "From [holy_site|E] #weak ($holy_site_praha_name$)#!" #NT!
+ holy_site_bumthang_name:0 "Bumthang" #NT!
+ holy_site_bumthang_effect_name:0 "From [holy_site|E] #weak ($holy_site_bumthang_name$)#!" #NT!
+ holy_site_domazlice_name:0 "Domažlice" #NT!
+ holy_site_domazlice_effect_name:0 "From [holy_site|E] #weak ($holy_site_domazlice_name$)#!" #NT!
+ holy_site_pamplona_name:0 "Pamplona" #NT!
+ holy_site_pamplona_effect_name:0 "From [holy_site|E] #weak ($holy_site_pamplona_name$)#!" #NT!
+ holy_site_krajna_name:0 "Krajna" #NT!
+ holy_site_krajna_effect_name:0 "From [holy_site|E] #weak ($holy_site_krajna_name$)#!" #NT!
+ holy_site_brno_name:0 "Брно" #NT!
+ holy_site_brno_effect_name:0 "From [holy_site|E] #weak ($holy_site_brno_name$)#!" #NT!
+ holy_site_hadithat-ana_name:0 "Hadithat-ana" #NT!
+ holy_site_hadithat-ana_effect_name:0 "From [holy_site|E] #weak ($holy_site_hadithat-ana_name$)#!" #NT!
+ holy_site_thorns_name:0 "Торнс" #NT!
+ holy_site_thornseffect_name:0 "From [holy_site|E] #weak ($holy_site_thorns_name$)#!" #NT!
+ holy_site_ghent_name:0 "Ghent" #NT!
+ holy_site_ghent_effect_name:0 "From [holy_site|E] #weak ($holy_site_ghent_name$)#!" #NT!
+ holy_site_enoch_name:0 "Энох" #NT!
+ holy_site_enoch_effect_name:0 "From [holy_site|E] #weak ($holy_site_enoch_name$)#!" #NT!
+ holy_site_smolensk_name:0 "Смоленск" #NT!
+ holy_site_smolensk_effect_name:0 "From [holy_site|E] #weak ($holy_site_smolensk_name$)#!" #NT!
+ holy_site_palermo_name:0 "Палермо" #NT!
+ holy_site_palermo_effect_name:0 "From [holy_site|E] #weak ($holy_site_palermo_name$)#!" #NT!
+ ashirra_hostility_doctrine_name:0 "Аширра" #NT!
+ ashirra_hostility_doctrine_desc:0 "" #NT!
+ vampirecainite_hostility_doctrine_name:0 "[Concept('cainite', 'Каинитская'|E] Ересь" #NT!
+ vampirecainite_hostility_doctrine_desc:0 "" #NT!
+ codeoftremere_hostility_doctrine_name:0 "Кодекс Тремер" #NT!
+ codeoftremere_hostility_doctrine_desc:0 "" #NT!
+ raktasadhus_hostility_doctrine_name:0 "Рактасадхус" #NT!
+ raktasadhus_hostility_doctrine_desc:0 "" #NT!
+ roadofbeast_hostility_doctrine_name:0 "Дорога Зверя" #NT!
+ roadofbeast_hostility_doctrine_desc:0 "" #NT!
+ roadofblood_hostility_doctrine_name:0 "Дорога Крови" #NT!
+ roadofblood_hostility_doctrine_desc:0 "" #NT!
+ roadofbones_hostility_doctrine_name:0 "Дорога Костей" #NT!
+ roadofbones_hostility_doctrine_desc:0 "" #NT!
+ roadofheaven_hostility_doctrine_name:0 "Дорога Небес" #NT!
+ roadofheaven_hostility_doctrine_desc:0 "" #NT!
+ roadofhive_hostility_doctrine_name:0 "Дорога Улья" #NT!
+ roadofhive_hostility_doctrine_desc:0 "" #NT!
+ roadofhumanity_hostility_doctrine_name:0 "Дорога Человечества" #NT!
+ roadofhumanity_hostility_doctrine_desc:0 "" #NT!
+ roadofkings_hostility_doctrine_name:0 "Дорога Королей" #NT!
+ roadofkings_hostility_doctrine_desc:0 "" #NT!
+ roadoflilith_hostility_doctrine_name:0 "Дорога Лилит" #NT!
+ roadoflilith_hostility_doctrine_desc:0 "" #NT!
+ roadofmetamorphosis_hostility_doctrine_name:0 "Дорога Метаморфоз" #NT!
+ roadofmetamorphosis_hostility_doctrine_desc:0 "" #NT!
+ roadofsin_hostility_doctrine_name:0 "Дорога Греха" #NT!
+ roadofsin_hostility_doctrine_desc:0 "" #NT!
+ roadofzarathustra_hostility_doctrine_name:0 "Дорога Заратустры" #NT!
+ roadofzarathustra_hostility_doctrine_desc:0 "" #NT!
+ camarilla_hostility_doctrine_name:0 "Камарилья" #NT!
+ camarilla_hostility_doctrine_desc:0 "" #NT!
+ sabbat_hostility_doctrine_name:0 "Шабаш" #NT!
+ sabbat_hostility_doctrine_desc:0 "" #NT!
+ inconnu_hostility_doctrine_name:0 "Inconnu" #NT!
+ inconnu_hostility_doctrine_desc:0 "" #NT!
+ autarkis_hostility_doctrine_name:0 "Autarkis" #NT!
+ autarkis_hostility_doctrine_desc:0 "" #NT!
+ talmahera_hostility_doctrine_name:0 "Тал ма'Э Ра" #NT!
+ talmahera_hostility_doctrine_desc:0 "" #NT!
+ roadoflaibon_hostility_doctrine_name:0 "Дорога Лайбон" #NT!
+ roadoflaibon_hostility_doctrine_desc:0 "" #NT!
+ roadofset_hostility_doctrine_name:0 "Дорога Сета" #NT!
+ roadofset_hostility_doctrine_desc:0 "" #NT!
+ naktanchara_hostility_doctrine_name:0 "Vetaladharma" #NT!
+ naktanchara_hostility_doctrine_desc:0 "" #NT!
+ kueijin_hostility_doctrine_name:0 "Kuei-Jin" #NT!
+ kueijin_hostility_doctrine_desc:0 "" #NT!
+ ordos_hostility_doctrine_name:0 "Ordos" #NT!
+ ordos_hostility_doctrine_desc:0 "" #NT!
+ modernanarch_hostility_doctrine_name:0 "Анархи" #NT!
+ modernanarch_hostility_doctrine_desc:0 "" #NT!
+ hunters_hostility_doctrine_name:0 "Охотники" #NT!
+ hunters_hostility_doctrine_desc:0 "" #NT!
+ bloodgnosticism_hostility_doctrine_name:0 "Гностицизм Крови" #NT!
+ bloodgnosticism_hostility_doctrine_desc:0 "" #NT!
+ calomenasforsaken_hostility_doctrine_name:0 "Calomena's Forsaken " #NT!
+ calomenasforsaken_hostility_doctrine_desc:0 "" #NT!
+ ignorance_hostility_doctrine_name:0 "Неосведомленность" #NT!
+ ignorance_hostility_doctrine_desc:0 "" #NT!
+ mummies_hostility_doctrine_name:0 "Мумии" #NT!
+ mummies_hostility_doctrine_desc:0 "" #NT!
+ gaia_hostility_doctrine_name:0 "Гайя" #NT!
+ gaia_hostility_doctrine_desc:0 "" #NT!
+ wyrm_hostility_doctrine_name:0 "Вирм" #NT!
+ wyrm_hostility_doctrine_desc:0 "" #NT!
+ wraiths_hostility_doctrine_name:0 "Призраки" #NT!
+ wraiths_hostility_doctrine_desc:0 "" #NT!
+ demons_hostility_doctrine_name:0 "Демоны" #NT!
+ demons_hostility_doctrine_desc:0 "" #NT!
+
+ holy_site_castle_lake_holy_name:0 "Замок в Озере" #NT!
+ holy_site_castle_lake_effect_name:0 "From [holy_site|E] #weak ($holy_site_castle_lake_holy_name$)#!" #NT!
+ holy_site_knossos_name:0 "Кносс" #NT!
+ holy_site_knossos_effect_name:0 "From [holy_site|E] #weak ($holy_site_knossos_name$)#!" #NT!
+ holy_site_devon_name:0 "Замок Авалон" #NT!
+ holy_site_devon_effect_name:0 "From [holy_site|E] #weak ($holy_site_devon_name$)#!" #NT!
+ holy_site_tiberias_name:0 "Kerak-in-Dan" #NT!
+ holy_site_tiberias_effect_name:0 "From [holy_site|E] #weak ($holy_site_tiberias_name$)#!" #NT!
+ holy_site_york_name:0 "Йорк" #NT!
+ holy_site_york_effect_name:0 "From [holy_site|E] #weak ($holy_site_york_name$)#!" #NT!
+ holy_site_giza_name:0 "Гиза" #NT!
+ holy_site_giza_effect_name:0 "From [holy_site|E] #weak ($holy_site_giza_name$)#!" #NT!
+ holy_site_qus_name:0 "Кус" #NT!
+ holy_site_qus_effect_name:0 "From [holy_site|E] #weak ($holy_site_qus_name$)#!" #NT!
+ faith_conversion_cost_traditional_religion:0 "This faith is traditional to your Clan" #NT!
+ faith_conversion_cost_patron_religion:0 "This faith is a Patron faith" #NT!
+ rf_triat:0 "Triat" #NT!
+ holy_site_kherson_name:0 "Херсон" #NT!
+ holy_site_kherson_effect_name:0 "From [holy_site|E] #weak ($holy_site_kherson_name$)#!" #NT!
+ holy_site_chandax_name:0 "Chandax" #NT!
+ holy_site_chandax_effect_name:0 "From [holy_site|E] #weak ($holy_site_chandax_name$)#!" #NT!
+ holy_site_vannes_name:0 "Vannes" #NT!
+ holy_site_vannes_effect_name:0 "From [holy_site|E] #weak ($holy_site_vannes_name$)#!" #NT!
+ holy_site_kunlun_name:0 "Кунь Лунь" #NT!
+ holy_site_kunlun_effect_name:0 "From [holy_site|E] #weak ($holy_site_kunlun_name$)#!" #NT!
+ faith_conversion_cost_wrong_splat_religion:0 "This faith is completely alien to the character" #NT!
+ holy_site_milangrey_name:0 "Милан" #NT!
+ holy_site_milangrey_effect_name:0 "From [holy_site|E] #weak ($holy_site_milangrey_name$)#!" #NT!
+ holy_site_moskva_name:0 "Москва" #NT!
+ holy_site_moskva_effect_name:0 "From [holy_site|E] #weak ($holy_site_moskva_name$)#!" #NT!
+ holy_site_nizhny_novgorod_name:0 "Obran Oshan" #NT!
+ holy_site_nizhny_novgorod_effect_name:0 "From [holy_site|E] #weak ($holy_site_nizhny_novgorod_name$)#!" #NT!
+ holy_site_saran_name:0 "Saran" #NT!
+ holy_site_saran_effect_name:0 "From [holy_site|E] #weak ($holy_site_saran_name$)#!" #NT!
+ holy_site_ashli_name:0 "Ashli" #NT!
+ holy_site_ashli_effect_name:0 "From [holy_site|E] #weak ($holy_site_ashli_name$)#!" #NT!
+ holy_site_kolyn_name:0 "Колынь" #NT!
+ holy_site_kolyn_effect_name:0 "From [holy_site|E] #weak ($holy_site_kolyn_name$)#!" #NT!
+ faith_conversion_cost_vanilla_religion:0 "This faith isn't supported in the mod." #NT!
+ holy_site_crystal_fortress_name:0 "Кристальная Крепость" #NT!
+ holy_site_crystal_fortress_effect_name:0 "From [holy_site|E] #weak ($holy_site_crystal_fortress_name$)#!" #NT!
+ holy_site_court_of_all_kings_name:0 "Court of All Kings" #NT!
+ holy_site_court_of_all_kings_effect_name:0 "From [holy_site|E] #weak ($holy_site_court_of_all_kings_name$)#!" #NT!
+ holy_site_black_road_name:0 "Черная Дорога" #NT!
+ holy_site_black_road_effect_name:0 "From [holy_site|E] #weak ($holy_site_black_road_name$)#!" #NT!
+ holy_site_underbridge_name:0 "Underbridge" #NT!
+ holy_site_underbridge_effect_name:0 "From [holy_site|E] #weak ($holy_site_underbridge_name$)#!" #NT!
+ holy_site_ynys_witrin_name:0 "Ynys Witrin" #NT!
+ holy_site_ynys_witrin_effect_name:0 "From [holy_site|E] #weak ($holy_site_ynys_witrin_name$)#!" #NT!
+ holy_site_valiant_forge_name:0 "Valiant Forge" #NT!
+ holy_site_valiant_forge_effect_name:0 "From [holy_site|E] #weak ($holy_site_valiant_forge_name$)#!" #NT!
+ holy_site_faerie_well_name:0 "Promise of the Fairie Well" #NT!
+ holy_site_faerie_well_effect_name:0 "From [holy_site|E] #weak ($holy_site_faerie_well_name$)#!" #NT!
+ holy_site_grand_bazaar_name:0 "Великий Базар" #NT!
+ holy_site_grand_bazaar_effect_name:0 "From [holy_site|E] #weak ($holy_site_grand_bazaar_name$)#!" #NT!
+ holy_site_callicantzaroi_name:0 "Callicantzaroi Court" #NT!
+ holy_site_callicantzaroi_effect_name:0 "From [holy_site|E] #weak ($holy_site_callicantzaroi_name$)#!" #NT!
+ holy_site_amber_palace_name:0 "Amber Palace" #NT!
+ holy_site_amber_palace_effect_name:0 "From [holy_site|E] #weak ($holy_site_amber_palace_name$)#!" #NT!
+ holy_site_keshalyi_name:0 "Keshalyi Gatherings" #NT!
+ holy_site_kenhalyi_effect_name:0 "From [holy_site|E] #weak ($holy_site_keshalyi_name$)#!" #NT!
+ holy_site_ocean_of_dust_name:0 "Ocean of Dust" #NT!
+ holy_site_ocean_of_dust_effect_name:0 "From [holy_site|E] #weak ($holy_site_ocean_of_dust_name$)#!" #NT!
+ holy_site_heady_apple_name:0 "Griggling Apple" #NT!
+ holy_site_heady_apple_effect_name:0 "From [holy_site|E] #weak ($holy_site_heady_apple_name$)#!" #NT!
+ holy_site_silent_waves_name:0 "Sea of Silent Waves" #NT!
+ holy_site_silent_waves_effect_name:0 "From [holy_site|E] #weak ($holy_site_silent_waves_name$)#!" #NT!
+ holy_site_siberakh_name:0 "Plains of Siberakh" #NT!
+ holy_site_siberakh_effect_name:0 "From [holy_site|E] #weak ($holy_site_siberakh_name$)#!" #NT!
+ holy_site_lost_forge_name:0 "Lost Forge" #NT!
+ holy_site_lost_forge_effect_name:0 "From [holy_site|E] #weak ($holy_site_lost_forge_name$)#!" #NT!
+ holy_site_vesuvius_name:0 "Mount Vesuvius" #NT!
+ holy_site_vesuvius_effect_name:0 "From [holy_site|E] #weak ($holy_site_vesuvius_name$)#!" #NT!
+ holy_site_teide_name:0 "Teide" #NT!
+ holy_site_teide_effect_name:0 "From [holy_site|E] #weak ($holy_site_teide_name$)#!" #NT!
+ holy_site_hekla_name:0 "Hekla" #NT!
+ holy_site_hekla_effect_name:0 "From [holy_site|E] #weak ($holy_site_hekla_name$)#!" #NT!
+ holy_site_nea_kameni_name:0 "Nea Kameni" #NT!
+ holy_site_nea_kameni_effect_name:0 "From [holy_site|E] #weak ($holy_site_nea_kameni_name$)#!" #NT!
+ holy_site_arat_name:0 "Mount Arat" #NT!
+ holy_site_arat_effect_name:0 "From [holy_site|E] #weak ($holy_site_arat_name$)#!" #NT!
+ holy_site_everest_name:0 "Эверест" #NT!
+ holy_site_everest_effect_name:0 "From [holy_site|E] #weak ($holy_site_everest_name$)#!" #NT!
+ holy_site_matterhorn_name:0 "Matterhorn" #NT!
+ holy_site_matterhorn_effect_name:0 "From [holy_site|E] #weak ($holy_site_matterhorn_name$)#!" #NT!
+ holy_site_elbrus_name:0 "Эльбрус" #NT!
+ holy_site_elbrus_effect_name:0 "From [holy_site|E] #weak ($holy_site_elbrus_name$)#!" #NT!
+ holy_site_toubkal_name:0 "Toubkal" #NT!
+ holy_site_toubkal_effect_name:0 "From [holy_site|E] #weak ($holy_site_toubkal_name$)#!" #NT!
+ holy_site_loch_ness_name:0 "Loch Ness" #NT!
+ holy_site_loch_ness_effect_name:0 "From [holy_site|E] #weak ($holy_site_loch_ness_name$)#!" #NT!
+ holy_site_frozen_lake_name:0 "Frozen Lake" #NT!
+ holy_site_frozen_lake_effect_name:0 "From [holy_site|E] #weak ($holy_site_frozen_lake_name$)#!" #NT!
+ holy_site_lake_van_name:0 "Lake Van" #NT!
+ holy_site_lake_van_effect_name:0 "From [holy_site|E] #weak ($holy_site_lake_van_name$)#!" #NT!
+ holy_site_lake_baikal_name:0 "Lake Baikal" #NT!
+ holy_site_lake_baikal_effect_name:0 "From [holy_site|E] #weak ($holy_site_lake_baikal_name$)#!" #NT!
+ holy_site_aral_sea_name:0 "Aral Sea" #NT!
+ holy_site_aral_sea_effect_name:0 "From [holy_site|E] #weak ($holy_site_aral_sea_name$)#!" #NT!
+ holy_site_kardamyli_name:0 "Kardamyli" #NT!
+ holy_site_kardamyli_effect_name:0 "From [holy_site|E] #weak ($holy_site_kardamyli_name$)#!" #NT!
+ holy_site_bialowieza_forest_name:0 "Białowieża Forest" #NT!
+ holy_site_bialowieza_forest_effect_name:0 "From [holy_site|E] #weak ($holy_site_bialowieza_forest_name$)#!" #NT!
+ holy_site_broceliande_name:0 "Forest Brocéliande" #NT!
+ holy_site_broceliande_effect_name:0 "From [holy_site|E] #weak ($holy_site_broceliande_name$)#!" #NT!
+ holy_site_wistmans_wood_name:0 "Wistman's Wood" #NT!
+ holy_site_wistmans_wood_effect_name:0 "From [holy_site|E] #weak ($holy_site_wistmans_wood_name$)#!" #NT!
+ holy_site_hoia_forest_name:0 "Hoia Forest" #NT!
+ holy_site_hoia_forest_effect_name:0 "From [holy_site|E] #weak ($holy_site_hoia_forest_name$)#!" #NT!
+ holy_site_black_forest_name:0 "Черный Лес" #NT!
+ holy_site_black_forest_effect_name:0 "From [holy_site|E] #weak ($holy_site_black_forest_name$)#!" #NT!
+ holy_site_foloi_oak_forest_name:0 "Foloi Oak Forest" #NT!
+ holy_site_foloi_oak_forest_effect_name:0 "From [holy_site|E] #weak ($holy_site_foloi_oak_forest_name$)#!" #NT!
+ holy_site_slive_gullion_forest_name:0 "Sliabh gCuillinn" #NT!
+ holy_site_slive_gullion_forest_effect_name:0 "From [holy_site|E] #weak ($holy_site_slive_gullion_forest_name$)#!" #NT!
+ holy_site_puzzlewood_name:0 "Puzzlewood" #NT!
+ holy_site_puzzlewood_effect_name:0 "From [holy_site|E] #weak ($holy_site_puzzlewood_name$)#!" #NT!
+ holy_site_lost_forest_name:0 "Lost Forest" #NT!
+ holy_site_lost_forest_effect_name:0 "From [holy_site|E] #weak ($holy_site_lost_forest_name$)#!" #NT!
+ holy_site_gruissan_name:0 "Gruissan" #NT!
+ holy_site_gruissan_effect_name:0 "From [holy_site|E] #weak ($holy_site_gruissan_name$)#!" #NT!
+ holy_site_storhofoi_name:0 "Stórhöfði" #NT!
+ holy_site_storhofoi_effect_name:0 "From [holy_site|E] #weak ($holy_site_storhofoi_name$)#!" #NT!
+ holy_site_tarifa_name:0 "Tarifa" #NT!
+ holy_site_tarifa_effect_name:0 "From [holy_site|E] #weak ($holy_site_tarifa_name$)#!" #NT!
+ holy_site_baku_name:0 "Баку" #NT!
+ holy_site_baku_effect_name:0 "From [holy_site|E] #weak ($holy_site_baku_name$)#!" #NT!
+ holy_site_ab_paran_name:0 "Ab-Paran" #NT!
+ holy_site_ab_paran_effect_name:0 "From [holy_site|E] #weak ($holy_site_ab_paran_name$)#!" #NT!
+

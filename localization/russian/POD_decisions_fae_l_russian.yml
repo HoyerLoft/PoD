@@ -1,0 +1,145 @@
+﻿l_russian:
+ POD_fae_rapture_decision:0 "Rapture" #NT!
+ POD_fae_rapture_decision_desc:1 "Rapture allows a kithain to gain Glamour from their own imagination. The moment of Rapture is one of pure and total ecstasy as the kithain connects directly to the Dreaming. The two halves of their nature are united as one for a brief and fleeting moment." #NT!
+ POD_fae_rapture_decision_tooltip:1 "You will use the Rapture." #NT!
+ POD_fae_rapture_decision_confirm:1 "Harvested!" #NT!
+
+ POD_region_seasons_struggle:0 "Seasonal Battlefield" #NT!
+ struggle_seasons_ending_hostility_decision_region_tt:0 "No other [independent|E] [struggle_involved|E] [ruler|E] controls more than 20% of [GetGeographicalRegion('POD_region_seasons_struggle').GetName]" #NT!
+ struggle_seasons_ending_hostility_decision_court_tt:0 "The [TARGET_TITLE.GetNameNoTier] must be held by a character" #NT!
+ struggle_seasons_ending_compromise_decision_region_tt:0 "No other [independent|E] [struggle_involved|E] [ruler|E] controls more than 50% of [GetGeographicalRegion('POD_region_seasons_struggle').GetName]" #NT!
+ struggle_seasons_ending_compromise_truce_tt:0 "No [wars|E] between [struggle_involved|E] [independent|E] [rulers|E]" #NT!
+ struggle_seasons_ending_compromise_decision_court_tt:0 "The [TARGET_TITLE.GetNameNoTier] must be held by different characters" #NT!
+ struggle_seasons_ending_conciliation_decision_alliance_tt:0 "All other [independent|E] [struggle_involved|E] [rulers|E] have an [alliance|E] with you" #NT!
+ winter_victory_decision_effect_tooltip:0 "The Winter Court will acquire the [de_jure|E] of all currently held Empires." #NT!
+ spring_victory_decision_effect_tooltip:0 "The Spring Court will acquire the [de_jure|E] of all currently held Empires." #NT!
+ summer_victory_decision_effect_tooltip:0 "The Summer Court will acquire the [de_jure|E] of all currently held Empires." #NT!
+ autumn_victory_decision_effect_tooltip:0 "The Autumn court will acquire the [de_jure|E] of all currently held Empires." #NT!
+ solstice_victory_decision_effect_tooltip:0 "You chosen court will acquire the [de_jure|E] of all currently held Empires." #NT!
+ winter_victory_doctrine_effect_tooltip:0 "The Winter Court will keep [GetFaithDoctrine('doctrine_winter_time').GetBaseName] [doctrine|E] forever." #NT!
+ spring_victory_doctrine_effect_tooltip:0 "The Spring Court will keep [GetFaithDoctrine('doctrine_spring_time').GetBaseName] [doctrine|E] forever." #NT!
+ summer_victory_doctrine_effect_tooltip:0 "The Summer Court will keep [GetFaithDoctrine('doctrine_summer_time').GetBaseName] [doctrine|E] forever." #NT!
+ autumn_victory_doctrine_effect_tooltip:0 "The Autumn court will keep [GetFaithDoctrine('doctrine_autumn_time').GetBaseName] [doctrine|E] forever." #NT!
+ solstice_victory_doctrine_effect_tooltip:0 "Your chosen court will keep the corresponding season [doctrine|E] forever, the Solstice Court will also get that [doctrine|E]." #NT!
+ seasons_struggle_compromise_effect_tooltip:0 "Each court will acquire a kingdom of [GetGeographicalRegion('POD_region_seasons_struggle').GetName] of your choice." #NT!
+ seasons_struggle_conciliation_effect_tooltip:0 "Every [independent|E] [struggle_involved|E] [rulers|E] will become your vassal." #NT!
+
+ seasons_struggle:0 "War of Seasons" #NT!
+ seasons_struggle_desc:0 "$bm_1230_fae_desc$" #NT!
+ struggle_seasons_phase_opportunity:0 "Opportunity" #NT!
+ struggle_seasons_phase_opportunity_desc:0 "$game_concept_struggle_phase_iberia_opportunity_desc$" #NT!
+ struggle_seasons_phase_hostility:0 "Hostility" #NT!
+ struggle_seasons_phase_hostility_desc:0 "$game_concept_struggle_phase_iberia_hostility_desc$" #NT!
+ struggle_seasons_phase_compromise:0 "Compromise" #NT!
+ struggle_seasons_phase_compromise_desc:0 "$game_concept_struggle_phase_iberia_compromise_desc$" #NT!
+ struggle_seasons_phase_conciliation:0 "Conciliation" #NT!
+ struggle_seasons_phase_conciliation_desc:0 "$game_concept_struggle_phase_iberia_conciliation_desc$" #NT!
+
+ struggle_seasons_ending_hostility_decision:0 "Neutrality Wins" #NT!
+ struggle_seasons_ending_hostility_decision_desc:0 "No Fae expected the Solstice Court to be able to win this War of Seasons, but you did, now they will listen to you as you decide which Season should rule." #NT!
+ struggle_seasons_ending_hostility_decision_tooltip:0 "End the War of Seasons [struggle|E]" #NT!
+ struggle_seasons_ending_hostility_decision_confirm:0 "End the War of Seasons Struggle" #NT!
+ struggle_seasons_ending_winter_victory_decision:0 "Eternal Winter" #NT!
+ struggle_seasons_ending_winter_victory_decision_desc:0 "It is time for a strong leader to finally drag the Fae courts from the mire and division of the War of Seasons. Winter has come, and it will never end." #NT!
+ struggle_seasons_ending_winter_victory_decision_confirm:0 "Eternal Winter" #NT!
+ struggle_seasons_ending_spring_victory_decision:0 "Hope Springs Eternal" #NT!
+ struggle_seasons_ending_spring_victory_decision_desc:0 "It is time for a strong leader to finally drag the Fae courts from the mire and division of the War of Seasons. Spring has been reborn." #NT!
+ struggle_seasons_ending_spring_victory_decision_confirm:0 "Hope Springs Eternal" #NT!
+ struggle_seasons_ending_summer_victory_decision:0 "Endured Summer" #NT!
+ struggle_seasons_ending_summer_victory_decision_desc:0 "It is time for a strong leader to finally drag the Fae courts from the mire and division of the War of Seasons. This Summer will last forever." #NT!
+ struggle_seasons_ending_summer_victory_decision_confirm:0 "Enduring Summer" #NT!
+ struggle_seasons_ending_autumn_victory_decision:0 "Inevitable Autumn" #NT!
+ struggle_seasons_ending_autumn_victory_decision_desc:0 "It is time for a strong leader to finally drag the Fae courts from the mire and division of the War of Seasons. Autumn was inevitable." #NT!
+ struggle_seasons_ending_autumn_victory_decision_confirm:0 "Inevitable Autumn" #NT!
+ struggle_seasons_ending_compromise_decision:0 "Status Quo" #NT!
+ struggle_seasons_ending_compromise_decision_desc:0 "These endless conflicts over the seasons only weaken us all. It is time to accept that the Fae courts were never meant to be united." #NT!
+ struggle_seasons_ending_compromise_decision_tooltip:0 "End the Season [struggle|E]" #NT!
+ struggle_seasons_ending_compromise_decision_confirm:0 "End the Season Struggle" #NT!
+ struggle_seasons_ending_conciliation_decision:0 "Seasons United" #NT!
+ struggle_seasons_ending_conciliation_decision_desc:0 "The wounds of the past centuries will not be easily healed, but we must try if the Fae courts are to find a lasting peace. Truly, the Seasons are meant to cycle." #NT!
+ struggle_seasons_ending_conciliation_decision_tooltip:0 "End the War of Seasons [struggle|E]" #NT!
+ struggle_seasons_ending_conciliation_decision_confirm:0 "End the War of Seasons Struggle" #NT!
+ struggle_seasons_ending_outsider_decision:0 "End the War of Seasons" #NT!
+ struggle_seasons_ending_outsider_decision_desc:0 "Time to expunge those annoying bugs." #NT!
+ struggle_seasons_ending_outsider_decision_tooltip:0 "End the Season [struggle|E]" #NT!
+ struggle_seasons_ending_outsider_decision_confirm:0 "End the Season Struggle" #NT!
+
+ pod_seasons_struggle.0501.t:0 "War of Seasons" #NT!
+ pod_seasons_struggle.0501.desc:0 "$bm_1230_fae_desc$" #NT!
+ pod_seasons_struggle.0501.a:0 "Take hold of fate!" #NT!
+
+ pod_seasons_struggle.100.t:0 "What Season shall rule the Fae?" #NT!
+ pod_seasons_struggle.100.desc:0 "They will listen to your choice of which Season should rule the world of the Fae." #NT!
+ pod_seasons_struggle.100.a:0 "Winter should rule!" #NT!
+ pod_seasons_struggle.100.b:0 "Spring should rule!" #NT!
+ pod_seasons_struggle.100.c:0 "Summer should rule!" #NT!
+ pod_seasons_struggle.100.d:0 "Autumn should rule!" #NT!
+ pod_seasons_struggle.101.t:0 "Winter Dominance" #NT!
+ pod_seasons_struggle.101.desc:0 "The chaos that the seasons suffered in the preceding centuries has left a stain in the hearts of all its inhabitants. Today begins this world's next chapter... Winter has come, and it will never end." #NT!
+ pod_seasons_struggle.101.a:0 "Eternal Winter" #NT!
+ pod_seasons_struggle.102.t:0 "Spring Dominance" #NT!
+ pod_seasons_struggle.102.desc:0 "The chaos that the seasons suffered in the preceding centuries has left a stain in the hearts of all its inhabitants. Today begins this world's next chapter... Spring has been reborn." #NT!
+ pod_seasons_struggle.102.a:0 "Spring has come again." #NT!
+ pod_seasons_struggle.103.t:0 "Summer Dominance" #NT!
+ pod_seasons_struggle.103.desc:0 "The chaos that the seasons suffered in the preceding centuries has left a stain in the hearts of all its inhabitants. Today begins this world's next chapter... This Summer will last forever." #NT!
+ pod_seasons_struggle.103.a:0 "Summer lasted." #NT!
+ pod_seasons_struggle.104.t:0 "Autumn Dominance" #NT!
+ pod_seasons_struggle.104.desc:0 "The chaos that the seasons suffered in the preceding centuries has left a stain in the hearts of all its inhabitants. Today begins this world's next chapter... Autumn was inevitable." #NT!
+ pod_seasons_struggle.104.a:0 "Autumn is inevitable." #NT!
+
+ pod_seasons_struggle.110.t:0 "Distribution" #NT!
+ pod_seasons_struggle.110.desc:0 "It is now clear there will be no end to this cycle of bloodshed if things continue; the Fae courts will not bear unification. As the negotiator, you will choose which land belongs to which court." #NT!
+ pod_seasons_struggle.110.a:0 "Humm..." #NT!
+ pod_seasons_struggle.111.t:0 "Norway" #NT!
+ pod_seasons_struggle.111.desc:0 "Norway should go to..." #NT!
+ pod_seasons_struggle.111.a:0 "Winter Court" #NT!
+ pod_seasons_struggle.111.b:0 "Spring Court" #NT!
+ pod_seasons_struggle.111.c:0 "Summer Court" #NT!
+ pod_seasons_struggle.111.d:0 "Autumn Court" #NT!
+ pod_seasons_struggle.112.t:0 "Brittany" #NT!
+ pod_seasons_struggle.112.desc:0 "Brittany should go to..." #NT!
+ pod_seasons_struggle.112.a:0 "Winter Court" #NT!
+ pod_seasons_struggle.112.b:0 "Spring Court" #NT!
+ pod_seasons_struggle.112.c:0 "Summer Court" #NT!
+ pod_seasons_struggle.112.d:0 "Autumn Court" #NT!
+ pod_seasons_struggle.113.t:0 "Wales" #NT!
+ pod_seasons_struggle.113.desc:0 "Wales should go to..." #NT!
+ pod_seasons_struggle.113.a:0 "Winter Court" #NT!
+ pod_seasons_struggle.113.b:0 "Spring Court" #NT!
+ pod_seasons_struggle.113.c:0 "Summer Court" #NT!
+ pod_seasons_struggle.113.d:0 "Autumn Court" #NT!
+ pod_seasons_struggle.114.t:0 "Scotland" #NT!
+ pod_seasons_struggle.114.desc:0 "Scotland should go to..." #NT!
+ pod_seasons_struggle.114.a:0 "Winter Court" #NT!
+ pod_seasons_struggle.114.b:0 "Spring Court" #NT!
+ pod_seasons_struggle.114.c:0 "Summer Court" #NT!
+ pod_seasons_struggle.114.d:0 "Autumn Court" #NT!
+ pod_seasons_struggle.115.t:0 "Ireland" #NT!
+ pod_seasons_struggle.115.desc:0 "And finally, you must choose which court should take the island." #NT!
+ pod_seasons_struggle.115.a:0 "Winter Court" #NT!
+ pod_seasons_struggle.115.b:0 "Spring Court" #NT!
+ pod_seasons_struggle.115.c:0 "Summer Court" #NT!
+ pod_seasons_struggle.115.d:0 "Autumn Court" #NT!
+
+ pod_seasons_struggle.120.t:0 "The Court of All Seasons" #NT!
+ pod_seasons_struggle.120.desc:0 "The wars of the past will remain there, and the other Fae courts will see the benefits of co-existence." #NT!
+ pod_seasons_struggle.120.a:0 "The Seasonal Courts have been united." #NT!
+
+ pod_seasons_struggle.1001.t:0 "Seasons Greetings" #NT!
+ pod_seasons_struggle.1001.desc:0 "As leader of a Fae court, you should join the War of Seasons." #NT!
+ pod_seasons_struggle.1001.a:0 "Set capital in the Ireland" #NT!
+ pod_seasons_struggle.1001.b:0 "Take land from a vassal" #NT!
+ pod_seasons_struggle.1001.c:0 "War a prodigal to get land" #NT!
+ pod_seasons_struggle.1001.d:0 "I am not ready to do this" #NT!
+ run_away_from_season_war_tooltip:0 "This is not the first time you have spurned the War of Seasons." #NT!
+
+ the_red_and_white_apple_of_avalon_decision:0 "The Red and White Apple of Avalon" #NT!
+ the_red_and_white_apple_of_avalon_decision_desc:0 "Upon the pinnacle of Glastonbury Tor are two springs, the White and the Red, representing the forces of life and death. Near the two springs is a small apple tree that bears apples year round, whether it is winter, summer or spring. Half of the apples are red, but the other half have skins as white as snow." #NT!
+ the_red_and_white_apple_of_avalon_decision_confirm:0 "Pick an Apple" #NT!
+ the_red_and_white_apple_of_avalon_decision_tooltip:0 "Gain an apple artifact." #NT!
+
+ albion_pools_decision:0 "Albion Pools" #NT!
+ albion_pools_decision_desc:0 "The three mystical Albion Pools, hidden in Cymru, Alba and Breizh respectively, are among the most desirable treasures sought after by mages because it is said that whoever has power overall three pools will rule all of England. One was reputed to grant youth everlasting, one healed all wounds and the third allegedly granted control over the hearts of mortals." #NT!
+ albion_pools_decision_confirm:0 "Albion should be mine" #NT!
+ albion_pools_decision_tooltip:0 "Claim Albion." #NT!
+ albion_pools_decision_custom:0 "Your [realm_capital|E] is located in the [GetGeographicalRegion('ghw_region_britannia').GetName] [region|E]" #NT!

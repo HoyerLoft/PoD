@@ -1,0 +1,92 @@
+﻿l_russian:
+
+ POD_embrace.100.t:0 "The Embrace" #NT!
+ POD_embrace.100.desc:0 "I have orchestrated events so that [scheme.GetTarget.GetFirstName] has fallen within my clutches. In a secluded place, [victim.GetSheHe] will not be able to escape. Shall I grant immortality even if it means [victim.GetHerHis] damnation? Will [victim.GetSheHe] be grateful, or will [victim.GetSheHe] resent me forever? Did my [Sire|E] have these thoughts?" #NT!
+ POD_embrace.100.option.a:0 "[Embrace|E] [scheme.GetTarget.GetFirstName]" #NT!
+ POD_embrace.100.option.a.tt:0 "You will kill [scheme.GetTarget.GetFirstName] and then transform [victim.GetHerHim] into a vampire. This will cost you piety, may increase your hunger and may risk exposing [masquerade|E]." #NT!
+ POD_embrace.100.option.a.tt.beast:0 "#R Yes! Drain them dry and then give them a single drop of our blood. We can always take it all back!#!" #NT!
+ POD_embrace.100.option.b:0 "Let [victim.GetHerHim] go." #NT!
+ POD_embrace.100.option.b.tt.beast:0 "#R No! Do not let [victim.GetHerHim] get away! I have waited too long for this! We have waited to long for this.#!" #NT!
+ POD_embrace.200.t:0 "The Embrace" #NT!
+ POD_embrace.200.desc:0 "The hunter, [scheme.GetTarget.GetFirstName] is secured in a holding cell awaiting the [Embrace|E]. Unfortunately the same fierceness that makes him worthy of it, will make the process difficult." #NT!
+ POD_embrace.200.option.a:0 "[Embrace|E] the hunter by force." #NT!
+ POD_embrace.200.option.a.s.tt:0 "You pin down the hunter and drain them of their blood." #NT!
+ POD_embrace.200.option.a.f.tt:0 "The hunter has a nasty surprise for you." #NT!
+ POD_embrace.210.desc:0 "Throat still dripping with blood, [scheme.GetTarget.GetFirstName] looks at you with resentful eyes. Will your gift of eternal unlife be accepted as such or will the hunter hold onto the conviction that it is a terrible curse, remains to be seen." #NT!
+ POD_embrace.220.desc:0 "The cell doors swing open and you leap across the room at your target. Mid-flight you notice that the wooden stool you generously provided to your prisoner is missing a leg. [scheme.GetTarget.GetFirstName] gives you a determined look and raises a sharpened stake. Your claws reach the victim's body, but your own momentum keeps carrying your heart towards the tip of stake." #NT!
+ POD_embrace.200.option.b:0 "Sneak up on the hunter." #NT!
+ POD_embrace.200.option.b.s.tt:0 "Bite into the neck of an unsuspecting, sleeping victim." #NT!
+ POD_embrace.200.option.b.f.tt:0 "The hunter only pretended to sleep..." #NT!
+ POD_embrace.230.desc:0 "[scheme.GetTarget.GetFirstName] appears to be sound asleep as you lean in towards [victim.GetHerHis] neck. In that moment you realize the source of the overpowering stench in the cell. Is that lamp oil? [scheme.GetTarget.GetFirstName] opens [victim.GetHerHis] eyes, grabs you by the collar and whispers "Die, fiend." Only when you notice the fire striker do you realize what is about to happen." #NT!
+ POD_embrace.200.option.c:0 "Convince them it's the only way to continue their existence" #NT!
+ POD_embrace.200.option.c.s.tt:0 "You convince the hunter that unlife can be virtuous." #NT!
+ POD_embrace.200.option.c.f.tt:0 "The hunter convinces you of something..." #NT!
+ POD_embrace.240.desc:0 "In your attempt to persuade your soon to be childe that unlife is a blessing, you were eager to answer questions. Difficult questions that demanded answers even you found deeply disturbing. Is it true? Are you hopelessly lost to all that makes existence bearable?" #NT!
+ POD_embrace.200.option.d:0 "This is a bad idea." #NT!
+ POD_embrace.200.option.d.tt:0 "Of all the mortals in the world, why would I [Sire|E] one sworn to murder kindred?" #NT!
+ POD_embrace.210.t:0 "Like taking a coin from a blind beggar." #NT!
+ POD_embrace.210.option.a:0 "Rest easy my childe." #NT!
+ POD_embrace.210.option.a.tt:0 "[scheme.GetTarget.GetFirstName] becomes your childe." #NT!
+ POD_embrace.220.t:0 "Fade to black." #NT!
+ POD_embrace.220.option.a:0 "Why? Why a wooden stool?" #NT!
+ POD_embrace.220.option.a.tt:0 "You die." #NT!
+ POD_embrace.230.t:0 "The oil-soaked bedding turns into a raging inferno." #NT!
+ POD_embrace.230.option.a:0 "How did [victim.GetSheHe] get the oil?" #NT!
+ POD_embrace.230.option.a.tt:0 "You die." #NT!
+ POD_embrace.240.t:0 "Not a blessing after all." #NT!
+ POD_embrace.240.option.a:0 "I need some time to think." #NT!
+ POD_embrace.240.option.a.tt:0 "You're deeply disturbed by the conversation." #NT!
+
+ willing_embrace_opinion:0 "Willing Embrace" #NT!
+ unwilling_embrace_opinion:0 "Unwilling Embrace" #NT!
+
+ POD_embrace.301.t:0 "Willing Embrace" #NT!
+ POD_embrace.301.desc:0 "Your faith teaches that the [Embrace|E] is a somber and serious affair. You are condemning another soul to eternal damnation after all. Thus, you have been taught to never Embrace without permission. You have taken the time of talking with this new potential childe at length about what vampirism truly is, and what this terrible curse can do to one's soul. It is time for their answer.\nYou breath a (useless, as you are dead) sigh of relief when your future childe tells you that they accept. You have fulfilled your faith's duties, and you can now move on to the Embrace act itself." #NT!
+ POD_embrace.301.option.a:0 "Let us begin" #NT!
+
+ POD_embrace.302.t:0 "Unwilling Embrace" #NT!
+ POD_embrace.302.desc:0 "Your faith teaches that the [Embrace|E] is a somber and serious affair. You are condemning another soul to eternal damnation after all. Thus, you have been taught to never Embrace without permission. You have taken the time of talking with this new potential childe at length about what vampirism truly is, and what this terrible curse can do to one's soul. It is time for their answer.\nIt seems that you have frightened this mortal too much, and their answer is negative. You should now by all accounts give them leave to depart and live the rest of their short life in peace but... no one truly observes their own faith all the time after all." #NT!
+ POD_embrace.302.option.a:0 "I will not be denied!" #NT!
+ unwilling_embrace_tt:0 "You will force the Embrace, regardless of their opinion." #NT!
+ POD_embrace.302.option.b:0 "Go in peace" #NT!
+ unwilling_embrace_tt2:0 "The mortal will disappear and fade back into history." #NT!
+
+ POD_embrace.400.t:0 "The Embrace" #NT!
+ POD_embrace.400.desc:0 "I have orchestrated events so that [scheme.GetTarget.GetFirstName] has fallen within my clutches. Now, all I have to do is to break [victim.GetHerHis] will." #NT!
+ POD_embrace.400.option.a:0 "[victim.GetSheHe|U] will do as i say!" #NT!
+ POD_embrace.400.option.a.success.tt:0 "You successfully dominate [victim.GetFirstName] into submission" #NT!
+ POD_embrace.400.option.a.fail.tt:0 "You fail your attempt to dominate [victim.GetFirstName]" #NT!
+ POD_embrace.400.option.b:0 "No one can refuse me" #NT!
+ POD_embrace.400.option.b.success.tt:0 "You successfully use Presence to break [victim.GetHerHis] will" #NT!
+ POD_embrace.400.option.b.fail.tt:0 "You fail your attempt to charm [victim.GetFirstName]" #NT!
+ POD_embrace.400.option.c:0 "[victim.GetSheHe|U] is no match for my might!" #NT!
+ POD_embrace.400.option.c.success.tt:0 "You successfully beat [victim.GetFirstName] into submission" #NT!
+ POD_embrace.400.option.c.fail.tt:0 "[victim.GetFirstName] fights you off" #NT!
+ POD_embrace.400.option.d:0 "Actually... nevermind" #NT!
+ POD_embrace.400.option.d.tt:0 "You abandon your attempt to embrace [victim.GetFirstName]" #NT!
+
+ POD_embrace.410.t:0 "The Embrace" #NT!
+ POD_embrace.410.desc:0 "You managed to get the upper hand, and now [victim.GetFirstName] is at your mercy. Draining the blood of his body, you can feel how life escapes [victim.GetFirstName]. You know that what you are trying to do is rarely successful, but the thought of what you could create makes you forget about all those foolish precautions.\nEmbracing shapeshifters is almost always unsuccessful as they are protected against vampiric blood. The few recorded cases of the victim not dying during the process end up as them becoming the dreaded [abomination|E]s." #NT!
+ POD_embrace.410.option.a:0 "It's time to act" #NT!
+ POD_embrace.410.option.a.tt:0 "You try to embrace [victim.GetFirstName]" #NT!
+ POD_embrace.410.option.a.fail.tt:0 "[victim.GetFirstName] dies in agony" #NT!
+ POD_embrace.410.option.a.success.tt:0 "[victim.GetFirstName] is successfully embraced" #NT!
+
+ POD_embrace.420.t:0 "Creator of Monsters" #NT!
+ POD_embrace.420.desc:0 "After some time [victim.GetFirstName] opens [victim.GetHerHis] eyes. You can see a grimace of horror on [victim.GetHerHis] face and that is when the dire realization comes to you... You have succeeded, you have created a monster, an abomination that is now your childe." #NT!
+ POD_embrace.420.option.a:0 "Success at last" #NT!
+ POD_embrace.420.option.a.tt:0 "[victim.GetFirstName] stops being a werewolf, and become an [abomination|E]." #NT!
+
+ POD_embrace.430.t:0 "Failed Embrace" #NT!
+ POD_embrace.430.desc:0 "Despite all your attempts, [victim.GetFirstName] is gone. All you could hear were [victim.GetHerHis] screams of agony, when [victim.GetHerHis] body and soul violently rejected your blood. And now [victim.GetFirstName] is truly gone. Maybe [victim.GetSheHe] got lucky after all?" #NT!
+ POD_embrace.430.option.a:0 "Disappointing" #NT!
+ POD_embrace.430.option.a.tt:0 "Your embrace attempt failed" #NT!
+
+ POD_embrace.440.t:0 "Failed Attempt" #NT!
+ POD_embrace.440.desc:0 "[victim.GetFirstName] managed to resist your attempts to get the upper hand. Now all you can do is escape [victim.GetHerHis] wrath." #NT!
+ POD_embrace.440.option.a:0 "Defeat at last" #NT!
+ POD_embrace.440.option.a.tt:0 "You failed to embrace [victim.GetFirstName]" #NT!
+
+
+
+

@@ -1,0 +1,52 @@
+﻿l_russian:
+ building_type_spirit_wilds_influence_01:0 "Spirit Nexus" #NT!
+ building_type_spirit_wilds_influence_01_desc:0 "#F A colony in the spirit wilds.#!" #NT!
+ building_spirit_wilds_influence_01:0 "Tiny Spirit Nexus" #NT!
+ building_spirit_wilds_influence_01_desc:0 "A colony in the spirit wilds." #NT!
+ building_spirit_wilds_influence_02:0 "Small Spirit Nexus" #NT!
+ building_spirit_wilds_influence_02_desc:0 "A colony in the spirit wilds." #NT!
+ building_spirit_wilds_influence_03:0 "Medium Spirit Nexus" #NT!
+ building_spirit_wilds_influence_03_desc:0 "A colony in the spirit wilds." #NT!
+ building_spirit_wilds_influence_04:0 "Large Spirit Nexus" #NT!
+ building_spirit_wilds_influence_04_desc:0 "A colony in the spirit wilds." #NT!
+ building_spirit_wilds_influence_05:0 "Huge Spirit Nexus" #NT!
+ building_spirit_wilds_influence_05_desc:0 "A colony in the spirit wilds." #NT!
+ building_spirit_wilds_influence_06:0 "Gigantic Spirit Nexus" #NT!
+ building_spirit_wilds_influence_06_desc:0 "A colony in the spirit wilds." #NT!
+ building_spirit_wilds_influence_07:0 "Colossal Spirit Nexus" #NT!
+ building_spirit_wilds_influence_07_desc:0 "A colony in the spirit wilds." #NT!
+ spirit_wilds_influence_effect_desc:0 "Every one in this province:\nMonthly Umbra Exploration Progress: [grace_i]#P +5#!" #NT!
+
+ building_type_dreaming_influence_01:0 "Dream Nexus" #NT!
+ building_type_dreaming_influence_01_desc:0 "#F A colony in the [dreaming|E].#!" #NT!
+ building_dreaming_influence_01:0 "Tiny Dream Nexus" #NT!
+ building_dreaming_influence_01_desc:0 "A colony in the [dreaming|E]." #NT!
+ building_dreaming_influence_02:0 "Small Dream Nexus" #NT!
+ building_dreaming_influence_02_desc:0 "A colony in the [dreaming|E]." #NT!
+ building_dreaming_influence_03:0 "Medium Dream Nexus" #NT!
+ building_dreaming_influence_03_desc:0 "A colony in the [dreaming|E]." #NT!
+ building_dreaming_influence_04:0 "Large Dream Nexus" #NT!
+ building_dreaming_influence_04_desc:0 "A colony in the [dreaming|E]." #NT!
+ building_dreaming_influence_05:0 "Huge Dream Nexus" #NT!
+ building_dreaming_influence_05_desc:0 "A colony in the [dreaming|E]." #NT!
+ building_dreaming_influence_06:0 "Gigantic Dream Nexus" #NT!
+ building_dreaming_influence_06_desc:0 "A colony in the [dreaming|E]." #NT!
+ building_dreaming_influence_07:0 "Colossal Dream Nexus" #NT!
+ building_dreaming_influence_07_desc:0 "A colony in the [dreaming|E]." #NT!
+
+ building_type_underworld_influence_01:0 "Dark Nexus" #NT!
+ building_type_underworld_influence_01_desc:0 "#F A colony in the [underworld|E].#!" #NT!
+ building_underworld_influence_01:0 "Tiny Dark Nexus" #NT!
+ building_underworld_influence_01_desc:0 "A colony in the [underworld|E]." #NT!
+ building_underworld_influence_02:0 "Small Dark Nexus" #NT!
+ building_underworld_influence_02_desc:0 "A colony in the [underworld|E]." #NT!
+ building_underworld_influence_03:0 "Medium Dark Nexus" #NT!
+ building_underworld_influence_03_desc:0 "A colony in the [underworld|E]." #NT!
+ building_underworld_influence_04:0 "Large Dark Nexus" #NT!
+ building_underworld_influence_04_desc:0 "A colony in the [underworld|E]." #NT!
+ building_underworld_influence_05:0 "Huge Dark Nexus" #NT!
+ building_underworld_influence_05_desc:0 "A colony in the [underworld|E]." #NT!
+ building_underworld_influence_06:0 "Gigantic Dark Nexus" #NT!
+ building_underworld_influence_06_desc:0 "A colony in the [underworld|E]." #NT!
+ building_underworld_influence_07:0 "Colossal Dark Nexus" #NT!
+ building_underworld_influence_07_desc:0 "A colony in the [underworld|E]." #NT!

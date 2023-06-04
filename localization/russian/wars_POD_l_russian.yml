@@ -1,0 +1,57 @@
+﻿l_russian:
+
+ hunter_war_victory_desc:0 "You will lose prestige and crown authority, and will be pressured to abdicate!" #NT!
+ hunter_war_white_peace_desc:0 "The hunter faction is disbanded." #NT!
+ hunter_war_defeat_desc:0 "The hunter faction is disbanded and [attacker.GetShortUIName] is imprisoned. All rebelling [counties|E] have their control forcibly increased." #NT!
+ hunter_war:0 "Inquisition Attack" #NT!
+ HUNTER_WAR_NAME:0 "Inquisition Attack" #NT!
+ declared_major_religious_war_flag_POD_tt:1 "You may only attempt one major religious war per 50 years" #NT!
+ major_religious_war_warning_POD_desc:2 "\n\n#X You may only attempt one [holy_war|E] against a [kingdom|E]-tier [title|E] per 50 years#!" #NT!
+ invasion_war_warning_POD_desc:2 "\n\n#X You may only attempt one invasion [war|E] against a [kingdom|E]-tier [title|E] per 100 years#!" #NT!
+
+ CB_ATTACKER_DYNASTY_SALUBRI:0 "[GetDynastyPerk( 'salubri_legacy_5' ).GetName]" #NT!
+ CB_ATTACKER_DYNASTY_BANUHAQIM:0 "[GetDynastyPerk( 'banuhaqim_legacy_5' ).GetName]" #NT!
+
+ UNDER_THE_BLACK_CROSS_TRUCE_NAME:0 "the Black Cross Invasion" #NT!
+
+ TRUCE_SIGNED_SHIH:0 "\nTruce signed as peace between Shen and [GetTrait('shih').GetName( GetPlayer )]" #NT!
+
+ POD_EMPIRE_GREAT_HOLY_WAR_WAR_CB_NAME:0 "[ATTACKER.GetFaith.Custom('GHWName')] for [empire|E]" #NT!
+ pod_empire_great_holy_war_directed_victory_desc:0 "The main contributor gets the target [empire|E]. [titles|E] in the target [empire|E] are handed out to the beneficiaries" #NT!
+ POD_EMPIRE_CRUSADER_STATE_CRUSADER_TITLE_NAME:1 "Crusader [target_empire.GetNameNoTierNoTooltip]" #NT!
+ POD_EMPIRE_CRUSADER_STATE_FAITH_TITLE_NAME:1 "[title_recipient.GetFaith.GetAdjective|U] [target_empire.GetNameNoTierNoTooltip|U]" #NT!
+ POD_directed_great_holy_war:0 "Great Holy War" #NT!
+
+ POD_event_war:0 "Final War" #NT!
+ POD_event_war_victory_desc_attacker:0 "You seizes all titles within [defender.GetShortUINamePossessive] realm." #NT!
+ POD_event_war_victory_desc:0 "[attacker.GetShortUIName|U] seize all titles within [defender.GetShortUINamePossessive] realm." #NT!
+
+ POD_masquerade_war:0 "Masquerade War" #NT!
+ POD_MASQUERADE_WAR_WAR_NAME:0 "War against the exposure of [DEFENDER.GetShortUINameNotMe]" #NT!
+ POD_MASQUERADE_WAR_CB_NAME:0 "Masquerade War against [DEFENDER.GetShortUINameNotMe]" #NT!
+ msg_POD_masquerade_war_invalidated_message:1 "The [war.GetName] has ended: [defender.GetShortUIName] no longer [Select_CString( defender.IsLocalPlayer, 'have', 'has' )] high masquerade exposure." #NT!
+ POD_masquerade_war_victory_desc_defender:0 "You are [deposed|E], as well as any of your vassals with high masquerade exposure." #NT!
+ POD_masquerade_war_victory_desc:0 "[defender.GetShortUIName|U] is [deposed|E], as well as any of [defender.GetHerHis] vassals with high masquerade exposure." #NT!
+ POD_masquerade_war_defeat_desc_attacker:0 "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles. You lose [piety|E]." #NT!
+ POD_masquerade_war_defeat_desc_defender:0 "You keep your titles and gain [piety|E]." #NT!
+ POD_masquerade_war_defeat_desc:0 "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles and gains [piety|E]." #NT!
+
+ POD_oath_war:0 "Oath War" #NT!
+ POD_OATH_WAR_WAR_NAME:0 "War against the oathbreaking of [DEFENDER.GetShortUINameNotMe]" #NT!
+ POD_OATH_WAR_CB_NAME:0 "Oath War against [DEFENDER.GetShortUINameNotMe]" #NT!
+ msg_POD_oath_war_invalidated_message:1 "The [war.GetName] has ended: [defender.GetShortUIName] no longer [Select_CString( defender.IsLocalPlayer, 'have', 'has' )] oathbreaking." #NT!
+ POD_oath_war_victory_desc_defender:0 "[attacker.GetShortUIName|U] seize all titles and vassals within your realm." #NT!
+ POD_oath_war_victory_desc:0 "[attacker.GetShortUIName|U] seize all titles and vassals within [defender.GetShortUINamePossessive] realm." #NT!
+ POD_oath_war_defeat_desc_attacker:0 "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles. You lose [piety|E]." #NT!
+ POD_oath_war_defeat_desc_defender:0 "You keep your titles and gain [piety|E]." #NT!
+ POD_oath_war_defeat_desc:0 "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles and gains [piety|E]." #NT!
+
+ POD_bridge_war:0 "Bridge War" #NT!
+ POD_BRIDGE_WAR_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Bridge Invasion against [DEFENDER.GetShortUINameNotMe]" #NT!
+ POD_BRIDGE_WAR_CB_NAME:0 "Bridge War against [DEFENDER.GetShortUINameNotMe]" #NT!
+ msg_POD_bridge_war_invalidated_message:1 "The [war.GetName] has ended: [defender.GetShortUIName] no longer has riverside county." #NT!
+ POD_bridge_war_victory_desc_defender:0 "[attacker.GetShortUIName|U] seize all riverside county titles within your realm." #NT!
+ POD_bridge_war_victory_desc:0 "[attacker.GetShortUIName|U] seize all riverside county titles within [defender.GetShortUINamePossessive] realm." #NT!
+ POD_bridge_war_defeat_desc_attacker:0 "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles. " #NT!
+ POD_bridge_war_defeat_desc_defender:0 "You keep your titles." #NT!
+ POD_bridge_war_defeat_desc:0 "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles." #NT!

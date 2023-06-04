@@ -1,0 +1,151 @@
+﻿l_russian:
+ building_type_bastion_01:0 "Bastion" #NT!
+ building_type_bastion_01_desc:0 "#F Bastions were strongholds of the rebellious Elohim in the War of Wrath on Earth, where they gathered their strength, perfected their skills, and tutored their mortal consorts.#!" #NT!
+ building_bastion_01:0 "Small Bastion" #NT!
+ building_bastion_01_desc:0 "There is a small outpost here that serves as the foundation of a Bastion. There is still much work to be done." #NT!
+ building_bastion_02:0 "Large Bastion" #NT!
+ building_bastion_02_desc:0 "What was once a small outpost has become a respectable stronghold, where your position is now decently strong." #NT!
+ building_bastion_03:0 "Gargantuan Bastion" #NT!
+ building_bastion_03_desc:0 "This sprawling complex is a dense and byzantine bulwark against your enemies." #NT!
+ building_bastion_04:0 "Colossal Bastion" #NT!
+ building_bastion_04_desc:0 "Imposing and glorious, this bulwark of your power is a testament to your will." #NT!
+ building_bastion_05:0 "Enormous Bastion" #NT!
+ building_bastion_05_desc:0 "Enough to rival the gates of heaven, your Bastion could weather any mortal assault." #NT!
+ building_bastion_06:0 "Monumental Bastion" #NT!
+ building_bastion_06_desc:0 "From here, you could weather the Fires of Revelation." #NT!
+
+ building_type_ministry_of_dragons_01:0 "Censors of the Cult" #NT!
+ building_type_ministry_of_dragons_01_desc:0 "#F The Ministry of Dragons, also called the Censors, has the task of questioning and challenging authority. Said authority being God, of course.#!" #NT!
+ building_ministry_of_dragons_01:0 "Minor Censors of the Cult" #NT!
+ building_ministry_of_dragons_01_desc:0 "Within here, you have a few souls dedicated to helping mortals question their foolish beliefs." #NT!
+ building_ministry_of_dragons_02:0 "Respectable Censors of the Cult" #NT!
+ building_ministry_of_dragons_02_desc:0 "Now mimicking the minor offices of the Fallen still yet trapped in the Abyss, the Censors' influence has begun to grow." #NT!
+ building_ministry_of_dragons_03:0 "Major Censors of the Cult" #NT!
+ building_ministry_of_dragons_03_desc:0 "Even the mortals around you are beginning to question their purpose and divinity itself, echoing the calls of your Censors." #NT!
+ building_ministry_of_dragons_04:0 "Greater Censors of the Cult" #NT!
+ building_ministry_of_dragons_04_desc:0 "Your Censors are now influential throughout the region, expanding the power they, and by extension you, draw upon." #NT!
+ building_ministry_of_dragons_05:0 "Powerful Censors of the Cult" #NT!
+ building_ministry_of_dragons_05_desc:0 "Even the other Earthbound themselves hesitate under the weathering questions of your Censors now, your influence undeniable." #NT!
+ building_ministry_of_dragons_06:0 "Eternal Censors of the Cult" #NT!
+ building_ministry_of_dragons_06_desc:0 "Let nothing be questioned. Let everything be permitted. All there is you, and your truth. No other belief is safe." #NT!
+
+ building_type_ministry_of_eagles_01:0 "Watchers of the Cult" #NT!
+ building_type_ministry_of_eagles_01_desc:0 "#F The Watchers of the Cult, also called the Ministry of Eagle, have the task of gaining intelligence about potential enemies.#!" #NT!
+ building_ministry_of_eagles_01:0 "Minor Watchers of the Cult" #NT!
+ building_ministry_of_eagles_01_desc:0 "You now have a few spies, your first Watchers, beginning to expand your gaze." #NT!
+ building_ministry_of_eagles_02:0 "Respectable Watchers of the Cult" #NT!
+ building_ministry_of_eagles_02_desc:0 "Your Watchers now have throughout influence over the district of your base of operations, reporting back to you on a regular basis." #NT!
+ building_ministry_of_eagles_03:0 "Major Watchers of the Cult" #NT!
+ building_ministry_of_eagles_03_desc:0 "The entire population center of this domain is now under your gaze, and few things go through here without your knowledge." #NT!
+ building_ministry_of_eagles_04:0 "Greater Watchers of the Cult" #NT!
+ building_ministry_of_eagles_04_desc:0 "Secrets and gossip alike are all known to you, your Watchers' gaze now covering the rural areas, next to nothing escaping your gaze." #NT!
+ building_ministry_of_eagles_05:0 "Powerful Watchers of the Cult" #NT!
+ building_ministry_of_eagles_05_desc:0 "Your Watchers now know of all things in this area, and your spies are unparalleled, the envy of even the other Earthbound." #NT!
+ building_ministry_of_eagles_06:0 "Eternal Watchers of the Cult" #NT!
+ building_ministry_of_eagles_06_desc:0 "There will be stories of a 'Big Brother' that mortals will tell. You have ascended beyond that." #NT!
+
+ building_type_ministry_of_aurochs_01:0 "Warders of the Cult" #NT!
+ building_type_ministry_of_aurochs_01_desc:0 "#F The Warders of the Cult, also called the Ministry of Aurochs, has the task of defending the Court and enforcing its laws.#!" #NT!
+ building_ministry_of_aurochs_01:0 "Minor Warders of the Cult" #NT!
+ building_ministry_of_aurochs_01_desc:0 "You now have a small team of body guards, your first Warders meant to defend you in this domain." #NT!
+ building_ministry_of_aurochs_02:0 "Respectable Warders of the Cult" #NT!
+ building_ministry_of_aurochs_02_desc:0 "A small force is here now, enough to provide a respectable security detail." #NT!
+ building_ministry_of_aurochs_03:0 "Major Warders of the Cult" #NT!
+ building_ministry_of_aurochs_03_desc:0 "The scope of your power is now enough that you have a small army of Warders at your command." #NT!
+ building_ministry_of_aurochs_04:0 "Greater Warders of the Cult" #NT!
+ building_ministry_of_aurochs_04_desc:0 "Your Warders now span your court, their influence alone dissuading violence (or encouraging it when the need arises)." #NT!
+ building_ministry_of_aurochs_05:0 "Powerful Warders of the Cult" #NT!
+ building_ministry_of_aurochs_05_desc:0 "The Warders now equal a small army, of a grade matched by few, with power nigh unrivaled." #NT!
+ building_ministry_of_aurochs_06:0 "Eternal Warders of the Cult" #NT!
+ building_ministry_of_aurochs_06_desc:0 "Heaven itself would need to consider the pros and cons of attacking an army like yours." #NT!
+
+ building_type_ministry_of_lions_01:0 "Swords of the Cult" #NT!
+ building_type_ministry_of_lions_01_desc:0 "#F The Swords of the Cult, also called the Ministry of Lions, have the task of fighting against threats to the Court.#!" #NT!
+ building_ministry_of_lions_01:0 "Minor Swords of the Cult" #NT!
+ building_ministry_of_lions_01_desc:0 "You have contracted a few Swords, who now act as 'cleaners' for locals you want removed." #NT!
+ building_ministry_of_lions_02:0 "Respectable Swords of the Cult" #NT!
+ building_ministry_of_lions_02_desc:0 "A military force that can now fight a good battle, your Swords are now your trusted right hand." #NT!
+ building_ministry_of_lions_03:0 "Major Swords of the Cult" #NT!
+ building_ministry_of_lions_03_desc:0 "Your Warders now exert their control over an entire city, waging war within at your beck and call." #NT!
+ building_ministry_of_lions_04:0 "Greater Swords of the Cult" #NT!
+ building_ministry_of_lions_04_desc:0 "The first sign of your expanding reach, the other Fallen have begun to fear your trusted Swords." #NT!
+ building_ministry_of_lions_05:0 "Powerful Swords of the Cult" #NT!
+ building_ministry_of_lions_05_desc:0 "Mortal armies would fear to face a handful of your Swords, and your reach expands even further, the burning blade of your ambition." #NT!
+ building_ministry_of_lions_06:0 "Eternal Swords of the Cult" #NT!
+ building_ministry_of_lions_06_desc:0 "Heaven ought to tremble before your forces." #NT!
+
+ building_type_ministry_of_dust_01:0 "Guides of the Cult" #NT!
+ building_type_ministry_of_dust_01_desc:0 "#F The Guides of the Cult, also called the Ministry of Dust, have the task of safekeeping of the mortal flock as well as the advancement of the Court.#!" #NT!
+ building_ministry_of_dust_01:0 "Minor Guides of the Cult" #NT!
+ building_ministry_of_dust_01_desc:0 "A few guardians have been set about to your cultists, currently now an unseen force that must warn you when the need arises." #NT!
+ building_ministry_of_dust_02:0 "Respectable Guides of the Cult" #NT!
+ building_ministry_of_dust_02_desc:0 "Your Guides now stand ever vigilant of your cults, in the small places they reside." #NT!
+ building_ministry_of_dust_03:0 "Major Guides of the Cult" #NT!
+ building_ministry_of_dust_03_desc:0 "The Guides regularly act as liaisons, now an everpresent concern in the lives of your cultists and their enemies." #NT!
+ building_ministry_of_dust_04:0 "Greater Guides of the Cult" #NT!
+ building_ministry_of_dust_04_desc:0 "Guides now hold greater power of the local realm itself, firm wards of your sources of faith and power." #NT!
+ building_ministry_of_dust_05:0 "Powerful Guides of the Cult" #NT!
+ building_ministry_of_dust_05_desc:0 "The Guides are now champions of your domain, your cultists safe and protected, and their enemies dare not harm your precious stock of faith." #NT!
+ building_ministry_of_dust_06:0 "Eternal Guides of the Cult" #NT!
+ building_ministry_of_dust_06_desc:0 "Ashes to Ashes, Dust to Dust, all here is kept safe here, under your eternal gaze." #NT!
+
+ building_type_theistic_cults_01:0 "Theistic Cult" #NT!
+ building_type_theistic_cults_01_desc:0 "#F Theism, or the belief in the existence of gods who take personal interests in humanity, gives numerous opportunities for demons to move into already well-established religious systems and subvert them. These cults revolve around the worship of a demon posing as a god or goddess, usually the deity of a culture with legends of gods interacting personally with their believers.#!" #NT!
+ building_theistic_cults_01:0 "Tiny Theistic Cult" #NT!
+ building_theistic_cults_01_desc:0 "Within a few holy places, the whispers of your power have begun." #NT!
+ building_theistic_cults_02:0 "Small Theistic Cult" #NT!
+ building_theistic_cults_02_desc:0 "A few holy men are holy no longer, your thrall now beginning to truly grow." #NT!
+ building_theistic_cults_03:0 "Moderate Theistic Cult" #NT!
+ building_theistic_cults_03_desc:0 "You now have an entire building secretly dedicated to your worship, a beacon of power and faith for you alone." #NT!
+ building_theistic_cults_04:0 "Large Theistic Cult" #NT!
+ building_theistic_cults_04_desc:0 "Everyone in the city knows the name of your head priest, and you can gorge yourself on faith, a true delight!" #NT!
+ building_theistic_cults_05:0 "Massive Theistic Cult" #NT!
+ building_theistic_cults_05_desc:0 "Your influence in the hearts and faith of mortals has grown to be the official doctrine of this area, with more faith than you would have ever asked for in the past." #NT!
+ building_theistic_cults_06:0 "Eternal Theistic Cult" #NT!
+ building_theistic_cults_06_desc:0 "Not even the cults of the Elohim of days long past equal what you have now." #NT!
+
+ building_type_pseudo_angelic_cults_01:0 "Pseudo-Angelic Cult" #NT!
+ building_type_pseudo_angelic_cults_01_desc:0 "#F The gullible common people make for excellent worshipers, ready to hear your lies about salvation and being one of God's chosen Host.#!" #NT!
+ building_pseudo_angelic_cults_01:0 "Tiny Pseudo-Angelic Cult" #NT!
+ building_pseudo_angelic_cults_01_desc:0 "Within a few communities, the whispers of your power have begun." #NT!
+ building_pseudo_angelic_cults_02:0 "Small Pseudo-Angelic Cult" #NT!
+ building_pseudo_angelic_cults_02_desc:0 "The people speaks more of their savior, your thrall now beginning to truly grow." #NT!
+ building_pseudo_angelic_cults_03:0 "Moderate Pseudo-Angelic Cult" #NT!
+ building_pseudo_angelic_cults_03_desc:0 "You now have an entire building secretly dedicated to your worship, a beacon of power and faith for you alone." #NT!
+ building_pseudo_angelic_cults_04:0 "Large Pseudo-Angelic Cult" #NT!
+ building_pseudo_angelic_cults_04_desc:0 "Everyone in the city knows the name of their god, and you can gorge yourself on faith, a true delight!" #NT!
+ building_pseudo_angelic_cults_05:0 "Massive Pseudo-Angelic Cult" #NT!
+ building_pseudo_angelic_cults_05_desc:0 "Your influence in the hearts and faith of mortals has grown to be the official doctrine of this area, with more faith than you would have ever asked for in the past." #NT!
+ building_pseudo_angelic_cults_06:0 "Eternal Pseudo-Angelic Cult" #NT!
+ building_pseudo_angelic_cults_06_desc:0 "Not even the cults of the Elohim of days long past equal what you have now." #NT!
+
+ building_type_demonic_cults_01:0 "Demonic Cult" #NT!
+ building_type_demonic_cults_01_desc:0 "#F Though all cults involved in the worship of demons might technically be called demonic cults, the term is here used to refer to cults serving a demon which makes no attempts to disguise its true nature. Adherents of demonic cults have no illusions about the manner of creature they venerate.#!" #NT!
+ building_demonic_cults_01:0 "Tiny Demonic Cult" #NT!
+ building_demonic_cults_01_desc:0 "Within a few tainted homes, the whispers of your power have begun." #NT!
+ building_demonic_cults_02:0 "Small Demonic Cult" #NT!
+ building_demonic_cults_02_desc:0 "A few sinners are appearing, your thrall now beginning to truly grow." #NT!
+ building_demonic_cults_03:0 "Moderate Demonic Cult" #NT!
+ building_demonic_cults_03_desc:0 "You now have an entire building secretly dedicated to your worship, a beacon of power and faith for you alone." #NT!
+ building_demonic_cults_04:0 "Large Demonic Cult" #NT!
+ building_demonic_cults_04_desc:0 "Everyone in the city knows the true pleasure of sin, and you can gorge yourself on faith, a true delight!" #NT!
+ building_demonic_cults_05:0 "Massive Demonic Cult" #NT!
+ building_demonic_cults_05_desc:0 "Your influence in the hearts and faith of mortals has grown to be the official doctrine of this area, with more faith than you would have ever asked for in the past." #NT!
+ building_demonic_cults_06:0 "Eternal Demonic Cult" #NT!
+ building_demonic_cults_06_desc:0 "They know what you truly are, and they love you for it." #NT!
+
+ building_type_noble_cults_01:0 "Noble Cult" #NT!
+ building_type_noble_cults_01_desc:0 "#F Nobles are very easy to corrupt. After all, they indulge in many sins by their very lifestyle, making the push to 'experience just a little bit more' that much more effective.#!" #NT!
+ building_noble_cults_01:0 "Tiny Noble Cult" #NT!
+ building_noble_cults_01_desc:0 "Within a few castle halls, the whispers of your power have begun." #NT!
+ building_noble_cults_02:0 "Small Noble Cult" #NT!
+ building_noble_cults_02_desc:0 "A few depraved nobles follow your call, your thrall now beginning to truly grow." #NT!
+ building_noble_cults_03:0 "Moderate Noble Cult" #NT!
+ building_noble_cults_03_desc:0 "You now have an entire building secretly dedicated to your worship, a beacon of power and faith for you alone." #NT!
+ building_noble_cults_04:0 "Large Noble Cult" #NT!
+ building_noble_cults_04_desc:0 "Everyone in the city knows the delights you can provide, and you can gorge yourself on faith, a true delight!" #NT!
+ building_noble_cults_05:0 "Massive Noble Cult" #NT!
+ building_noble_cults_05_desc:0 "Your influence in the hearts and faith of mortals has grown to be the official doctrine of this area, with more faith than you would have ever asked for in the past." #NT!
+ building_noble_cults_06:0 "Eternal Noble Cult" #NT!
+ building_noble_cults_06_desc:0 "Not even the cults of the Elohim of days long past equal what you have now." #NT!
+

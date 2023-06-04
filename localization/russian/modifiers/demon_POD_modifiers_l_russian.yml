@@ -1,0 +1,83 @@
+﻿l_russian:
+ resolve0_modifier:0 "Resolve: 0" #NT!
+ resolve1_modifier:0 "Resolve: 1" #NT!
+ resolve2_modifier:0 "Resolve: 2" #NT!
+ resolve3_modifier:0 "Resolve: 3" #NT!
+ resolve4_modifier:0 "Resolve: 4" #NT!
+ resolve5_modifier:0 "Resolve: 5" #NT!
+
+ POD_shapeshift_form_apocalyptic_angelic_modifier:0 "Angelic Apocalyptic Form" #NT!
+ POD_shapeshift_form_apocalyptic_damned_modifier:0 "Damned Apocalyptic Form" #NT!
+ POD_shapeshift_form_apocalyptic_lesser_modifier:0 "Lesser Apocalyptic Form" #NT!
+ arsenal_of_the_beast_claws_modifier:0 "Claws" #NT!
+ arsenal_of_the_beast_claws_modifier_desc:0 "The character’s fingernails extend like the curved talons of a raptor or the retractable claws of a cat." #NT!
+ arsenal_of_the_beast_fangs_modifier:0 "Fangs" #NT!
+ arsenal_of_the_beast_fangs_modifier_desc:0 "The character’s teeth grow sharp like those of a wolf or other large predator, or perhaps they sports a raptor’s beak." #NT!
+ arsenal_of_the_beast_gaping_maw_modifier:0 "Gaping Maw" #NT!
+ arsenal_of_the_beast_gaping_maw_modifier_desc:0 "The character’s jaw unhinges or simply distends impossibly wide, presenting row upon row of glistening fangs." #NT!
+ arsenal_of_the_beast_horns_modifier:0 "Horns" #NT!
+ arsenal_of_the_beast_horns_modifier_desc:0 "The character sprouts archetypal goat horns, antlers like a stag, unnatural bone spurs protruding from the skull or some other growth that enables goring attacks." #NT!
+ arsenal_of_the_beast_lashing_tail_modifier:0 "Lashing Tail" #NT!
+ arsenal_of_the_beast_lashing_tail_modifier_desc:0 "The character sports a powerful muscular tail." #NT!
+ arsenal_of_the_beast_poison_modifier:0 "Poison" #NT!
+ arsenal_of_the_beast_poison_modifier_desc:0 "The character’s body produces a deadly venom." #NT!
+ arsenal_of_the_beast_venom_spit_modifier:0 "Venom Spit" #NT!
+ arsenal_of_the_beast_venom_spit_modifier_desc:0 "The character has a venom gland in his throat that allows them to spray poison." #NT!
+ arsenal_of_the_beast_spines_modifier:0 "Spines" #NT!
+ arsenal_of_the_beast_spines_modifier_desc:0 "Spikes of bone or quills protrude from the character’s skin." #NT!
+ arsenal_of_the_beast_tentacles_modifier:0 "Tentacles" #NT!
+ arsenal_of_the_beast_tentacles_modifier_desc:0 "The character has a long tentacle or prehensile tail." #NT!
+ arsenal_of_the_beast_wings_modifier:0 "Wings" #NT!
+ arsenal_of_the_beast_wings_modifier_desc:0 "The character grows large wings from her back, stretching a third again as long as the character is tall at full extension." #NT!
+
+ possessing_a_dead_body_modifier:0 "Possessing a dead body" #NT!
+ possessing_a_dead_body_modifier_desc:0 "The dead body possession's maintenance inflicts wounds instead of life-force loss modifier, but you will maintain the possession until your vessel reaches max wound level." #NT!
+
+ implacable_vengeance_perk_modifier:0 "Implacable Vengeance" #NT!
+
+ unknown_eminence_modifier:0 "Unknown Eminence" #NT!
+ unknown_eminence_modifier_desc:0 "You have been forgotten by mortals, God and demons alike. Your Celestial Name doesn't inspire fear or respect anymore." #NT!
+ known_eminence_modifier:0 "Known Eminence" #NT!
+ known_eminence_modifier_desc:0 "Your Celestial Name sounds familiar to many demons, though they do not remember your original purpose or achievements." #NT!
+ respected_eminence_modifier:0 "Respected Eminence" #NT!
+ respected_eminence_modifier_desc:0 "Most demons have probably heard of you by name and many have a rough idea of what you did before the rebellion, if only by general affiliation." #NT!
+ honored_eminence_modifier:0 "Honored Eminence" #NT!
+ honored_eminence_modifier_desc:0 "You had a position of authority over a group of other angels before and during the rebellion. Some particular facet of Creation was yours to engineer or maintain, encompassing a number of integrated concepts, beings or objects." #NT!
+ powerful_eminence_modifier:0 "Powerful Eminence" #NT!
+ powerful_eminence_modifier_desc:0 "Once, you directed your brethren in the creation of some integral component of the cosmos. Perhaps the very designs of this work were yours, and you were famed across the host for your ingenuity and vision." #NT!
+ exalted_eminence_modifier:0 "Exalted Eminence" #NT!
+ exalted_eminence_modifier_desc:0 "In the beginning, there was the Word, and you were among the next syllables pronounced by Him. You directed an entire division of creation and stood by Lucifer as one of his chosen officers in the rebellion. All demons know of you and know your Celestial Name, whether or not they remember why." #NT!
+
+ host_leech_modifier_terrible:0 "Soul Leeching : Terrible Host" #NT!
+ host_leech_modifier_terrible_desc:0 "Your current host is generously "providing" some of their (very limited) strengths to you." #NT!
+ host_leech_modifier_medium:0 "Soul Leeching : Average Host" #NT!
+ host_leech_modifier_medium_desc:0 "Your current host is generously "providing" some of their strengths to you." #NT!
+ host_leech_modifier_good:0 "Soul Leeching : Good Host" #NT!
+ host_leech_modifier_good_desc:0 "Your current host is generously "providing" some of their considerable strengths to you." #NT!
+
+ earthbound_modifier:0 "Earthbound Influence" #NT!
+ earthbound_modifier_desc:0 "Demons bound to locations can perceive everything that happens within that location; their senses are omnipresent, and are unaffected by things like walls and darkness." #NT!
+ earthbound_negative_modifier:0 "Earthbound Influence" #NT!
+ earthbound_negative_modifier_desc:0 "Demons bound to locations can perceive everything that happens within that location; their senses are omnipresent, and are unaffected by things like walls and darkness." #NT!
+
+ low_gravity_modifier:0 "Low Gravity" #NT!
+ high_gravity_modifier:0 "High Gravity" #NT!
+ high_adhesion_modifier:0 "High Adhesion" #NT!
+ low_adhesion_modifier:0 "Low Adhesion" #NT!
+ momentum_boost_modifier:0 "Momentum Boost" #NT!
+ protection_from_projectile_modifier:0 "Protection from Projectile" #NT!
+ protection_from_projectile_modifier_desc:0 "Less chance of gaining wounds or being killed in combat." #NT!
+
+ unspeakable_servitor_modifier:0 "Unspeakable Servitor" #NT!
+
+ longevity_modifier:0 "Extra Life Expectancy" #NT!
+
+ possessed_demonic_modifier:0 "Possessed by Demon" #NT!
+
+ POD_demon_pacts_1_modifier:0 "Infernal Pacts" #NT!
+ POD_demon_pacts_2_modifier:0 "Infernal Pacts" #NT!
+ POD_demon_pacts_3_modifier:0 "Infernal Pacts" #NT!
+ POD_demon_pacts_4_modifier:0 "Infernal Pacts" #NT!
+ POD_demon_pacts_5_modifier:0 "Infernal Pacts" #NT!
+
+ extinguish_life_modifier:0 "Extinguish Life" #NT!

@@ -1,0 +1,77 @@
+﻿l_russian:
+
+ #Common Calomena's Forsaken Localization #NT!
+ orthodox_religious_head_title_female: "Matriarch" #NT!
+ calomenasforsaken_religion:0 "Calomena's Forsaken" #NT!
+ calomenasforsaken_religion_adj:0 "Calomena's Forsaken" #NT!
+ calomenasforsaken_religion_adherent:0 "Blood Gnostics" #NT!
+ calomenasforsaken_religion_adherent_plural:0 "Gnostics" #NT!
+ calomenasforsaken_religion_desc:0 "Hunters influenced by Gnosticism" #NT!
+ calomenasforsaken_high_god_name:0 "Calomena" #NT!
+ calomenasforsaken_high_god_name_possessive:0 "Calomena's" #NT!
+ calomenasforsaken_high_god_name_alternate:0 "Calomena" #NT!
+ calomenasforsaken_high_god_name_alternate_possessive:0 "Calomena's" #NT!
+ calomenasforsaken_good_god_jesus:0 "Calomena" #NT!
+ calomenasforsaken_good_god_christ:0 "Calomena" #NT!
+ calomenasforsaken_devil_name:0 "Caine" #NT!
+ calomenasforsaken_devil_name_possessive:0 "Caine's" #NT!
+ calomenasforsaken_evil_god_lucifer:0 "Caine" #NT!
+ calomenasforsaken_evil_god_beelzebub:0 "Caine" #NT!
+ calomenasforsaken_evil_god_mephistopheles:0 "Caine" #NT!
+ calomenasforsaken_death_deity_name:0 "Destruction" #NT!
+ calomenasforsaken_death_deity_name_possessive:0 "Destruction's" #NT!
+ calomenasforsaken_house_of_worship:0 "chapel" #NT!
+ calomenasforsaken_house_of_worship_plural:0 "chapels" #NT!
+ calomenasforsaken_religious_symbol:0 "cross" #NT!
+ calomenasforsaken_religious_text:0 "Euagetaematikon" #NT!
+ calomenasforsaken_religious_head_title:0 "principle of faith" #NT!
+ calomenasforsaken_religious_head_title_name:0 "principle of faith" #NT!
+ calomenasforsaken_devotee_male:0 "principle of faith" #NT!
+ calomenasforsaken_devotee_male_plural:0 "principles of faith" #NT!
+ calomenasforsaken_devotee_female:0 "principle of faith" #NT!
+ calomenasforsaken_devotee_female_plural:0 "principles of faith" #NT!
+ calomenasforsaken_devotee_neuter:0 "principle of faith" #NT!
+ calomenasforsaken_devotee_neuter_plural:0 "principles of faith" #NT!
+ calomenasforsaken_priest_male:0 "principle of faith" #NT!
+ calomenasforsaken_priest_male_plural:0 "principles of faith" #NT!
+ calomenasforsaken_priest_alternate_plural:0 "principles of faith" #NT!
+ calomenasforsaken_bishop:0 "bishop" #NT!
+ calomenasforsaken_bishop_plural:0 "bishops" #NT!
+ calomenasforsaken_bishop_male:0 "bishop" #NT!
+ calomenasforsaken_bishop_male_plural:0 "bishops" #NT!
+ calomenasforsaken_positive_afterlife:0 "heaven" #NT!
+ calomenasforsaken_negative_afterlife:0 "the abyss" #NT!
+ calomenasforsaken_witchgodname_the_horned_god:0 "Ialdabaoth" #NT!
+
+ calomenasforsaken_creator_god_name:0 "$calomenasforsaken_high_god_name$" #NT!
+ calomenasforsaken_creator_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$" #NT!
+ calomenasforsaken_health_god_name:0 "God" #NT!
+ calomenasforsaken_health_god_name_possessive:0 "God's" #NT!
+ calomenasforsaken_fertility_god_name:0 "$calomenasforsaken_high_god_name$" #NT!
+ calomenasforsaken_fertility_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$" #NT!
+ calomenasforsaken_wealth_god_name:0 "$calomenasforsaken_high_god_name$" #NT!
+ calomenasforsaken_wealth_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$" #NT!
+ calomenasforsaken_household_god_name:0 "Calomena" #NT!
+ calomenasforsaken_household_god_name_possessive:0 "Calomena's" #NT!
+ calomenasforsaken_fate_god_name:0 "$calomenasforsaken_high_god_name$" #NT!
+ calomenasforsaken_fate_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$" #NT!
+ calomenasforsaken_knowledge_god_name:0 "$calomenasforsaken_high_god_name$" #NT!
+ calomenasforsaken_knowledge_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$" #NT!
+ calomenasforsaken_war_god_name:0 "$calomenasforsaken_high_god_name$" #NT!
+ calomenasforsaken_war_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$" #NT!
+ calomenasforsaken_trickster_god_name:0 "Calomena" #NT!
+ calomenasforsaken_trickster_god_name_possessive:0 "Calomena's" #NT!
+ calomenasforsaken_night_god_name:0 "$calomenasforsaken_high_god_name$" #NT!
+ calomenasforsaken_night_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$" #NT!
+ calomenasforsaken_water_god_name:0 "Calomena" #NT!
+ calomenasforsaken_water_god_name_possessive:0 "Calomena's" #NT!
+
+ #Group Faiths #NT!
+
+ calomenasforsaken:0 "Calomena's Forsaken" #NT!
+ calomenasforsaken_adj:0 "Forsaken" #NT!
+ calomenasforsaken_adherent:0 "Forsaken" #NT!
+ calomenasforsaken_adherent_plural:0 "Forsaken" #NT!
+ calomenasforsaken_desc:0 "Scourges of the [cainite|E] race, the Forsaken are a group of hunters believing in the Bogomil heresy. They believe Calomena was the sister of Caine, and they are to bring about the destruction Caine's children--the vampires. They believe in a dualist philosophy and also observe the harsh poverty upheld by most Bogomils." #NT!
+ holy_order_forsaken_militant:0 "Forsaken Militant" #NT!
+

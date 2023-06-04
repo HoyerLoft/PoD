@@ -1,0 +1,37 @@
+﻿l_russian:
+
+ POD_insanity.001.t:0 "Подарки Безумия" #NT!
+ POD_insanity.001.desc:0 "Все готово, теперь я могу поделиться своим безумием с [defender.GetFirstName]! [defender.GetSheHe|U] будет еще долго с теплотой вспоминать мое имя после награждения таким подаркам, не так ли?" #NT!
+ POD_insanity.001.option.a:0 "Дар знаний, это то, в чем [defender.GetSheHe] нуждается!" #NT!
+ POD_insanity.001.option.a.tt:0 "Дуэль между вашей ученостью и [defender.GetFirstName]" #NT!
+ POD_insanity.001.option.a.tt.beast:0 "#R Проклятие знаний сломает разум [defender.GetHerHis]!#!" #NT!
+ POD_insanity.001.option.b:0 "Тени? Они говорят?" #NT!
+ POD_insanity.001.option.b.tt:0 "Дуэль между вашей интригой и [defender.GetFirstName]" #NT!
+ POD_insanity.001.option.b.tt.beast:0 "#R [defender.GetSheHe|U] больше не будет чувствовать себя безопасно в темноте!#!" #NT!
+ POD_insanity.001.option.c:0 "[defender.GetHerHis|U] разум выглядит как уютный дом для... кого-то другого." #NT!
+ POD_insanity.001.option.c.tt:0 "Дуэль между вашим военным делом и [defender.GetFirstName]" #NT!
+ POD_insanity.001.option.c.tt.beast:0 "#R [defender.GetSheHe|U] больше никогда не будет страдать от одиночества!#!" #NT!
+ POD_insanity.001.option.d:0 "Правда сокрушит пустые надежды [defender.GetHerHis]" #NT!
+ POD_insanity.001.option.d.tt:0 "Дуэль между вашим управлением и [defender.GetFirstName]" #NT!
+ POD_insanity.001.option.d.tt.beast:0 "#R О, жестокая правда!#!" #NT!
+ POD_insanity.001.option.e:0 "Никаких [defender.GetHerHim] подарков!" #NT!
+ POD_insanity.001.option.e.tt:0 "Вы прекратите свои попытки свести с ума [defender.GetFirstName]" #NT!
+ POD_insanity.001.option.e.tt.beast:0 "#R Почему ты останавливаешься, дурында?!#!" #NT!
+
+POD_insanity.001.option.a.desc:0 "Конфликт Учености" #NT!
+POD_insanity.001.option.b.desc:0 "Конфликт Интриги" #NT!
+POD_insanity.001.option.c.desc:0 "Конфликт Военного дела" #NT!
+POD_insanity.001.option.d.desc:0 "Конфликт Управления" #NT!
+POD_insanity.001.option.success:0 "[attacker.GetFirstName] побеждает" #NT!
+POD_insanity.001.option.failure:0 "[defender.GetFirstName] побеждает" #NT!
+POD_insanity.001.option.a.tt.attacker_wins:0 "Я насылаю моё проклятие знания на [defender.GetFirstName]" #NT!
+POD_insanity.001.option.a.tt.attacker_lost:0 "[defender.GetFirstName] сопротивляется" #NT!
+POD_insanity.001.option.b.tt.attacker_wins:0 "Тени говорят с [defender.GetFirstName]" #NT!
+POD_insanity.001.option.b.tt.attacker_lost:0 "[defender.GetFirstName] сопротивляется" #NT!
+POD_insanity.001.option.c.tt.attacker_wins:0 "[defender.GetFirstName] не страдает от одиночества в [defender.GetHerHim] разуме" #NT!
+POD_insanity.001.option.c.tt.attacker_lost:0 "[defender.GetFirstName] сопротивляется" #NT!
+POD_insanity.001.option.d.tt.attacker_wins:0 "Бремя истины лежит на [defender.GetHerHim] плечах" #NT!
+POD_insanity.001.option.d.tt.attacker_lost:0 "[defender.GetFirstName] сопротивляется" #NT!
+
+POD_insanity.toast.success:0 "Проклятие Удалось!" #NT!
+POD_insanity.toast.failure:0 "Проклятие провалилось!" #NT!

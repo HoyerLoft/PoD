@@ -1,0 +1,41 @@
+﻿l_russian:
+ HERD:0 "Стадо" #NT!
+ GHOULS:0 "Гули" #NT!
+ WRAITHS:0 "Призраки" #NT!
+ MINIONS_tab:0 "Миньоны" #NT!
+ AGE_ANCIENT:0 "Этот персонаж древний" #NT!
+ AGE_PREHISTORY:0 "This character predates history" #NT!
+ YOU_LOSE:0 "YOU LOSE" #NT!
+ gui_lore_tt:0 "Лор Персонажа" #NT!
+ GHOULS_LABEL:0 "Гули" #NT!
+ DOMITOR_LABEL:0 "Домитор" #NT!
+
+ minions_button_name:0 "Миньоны" #NT!
+ minions_button_name_werewolf:0 "Kin" #NT!
+
+ ghouls_row_header:0 "Гули #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'ghoul_thrall' ) ))])#!" #NT!
+ herd_row_header:0 "Стадо #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'herd_member' ) ))])#!" #NT!
+ dreamer_row_header:0 "Dreamer #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'dreamer_member' ) ))])#!" #NT!
+ bound_wraiths_row_header:0 "Bound Wraiths #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'bound_wraith' ) ))])#!" #NT!
+ bound_demons_row_header:0 "Bound Demons #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'bound_demon' ) ))])#!" #NT!
+ possessed_targets_row_header:0 "Possessed Body #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'possessed_target' ) ))])#!" #NT!
+ stolen_hearts_row_header:0 "Украденные сердца #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'heart_of_darkness_heartless' ) ))])#!" #NT!
+ werewolf_pack_row_header:0 "Packmembers #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'packmember' ) ))])#!" #NT!
+ effigies_row_header:0 "Effigies #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'effigy_character' ) ))])#!" #NT!
+ animantis_row_header:0 "Animantis #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'animantis_character' ) ))])#!" #NT!
+ shadow_twin_row_header:0 "Теневой Двойник" #NT!
+ darkling_mirror_row_header:0 "Split P'o" #NT!
+ shadowy_duplicate_row_header:0 "Shadowy Duplicate #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'shadowy_duplicate_servant' ) ))])#!" #NT!
+ phantom_shadow_row_header:0 "Фантомная Тень" #NT!
+ separated_khaibit_row_header:0 "Separated Khaibit" #NT!
+ separated_shadow_row_header:0 "Тень" #NT!
+ unspeakable_servitor_row_header:0 "Unspeakable Servitor" #NT!
+
+ ghouls_row_header_expanded:0 "Гули #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'ghoul_thrall' ) ))])#!" #NT!
+ herd_row_header_expanded:0 "Стадо #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'herd_member' ) ))])#!" #NT!
+ dreamer_row_header_expanded:0 "Dreamer #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'dreamer_member' ) ))])#!" #NT!
+ bound_wraiths_row_header_expanded:0 "Bound Wraiths #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'bound_wraith' ) ))])#!" #NT!
+ bound_demons_row_header_expanded:0 "Bound Demons #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'bound_demon' ) ))])#!" #NT!
+ stolen_hearts_row_header_expanded:0 "Stolen Hearts #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'heart_of_darkness_heartless' ) ))])#!" #NT!
+ effigies_row_header_expanded:0 "Effigies #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'effigy_character' ) ))])#!" #NT!
+ animantis_row_header_expanded:0 "Animantis #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'animantis_character' ) ))])#!" #NT!

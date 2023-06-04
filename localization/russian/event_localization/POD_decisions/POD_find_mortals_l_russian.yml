@@ -1,0 +1,7 @@
+﻿l_russian:
+
+ POD_find_mortals.100.t:0 "Новая Кровь" #NT!
+ POD_find_mortals.100.desc:0 "Обыскивая местность, вы обнаруживаете поблизости несколько смертных, которые поддались вашим махинациям." #NT!
+ POD_find_mortals.100.option.a:0 "Что мне с ними сделать," #NT!
+ POD_find_mortals.100.option.a.tt.beast:0 "#R Давай их съедим!#!" #NT!
+ POD_find_mortals.youcanhunt:0 "Вы можете охотиться на любого смертного в вашем текущем местоположении, щелкнув по нему правой кнопкой мыши и выбрав Охоту [character_interaction|E]" #NT!

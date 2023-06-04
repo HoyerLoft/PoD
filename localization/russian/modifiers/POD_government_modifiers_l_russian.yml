@@ -1,0 +1,15 @@
+﻿l_russian:
+ traditions_government_opinion:0 "Traditions [government|E] [opinion|E]" #NT!
+ august_court_government_opinion:0 "August Court [opinion|E]" #NT!
+ ferryman_government_opinion:0 "Ferrymen [opinion|E]" #NT!
+ hive_mind_government_opinion:0 "Hive-Mind [opinion|E]" #NT!
+ litany_government_opinion:0 "Litany [opinion|E]" #NT!
+
+ free_state_government_tax_contribution_mult:0 "Free State [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ free_state_government_levy_contribution_mult:0 "Free State [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+
+ infernal_court_government_opinion:0 "Infernal Court [opinion|E]" #NT!
+ infernal_court_government_tax_contribution_add:0 "Infernal Court [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ infernal_court_government_tax_contribution_mult:0 "Infernal Court [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ infernal_court_government_levy_contribution_add:0 "Infernal Court [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ infernal_court_government_levy_contribution_mult:0 "Infernal Court [vassal|E] [levy|E] [modifier_contribution|E]" #NT!

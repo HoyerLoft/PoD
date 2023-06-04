@@ -1,0 +1,265 @@
+﻿l_russian:
+ game_concept_tribegifts_lifestyle:0 "Tribal Gifts" #NT!
+ game_concept_tribegifts_lifestyle_desc:0 "Tribal Gifts are gifts taught by the protector spirit of the tribe." #NT!
+
+ tribegifts_lifestyle_name:0 "Tribal Gifts" #NT!
+ tribegifts_lifestyle_desc:0 "Focus on the power that come from the protector spirit of the tribe." #NT!
+ tribegifts_lifestyle_highlight_desc:0 "Because of your [GetModifier('POD_gnosis_5_modifier').GetNameWithTooltip], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_tribegifts_lifestyle_xp_gain_mult:0 "Monthly Tribal Gifts [lifestyle|E] [experience|E]" #NT!
+
+ blackfurygifts_focus:0 "Black Fury Focus" #NT!
+ blackfurygifts_focus_modifier:1 "[GetFocus('blackfurygifts_focus').GetName]" #NT!
+ blackfurygifts_focus_desc:0 "Tribal Gifts of the Black Furies." #NT!
+ blackfurygifts_focus_effect_desc:0 "Focusing on Black Fury Gifts grants:" #NT!
+
+ bonegnawergifts_focus:0 "Bone Gnawer Focus" #NT!
+ bonegnawergifts_focus_modifier:1 "[GetFocus('bonegnawergifts_focus').GetName]" #NT!
+ bonegnawergifts_focus_desc:0 "Tribal Gifts of the Bone Gnawer." #NT!
+ bonegnawergifts_focus_effect_desc:0 "Focusing on Bone Gnawer Gifts grants:" #NT!
+
+ childofgaiagifts_focus:0 "Children of Gaia Focus" #NT!
+ childofgaiagifts_focus_modifier:1 "[GetFocus('childofgaiagifts_focus').GetName]" #NT!
+ childofgaiagifts_focus_desc:0 "Tribal Gifts of the Children of Gaia." #NT!
+ childofgaiagifts_focus_effect_desc:0 "Focusing on Children of Gaia Gifts grants:" #NT!
+
+ fiannagifts_focus:0 "Fianna Focus" #NT!
+ fiannagifts_focus_modifier:1 "[GetFocus('fiannagifts_focus').GetName]" #NT!
+ fiannagifts_focus_desc:0 "Tribal Gifts of the Fianna." #NT!
+ fiannagifts_focus_effect_desc:0 "Focusing on Fianna Gifts grants:" #NT!
+
+ getoffenrisgifts_focus:0 "Get of Fenris Focus" #NT!
+ getoffenrisgifts_focus_modifier:1 "[GetFocus('getoffenrisgifts_focus').GetName]" #NT!
+ getoffenrisgifts_focus_desc:0 "Tribal Gifts of the Get of Fenris." #NT!
+ getoffenrisgifts_focus_effect_desc:0 "Focusing on Get of Fenris Gifts grants:" #NT!
+
+ redtalongifts_focus:0 "Red Talon Focus" #NT!
+ redtalongifts_focus_modifier:1 "[GetFocus('redtalongifts_focus').GetName]" #NT!
+ redtalongifts_focus_desc:0 "Tribal Gifts of the Red Talon." #NT!
+ redtalongifts_focus_effect_desc:0 "Focusing on Red Talon Gifts grants:" #NT!
+
+ shadowlordgifts_focus:0 "Shadow Lord Focus" #NT!
+ shadowlordgifts_focus_modifier:1 "[GetFocus('shadowlordgifts_focus').GetName]" #NT!
+ shadowlordgifts_focus_desc:0 "Tribal Gifts of the Shadow Lord." #NT!
+ shadowlordgifts_focus_effect_desc:0 "Focusing on Shadow Lord Gifts grants:" #NT!
+
+ silentstridergifts_focus:0 "Silent Strider Focus" #NT!
+ silentstridergifts_focus_modifier:1 "[GetFocus('silentstridergifts_focus').GetName]" #NT!
+ silentstridergifts_focus_desc:0 "Tribal Gifts of the Silent Strider." #NT!
+ silentstridergifts_focus_effect_desc:0 "Focusing on Silent Strider Gifts grants:" #NT!
+
+ silverfanggifts_focus:0 "Silver Fang Focus" #NT!
+ silverfanggifts_focus_modifier:1 "[GetFocus('silverfanggifts_focus').GetName]" #NT!
+ silverfanggifts_focus_desc:0 "Tribal Gifts of the Silver Fang." #NT!
+ silverfanggifts_focus_effect_desc:0 "Focusing on Silver Fang Gifts grants:" #NT!
+
+ stargazergifts_focus:0 "Stargazers Focus" #NT!
+ stargazergifts_focus_modifier:1 "[GetFocus('stargazergifts_focus').GetName]" #NT!
+ stargazergifts_focus_desc:0 "Tribal Gifts of the Stargazers." #NT!
+ stargazergifts_focus_effect_desc:0 "Focusing on Stargazers Gifts grants:" #NT!
+
+ glasswalkergifts_focus:0 "[SelectLocalization(GetPlayer.IsValid, 'glasswalkergifts_visible', 'glasswalker_darkage_name')] Focus" #NT!
+ glasswalkergifts_focus_modifier:1 "[GetFocus('glasswalkergifts_focus').GetName]" #NT!
+ glasswalkergifts_focus_desc:0 "Tribal Gifts of the $glasswalkergifts_visible$." #NT!
+ glasswalkergifts_focus_effect_desc:0 "Focusing on $glasswalkergifts_visible$ Gifts grants:" #NT!
+
+ blackspiraldancergifts_focus:0 "Black Spiral Dancer Focus" #NT!
+ blackspiraldancergifts_focus_modifier:1 "[GetFocus('blackspiraldancergifts_focus').GetName]" #NT!
+ blackspiraldancergifts_focus_desc:0 "Tribal Gifts of the Black Spiral Dancer." #NT!
+ blackspiraldancergifts_focus_effect_desc:0 "Focusing on Black Spiral Dancer Gifts grants:" #NT!
+
+ GAINS_TRIBEGIFTS_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [tribegifts_lifestyle|E] Experience" #NT!
+ GAINED_TRIBEGIFTS_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [tribegifts_lifestyle|E] Experience" #NT!
+ I_GAIN_TRIBEGIFTS_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [tribegifts_lifestyle|E] Experience" #NT!
+ I_GAINED_TRIBEGIFTS_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [tribegifts_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_TRIBEGIFTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [tribegifts_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_TRIBEGIFTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [tribegifts_lifestyle|E] Experience" #NT!
+
+ GAINS_A_TRIBEGIFTS_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [tribegifts_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_TRIBEGIFTS_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [tribegifts_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_TRIBEGIFTS_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [tribegifts_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_TRIBEGIFTS_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [tribegifts_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_TRIBEGIFTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [tribegifts_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_TRIBEGIFTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [tribegifts_lifestyle|E] [perk|E] Unlock" #NT!
+
+ TRIBEGIFTS_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Tribal Gifts lifestyle perk points: $NUM|V0$" #NT!
+
+ blackfurygifts_visible:1 "Black Furies" #NT!
+ bonegnawergifts_visible:1 "Bone Gnawer" #NT!
+ childofgaiagifts_visible:1 "Children of Gaia" #NT!
+ fiannagifts_visible:1 "Fianna" #NT!
+ getoffenrisgifts_visible:1 "Get of Fenris" #NT!
+ redtalongifts_visible:1 "Red Talon" #NT!
+ shadowlordgifts_visible:1 "Shadow Lord" #NT!
+ silentstridergifts_visible:1 "Silent Strider" #NT!
+ silverfanggifts_visible:1 "Silver Fang" #NT!
+ stargazergifts_visible:1 "Stargazers" #NT!
+ glasswalkergifts_visible:1 "[CharacterLifestyleWindow.GetCharacter.Custom( 'glasswalker_custom_name' )]" #NT!
+ glasswalker_darkage_name:1 "Warder of Men" #NT!
+ glasswalker_modern_name:1 "Glass Walker" #NT!
+ blackspiraldancergifts_visible:1 "Black Spiral Dancer" #NT!
+
+ true_shot_perk_name:0 "True Shot" #NT!
+ arions_burden_perk_name:0 "Arion's Burden" #NT!
+ curse_of_aeolus_perk_name:0 "Curse of Aeolus" #NT!
+ heart_claw_perk_name:0 "Heart Claw" #NT!
+ wings_of_pegasus_perk_name:0 "Wings of Pegasus" #NT!
+ blizzard_of_arrows_perk_name:0 "Blizzard of Arrows" #NT!
+ storm_of_mothers_wrath_perk_name:0 "Storm of Mother’s Wrath" #NT!
+ walk_with_hades_perk_name:0 "Walk with Hades" #NT!
+
+ STORM_OF_MOTHERS_WRATH_PERK_EFFECT:0 "As a [character_interaction|E], allow you to unleash a [GetModifier( 'storm_of_mothers_wrath_modifier' ).GetNameWithTooltip|L] over enemy realms." #NT!
+ WALK_WITH_HADES_PERK_EFFECT:0 "Gain access to the [underworld|E] during spiritual travels." #NT!
+
+ declamation_perk_name:0 "Declamation" #NT!
+ tagalong_perk_name:0 "Tagalong" #NT!
+ hootenanny_perk_name:0 "Hootenanny" #NT!
+ dumpster_diving_perk_name:0 "Garbage Diving" #NT!
+ beg_perk_name:0 "Beg" #NT!
+ infest_perk_name:0 "Infest" #NT!
+ survivor_perk_name:0 "Survivor" #NT!
+ riot_perk_name:0 "Riot" #NT!
+
+ TAGALONG_PERK_EFFECT:0 "As a [character_interaction|E], allow you to gain a temporary totem modifier depending on the tribe of the targeted friend." #NT!
+ DUMPSTER_DIVING_PERK_EFFECT:0 "As a [character_interaction|E], allow you to teleport your army to the target's location." #NT!
+ BEG_PERK_EFFECT:0 "As a [character_interaction|E], allow you to beg a ruler for gold." #NT!
+ INFEST_PERK_EFFECT:0 "Can recruit [GetMaA('insects').GetName] as [men_at_arms|E]." #NT!
+ SURVIVOR_PERK_EFFECT:0 "You won't gain [GetTrait('inappetetic').GetName( GetPlayer )] any more.\nYou won't get diseases anymore as well." #NT!
+ RIOT_PERK_EFFECT:0 "As a [character_interaction|E], allow you to make the target's capital revolt." #NT!
+
+ water_conning_perk_name:0 "Water-Conning" #NT!
+ swallow_rage_perk_name:0 "Swallow Rage" #NT!
+ spellbinding_oration_perk_name:0 "Spellbinding Oration" #NT!
+ spirit_friend_perk_name:0 "Spirit Friend" #NT!
+ speech_of_all_things_perk_name:0 "Speech of All Things" #NT!
+ unicorns_grace_perk_name:0 "Unicorn’s Grace" #NT!
+ the_living_wood_perk_name:0 "The Living Wood" #NT!
+ trust_of_gaia_perk_name:0 "Trust of Gaia" #NT!
+
+ THE_LIVING_WOOD_PERK_EFFECT:0 "Can recruit [GetMaA('animated_tree').GetName] as [men_at_arms|E]" #NT!
+
+ salmon_leap_perk_name:0 "Salmon Leap" #NT!
+ two_tongues_perk_name:0 "Two Tongues" #NT!
+ brew_perk_name:0 "Brew" #NT!
+ ley_lines_perk_name:0 "Ley Lines" #NT!
+ faerie_kin_perk_name:0 "Faerie Kin" #NT!
+ airitechs_daughters_perk_name:0 "Airitech’s Daughters" #NT!
+ fog_on_the_moor_perk_name:0 "Fog on the Moor" #NT!
+ forms_of_cernunnos_perk_name:0 "Forms of Cernunnos" #NT!
+ sleep_of_the_hero_perk_name:0 "Sleep of the Hero" #NT!
+
+ AIRITECHS_DAUGHTERS_PERK_EFFECT:0 "As a [character_interaction|E], allows you to make the target mortal get a temporary [GetModifier('POD_werewolf_form_crinos_modifier').GetNameWithTooltip]." #NT!
+ FOG_ON_THE_MOOR_PERK_EFFECT:0 "Allow shapeshift to [GetModifier( 'POD_shapeshift_form_mist_modifier' ).GetNameWithTooltip|L]." #NT!
+ FORMS_OF_CERNUNNOS_PERK_EFFECT:0 "Allow shapeshift to several animal forms." #NT!
+ SLEEP_OF_THE_HERO_PERK_EFFECT:0 "You will gain [GetTrait('torpor').GetName( GetPlayer )] and be deposed if you die by unnatural cause." #NT!
+
+ safe_haven_perk_name:0 "Safe Haven" #NT!
+ visage_of_fenris_perk_name:0 "Visage of Fenris" #NT!
+ sense_guilt_perk_name:0 "Sense Guilt" #NT!
+ might_of_thor_perk_name:0 "Might of Thor" #NT!
+ lokis_touch_perk_name:0 "Loki’s Touch" #NT!
+ glory_scars_perk_name:0 "Glory-Scars" #NT!
+ strength_of_the_ancestors_perk_name:0 "Strength of the Ancestors" #NT!
+ fenris_bite_perk_name:0 "Fenris’ Bite" #NT!
+ call_great_fenris_perk_name:0 "Call Great Fenris" #NT!
+
+ STRENGTH_OF_THE_ANCESTORS_PERK_EFFECT:0 "Each [GetTrait('werewolf').GetName( GetPlayer )] parent, grandparent and great grandparent adds: [GetModifier( 'strength_of_the_ancestors_perk_modifier' ).GetNameWithTooltip|L]." #NT!
+ CALL_GREAT_FENRIS_PERK_EFFECT:0 "As a [decision|E], allows you to recruit [GetMaA('war_avatar_of_great_fenris').GetName] as [men_at_arms|E]" #NT!
+
+ howl_to_the_pack_perk_name:0 "Howl to the Pack" #NT!
+ wolf_at_the_door_perk_name:0 "Wolf at the Door" #NT!
+ primal_howl_perk_name:0 "Primal Howl" #NT!
+ howl_of_hunger_perk_name:0 "Howl of Hunger" #NT!
+ snap_mans_chains_perk_name:0 "Snap Man’s Chains" #NT!
+ howl_of_death_perk_name:0 "Howl of Death" #NT!
+ blessing_of_the_first_pack_perk_name:0 "Blessing of the First Pack" #NT!
+ shattering_howl_perk_name:0 "Shattering Howl" #NT!
+ home_in_all_lands_perk_name:0 "Home in All Lands" #NT!
+
+ HOWL_OF_HUNGER_PERK_EFFECT:0 "Give [GetTrait('comfort_eater').GetName( GetPlayer )] to enemy knights in war as a commander or to foe in [single_combat_duel|E]." #NT!
+ HOWL_OF_DEATH_PERK_PERK_EFFECT:0 "Bonus to cause brutal maul to enemy knights in war as a knight." #NT!
+ HOME_IN_ALL_LANDS_PERK_EFFECT:0 "As a [character_interaction|E], allow you to teleport your army to the target's location without diplomatic range restriction." #NT!
+
+ purify_scent_perk_name:0 "Purify Scent" #NT!
+ aura_of_confidence_perk_name:0 "Aura of Confidence" #NT!
+ hidden_secrets_perk_name:0 "Hidden Secrets" #NT!
+ a_thousand_eyes_perk_name:0 "A Thousand Eyes" #NT!
+ paralyzing_stare_perk_name:0 "Paralyzing Stare" #NT!
+ durance_perk_name:0 "Durance" #NT!
+ obedience_perk_name:0 "Obedience" #NT!
+ shadow_pack_perk_name:0 "Shadow Pack" #NT!
+
+ HIDDEN_SECRETS_PERK_EFFECT:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!" #NT!
+ A_THOUSAND_EYES_PERK_EFFECT:0 "Can recruit [GetMaA('bats').GetName] as [men_at_arms|E]" #NT!
+ DURANCE_PERK_EFFECT:0 "Unlock [bind_wraith_interaction|E].\nUnlock $POD_command_wraith_interaction$ [character_interaction|E]." #NT!
+ SHADOW_PACK_PERK_EFFECT:0 "As a [character_interaction|E], allows you to create a clone of yourself." #NT!
+
+ silence_perk_name:0 "Silence" #NT!
+ heavens_guidance_perk_name:0 "Heavens' Guidance" #NT!
+ summon_talisman_perk_name:0 "Summon Talisman" #NT!
+ death_track_perk_name:0 "Death Track" #NT!
+ long_running_perk_name:0 "Long Running" #NT!
+ speed_beyond_thought_perk_name:0 "Speed Beyond Thought" #NT!
+ invocation_of_the_pharaoh_perk_name:0 "Invocation of the Pharaoh" #NT!
+ gate_of_the_moon_perk_name:0 "Gate of the Moon" #NT!
+
+ SUMMON_TALISMAN_PERK_EFFECT:0 "[buy_claim_interaction|E] and [buy_artifact_claim_interaction|E] Cost: #P -50%#!" #NT!
+ DEATH_TRACK_PERK_EFFECT:0 "Unlock [marked_for_return_interaction|E]." #NT!
+ INVOCATION_OF_THE_PHARAOH_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_pharaoh_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ GATE_OF_THE_MOON_PERK_EFFECT:0 "No longer need the target location to have a caern building to use the moonbridge [character_interaction|E]." #NT!
+
+ new_moons_laughter_perk_name:0 "New Moon's Laughter" #NT!
+ eye_of_the_falcon_perk_name:0 "Eye of the Falcon" #NT!
+ word_of_honor_perk_name:0 "Word of Honor" #NT!
+ half_moons_diplomacy_perk_name:0 "Half Moon Diplomacy" #NT!
+ claim_of_authority_perk_name:0 "Claim of Authority" #NT!
+ leshiis_boon_perk_name:0 "Leshii's Boon" #NT!
+ full_moons_wrath_perk_name:0 "Full Moon's Wrath" #NT!
+ the_secret_of_gaia_perk_name:0 "The Secret of Gaia" #NT!
+ renew_the_cycle_perk_name:0 "Renew the Cycle" #NT!
+
+ RENEW_THE_CYCLE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to make target undead reduced to its natural state (turn to dust or simply lose their animation)." #NT!
+
+ muladhara_perk_name:0 "Muladhara" #NT!
+ seed_of_speech_perk_name:0 "Seed of Speech" #NT!
+ manipura_perk_name:0 "Manipura" #NT!
+ merciful_blow_perk_name:0 "Merciful Blow" #NT!
+ anahata_perk_name:0 "Anahata" #NT!
+ visuddha_perk_name:0 "Visuddha" #NT!
+ atma_perk_name:0 "Atma" #NT!
+ liberation_of_flesh_perk_name:0 "Liberation of Flesh" #NT!
+ thought_form_of_the_twelve_ministers_perk_name:0 "Thought Form of the Twelve Ministers" #NT!
+
+ MERCIFUL_BLOW_PERK_EFFECT:0 "More likely to [imprison|E] [characters|E] after a successful [siege|E] or [raid|E]." #NT!
+ LIBERATION_OF_FLESH_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_incorporeal_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ THOUGHT_FORM_OF_THE_TWELVE_MINISTERS_PERK_EFFECT:0 "As a [character_interaction|E], allows you to  gain [GetModifier( 'POD_thought_form_of_the_twelve_ministers_modifier' ).GetNameWithTooltip|L]" #NT!
+
+ agro_culture_perk_name:0 "Agro Culture" #NT!
+ control_simple_machine_perk_name:0 "Control Simple Machine" #NT!
+ pennies_from_heaven_perk_name:0 "Pennies from Heaven" #NT!
+ web_walker_perk_name:0 "Web Walker" #NT!
+ intrusion_perk_name:0 "Intrusion" #NT!
+ gift_doppelganger_perk_name:0 "Doppelganger" #NT!
+ song_of_the_city_beast_perk_name:0 "Song of the City-Beast" #NT!
+ calm_the_flock_perk_name:0 "Calm the Flock" #NT!
+
+ WEB_WALKER_PERK_EFFECT:0 "Umbra Escaping Time: #P -10%#!\nUmbra Exploration Cost: [piety_i]#P -10%#!" #NT!
+ GIFT_DOPPELGANGER_PERK_EFFECT:0 "Bonus to Shapeshift [character_interaction|E] to change appearance." #NT!
+
+ bane_protector_perk_name:0 "Bane Protector" #NT!
+ toxic_claws_perk_name:0 "Toxic Claws" #NT!
+ terrify_perk_name:0 "Terrify" #NT!
+ unseelie_faerie_kin_perk_name:0 "Unseelie Faerie Kin" #NT!
+ dagger_of_the_mind_perk_name:0 "Dagger of the Mind" #NT!
+ summon_wyrm_elemental_perk_name:0 "Summon Wyrm Elemental" #NT!
+ the_white_howl_perk_name:0 "The White Howl" #NT!
+ totem_form_perk_name:0 "Totem Form" #NT!
+ prelude_to_apocalypse_perk_name:0 "Prelude to Apocalypse" #NT!
+
+
+ BANE_PROTECTOR_PERK_EFFECT:0 "Can recruit [GetMaA('materialized_banes').GetName] as [men_at_arms|E]" #NT!
+ TOXIC_CLAWS_PERK_EFFECT:0 "Bonus chance to maim an enemy knight in war as a knight." #NT!
+ DAGGER_OF_THE_MIND_PERK_EFFECT:0 "Unlocks [GetScheme('PODsoul_bridge').GetTypeName] [scheme|E]." #NT!
+ SUMMON_WYRM_ELEMENTAL_PERK_EFFECT:0 "Can recruit [GetMaA('wyrm_elemental').GetName] as [men_at_arms|E]" #NT!
+ THE_WHITE_HOWL_PERK_EFFECT:0 "Add a chance to kill an enemy knight in war as a knight." #NT!
+ TOTEM_FORM_PERK_EFFECT:0 "Allow shapeshift to same totem form as your pack totem." #NT!
+ PRELUDE_TO_APOCALYPSE_PERK_EFFECT:0 "Unlock Tear Down the Shroud in the Manipulate the Shroud option of the umbra panel." #NT!

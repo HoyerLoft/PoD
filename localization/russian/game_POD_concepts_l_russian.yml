@@ -1,0 +1,412 @@
+﻿l_russian:
+ game_concept_princes_of_darkness:0 "Принцы Тьмы" #NT!
+ game_concept_princesofdarkness:0 "$game_concept_princes_of_darkness$" #NT!
+ game_concept_princes_of_darkness_desc:0 "Мод для Crusader Kings 3 , который сфокусирован на сверхестественных существах  кампании White Wolf и их вселенной '[world_of_darkness|E]'. Вы играете в него прямо сейчас![prince|E] это главный титул для [GetTrait('vampire').GetName( GetNullCharacter )] ,что управляет государством, эквивалентно к  [duchy|E]. Что есть Тьма? Найдите этот ответ внутри себя." #NT!
+ game_concept_POD:0 "PoD" #NT!
+
+ game_concept_world_of_darkness:0 "Мир Тьмы" #NT!
+ game_concept_WoD:0 "МТ" #NT!
+ game_concept_world_of_darkness_desc:0 "Мир Тьмы это вселенная, которой уже более 30 лет с сотнями книг и другими формами медиа, посвященными ей. Главная идея в том,что в нашем мире, существует множество видов свехъестественных существ,которые оказывают на него влияние,создавая параллельную вселенную полную интриг и захватывающих историй." #NT!
+
+ game_concept_prince:0 "Князь" #NT!
+ game_concept_the_prince:0 "Князь" #NT!
+ game_concept_the_princes:0 "Князья" #NT!
+ game_concept_princes:0 "Князья" #NT!
+ game_concept_prince_desc:0 "$Князь$ это главный титул [GetTrait('vampire').GetName( GetNullCharacter )] что управляет этой землей, эквивалентно CK3 [duchy|E]." #NT!
+
+ game_concept_bloodpotency:0 "Сила Крови" #NT!
+ game_concept_bloodpotency_desc:0 "$game_concept_bloodpotency$ это неотъемлемая сила [GetTrait('vampire').GetName( GetNullCharacter )]'s кровь, которая медленно растет со временем и ограничена [vampgeneration|E]  [GetTrait('vampire').GetName( GetNullCharacter )].  $game_concept_bloodpotency$ медленно уменьшается в [torpor|E]. Он может увеличиваться быстрее за счет диаблери вампиров с более высокой активностью крови.  $game_concept_bloodpotency$ влияет на то, насколько быстро [discipline|E] употребление увеличивает чувство голода и то, насколько эффективно ваше [GetTrait('vampire').GetName( GetNullCharacter )] силы, подобные [disciplines|E]." #NT!
+ game_concept_blood_potency:0 "$game_concept_bloodpotency$" #NT!
+
+ game_concept_vampgeneration:0 "Поколение" #NT!
+ game_concept_generation:0 "Поколение" #NT!
+ game_concept_vampgeneration_desc:0 "Согласно [cainites|E]ам, это дистанция [GetTrait('vampire').GetName( GetNullCharacter )]'s крови от отца всех [GetTrait('vampire').GetName( GetNullCharacter )]s--Каина.  Каин [GetTrait('vampgeneration1').GetName( GetNullCharacter )].  Вампиры [GetTrait('vampgeneration14').GetName( GetNullCharacter )] или выше  'слабокровные' практически люди и почти полностью утратили черты вампиров. Вампиры, которые не верят, что Кейн является прародителем, часто прослеживают свои [vampgeneration|E] от какого-то другого мистического основателя. Вампиры могут уменьшить своё [vampgeneration|E], и таким образом увеличить свою потенциальную мощь, совершив [diablerie|E] на вампире более низкого [vampgeneration|E] чем своё собственное." #NT!
+
+ game_concept_bloodbond:0 "Узы Крови" #NT!
+ game_concept_bloodbond_desc:0 "Испитие [GetTrait('vampire').GetName( GetNullCharacter )] крови обычно создаёт чувство преданности и покорности [GetTrait('vampire').GetName( GetNullCharacter )]. Также известна 'Кровавая Клятва', это действует как крючок, интенсивность которого возрастает по мере того, как расходуется больше крови. Некоторые вампиры не способны создавать связи со своей кровью. Другие вампиров невозможно связать кровью." #NT!
+ game_concept_blood_oath:0 "$game_concept_bloodoath$" #NT!
+ game_concept_bloodoath:0 "Кровавая Клятва" #NT!
+ game_concept_blood_bond:0 "$game_concept_bloodbond$" #NT!
+
+ game_concept_beast:0 "Зверь" #NT!
+ game_concept_the_beast:0 "$game_concept_thebeast$" #NT!
+ game_concept_thebeast:0 "Зверь" #NT!
+ game_concept_beast_desc:0 "[the_beast|E] это тремин [GetTrait('vampire').GetName( GetNullCharacter )]ов для описания внутреннего хищника, что стремится взять под контроль [cainite|E]ский разум. Это врожденный демонический хищник, который пробуждается в каждом без исключения [GetTrait('vampire').GetName( GetNullCharacter )] после их обращения [Embrace|E]. Это прямо противоречит человечности вампира (а в некоторых случаях и Путям Просветления) и несет ответственность за многие низменные побуждения [cainites|E] которые они чувствуют каждую ночь. Во времена крайней нужды Зверь может взять верх над [GetTrait('vampire').GetName( GetNullCharacter )] заставляя их впадать в состояние чисто животной борьбы или бегства, которое называется безумием или Ротшреком. Если [GetTrait('vampire').GetName( GetNullCharacter )] имеет отрицательный счет [piety|E], он рискуют впасть в перманентное безумие и стать[GetTrait('wight').GetName( GetNullCharacter )]. Это фактическое отречение от своих [heir|E]." #NT!
+
+ game_concept_the_masquerade:0 "Маскарад" #NT!
+ game_concept_masquerade:0 "Маскарад" #NT!
+ game_concept_masquerade_desc:0 "Маскарад - это термин, используемый вампирами для описания сохранения своего существования в тайне от смертных.  Нарушение маскарада может привести к осложнениям, таким как нападение охотников. В некоторых областях это можно рассматривать как [crime|E] среди вампиров.\nБольшинство конфессий могут скрывать маскарадные нарушения, используя личное [character_interaction|E]. Слишком высокая степень нарушения маскарада приведет к восстаниям фракций и событиям, в которых ваш персонаж будет атакован." #NT!
+
+ game_concept_cainites:0 "Каиниты" #NT!
+ game_concept_cainite:0 "Каинит" #NT!
+ game_concept_cainite_desc:0 "Большинство вампиров согласны с "историей происхождения Каина" для своего вида. Первый библейский убийца, убивший своего собственного брата Авеля, был проклят Богом и его ангелами различными способами, что в конечном итоге привело к состоянию вампира, известному сегодня.Таким образом, каинит стал термином, очень часто используемым вампирами для описания самих себя." #NT!
+
+ game_concept_diablerist:0 "диаблерист" #NT!
+ game_concept_diablerists:0 "диаблеристы" #NT!
+ game_concept_diablerizing:0 "диаблери" #NT!
+ game_concept_diablerized:0 "Диаблеризирован" #NT!
+ game_concept_diablerize:0 "Диаблеризировать" #NT!
+ game_concept_diablerie:0 "Диаблери" #NT!
+ game_concept_diablerie_desc:0 "Самое отвратительное преступление, которое может совершить вампир, - диаблери - происходит, когда вся кровь вампира поглощается другим вампиром, что приводит к поглощению и души жертвы. Этот процесс, хотя и сильно осуждаемый большинством, приводит к увеличению силы преступника, поскольку он может перенять некоторые способности жертвы или уменьшить их поколение, приближая их к Каийну.\nВ игре диаблери - это происки, доступные против других вампиров. Если вам удастся это провернуть, вы можете получить новые силы, повышенную силу крови, снижение поколения, но ценой изрядной доли благочестия (в зависимости от вашей религии) и страшного секрета, который отныне будет трудно хранить." #NT!
+ game_concept_Diablerist:0 "Диаблерист" #NT!
+ game_concept_amaranth:0 "Амарант" #NT!
+
+ game_concept_resonance:0 "Резонанс" #NT!
+ game_concept_resonances:0 "Резонансы" #NT!
+ game_concept_humor:0 "Humor" #NT!
+ game_concept_humors:0 "Humors" #NT!
+ game_concept_humour:0 "Humour" #NT!
+ game_concept_humours:0 "Humours" #NT!
+ game_concept_humorism:0 "Humorism" #NT!
+ game_concept_humourism:0 "Humourism" #NT!
+
+ game_concept_resonance_desc:0 "Кровь обладает определенным качеством, основанным на индивидуальности и эмоциях ее носителя. Потребление крови дает [GetTrait('vampire').GetName( GetNullCharacter )]у силу основанную на $game_concept_resonance$е. Вы получаете больше [discipline|E] опыта, выпив кровь определенного резонанса или используя определенную [discipline|E]. Резонансы бывают:\n$BULLET_WITH_TAB$[choleric_lifestyle|E]\n$BULLET_WITH_TAB$[melancholy_lifestyle|E]\n$BULLET_WITH_TAB$[phlegmatic_lifestyle|E]\n$BULLET_WITH_TAB$[sanguine_lifestyle|E]\n$BULLET_WITH_TAB$[animal_lifestyle|E]" #NT!
+
+ game_concept_torpor:0 "Торпор" #NT!
+ game_concept_torpor_desc:0 "Торпор - это состояние приостановленной жизнедеятельности на некоторое время. [GetTrait('vampire').GetName( GetNullCharacter )]. Хотя они не могут двигаться, они могут быть осведомлены о событиях, которые происходят вокруг них. Это может быть вызвано ударом кола в сердце, значительным повреждением организма, сильным голодом или скукой.\nA персонаж в торпоре сильно ослаблен, не может использовать большинство взаимодействовий и не может править. Его можно разбудить с помощью специального средства "Найди скрытое убежище"[character_interaction|E]." #NT!
+ game_concept_torpid:0 "$game_concept_torpid$" #NT!
+
+ game_concept_hunger:0 "Голод" #NT!
+ game_concept_hunger_desc:0 "$game_concept_hunger$ это [GetTrait('vampire').GetName( GetNullCharacter )] желание пить кровь, которое вызывается [the_beast|E]. Чем выше [GetTrait('vampire').GetName( GetNullCharacter )]'ская $game_concept_bloodpotency$, тем больше крови требуется, чтобы утолить $game_concept_hunger$. Увеличение $game_concept_hunger$ ведет к некоторым позитивным,но большей части к негативным последствиям для [GetTrait('vampire').GetName( GetNullCharacter )].  Единственный путь для [GetTrait('vampire').GetName( GetNullCharacter )]ского $game_concept_hunger$а быть полностью утоленным,это выпить кровь жертвы целиком,убив её в процессе.  И даже это утолит $game_concept_hunger$ лишь на время." #NT!
+ game_concept_the_hunger:0 "Голод" #NT!
+ game_concept_blood_hunger:0 "Кровавый Голод" #NT!
+ game_concept_the_thirst:0 "Жажда" #NT!
+ game_concept_thirst:0 "Жажда" #NT!
+ game_concept_blood_thirst:0 "Кровавая Жажда" #NT!
+
+ game_concept_discipline:0 "Дисциплина" #NT!
+ game_concept_disciplines:0 "Дисциплины" #NT!
+ game_concept_discipline_desc:0 "Происхождение вампирских сил, известных как Дисциплины, неизвестно, но многие верят, что они являются дарами Каина или Лилит, а некоторые [antediluvians|E] считают, что они изобрели уникальные дисциплины, которые передавались по наследству. Другие верят, что это врожденные способности, присущие телу нежити.\nВ игре дисциплины рассматриваются как древа стилей жизни, где вы можете разблокировать способности. Чтобы начать изучать одно из этих древ, у вас должна быть соответствующая черта дисциплины. Опыт для этих древ - кровавый резонанс, получаемый при охоте на смертных." #NT!
+
+ game_concept_choleric_lifestyle:0 "Холерический Резонанс" #NT!
+ game_concept_yellow_bile:0 "$game_concept_yellowbile$" #NT!
+ game_concept_yellowbile:0 "Желтая желчь" #NT!
+ game_concept_choleric_lifestyle_desc:0 "$game_concept_choleric_lifestyle$ подходит [GetTrait('vampire').GetName( GetNullCharacter )]у ,что хочет углубить [discipline|E]ы ,связанные с употреблением крови пропитанной гневом и завистью. Ищите жертв с [traits|E]ми [GetTrait('wrathful').GetName( GetNullCharacter )] и [GetTrait('sadistic').GetName( GetNullCharacter )]. Дисциплины связанные с холерическим резонансом:\n\n$BULLET_WITH_TAB$ [GetTrait('celerity').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('potence').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('vicissitude').GetName( GetNullCharacter )]" #NT!
+
+ game_concept_sanguine_lifestyle:0 "Сангвинический Резонанс" #NT!
+ game_concept_sanguine:0 "Сангвиник" #NT!
+ game_concept_sanguine_lifestyle_desc:0 "The $game_concept_sanguine_lifestyle$ подходит [GetTrait('vampire').GetName( GetNullCharacter )]у ,что хочет углубить [discipline|E]ы связанные с употреблением крови пропитанной счастьем и энтузиазмом. Ищите жертв с [traits|E]ми like [GetTrait('gregarious').GetName( GetNullCharacter )] и [GetTrait('lustful').GetName( GetNullCharacter )].Дисциплины связанные с сангвиническим резонансом:\n\n$BULLET_WITH_TAB$[GetTrait('bloodsorcery').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('presence').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('thinbloodalchemy').GetName( GetNullCharacter )]" #NT!
+
+ game_concept_faith_lifestyle:0 "Истинная Вера" #NT!
+ # game_concept_faith:0 "$game_concept_faith_lifestyle$" Overwrite vanilla concept #NT!
+ game_concept_faith_lifestyle_desc:0 "Редкое благо для очень набожных персонажей, черта Истинной веры открывает одноименный стиль жизни, где различная силы может быть приобретены с помощью соответствующего опыта древа жизни" #NT!
+
+ game_concept_phlegmatic_lifestyle:0 "Флегматичный резонанс" #NT!
+ game_concept_phlegm:0 "Слизь" #NT!
+ game_concept_phlegmatic:0 "Флегматик" #NT!
+ game_concept_phlegmatic_lifestyle_desc:0 "Флегматичный резонанс подходит [GetTrait('vampire').GetName( GetNullCharacter )]у что хочет углубить [discipline|E] связанные с употреблением крови пропитанной сентиментальстью и контролем. Ищите жертв с [traits|E]ми  [GetTrait('lazy').GetName( GetNullCharacter )] и [GetTrait('content').GetName( GetNullCharacter )]. Дисциплины связанные с флегматическим резонансом:\n\n$BULLET_WITH_TAB$ [GetTrait('auspex').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('dominate').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('oblivion').GetName( GetNullCharacter )]" #NT!
+
+ game_concept_melancholy_lifestyle:0 "Меланхоличный Резонанс" #NT!
+ game_concept_black_bile:0 "$game_concept_blackbile$" #NT!
+ game_concept_blackbile:0 "Черная Желчь" #NT!
+ game_concept_melancholic:0 "Меланхолик" #NT!
+ game_concept_melancholy_lifestyle_desc:0 "The $game_concept_melancholy_lifestyle$ подходит [GetTrait('vampire').GetName( GetNullCharacter )]у что хочет углубить [discipline|E]ы связанные с употреблением крови пропитанной грустью и страхом. Ищите жертв с [traits|E]ми  [GetTrait('shy').GetName( GetNullCharacter )] и [GetTrait('craven').GetName( GetNullCharacter )]. Дисциплины связанные с меланхолическим резонансом:\n\n$BULLET_WITH_TAB$ [GetTrait('fortitude').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('obfuscate').GetName( GetNullCharacter )]" #NT!
+
+ game_concept_animal_lifestyle:0 "Животный Резонанс" #NT!
+ game_concept_animal_lifestyle_desc:0 "The $game_concept_animal_lifestyle$ подходит [GetTrait('vampire').GetName( GetNullCharacter )]у что хочет углубить [discipline|E]ы that involve feeding from animals. Look for animals as prey. The $game_concept_animal_lifestyle$ [discipline|E]s are:\n\n$BULLET_WITH_TAB$ [GetTrait('animalism').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$ [GetTrait('protean').GetName( GetNullCharacter )]" #NT!
+
+ game_concept_discipline_power:0 "Способность Дисциплины" #NT!
+ game_concept_discipline_power_desc:0 "Способности [discipline|E]  это конкретная сила [discipline|E], позволяющая вампирам применять сверхъестественные навыки или дарующая им странные способности" #NT!
+
+ game_concept_bind_famulus:0 "Привязать Фамильяра" #NT!
+ game_concept_bind_famulus_desc:0 "Привязать Фамильяра это [character_interaction|E] это позволяет вам создавать Фамильяра, когда ваша кровь "связывает" животное, образуя с ним ментальную связь и облегчая использование других способностей Анимализма." #NT!
+
+ game_concept_animal_succelence:0 "Животная Сытность" #NT!
+ game_concept_animal_succelence_desc:"Вампир может утолить дополнительный [hunger|E], питаясь животными. Кроме того, вампир может потреблять своего фамильяра, получая питание, намного превосходящее то, что можно было бы получить от животного аналогичного размера, и поглощая частичку его основной черты." #NT!
+
+ game_concept_animal_dominion:0 "Животное Царство" #NT!
+ game_concept_animal_dominion_desc:0 "Животное Царство это [character_interaction|E] это символизирует, что власть, которой вампир обладает над животными, теперь достаточно велика, чтобы командовать стадами, как если бы они были продолжением его собственного тела. По одному жесту животные десятками, даже сотнями отдают свои жизни, чтобы задобрить своего хозяина." #NT!
+
+ game_concept_blood_draught:0 "Испитие" #NT!
+ game_concept_blood_draught_desc:0 "Кровь вампира насыщается силой его [Concept('discipline', 'дисциплины')|E], передавая часть этой силы любому, кто выпьет ее. Черновик вводится посредством [character_interaction|E]." #NT!
+
+ game_concept_shapeshift:0 "Смена формы" #NT!
+ game_concept_shapeshift_desc:0 "[character_interaction|E] которое позволяет изменять свою форму в некоторой степени, обычно достигается за счет дисциплин Превращение или Изменчивость." #NT!
+
+ game_concept_feral_weapons:0 "Звериное Оружие" #NT!
+ game_concept_feral_weapons_desc:0 "Вампир может развить свое природное оружие до чудовищных размеров, которое обычно принимает форму ногтей, превращающихся в страшные когти, но также может принимать и другие формы, такие как клыки, удлиняющиеся в настоящие кинжалы, как у гигантской змеи. Дополнительный навык [shapeshift|E]." #NT!
+
+ game_concept_shapechange:0 "Смена формы" #NT!
+ game_concept_shapechange_desc:0 "Вампир может принимать форму животного примерно того же размера, что и его первоначальная масса. Будучи обычно впечатляющим представителем своего вида, это животное не проявляет никаких признаков сверхъестественности для обычного наблюдателя. Дополнительный навык [shapeshift|E]." #NT!
+
+ game_concept_mist_form:0 "Форма тумана" #NT!
+ game_concept_mist_form_desc:0 "Вампир обретает легендарную способность превращаться в облако тумана, видимое глазом, но неподвластное ничему, кроме огня, солнечного света и сверхъестественной агрессии. Они могут пролезать в трубы, щели и трещинки. В то время как сильные ветры могут сбивать их с ног, никакая природная сила не может разогнать облако. Дополнительный навык [shapeshift|E]." #NT!
+
+ game_concept_tenebrous_avatar:0 "Теневой Аватар" #NT!
+ game_concept_tenebrous_avatar_desc:0 "Власть вампира над тьмой настолько велика, что он может физически стать ею. При активации этой силы вампир превращается в чернильное, амебообразное пятно тени. Вампиры в этой форме практически неуязвимы и могут проскальзывать сквозь трещины и расселины. Кроме того, теневой вампир обретает способность видеть в естественной темноте. Дополнительный навык [shapeshift|E]." #NT!
+
+ game_concept_incorporeal_form:0 "Бестелесная форма" #NT!
+ game_concept_incorporeal_form_desc:0 "Вампир принимает бестелесное состояние, мало чем отличающееся от призрака, способного свободно проходить сквозь предметы и обладающего иммунитетом к физическому повреждению. Они не могут физически взаимодействовать с материальным миром иначе, как посредством зрения и речи. Дополнительный навык [shapeshift|E]." #NT!
+
+ game_concept_bloodsorcery:0 "Магия Крови" #NT!
+ game_concept_blood_sorcery:0 "$game_concept_bloodsorcery$" #NT!
+ game_concept_blood_magic:0 "Колдовство Крови" #NT!
+ game_concept_thaumaturgy:0 "Тауматургия" #NT!
+ game_concept_durnaki:0 "Дур-На-Ки" #NT!
+ game_concept_bloodsorcery_desc:0 "Магия крови, также называемая тауматургией, Хеку, Дурнаки и Валераном, - это искусство использования жизненной силы вампира для вызывания мощных магических эффектов. Магия крови, которой владеют немногие кланы и которую ревниво охраняют, является мощным, но опасным и дорогостоящим инструментом. У каждой фракции есть свой собственный способ призвать силу крови - тремеры используют герметическую магию и символику, колдуны Бану Хаким заключают договоры с духом и богами. В то же время Ласомбра погружаются в бездну для тайных воскрешений. Говорят, что магия крови способна сделать почти все - и хотя эти утверждения обычно исходят либо от практикующего, желающего создать пугающую картину, либо от жертв проклятий и огненных шаров, это действительно правда, что магия крови предоставляет доступ к мириадам заклинаний и способностей, которые некоторые сочтут... Неестественными. \n Любой, кто владеет дисциплиной "Магия крови", может открыть меню "Магия крови" с помощью [character_interaction|E]. Внутри маги могут покупать заклинания, если у них достаточно [bloodsorcery_exp|E], и произносить заклинания и проклятия." #NT!
+
+ game_concept_bloodsorcery_exp:0 "Опыт Магии Крови" #NT!
+ game_concept_bloodsorcery_exp_short:0 "exp" #NT!
+ game_concept_bloodsorcery_exp_desc:0 "Показатель того, насколько ваш персонаж продвинулся в изучении [Concept('bloodsorcery', 'магии крови')|E]. Опыт Магии Крови требуется чтобы постигать новые заклинания и улучшать уже имеющиеся, его можно получить 2-мя путями: \n 1. Персонаж ежегодно будет получать опыт в зависимости от учености \n 2.После каждого успешного заклинания вы получаете опыт" #NT!
+
+ game_concept_necromancy:0 "Некромантия" #NT!
+ game_concept_mortis:0 "Мортис" #NT!
+ game_concept_necromancy_desc:0 "Некромантия это форма [Concept( 'bloodsorcery', 'Магии Крови')|E] ,связанная со смертью,  [underworld|E] и призраками, душами мертвых. \n Используя силы забвения и бездны, некроманты могут подчинять призраков своей воле и приказывать им выполнять различные задания - от шпионажа до [Concept('possession', одержимости)|E]." #NT!
+
+
+
+ game_concept_possession:0 "Одержимость" #NT!
+ game_concept_possess:0 "Овладеть" #NT!
+ game_concept_possession_desc:0 "процесс, посредством которого Призрак овладевает телом. Удастся ли овладение или нет, зависит от поединка между призраком и жертвой. Овладение делится на три этапа и может быть использовано несколько раз против одного и того же человека (если вы, конечно, используете одного и того же призрака). Если призрак, привязанный к вам, вселяется в жертву, цель также будет привязана к вам. Стадии владения: \n 1. На первом этапе жертва получает часть мастерства призрака в дополнение к своему собственному, а некромант и призрак получают влияние на жертву. \n 2. Вторая стадия наделяет жертву некоторыми навыками Призрака, давая ей часть характеристик призрака. Некромант получает больше контроля над жертвой. Кроме того, личности призрака и жертвы начинают сливаться воедино. \n 3. На третьей стадии одержимость завершена, и личность призрака подавляет цель. Жертва очарована призраком и приобретает больше его навыков по мере того, как призрак действует через них. Контроль некроманта возрастает еще больше." #NT!
+
+ game_concept_endowments_lifestyle:0 "Путь Убеждения" #NT!
+ game_concept_endowments_lifestyle_desc:0 "Убеждение представляет собой прогресс инквизитора на пути к овладению методами своего ордена по уничтожению слуг Ада." #NT!
+
+ game_concept_obtenebration:0 "Оттенение" #NT!
+ game_concept_obtenebration_desc:0 "Оттенение, сила контролировать тени и манипулировать ими - это дисциплина, от которой Клан Теней получил свое название. Посвященные в дисциплину могут использовать его для перемещения теней и манипулирования ими в своих интересах, в то время как мастера могут придать теням форму, субстанцию и подобие жизни. Природа источника этой силы вызывает бесконечные разногласия среди Ласомбра. Самые древние старейшины клана утверждают, что тьма сама по себе является изначальной сущностью, равной и противоположной силе творения, которая порождает мир. Под влиянием зороастризма старейшие обычно называют эту темную силу Ариманом. Другие Ласомбра верят, что Оттенение черпает свою силу скорее из царства теней, чем из сущности. Ласомбра, исповедующие одну из авраамических религий, могли бы назвать это Адом, в то время как приверженцы древнегреческих или римских богов могли бы назвать это Тартаром. Каково бы ни было его происхождение, Обтенебрация полностью выводит из себя тех, кто видит ее в действии. Это вызывает ужас у животных или смертных, которые видят дисциплину в действии. Даже каиниты, само существование которых не поддается объяснению, склонны рассматривать осквернение как оскорбление законов природы." #NT!
+
+ game_concept_abyss_eyes:0 "Глаза пустоты" #NT!
+ game_concept_abyss_eyes_desc:0 "Глаза пустоты это [discipline_power|E], [shapeshift|E] способность. Глаза вампира становятся черными. Они игнорируют все штрафы за темноту, даже те, которые вызваны сверхъестественной тьмой, и могут видеть призраков." #NT!
+
+ game_concept_nocturne:0 "Ноктюрн" #NT!
+ game_concept_nocturne_desc:0 "Ноктюрн [discipline_power|E], которая может быть использована как [character_interaction|E]. В битвах это снижает доблесть вражеских рыцарей или [single_combat_duel|E] противника. Это стоит благочестия за каждого пострадавшего врага. Сосредоточившись на призыве тьмы, Ласомбра с помощью этой способности может вызвать извивающееся облако сверхъестественной тьмы, которое поглотит область и затемнит все источники света. Тьма - это проявление Бездны, которая заглушает звук и зрение и высасывает жизнь из слабых." #NT!
+
+ game_concept_drain_the_life:0 "Высасывание Жизни" #NT!
+ game_concept_drain_the_life_desc:0 "Высасывание Жизни это [discipline_power|E], [character_interaction|E] ,которая может быть использована на вражеском царстве. Легким движением запястья вампирша открывает мир Бездне, создавая ужасную сферическую пустоту в воздухе. Когда она закрывается, друг и враг ранены и, возможно, уничтожены. Те, кто был убит (или почти убит), уносятся в никуда. Все их следы просто исчезают." #NT!
+
+ game_concept_shadow_twin:0 "Теневой Двойник" #NT!
+ game_concept_shadow_twin_desc:0 "Теневой Двойник это [discipline_power|E], [character_interaction|E], что создает персонаж с вашими способностями и могуществом, только один может существовать единовременно, и если он умрет, вы испытаете огромный стресс. Контроль вампира над тьмой развился до такой степени, что он может наделять ее ограниченной степенью чувствительности. Оживляя свою собственную тень, каинит действительно может "освободить" тень, отбрасываемую светом. Пока эта сила активна, субъект не отбрасывает тени, так как он ушел выполнять команды вампира." #NT!
+
+ game_concept_elder_perk:0 "Перки Старейшин" #NT!
+ game_concept_elder_perk_desc:0 "Перки Старейшин это [perks|E] доступ к которому могут получить только вампиры с достаточно низким поколением, чтобы пробудить истинный потенциал своей крови." #NT!
+
+ game_concept_shadow_twin_master:0 "Хозяин Тени" #NT!
+ game_concept_shadow_twin_master_desc:3 "$game_concept_shadow_twin_master$ это $game_concept_relation$ показывающий,что этот перснонаж создал Теневого Двойника , теперь [shadow_twin_servant|E] служит этому персонажу." #NT!
+
+ game_concept_shadow_twin_servant:0 "Теневой Двойник" #NT!
+ game_concept_shadow_twin_servant_desc:0 "A $game_concept_shadow_twin_servant$ это $game_concept_relation$ показывающий,что этот перснонаж создал Теневого Двойника , теперь [shadow_twin_servant|E] служит этому персонажу." #NT!
+
+ game_concept_daimoinon:0 "Демонизм" #NT!
+ game_concept_daimoinon_desc:0 "Вырванный из шепота тех, кто привязан к земле, голос, вырванный из горла первых магов, взывавших к Бездне, поет сквозь кровь Баали. Демонизм - это крик по всему Мирозданию, простирающийся от этого мира до покинутого места, и сила приходит вместе с возвращающимся эхом. Однажды род Баали закричит, и этот крик потрясет мир. На данный момент они используют Демонизм, чтобы мягко убаюкивать других и заставлять их видеть сны об огне и тьме." #NT!
+
+ game_concept_Sire:0 "Сир" #NT!
+ game_concept_Sire_desc:0 "Вампир, который успешно совершил [Embrace|E] смертного известен как её или его 'Сир'. Эти отношения близки к отношениям между родителями и детьми в мире смертных. Как и все остальное, это может принимать разные формы - от рабочих отношений до откровенной ненависти между ними.\ В моде это заменяет отношения "родитель /дети" для вампиров, поскольку у них не может быть естественных детей." #NT!
+
+ game_concept_Embrace:0 "Обращение" #NT!
+ game_concept_Embrace_desc:0 "Вампир, который выпьет всю кровь смертного, прежде чем дать ему глоток собственной крови, превратит его в вампира. Этот процесс известен как объятие и создаст прочную связь между новым [Sire|E] и его новым чайлдом.\ В моде вы можете щелкнуть правой кнопкой мыши на любом смертном в вашем местоположении, чтобы запустить схему объятий. Как только это будет сделано, вы превратите этого смертного в своего собственного вампирского чайлда, создавая отношения между родителями и детьми в игровом плане." #NT!
+ game_concept_Embraced:0 "Обращенный" #NT!
+
+ game_concept_Clan:0 "Клан" #NT!
+ game_concept_Clan_desc:0 "Клан - это термин, используемый для описания основных групп вампиров, которые разделяют общие характеристики, передаваемые по крови. Клан вампира - это его родословная, вампирская "семья", в которую он был принят. Вампирское общество сегодня в целом признает 13 кланов, хотя некоторые из них, возможно, были потеряны для истории, некоторые могут существовать в тайне, а о некоторых, возможно, никогда не было известно.Как и все родословные, каждый клан лучше знаком с набором из трех [disciplines|E], слабостью клана, в значительной степени уникальной для его членов, и различными стереотипами, приписываемыми ему в результате тенденции [Embrace|E] индивидуумов с определенными характеристиками." #NT!
+ game_concept_Clans:0 "Кланы" #NT!
+ game_concept_Clan's:0 "Клановый" #NT!
+
+ game_concept_ashirra:0 "Ашира" #NT!
+ game_concept_ashirra_desc:0 "Ашира (от ашира, что по-арабски означает "клан") - секта, в рамках которой исламские вампиры заявляют о своей вере в Аллаха, с сильным присутствием в смертных мусульманских землях. Члены Аширры верят, что искупление для вампиров было одним из обещаний, данных Мухаммедом, если они решат последовать за Аллахом. В то время как некоторые вампиры являются истинными последователями ислама, подавляющее большинство тех, кто вовлечен в Аширру, следуют исламу, потому что это удобно для них или чтобы облегчить работу на Ближнем Востоке. \nВ некоторых случаях Аширра может использоваться для обозначения любого вампира, который следует исламу." #NT!
+
+ game_concept_antediluvian:0 "Допотопный" #NT!
+ game_concept_antediluvian_desc:0 "Означающий 'живший до Потопа', термин опотопный может быть применено к любому каиниту, жившему до Великого потопа, такому как Каин или Второе поколение, но почти всегда используется конкретно для обозначения Третьего поколения, от которого произошли тринадцать [Clan|Е]ов. Они - существа, обладающие неисчислимой силой.Предположительно, допотопные люди такого возраста и такой силы крови, что обладают почти богоподобной силой, и на самом деле некоторые из них могут быть божествами. Существует очень мало записей об использовании такой силы, но легенды обычно изображают их непобедимыми. Некоторые даже выдвигают теорию, что единственный способ убить таких существ - это если они сами этого захотят или если это произойдет от рук другого Допотопного." #NT!
+ game_concept_antediluvians:0 "Допотопные" #NT!
+
+ game_concept_einherjar:0 "Эйнхерии" #NT!
+ game_concept_einherjar_desc:0 "Эйнхерии это термин, обозначающий скандинавских вампиров во времена правления вампира Одина, Всевышнего (большинство эйнхериев верят, что он был своего рода верховным жрецом, не самим Одином, а ревностным сыном или учеником Одина), который придерживался старых обычаев, которые были заменены христианством и феодализмом.Смешайте это с фатализмом среднестатистического воина-викинга, и в результате получится осадный менталитет. Эйнхерии считают себя последними воинами Одина в Мидгарде, готовящимися сражаться в надвигающемся Рагнареке. Все, что они могут сделать, это подготовиться к предстоящей битве и умереть смертью героя.\Северные вампиры - это не просто викинги с кланами. Особенности их скандинавского наследия дают Эйнхериям взгляд на мир, который сильно отличается от многих их южных собратьев. Различия в религии, обществе и образе жизни проявляются не только в смертном населении, их привычки и черты характера сохраняются в вечности." #NT!
+ game_concept_Einherjar:0 "Эйнхерий" #NT!
+
+ game_concept_Ghoul:0 "Гуль" #NT!
+ game_concept_ghoul:0 "гуль" #NT!
+ game_concept_Ghoul_desc:0 "После того, как вампир скормит свою кровь другому существу, он становится гулем, что дает ему несколько преимуществ: Процесс старения останавливается, иногда даже слегка возвращается вспять; ограниченный доступ к [disciplines|E] и более быстрое заживление. Однако упыри зависят от Крови, поскольку они возвращаются к своему истинному возрасту, когда им отказывают в доступе, иногда со смертельным исходом. Это контроль — основной способ, с помощью которого хозяева управляют гулами, через Кровную связь - в дополнение к более традиционным методам, таким как Доминирование. Конечно, самое неприятное в том, чтобы быть упырем, - это быть рабом бесчеловечного монстра, который относится к людям как к шахматным фигурам или случайной легкой закуске." #NT!
+ game_concept_ghouls:0 "Гули" #NT!
+
+ game_concept_Revenant:0 "Ревенант" #NT!
+ game_concept_revenant:0 "ревенант" #NT!
+ game_concept_Revenant_desc:0 "Ревенант - это своего рода гибридное существо, которое одновременно похоже и непохоже на смертных, [Concept('ghouls', 'гулей'|E] и вампиров. Кто-то сказал бы, что ревенант находится на полпути между смертным и вампиром; другие назвали бы это искажением Божьих созданий проклятием Каина, смешивающим их до тех пор, пока они не станут неразделимыми. Тем не менее, ревенант обладает многими качествами как вампиров, так и смертных, а также многими характеристиками обычных упырей. Ревенанты могут пить кровь вампира, но, в отличие от упыря, им это не нужно, так как они могут вырабатывать свою собственную жизненную силу, которая также замедляет их старение.\В отличие от своих хозяев и, несмотря на свое название, ревенанты - живые существа. Как и смертным, им нужно есть, спать и дышать. Они способны к половому размножению. В отличие от смертных, они более выносливы и имеют доступ к сверхъестественным способностям, полученным от Метки Каина." #NT!
+ game_concept_revenants:0 "ревенанты" #NT!
+
+ game_concept_typhonic_avatar:0 "Аватар Тифона" #NT!
+ game_concept_typhonic_avatar_desc:0 "Typhonic Avatar is a [discipline_power|E], [shapeshift|E] subskill. Vampire can transform into a Typhonic Beast, a creature of legend. It stands as a tall jackal with a hard, forked and spiked tail, with severe, pointed ears and a long snout. Alternatively, they can take a hybrid human/serpent form with a long, prehensile tail for legs. This form is used as a sort of 'war form' in addition to religious function." #NT!
+
+ game_concept_serpentis:0 "Серпентис" #NT!
+ game_concept_serpentis_desc:0 "Считается,что Серпентис это наследие самого Сета, подарок его потомкам. Сетиты с особым рвением защищают секреты это дисциплины, обучая ей только тех, кто по их мнению достоин. Большинство вампиров боятся Сетитов из-за силы Серпентиса и его связи со змеями и рептилиями." #NT!
+
+ game_concept_serpent_eyes:0 "Змеиные глаза" #NT!
+ game_concept_serpent_eyes_desc:0 "Змеиные глаза это [discipline_power|E], разновидность [Concepr('shapeshift', 'смены формы')|E] . Наделяет вампира легендарным гипнотическим взглядом змеи. Глаза вампира становятся золотыми с большими черными радужками, и смертные, находящиеся поблизости от персонажа, испытывают к нему странное влечение. Смертный, встретившийся с обольстительным взглядом вампира, оказывается обездвижен. Пока персонаж не отведет глаз от своей жертвы, человек застывает на месте." #NT!
+
+ game_concept_serpents_flesh:0 "Плоть Змеи" #NT!
+ game_concept_serpents_flesh_desc:0 "Плоть Змеи - это [discipline_power|E], разновидность [Concepr('shapeshift', 'смены формы')|E]. С этой силой плоть вампира становится кожистой, покрытой чешуей, скользкой и чудовищной. Тело становится гибким и податливым, и ему становится труднее причинить боль." #NT!
+
+ game_concept_godhead:0 "Голова Бога" #NT!
+ game_concept_godhead_desc:0 "Голова Бога - это [discipline_power|E], разновидность [Concepr('shapeshift', 'смены формы')|E]. Эта устрашающая способность наделяет вампира мантией бога. В то время как большинство сетитов проявляют эту силу, принимая голову зверя, похожего на египетских богов, каждый вампир проявляет Божественность по-разному. Некоторые вырастают до метра в высоту. Некоторые приобретают блестящую золотистую плоть. Независимо от того, как это проявляется, это всегда очевидно и всегда внушает благоговейный трепет." #NT!
+
+ game_concept_heart_of_darkness:0 "Серце Тьмы" #NT!
+ game_concept_heart_of_darkness_desc:0 "Серце Тьмы - это [discipline_power|E], что может быть использована как [character_interaction|E]. Вампир совершает ритуал, в ходе которого он извлекает само свое сердце, становясь менее эмоциональным и невосприимчивым к диаблери и протыканию колом." #NT!
+
+ game_concept_domitor:0 "Домитор" #NT!
+ game_concept_domitor_desc:0 "Домитор - это вампир, который питает другое смертное существо своим Витэ и поддерживает кровную связь с ним, что, в свою очередь, делает это существо его рабом или [Concept('ghoul', 'гулем')|E]. " #NT!
+
+ game_concept_godbodies_lifestyle:0 "Godbodies" #NT!
+ game_concept_godbodies_lifestyle_desc:0 "The $game_concept_shintai_lifestyle$ is suitable for [GetTrait('kueijin').GetName( GetNullCharacter )]s. Precursors of the modern Shintai Disciplines, the Godbodies were prominent Disciplines in Kuei-jin society during the Fourth Age. In contrast to their modern incarnation, the elemental link between the Discipline and the Kuei-jin was far more pronounced and more like the powers the original Wan Xian had wielded." #NT!
+
+ game_concept_shintai_lifestyle:0 "Shintai" #NT!
+ game_concept_shintai_lifestyle_desc:0 "The $game_concept_shintai_lifestyle$ is suitable for [GetTrait('kueijin').GetName( GetNullCharacter )]s. Most vampires view mastery of a shintai as demonstrating a corresponding understanding of Chi principles, and thus a significant Step toward mastery of self." #NT!
+
+ game_concept_chi_arts_lifestyle:0 "Chi Arts" #NT!
+ game_concept_chi_arts_lifestyle_desc:0 "The $game_concept_chi_arts_lifestyle$ is suitable for [GetTrait('kueijin').GetName( GetNullCharacter )]s. These [disciplines|E] allow a Kuei-jin to evoke mystical effects through redirection of his Chi (or, in some cases, others' Chi or the ambient Chi in the environment)." #NT!
+
+ game_concept_soul_arts_lifestyle:0 "Soul Arts" #NT!
+ game_concept_soul_arts_lifestyle_desc:0 "The $game_concept_soul_arts_lifestyle$ is suitable for [GetTrait('kueijin').GetName( GetNullCharacter )]s. Who master the Soul [disciplines|E] are truly formidable creatures, able to perform exceedingly difficult feats of will or to dominate other creatures' souls outright." #NT!
+
+ game_concept_demon_arts_lifestyle:0 "Demon Arts" #NT!
+ game_concept_demon_arts_lifestyle_desc:0 "The $game_concept_demon_arts_lifestyle$ is suitable for [GetTrait('kueijin').GetName( GetNullCharacter )]s. These [disciplines|E] originate with and are powered by the P'o." #NT!
+
+ game_concept_alternate_techniques_lifestyle:0 "Alternate Techniques" #NT!
+ game_concept_alternate_techniques_lifestyle_desc:0 "The $game_concept_alternate_techniques_lifestyle$ is suitable for [GetTrait('kueijin').GetName( GetNullCharacter )]s. These are alternate techniques for a [disciplines|E]." #NT!
+
+ game_concept_qiao_lifestyle:0 "Qiao" #NT!
+ game_concept_qiao_lifestyle_desc:0 "The $game_concept_qiao_lifestyle$ is suitable for [GetTrait('shih').GetName( GetNullCharacter )]s. Qiao, or Bridges: ancient arts through which demon hunters focus their Chi to perform superhuman feats." #NT!
+
+ game_concept_hekau_alchemy_lifestyle:0 "Alchemy" #NT!
+ game_concept_hekau_alchemy_lifestyle_desc:0 "The $game_concept_hekau_alchemy_lifestyle$ is suitable for [GetTrait('mummy').GetName( GetNullCharacter )]. Alchemy requires preparations and dedication. An alchemist cannot simply pull a spell out of his sleeves, but has to create a product that embodies the effect he seeks or one that induces the desired result. " #NT!
+
+ game_concept_hekau_amulets_lifestyle:0 "Amulets" #NT!
+ game_concept_hekau_amulets_lifestyle_desc:0 "The $game_concept_hekau_amulets_lifestyle$ is suitable for [GetTrait('mummy').GetName( GetNullCharacter )]. Amulets, also referred to as Meket in Egyptian, are charms that focus magical power, most often for protection against evil, sickness or sorcery." #NT!
+
+ game_concept_hekau_celestial_lifestyle:0 "Celestial" #NT!
+ game_concept_hekau_celestial_lifestyle_desc:0 "The $game_concept_hekau_celestial_lifestyle$ is suitable for [GetTrait('mummy').GetName( GetNullCharacter )]. The Celestial Hekau are the magic arts of ancient Egypt focusing on fate, weather and astrology." #NT!
+
+ game_concept_hekau_effigy_lifestyle:0 "Effigy" #NT!
+ game_concept_hekau_effigy_lifestyle_desc:0 "The $game_concept_hekau_effigy_lifestyle$ is suitable for [GetTrait('mummy').GetName( GetNullCharacter )]. Effigy is the Hekau art of symbolic connections, usually expressed in small figures known as Ushabti." #NT!
+
+ game_concept_hekau_necromancy_lifestyle:0 "Necromancy" #NT!
+ game_concept_hekau_necromancy_lifestyle_desc:0 "The $game_concept_hekau_necromancy_lifestyle$ is suitable for [GetTrait('mummy').GetName( GetNullCharacter )]. Necromancy is the Hekau art of shaping the [underworld|E] and commanding the souls that inhabit it." #NT!
+
+ game_concept_hekau_nomenclature_lifestyle:0 "Nomenclature" #NT!
+ game_concept_hekau_nomenclature_lifestyle_desc:0 "The $game_concept_hekau_nomenclature_lifestyle$ is suitable for [GetTrait('mummy').GetName( GetNullCharacter )]. Nomenclature is the Hekau art of utilizing True Names, called ren in Egypt, for arcane purposes." #NT!
+
+ game_concept_tan_lifestyle:0 "Tan" #NT!
+ game_concept_tan_lifestyle_desc:0 "The $game_concept_tan_lifestyle$ is suitable for [GetTrait('wutian').GetName( GetNullCharacter )]. Powers that come from Phoenix and Dragon Alchemy." #NT!
+
+ game_concept_pattern_spheres_lifestyle:0 "Pattern Spheres" #NT!
+ game_concept_pattern_spheres_lifestyle_desc:0 "The $game_concept_pattern_spheres_lifestyle$ is suitable for [GetTrait('mage').GetName( GetNullCharacter )]. Spheres that compose the physical world - Forces, Life and Matter." #NT!
+
+ game_concept_foundational_spheres_lifestyle:0 "Foundational Spheres" #NT!
+ game_concept_foundational_spheres_lifestyle_desc:0 "The $game_concept_foundational_spheres_lifestyle$ is suitable for [GetTrait('mage').GetName( GetNullCharacter )]. Spheres that make up the foundation of existence - Correspondence, Time and Prime." #NT!
+
+ game_concept_spiritual_spheres_lifestyle:0 "Spiritual Spheres" #NT!
+ game_concept_spiritual_spheres_lifestyle_desc:0 "The $game_concept_spiritual_spheres_lifestyle$ is suitable for [GetTrait('mage').GetName( GetNullCharacter )]. Spheres that make up the realms of fate, mind and soul - Spirit, Entropy and Mind." #NT!
+
+ game_concept_phobia:0 "Фобия" #NT!
+ game_concept_phobia_desc:0 "Фобия - это [discipline_power|E], которая пассивно рботает в битвах и дает вам преимущество, если вы командуете войском. Преимущество главным образом зависит от текущего страха вашего персонажа. Эта сила делает кого-то иррационально напуганным чем-угодно, что связано с вами." #NT!
+
+ game_concept_mask_of_empathy:0 "Маска Эмпатии" #NT!
+ game_concept_mask_of_empathy_desc:0 "Маска Эмпатии - это [discipline_power|E], [character_interaction|E], которое может быть использовано, чтобы закончить отношения цели. Обрубать эмоциональные связи между двумя индивидами" #NT!
+
+ game_concept_perfect_world:0 "Идеальный Мир" #NT!
+ game_concept_perfect_world_desc:0 "Идеальный Мир - это [discipline_power|E], которая может быть использована как [character_interaction|E], что улучшает вашу столицу. Это заставляет каждого жителя города работать над тем, чтобы сделать его вашим идеальным городом." #NT!
+
+ game_concept_neteru:0 "Neteru" #NT!
+ game_concept_neteru_desc:0 "$game_concept_neteru$ are cultists that have gathered around a Reborn to worship it. Your house members from your recent lives will become Neteru by free, else you need to use [character_interaction|E] to get them. Neteru can hold your titles even as a mortal, and they can hold mummy building or build them when you are their liege." #NT!
+
+ game_concept_thrall:0 "Раб" #NT!
+ game_concept_thrall_desc:0 "$game_concept_thrall$ это смертный слуга демонов. Демоны выбирают рабов из числа честолюбивых, мстительных, искалеченных и обездоленных; мужчины и женщины, которые чувствуют себя обманутыми миром, лишенными той жизни, которую они заслуживают." #NT!
+
+ game_concept_abombwe:0 "Абомбве" #NT!
+ game_concept_abombwe_desc:0 "Абомбве это Дисциплина практикуемая ветвью Акунансе Наследий Лайбон(африканских вампиров) и мистической линией крови Бонсам в Темных Веках. Абомбве использует близкую связь и контроль вампира над его собственным(и чужим) Зверем, позволяя использовать эту связь для различных целей." #NT!
+
+ game_concept_penumbra:0 "Penumbra" #NT!
+ game_concept_penumbra_desc:0 "Penumbra, also known as Earth’s Shadow, is the spirit world directly surrounding the physical world. Many, but not all, terrain features have reflections there." #NT!
+
+ game_concept_astral_reaches:0 "Astral Reaches" #NT!
+ game_concept_astral_reaches_desc:0 "The Astral Reaches, also called the Astral Umbra, the High Umbra, or the Upper Umbra are the realms of thought, of idea, of concept." #NT!
+
+ game_concept_dark_kingdom:0 "Dark Kingdom" #NT!
+ game_concept_dark_kingdom_desc:0 "Dark Kingdoms are pockets of stable reality within the Tempest of the [underworld|E]. Each of these kingdoms claim dominion over the Wraiths of a particular geographical region." #NT!
+
+ game_concept_shadow_realm:0 "Shadow Realm" #NT!
+ game_concept_shadow_realm_desc:0 "Shadow Realms are places in the [underworld|E] that Mummies visit in order to regenerate themselves until they are ready to inhabit their bodies again and that grant them protection against the predations of Spectres or Maelstroms." #NT!
+
+ game_concept_shard_realm:0 "Shard Realm" #NT!
+ game_concept_shard_realm_desc:0 "In the view of the Celestial Chorus, every Shard Realm is a fraction of the One. A Shard Realm is connected to one of the planets within the Solar system and form its own specific Umbra. Each Shard Realm is connected to a specific Sphere that is dominant within its boundaries. Every Shard Realm is also connected to a Shade Realm, which is rumored to lead into a parallel universe dominated by one of the Spheres. Each Shard Realm is inhabited and ruled by a powerful Celestine." #NT!
+
+ game_concept_shade_realm:0 "Shade Realm" #NT!
+ game_concept_shade_realm_desc:0 "A Shade Realm, also known as Vada, is an Umbral realm dominated by a single Sphere of magic. Each Shade Realm is linked to the [shard_realm|E] of one of the planets within the solar system, but manifest within Earth's Horizon--like a shadow cast on the ground by a passing cloud." #NT!
+
+ game_concept_dreaming:0 "Dreaming" #NT!
+ game_concept_dreaming_desc:0 "Like a picture postcard of a vacation, when humanity began to put more faith in cold hard facts (and cold hard iron) over whim and fancy, the mythic parts of the world branched off to an overlapping level of reality called The Dreaming." #NT!
+
+ game_concept_underworld:0 "Underworld" #NT!
+ game_concept_yin_world:0 "Yin World" #NT!
+ game_concept_underworld_desc:0 "The Underworld, also known as the Dark Umbra or the Contrarium, is the domain of the dead and memories." #NT!
+
+ game_concept_breedgifts_lifestyle:0 "Breed" #NT!
+ game_concept_breedgifts_lifestyle_desc:0 "Gifts that come with natural breed form." #NT!
+
+ game_concept_auspicegifts_lifestyle:0 "Auspice" #NT!
+ game_concept_auspicegifts_lifestyle_desc:0 "Gifts that come with Auspice." #NT!
+
+ game_concept_Fetter:0 "Окова" #NT!
+ game_concept_Fetters:0 "Оковы" #NT!
+ game_concept_Fetter_desc:0 "Оковы - это человек, место или предмет, которые привязывают призрака к Царству Теней и не дают ему двигаться дальше. Наряду с тем, что оковы позволяют призраку цепляться за свое существование и не дают ему кануть в лету, они также являются местами, где призрак может дремать и обретать обратно [Corpus|E].\nЕсли Оковы разрушены, призрак теряет главную связь с Царством Теней, и поэтому его существование становится более шатким. Призраки без оков недолго живут в Царстве Теней, так как им негде подзаряжаться и ничто не привязывает их к их неживой жизни." #NT!
+
+ game_concept_Corpus:0 "Корпус" #NT!
+ game_concept_Corpus_desc:0 "Тело призрака в [underworld|E] называется "Корпус". Вместо того чтобы иметь сложные биологические системы, он сделан из материала, называемого плазмой, который, по большому счету, является сырьем для загробной жизни." #NT!
+
+ game_concept_POD_animals_maa:0 "Животные" #NT!
+ game_concept_POD_animals_maa_desc:0 "Животные это [men_at_arms|E] которые могут быть привлечены различными способами, такими как Анимализм.\n\nИм противостоят [archers|E]." #NT!
+
+ game_concept_POD_legendary_maa:0 "Legends" #NT!
+ game_concept_POD_legendary_maa_desc:0 "Legendary [men_at_arms|E] defy definition, each one is a unique thing unto itself.\n\nTheir unique nature means nothing can reliably counter them and their stats are usually strong enough that countering other [men_at_arms|E] is unnecessary.\n\nDue to their unique nature there is no single terrain where they are universally stronger or weaker." #NT!
+
+ game_concept_POD_demonic_maa:0 "Demonic" #NT!
+ game_concept_POD_demonic_maa_desc:0 "Demonic [men_at_arms|E] represents the forces of the infernal.\n\nAs such they are much too varied to universally counter anything but are themselves countered by those who specialize in fighting the infernal.\n\nIt is likewise impossible to claim that any one terrain type is universally beneficial for these regiments." #NT!
+
+ game_concept_POD_spirit_maa:0 "Spirit" #NT!
+ game_concept_POD_spirit_maa_desc:0 "Spirit [men_at_arms|E] are disembodied entities that originate in, and usually dwell in, the Umbra - for that reason, some mages call them the \"Umbrood\".\n\nTheir disembodied nature means that they are impossible to counter without special means.\n\nTheir disembodied state also means that spirits usually aren't adversely affected by terrain being equally at home in a frozen wasteland as they are in a scorching desert." #NT!
+
+ game_concept_POD_shapeshifter_maa:0 "Оборотень" #NT!
+ game_concept_POD_shapeshifter_maa_desc:0 "Хотя Гару были созданы Гайей в качестве ее клыков и когтей, чтобы обезопасить ее, они не были ее единственными детьми. Она создала множество других пород оборотней и дала каждой из них задание. Некоторые со временем сбились с пути; другие были вынуждены отказаться от своих ролей из-за Гару. Некоторые обратились к обслуживанию только одного аспекта Триата, вместо Гайи в целом.\n\nОборотни так же разнообразны, как и то, во что они превращаются, поэтому единственным верным средством противодействия является знание сверхъестественной уязвимости того типа, с которым вы сталкиваетесь.\n\nТочно так же, как и их способность противостоять и быть встреченными противодействием, способности оборотней на местности сильно различаются." #NT!
+
+ game_concept_POD_gargoyle_maa:0 "Гаргулья" #NT!
+ game_concept_POD_gargoyle_maa_desc:0 "Гаргульи линия крови созданная Тремерами в качестве своих слуг. Хотя технически это не родословная Тремеров, родословная в значительной степени находится под их контролем.\n\nСпособность горгулий летать создает уникальные проблемы для обычных войск, поскольку обучение борьбе с летающими противниками не является частью большинства учений с применением оружия.\n\nСпособность горгулий летать означает, что они могут избежать многих проблем, связанных с рельефом местности, и в то же время воспользоваться теми же преимуществами." #NT!
+
+ game_concept_POD_ghoul_maa:0 "Гули" #NT!
+ game_concept_POD_ghoul_maa_desc:0 "Гуль это термин используемый, когда вампир делится небольшим количеством вампирского витэ со смертным без испития крови последнего, чтобы не произошло Обращения.\n\nГули это не только обычные смертные получившие вампирское Витэ, но и так называемые \"Боевые Гули\" , используемые Цимисхами. Обычно противостоять гулям  так же легко, как и обычным смертным армиям, но существуют специально выведенные для войны гули,например, такие как ужасающая Шляхта, с которной справиться гораздо сложнее.\n\nЛандшафт воздействует на гулей так же, как обычно." #NT!
+
+ game_concept_POD_plasmic_maa:0 "Plasmic" #NT!
+ game_concept_POD_plasmic_maa_desc:0 "The 'lifeform' of the [underworld|E]; specifically, any independent creature that is composed of Plasm." #NT!
+
+ game_concept_POD_faerie_maa:0 "Faerie" #NT!
+ game_concept_POD_faerie_maa_desc:0 "The terms faerie, fae, and the Fair Folk are often used interchangeably by non-changelings to refer to changelings and True Fae alike." #NT!
+
+ game_concept_POD_chimera_maa:0 "Animate Chimera" #NT!
+ game_concept_POD_chimera_maa_desc:0 "Animate chimera are simply chimera that have either life or the appearance of life." #NT!
+
+ game_concept_packmember:0 "Packmember" #NT!
+ game_concept_packmember_desc:0 "The pack is the basic social unit in Garou society. It is a small group of Werewolves bound to each other by ties of friendship and mission as opposed to culture.\nIn game, you are able to pick up to four packmembers (as long as they appreciate you enough) to be bounded with you for life. You are then able to use a specific minor decision to interact with them." #NT!
+
+ #game_concept_coteriemember:0 "Coterie Member" #NT!
+ #game_concept_coteriemember_desc:0 "Coterie is a term used to denote a group of vampires who have banded together for a common purpose. Typically, they choose to band together on their own, under the belief that safety lies in numbers.\nIn game, you are able to pick up to four coterie members to be bounded with you. You are then able to use a specific minor decision to interact with them." #NT!
+
+ game_concept_abomination:0 "Вурдалак" #NT!
+ game_concept_abomination_desc:0 "Вурдалак это термин, используемый для описания оборотня, превратившегося в вампира. Излишне говорить, что эти существа исключительно редки, в свете того факта, что почти у всех Фера сильная аллергия на витэ вампира. В результате оба общества избегают таких существ, и они всегда очень психически нестабильны.\nВ игре к вурдалакам относятся как к вампирам, которые не могут [Embrace|E] но сохранают использование даров оборотней, так же как и способность менять форму." #NT!
+
+ game_concept_grace:0 "Милость" #NT!
+ game_concept_grace_i:0 "@grace_icon!" #NT!
+ game_concept_grace_desc:0 "Репрезентация того, насколько сущность Умбры благосклонна к вам" #NT!
+
+ game_concept_bind_wraith_interaction:0 "Bind Wraith Interaction" #NT!
+ game_concept_bind_wraith_interaction_desc:0 "An Interaction that allows a character to bind a [GetTrait('wraith').GetName( GetNullCharacter )] then allow further commands to them." #NT!
+
+ game_concept_command_wraith_interaction:0 "Command Wraith" #NT!
+ game_concept_command_wraith_interaction_desc:0 "An Interaction that allows a character to command a bound [GetTrait('wraith').GetName( GetPlayer )] to act against other characters." #NT!
+
+ game_concept_marked_for_return_interaction:0 "Mark for Return Interaction" #NT!
+ game_concept_marked_for_return_interaction_desc:0 "An Interaction that allows a character to make another character becomes a [GetTrait('wraith').GetName( GetNullCharacter )] when they die." #NT!
+
+ game_concept_send_to_shadowland_interaction:0 "Send to Shadowlands Interaction" #NT!
+ game_concept_send_to_shadowland_interaction_desc:0 "An Interaction that allows a character to send a bound [GetTrait('wraith').GetName( GetNullCharacter )] to the shadowland so it won't cause more stress to maintain." #NT!
+
+ game_concept_reliquarie:0 "Reliquarie" #NT!
+ game_concept_reliquarie_desc:0 "If this artifact is destroyed, [GetTrait('demon').GetName( GetNullCharacter )] will lose [GetTrait('earthbound').GetName( GetNullCharacter )] [trait|E]." #NT!
+
+ game_concept_dreamer:0 "Dreamer" #NT!
+ game_concept_dreamer_desc:0 "Among the Kithain, Dreamer can be a generic term for any mortal but is more properly attributed to those mortals who exhibit the spark of creativity or have not been dulled by the Banality to the point where they are emotionally stunted. Dreamers are the primary source of Glamour for Kithain and, as such, are a protected resource." #NT!

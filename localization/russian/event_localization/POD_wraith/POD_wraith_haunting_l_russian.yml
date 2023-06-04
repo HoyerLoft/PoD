@@ -1,0 +1,15 @@
+﻿l_russian:
+
+ POD_wraith_haunting.100.t:0 "Haunting" #NT!
+ POD_wraith_haunting.100.desc:0 "You are determined to make [recipient.GetTitledFirstName]'s life miserable, but you can't be everywhere. What do you concentrate your efforts on?" #NT!
+ POD_wraith_haunting.100.a:0 "[recipient.GetFirstNameNoTooltip] shall find no peace." #NT!
+ POD_wraith_haunting.100.b:0 "I should disrupt [recipient.GetHerHis] sleep. " #NT!
+ POD_wraith_haunting.100.c:0 "[recipient.GetHerHis|U] spies are worth my effort." #NT!
+ POD_wraith_haunting.100.d:0 "My attacks should focus on the tax collectors." #NT!
+ POD_wraith_haunting.100.e:0 "The generals and [recipient.GetHerHis] training sessions." #NT!
+ POD_wraith_haunting.100.f:0 "[recipient.GetHerHis|U] court is the right target." #NT!
+ POD_wraith_haunting.200.t:0 "Haunted!" #NT!
+ POD_wraith_haunting.200.desc:0 "You feel an invisible presence in the night - a ghost has decided to play fowl tricks on you, generating all kinds of ill effects." #NT!
+ POD_wraith_haunting.200.a:0 "As if the undead were not bad enough!" #NT!
+ POD_wraith_haunting.toast:0 "[recipient.GetFirstName] is haunted." #NT!
+

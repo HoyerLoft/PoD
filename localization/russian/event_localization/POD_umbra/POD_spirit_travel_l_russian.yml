@@ -1,0 +1,130 @@
+﻿l_russian:
+ spirit_travel_header:0 "Reaching:" #NT!
+
+ # Pass #NT!
+
+ POD_umbra_pass.101.t:0 "Opening a Nihil" #NT!
+ POD_umbra_pass.101.desc:0 "A membrane exists between the Shadowlands and the Tempest, you can't enter the Tempest without opening a Nihil" #NT!
+ POD_umbra_pass.101.a:0 "I will make a sacrifice to open it." #NT!
+ POD_umbra_pass.101.b:0 "Nevermind." #NT!
+
+ POD_umbra_pass.102.t:0 "Pass the Temple Obscura" #NT!
+ POD_umbra_pass.102.desc:0 "The Temple Obscura is a location in Malfeas at the entrance to the Black Spiral Labyrinth. It is a colossal mix of mosque and cathedral, of Eastern minarets and Western fluting." #NT!
+ POD_umbra_pass.102.a:0 "I will ask to pass." #NT!
+ POD_umbra_pass.102.a.tt:0 "This option is available because you are serving the Wyrm." #NT!
+ POD_umbra_pass.102.b:0 "I want to sneak in" #NT!
+ POD_umbra_pass.102.b.duel.desc:0 "Sneaking Challenge" #NT!
+ POD_umbra_pass.102.b.duel.tt.success:0 "That was Solid." #NT!
+ POD_umbra_pass.102.b.duel.tt.failure:0 "!" #NT!
+ POD_umbra_pass.102.c:0 "I better not enter here." #NT!
+
+ POD_umbra_pass.103.t:0 "Stop Hanging Around" #NT!
+ POD_umbra_pass.103.desc:0 "You are not tethered to the living world at all, and can take a one-way trip to the [underworld|E] whenever your want. The only reason you are still around is because you want to be here, not that that you have to like most spooks. Are you sure you want to make this trip now?" #NT!
+ POD_umbra_pass.103.a:0 "It's time to cross the Tempest." #NT!
+ POD_umbra_pass.103.b:0 "I still have things to do." #NT!
+
+ POD_umbra_pass.104.t:0 "Cross the Shroud" #NT!
+ POD_umbra_pass.104.desc:0 "Are you sure about flinging yourself through the Shroud at the same speed as a projectile? This will hurt your [Corpus|E] (at the same level as local Shroud)." #NT!
+ POD_umbra_pass.104.a:0 "Yes!" #NT!
+ POD_umbra_pass.104.b:0 "No." #NT!
+
+ POD_umbra_pass.105.t:0 "Stop!" #NT!
+ POD_umbra_pass.105.desc:0 "You are stopped by guards, they don't recognize you as part of the wraithly realm of Stygia, how will you proceed?" #NT!
+ POD_umbra_pass.105.a:0 "I have come here to join the legion." #NT!
+ POD_umbra_pass.105.b:0 "I want to be part of the guild." #NT!
+ POD_umbra_pass.105.c:0 "I'm one of yours already!" #NT!
+ POD_umbra_pass.105.d:0 "I will just turn around." #NT!
+
+ POD_umbra_pass.106.t:0 "Stop!" #NT!
+ POD_umbra_pass.106.desc:0 "You are stopped by guards, they don't recognize you as part of the Far Shore, how will you proceed?" #NT!
+ POD_umbra_pass.106.a:0 "I have come here to praise the Shining Ones." #NT!
+ POD_umbra_pass.106.b:0 "I'm one of yours already!" #NT!
+ POD_umbra_pass.106.c:0 "I will just turn around." #NT!
+
+ POD_umbra_pass.107.t:0 "Stop!" #NT!
+ POD_umbra_pass.107.desc:0 "Dis is protected by a maze of wrecked ships, inhabited by pockets of Spectres enslaved with Nhudri’s Embrace to keep curious wraiths and hostile spectres at bay. The pathways through the maze are constantly shifting and it is nearly impossible to enter Dis without the consent of the Boatsmen's Society. How will you proceed?" #NT!
+ POD_umbra_pass.107.a:0 "I want to swear an oath to you." #NT!
+ POD_umbra_pass.107.b:0 "I will just turn around." #NT!
+ POD_umbra_pass.107.a.duel.desc:0 "Ritual of Severance" #NT!
+
+ # Lost #NT!
+
+ POD_umbra_lost.100.t:0 "#X Fall into Oblivion#!" #NT!
+ POD_umbra_lost.100.desc:0 "#X You fall into the Oblivion...#!" #NT!
+ POD_umbra_lost.100.a:0 "#X ...#!" #NT!
+
+ POD_umbra_lost.101.t:0 "Lost in the Tempest" #NT!
+ POD_umbra_lost.101.desc:0 "You couldn't orientate yourself in the ever-shifting Tempest, you ended in the same place as where you started." #NT!
+ POD_umbra_lost.101.a:0 "Fine." #NT!
+
+ POD_umbra_lost.102.t:0 "Trapped in the Labyrinth" #NT!
+ POD_umbra_lost.102.desc:0 "You couldn't orientate yourself in the nonsensical Labyrinth, you ended in the same place as where you started." #NT!
+ POD_umbra_lost.102.a:0 "I am lost." #NT!
+ POD_umbra_lost.102.b:0 "Save me, Grand Serpent!" #NT!
+
+ POD_umbra_lost.104.t:0 "Trapped in the Abyss" #NT!
+ POD_umbra_lost.104.desc_demon:0 "You fall into the eternal prison created for your kind after Lucifer's rebellion once again. God, it seems, still has the last laugh." #NT!
+ POD_umbra_lost.104.desc_infernalist:0 "You fall into the pit, and seems no way to come out unless you promise make a sacrifice to a demon lord..." #NT!
+ POD_umbra_lost.104.a:0 "I will escape!" #NT!
+ POD_umbra_lost.104.b:0 "I will sacrifice a prisoner." #NT!
+ POD_umbra_lost.104.c:0 "I don't make deals with demons!" #NT!
+ trapped_in_abyss_modifier:0 "Trapped in the Abyss" #NT!
+
+ # Fallback #NT!
+
+ POD_umbra_fallback.1100.t.success:0 "Diplomacy Challenge: Success" #NT!
+ POD_umbra_fallback.1100.t.fail:0 "Diplomacy Challenge: Fail" #NT!
+ POD_umbra_fallback.1100.desc:0 "You are stopped by someone who lives in this area, maybe you can convince them to show you how to pass beyond that point? Denizens of the Umbra are notoriously difficult to understand and even more difficult to convince though." #NT!
+ POD_umbra_fallback.1110.t.success:0 "Martial Challenge: Success" #NT!
+ POD_umbra_fallback.1110.t.fail:0 "Martial Challenge: Fail" #NT!
+ POD_umbra_fallback.1110.desc:0 "You are stopped by a riddle in the form of a wargame. It is time to show how good you are at that. Playing with 'live action' pieces in the form of bound spirits is quite difficult to grasp at first though, making this a disturbing and surreal experience." #NT!
+ POD_umbra_fallback.1120.t.success:0 "Stewardship Challenge: Success" #NT!
+ POD_umbra_fallback.1120.t.fail:0 "Stewardship Challenge: Fail" #NT!
+ POD_umbra_fallback.1120.desc:0 "You are stopped by a riddle in form of a equation, are you good in maths? You will have to first decipher the numbers used by the trickster spirits though, which makes the problem even harder to solve." #NT!
+ POD_umbra_fallback.1130.t.success:0 "Intrigue Challenge: Success" #NT!
+ POD_umbra_fallback.1130.t.fail:0 "Intrigue Challenge: Fail" #NT!
+ POD_umbra_fallback.1130.desc:0 "You meet a strong spirit guardian in your path, maybe you can distract them with some trick? Best make it convincing though, he really doesn't look friendly." #NT!
+ POD_umbra_fallback.1140.t.success:0 "Learning Challenge: Success" #NT!
+ POD_umbra_fallback.1140.t.fail:0 "Learning Challenge: Fail" #NT!
+ POD_umbra_fallback.1140.desc:0 "You are stopped by a puzzle, can you solve it? The Umbra being a twisted version of the 'real' world, you can find some patterns and clues that makes at least a modicum of sense to you." #NT!
+ POD_umbra_fallback.1100.a:0 "I will do my best." #NT!
+ POD_umbra_fallback.1100.critical_success:0 "Critical Success" #NT!
+ POD_umbra_fallback.1100.success:0 "Success" #NT!
+ POD_umbra_fallback.1100.fail:0 "Fail" #NT!
+ POD_umbra_fallback.1100.critical_fail:0 "Critical Fail" #NT!
+
+ # Gauntlet #NT!
+
+ POD_gauntlet.101.t:0 "The Shroud" #NT!
+ POD_gauntlet.101.desc:0 "The [underworld|E] is separated from the Skinlands by a mystic barrier known as the Shroud. The Shroud makes the Shadowlands imperceptible to most living creatures and obscures Skinlands activity to the dead. It is stronger in some areas and weaker in others, but it is never entirely absent.\n\nThe Shroud may never be lowered below 1, and if it is raised to 10, spirits in the vicinity must spend Willpower or flee the area." #NT!
+ POD_gauntlet.101.a:0 "Strengthening the Shroud." #NT!
+ POD_gauntlet.101.b:0 "Weakening the Shroud." #NT!
+ POD_gauntlet.101.c:0 "Tear Down the Shroud!" #NT!
+ POD_gauntlet.101.d:0 "Nevermind." #NT!
+
+ POD_gauntlet.102.t:0 "The Wall" #NT!
+ POD_gauntlet.102.desc:0 "The spirit realms are separated from the Middle Kingdom by a mystic barrier known as the Wall. It prevents contact between the mortal and spirit worlds. It is stronger in some areas, weaker in others, but it is never entirely absent.\n\nThe Wall may never be lowered below 1, and if it is raised to 10, no being in the area may use Chi powers of any sort. Spirits in a vicinity with a Wall rating of 10 must spend Willpower or flee the area; in any event, they will be extremely uncomfortable and unable to spend Chi." #NT!
+ POD_gauntlet.102.a:0 "Strengthening the Wall." #NT!
+ POD_gauntlet.102.b:0 "Weakening the Wall." #NT!
+ POD_gauntlet.102.c:0 "Tear Down the Wall!" #NT!
+ POD_gauntlet.102.d:0 "Nevermind." #NT!
+
+ # KJ only event #NT!
+
+ POD_umbra_kj.1001.t:0 "Inspiration" #NT!
+ POD_umbra_kj.1001.desc:0 "The areas of the spirit worlds close to the Wall are called the Mirror Lands, so named because they appear as ghostly reflections of the nearby Middle Kingdom.\n\nLooking at this extraordinary view makes you feel inspired." #NT!
+ POD_umbra_kj.1001.a:0 "It's amazing!" #NT!
+
+ POD_umbra_kj.1002.t:0 "Teaching of the Spirits" #NT!
+ POD_umbra_kj.1002.desc_opening:0 "You entered the Spirit World, as deep you can, then you received instructions from a" #NT!
+ POD_umbra_kj.1002.desc_high:0 "ancient, historic Wan Kuei, a Grand Ancestor" #NT!
+ POD_umbra_kj.1002.desc_yin:0 "Yama King" #NT!
+ POD_umbra_kj.1002.desc_yang:0 "powerful spirit" #NT!
+ POD_umbra_kj.1002.desc_low:0 "normal spirit" #NT!
+ POD_umbra_kj.1002.desc_ending:0 "who shared some dharma understanding." #NT!
+ POD_umbra_kj.1002.a:0 "My spirit mentor." #NT!
+
+ # Action event #NT!
+
+ POD_umbra_action.1001.t:0 "Battleground" #NT!
+ POD_umbra_action.1001.desc:0 "The Battleground is a realm dedicated to violence and rage, and chaos rules it as armies mix up and Qin soldiers end up fighting against Roman legions and the Crusaders ally themselves with Viking barbarians against Mayan troops. As long as one does not enter one of the conflicts, a visitor walks on a "track" appropriate to the battle they witness (a boat for a naval battle, a Roman road for a conflict during the Punic wars etc.). As long as they do not step off the track, they will not be attacked directly.\nThis is a great way to learn new (or ancients) strategies that could be relevant to your era in some way." #NT!

@@ -1,0 +1,86 @@
+﻿l_russian:
+# yin chi #NT!
+  yinchi0_modifier:0 "Yin Chi 0" #NT!
+  yinchi1_modifier:0 "Yin Chi 1" #NT!
+  yinchi2_modifier:0 "Yin Chi 2" #NT!
+  yinchi3_modifier:0 "Yin Chi 3" #NT!
+  yinchi4_modifier:0 "Yin Chi 4" #NT!
+  yinchi5_modifier:0 "Yin Chi 5" #NT!
+  yinchi6_modifier:0 "Yin Chi 6" #NT!
+  yinchi7_modifier:0 "Yin Chi 7" #NT!
+  yinchi8_modifier:0 "Yin Chi 8" #NT!
+  yinchi9_modifier:0 "Yin Chi 9" #NT!
+  yinchi10_modifier:0 "Yin Chi 10" #NT!
+# yang chi #NT!
+  yangchi0_modifier:0 "Yang Chi 0" #NT!
+  yangchi1_modifier:0 "Yang Chi 1" #NT!
+  yangchi2_modifier:0 "Yang Chi 2" #NT!
+  yangchi3_modifier:0 "Yang Chi 3" #NT!
+  yangchi4_modifier:0 "Yang Chi 4" #NT!
+  yangchi5_modifier:0 "Yang Chi 5" #NT!
+  yangchi6_modifier:0 "Yang Chi 6" #NT!
+  yangchi7_modifier:0 "Yang Chi 7" #NT!
+  yangchi8_modifier:0 "Yang Chi 8" #NT!
+  yangchi9_modifier:0 "Yang Chi 9" #NT!
+  yangchi10_modifier:0 "Yang Chi 10" #NT!
+# yin virtue #NT!
+  yinvirtue0_modifier:0 "Yin Virtue 0" #NT!
+  yinvirtue1_modifier:0 "Yin Virtue 1" #NT!
+  yinvirtue2_modifier:0 "Yin Virtue 2" #NT!
+  yinvirtue3_modifier:0 "Yin Virtue 3" #NT!
+  yinvirtue4_modifier:0 "Yin Virtue 4" #NT!
+  yinvirtue5_modifier:0 "Yin Virtue 5" #NT!
+  yinvirtue6_modifier:0 "Yin Virtue 6" #NT!
+  yinvirtue7_modifier:0 "Yin Virtue 7" #NT!
+  yinvirtue8_modifier:0 "Yin Virtue 8" #NT!
+  yinvirtue9_modifier:0 "Yin Virtue 9" #NT!
+  yinvirtue10_modifier:0 "Yin Virtue 10" #NT!
+  yinvirtue11_modifier:0 "Yin Virtue 11" #NT!
+  yinvirtue12_modifier:0 "Yin Virtue 12" #NT!
+  yinvirtue13_modifier:0 "Yin Virtue 13" #NT!
+  yinvirtue14_modifier:0 "Yin Virtue 14" #NT!
+  yinvirtue15_modifier:0 "Yin Virtue 15" #NT!
+  yinvirtue16_modifier:0 "Yin Virtue 16" #NT!
+  yinvirtue17_modifier:0 "Yin Virtue 17" #NT!
+  yinvirtue18_modifier:0 "Yin Virtue 18" #NT!
+  yinvirtue19_modifier:0 "Yin Virtue 19" #NT!
+  yinvirtue20_modifier:0 "Yin Virtue 20" #NT!
+# yang virtue #NT!
+  yangvirtue0_modifier:0 "Yang Virtue 0" #NT!
+  yangvirtue1_modifier:0 "Yang Virtue 1" #NT!
+  yangvirtue2_modifier:0 "Yang Virtue 2" #NT!
+  yangvirtue3_modifier:0 "Yang Virtue 3" #NT!
+  yangvirtue4_modifier:0 "Yang Virtue 4" #NT!
+  yangvirtue5_modifier:0 "Yang Virtue 5" #NT!
+  yangvirtue6_modifier:0 "Yang Virtue 6" #NT!
+  yangvirtue7_modifier:0 "Yang Virtue 7" #NT!
+  yangvirtue8_modifier:0 "Yang Virtue 8" #NT!
+  yangvirtue9_modifier:0 "Yang Virtue 9" #NT!
+  yangvirtue10_modifier:0 "Yang Virtue 10" #NT!
+  yangvirtue11_modifier:0 "Yang Virtue 11" #NT!
+  yangvirtue12_modifier:0 "Yang Virtue 12" #NT!
+  yangvirtue13_modifier:0 "Yang Virtue 13" #NT!
+  yangvirtue14_modifier:0 "Yang Virtue 14" #NT!
+  yangvirtue15_modifier:0 "Yang Virtue 15" #NT!
+  yangvirtue16_modifier:0 "Yang Virtue 16" #NT!
+  yangvirtue17_modifier:0 "Yang Virtue 17" #NT!
+  yangvirtue18_modifier:0 "Yang Virtue 18" #NT!
+  yangvirtue19_modifier:0 "Yang Virtue 19" #NT!
+  yangvirtue20_modifier:0 "Yang Virtue 20" #NT!
+# God Slayer #NT!
+  yinvirtue50_modifier:0 "Yin Virtue 50" #NT!
+  yangvirtue50_modifier:0 "Yang Virtue 50" #NT!
+# Chi hunger #NT!
+  chi_hungry_modifier:0 "Hungry for Chi" #NT!
+  chi_ravenous_modifier:0 "Ravenous for Chi" #NT!
+# Chi reserve #NT!
+  chi_rest_modifier:0 "Chi Remain" #NT!
+
+ temporary_yin_imbalance_toast:0 "You spend all your Chi of Yin aspect" #NT!
+ temporary_yang_imbalance_toast:0 "You spend all your Chi of Yang aspect" #NT!
+ yin_overdose_toast:0 "You have more Yin Chi than your Yin virtue" #NT!
+ yang_overdose_toast:0 "You have more Yang Chi than your Yang virtue" #NT!
+ gain_chi_hunger_toast:0 "Your total Chi is less than 6" #NT!
+ gain_chi_ravenous_toast:0 "Your total Chi is less than 3" #NT!
+ lose_chi_hunger_toast:0 "Your total Chi is more than 6" #NT!
+ lose_chi_ravenous_toast:0 "Your total Chi is more than 3" #NT!

@@ -1,0 +1,30 @@
+﻿l_russian:
+ enochian_group:0 "Enochian" #NT!
+ enochian_group_collective_noun:1 "Enochians" #NT!
+ enochian:0 "Enochian" #NT!
+ enochian_prefix:0 "Enochian" #NT!
+ enochian_collective_noun:1 "Enochians" #NT!
+ name_list_enochian:0 "Enochian" #NT!
+ ghemalish:0 "Ghemalish" #NT!
+ ghemalish_prefix:0 "Ghemalish" #NT!
+ ghemalish_collective_noun:1 "Ghemalish" #NT!
+ name_list_ghemalish:0 "Ghemalish" #NT!
+ punic:0 "Punic" #NT!
+ punic_prefix:0 "Punic" #NT!
+ punic_collective_noun:1 "Punics" #NT!
+ name_list_punic:0 "Punic" #NT!
+ coptic_prefix:0 "Coptic" #NT!
+ coptic_collective_noun:1 "Copts" #NT!
+ name_list_coptic:0 "Coptic" #NT!
+ ancientegyptian:0 "Old Egyptian" #NT!
+ ancientegyptian_prefix:0 "Old Egyptian" #NT!
+ ancientegyptian_collective_noun:0 "Old Egyptians" #NT!
+ name_list_ancientegyptian:0 "Old Egyptian" #NT!
+ aesthetics_ancientegyptian_name:0 "Ancient Egyptian" #NT!
+ aesthetics_enochian_name:0 "Enochian" #NT!
+ aesthetics_ghemalish_name:0 "Ghemalish" #NT!
+ aesthetics_punic_name:0 "Punic" #NT!
+ romani:0 "Romani" #NT!
+ romani_prefix:0 "Roma" #NT!
+ romani_collective_noun:1 "Roma" #NT!
+

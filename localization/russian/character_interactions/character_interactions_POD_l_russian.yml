@@ -1,0 +1,104 @@
+﻿l_russian:
+ I_MUST_BE_AT_THE_SAME_LOCATION_TRIGGER:0 "Вы должны быть в одной локации с жертвой!" #NT!
+ I_MUST_BE_WITHIN_A_SHORT_DISTANCE_TRIGGER:0 "Вы должны быть в пределах небольшой дистанции от жертвы!" #150 map-pixels. Roughly one Wales away (top to bottom). #NT!
+ I_MUST_BE_WITHIN_A_MEDIUM_DISTANCE_TRIGGER:0 "Вы должны быть в пределах средней дистанции от жертвы!" #250 map-pixels. Roughly one Ireland away (top to bottom). #NT!
+ I_MUST_BE_WITHIN_A_LONG_DISTANCE_TRIGGER:0 "Вы должны быть в пределах большой дистанции от жертвы!" #650 map-pixels. Roughly one France away (top to bottom). #NT!
+ I_MUST_BE_WITHIN_A_GREAT_DISTANCE_TRIGGER:0 "Вы должны быть в пределах огромной дистанции от жертвы!" #850 map-pixels. Roughly one Holy Roman Empire away (left to right). #NT!
+
+ NOT_has_any_bad_relationship:0 "Вы #Bold не#! должны иметь плохих отношений с целью. " #NT!
+
+ POD_interaction_scheme_attack:0 "Пробовать это сделать с помомощью планирования." #NT!
+ POD_interaction_duel_attack:0 "Пробовать это сделат с помощью силы." #NT!
+ POD_interaction_automatic:0 "Пробовать это сделать вов ремя контроля жертвы." #NT!
+ POD_pay_travel_cost_tooltip:0 "Платить стоимость путешествия" #NT!
+ POD_power_attack_toast:0 "Ваше влияние было подавлено!" #NT!
+
+ POD_train_perk_interaction:0 "Тренировать навыку" #NT!
+ POD_train_perk_interaction_desc:0 "Обучить [recipient.GetFirstName] одному из ваших навыков" #NT!
+
+ EXECUTION_DIABLERIE:0 "[diablerie|E]" #NT!
+ EXECUTION_EXSANGUINATION:0 "Обескровливание" #NT!
+ EXECUTION_SPIRIT_EATING:0 "Spirit Eating" #NT!
+ EXECUTION_CONVERT_TO_WRAITH:0 "Превратить в Призрака" #NT!
+ EXECUTION_BANISH_TO_TEMPEST:0 "Banish to [GetPlayer.Custom( 'tempest_custom_name' )]" #NT!
+ EXECUTION_UNMAKING:0 "Erasing from Existence" #NT!
+ EXECUTION_FILL_JARS:0 "Fills Canopic Jars" #NT!
+ execution_fill_jars_tooltip:0 "Asekh-Sen can slay a mummy and fills some of its internal organs into a canopic jars, to gain an extra life." #NT!
+ EXECUTION_DEVOUR_SOUL:0 "Пожрать Душу" #NT!
+ EXECUTION_ABSORB_THE_MIND:0 "Поглотить Разум" #NT!
+ EXECUTION_EVAPORATION:0 "Испарить" #NT!
+ EXECUTION_SACRIFICE_TO_DEMON:0 "Жертвоприношение демоническому покровителю" #NT!
+ EXECUTION_SOULTAKER:0 "Принести в жертву Собирателю Душ" #NT!
+ soultaker_betray:0 "Soultaker has betray you: a strong enough mind is pulled into the sword and imprints its own agenda onto the insane hive-mind of Legion." #NT!
+ used_spirit_eating:0 "#V Spirit Eating#! is on cooldown" #NT!
+ execution_spirit_eating_tooltip:0 "#V Spirit Eating#! will be on cooldown for #V 3#! years." #NT!
+ used_absorb_the_mind:0 "#V Поглощение Разума#! перезаряжается" #NT!
+ execution_absorb_the_mind_tooltip:0 "#V Поглощение Разума#! будет перезаряжаться #V 3#! года." #NT!
+ used_devour_soul:0 "#V Devour Soul#! is on cooldown" #NT!
+ execution_devour_soul_tooltip:0 "#V Devour Soul#! will be on cooldown for #V 3#! years." #NT!
+
+ POD_ask_reweave_interaction:0 "Ask to Reweave" #NT!
+ POD_ask_reweave_interaction_desc:0 "Ask [recipient.GetFirstName] to reweave your artifact pieces collected from the Maelstrom." #NT!
+ NOT_POD_has_equipped_artifact_pieces:0 "Have equipped two or more artifact pieces in the trinket slot." #NT!
+
+ POD_do_not_disturb_text:0 "Этот персонаж может быть пробужден только апокалиптическими событиями." #NT!
+
+ convert_to_government_interaction:0 "Принять Форму Правления" #NT!
+ convert_to_government_interaction_desc:0 "Сменить форму правления как [recipient.GetShortUINamePossessiveNoTooltip] [goverment|E]" #NT!
+
+ demand_conversion_government_interaction:0 "Требовать Принять Форму Правления" #NT!
+ demand_conversion_government_interaction_desc:0 "Требовать, чтобы [recipient.GetShortUINameNoTooltip] прнял вашу [goverment|E]" #NT!
+
+ POD_heal_scarred:0 "Шрамы" #NT!
+ POD_heal_wounded:0 "Ранение" #NT!
+ POD_heal_maimed:0 "Увечие" #NT!
+ POD_heal_blind:0 "Слепота" #NT!
+ POD_heal_one_eyed:0 "Частичная Слепота" #NT!
+ POD_heal_one_legged:0 "Отсутствующая нога" #NT!
+ POD_heal_infertile:0 "Бесплодие" #NT!
+ POD_heal_disfigured:0 "Обезображивание" #NT!
+ POD_heal_ill:0 "Болезнь" #NT!
+ POD_heal_disease:0 "Заболевание" #NT!
+ POD_heal_scaly:0 "Чешуйчатая Кожа" #NT!
+ POD_heal_clubfooted:0 "Косолапие" #NT!
+ POD_heal_wheezing:0 "Wheezing" #NT!
+ POD_heal_bleeder:0 "Bleeder" #NT!
+ POD_heal_eunuch:0 "Кастрация" #NT!
+ POD_heal_weak:0 "Weak" #NT!
+ POD_heal_lisping:0 "Lisping" #NT!
+ POD_heal_stuttering:0 "Stuttering" #NT!
+ POD_heal_hunchbacked:0 "Hunchbacked" #NT!
+ POD_heal_impotent:0 "Impotent" #NT!
+ POD_heal_infirm:0 "Infirmity" #NT!
+ POD_heal_incapable:0 "Disability" #NT!
+ POD_heal_inbred:0 "Инбредный" #NT!
+
+ He_must_be_my_friend:0 "Этот персонаж должен быть моим другом, любовником или родственной душой" #NT!
+ NOT_He_must_be_my_friend:0 "Этот персонаж должен быть моим другом, любовником или родственной душой" #NT!
+
+ POD_shapeshift_interaction_immortal_age:0 "Измените внешность, чтобы выглядеть старше или моложе" #NT!
+
+ POD_num0:0 "0" #NT!
+ POD_num1:0 "1" #NT!
+ POD_num2:0 "2" #NT!
+ POD_num3:0 "3" #NT!
+ POD_num4:0 "4" #NT!
+ POD_num5:0 "5" #NT!
+ POD_num6:0 "6" #NT!
+ POD_num7:0 "7" #NT!
+ POD_num8:0 "8" #NT!
+ POD_num9:0 "9" #NT!
+ POD_num10:0 "10" #NT!
+ POD_num11:0 "11" #NT!
+ POD_num12:0 "12" #NT!
+ POD_num13:0 "13" #NT!
+ POD_num14:0 "14" #NT!
+ POD_num15:0 "15" #NT!
+ POD_num16:0 "16" #NT!
+ POD_num17:0 "17" #NT!
+ POD_num18:0 "18" #NT!
+ POD_num19:0 "19" #NT!
+ POD_num20:0 "20" #NT!
+
+ POD_train_magic_interaction:0 "Учить Магии" #NT!
+ POD_train_magic_interaction_desc:0 "Обучить [recipient.GetFirstName] одной из твоих сфер." #NT!

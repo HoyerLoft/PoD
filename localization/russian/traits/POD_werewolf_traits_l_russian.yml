@@ -1,0 +1,40 @@
+﻿l_russian:
+ trait_breed:0 "Breed" #NT!
+ trait_homid_born:0 "Homid" #NT!
+ trait_homid_born_desc:0 "Homid are a breed of shapeshifter born as and raised by humans, which is their natural form." #NT!
+ trait_metis:0 "Metis" #NT!
+ trait_metis_desc:0 "Metis is a rare breed of Shapeshifter. They are the offspring of two Shapeshifter who broke the Litany for love or lust. They are born in the Crinos form and that is their natural form - however, they are deformed and sterile." #NT!
+ trait_lupus_born:0 "Lupus" #NT!
+ trait_lupus_born_desc:0 "Lupus are a breed of Garou who was born as and raised as a wolf, which is their natural form." #NT!
+
+ trait_auspice:0 "Auspice" #NT!
+ trait_ahroun:0 "Ahroun" #NT!
+ trait_ahroun_desc:0 "One of the five Auspices under which a Garou may be born. The Full Moon makes the Ahroun the living weapon of Gaia. They are the warrior among a race of warriors, the champion of a martial people. Ever ready to kill, and to die if need be." #NT!
+ trait_galliard:0 "Galliard" #NT!
+ trait_galliard_desc:0 "One of the five Auspices under which a Garou may be born. Represented by the Gibbous Moon, the Galliard sings the soul of the Garou. They are the voice of the People, calling them to battle and inspiring them to greatness in life and in death. They are also keepers of traditions, carrying the lore of tribes all the way back to the beginning." #NT!
+ trait_philodox:0 "Philodox" #NT!
+ trait_philodox_desc:0 "One of the five Auspices under which a Garou may be born. The half moon means balance and duality, a Garou born under its influence frequently act as counselor, mediator and law-keeper to his pack." #NT!
+ trait_theurge:0 "Theurge" #NT!
+ trait_theurge_desc:0 "One of the five Auspices under which a Garou may be born. The sickle-shaped crescent moon grants the gift of insight. The Theurges are the mystics of the Garou, closer than any to the Umbra and its denizens." #NT!
+ trait_ragabash:0 "Ragabash" #NT!
+ trait_ragabash_desc:0 "One of the five Auspices under which a Garou may be born. He who is born during the New Moon acts as the mythic tricksters, the fool who is alternately foolish and wise. He plays the role of the contrary, questioning tradition in order to find the wisest path." #NT!
+ trait_gnosis:0 "Gnosis" #NT!
+ trait_gnosis_desc:0 "Gnosis is a spiritual, magical energy. Some talented mortals can wield it.  Gnosis is a renewable, but dwindling, resource. It can be regained at sacred sites, by meditating, or bargaining with spirits. Sacred sites provide Gnosis, but if they become defiled, it can corrupt the wielder, or there simply may be no more available." #NT!
+ trait_gnosis_kinfolk:0 "Kinfolk Gnosis" #NT!
+ trait_gnosis_kinfolk_desc:0 "Gnosis is a spiritual, magical energy. Some talented Kinfolk can wield it. Gnosis is a renewable, but dwindling, resource. It can be regained at sacred sites, by meditating, or bargaining with spirits. Sacred sites provide Gnosis, but if they become defiled, it can corrupt the wielder, or there simply may be no more available." #NT!
+ trait_abomination:0 "Abomination" #NT!
+ trait_abomination_desc:0 "Abomination is a term used to describe a shapeshifter transformed into a vampire. Needless to say that these creatures are exceptionally rare, in light of the fact that almost all Fera are violently allergic to vampiric vitae. Abominations are feared by Garou and Vampires alike. They are extremely powerful and most are quickly driven insane, becoming bestial and incapable of acting even remotely human." #NT!
+ trait_feline_born:0 "Feline" #NT!
+ trait_feline_born_desc:0 "Feline are a breed of Bastet who was born as and raised as a great cat, which is their natural form." #NT!
+ trait_hyaena_born:0 "Hyaena" #NT!
+ trait_hyaena_born_desc:0 "Hyaena are a breed of Ajaba who was born as and raised as a hyena, which is their natural form." #NT!
+
+ trait_pryio:0 "Pryio" #NT!
+ trait_pryio_twilight:0 "Twilight" #NT!
+ trait_pryio_twilight_desc:0 "Also known as 'Moon-Favor', Bastet to determine their place and how the cat approaches life and handles the challenges thrown their way through Pryio. While it is often determined by the time of day in which the Bastet achieved her First Change, Pryio can shift if the Bastet undergoes a severe life change. Twilight Bastet are questioners and seekers, they tend to be detectives, lawyers, spies, or mystics." #NT!
+ trait_pryio_daylight:0 "Daylight" #NT!
+ trait_pryio_daylight_desc:0 "Also known as 'Moon-Favor', Bastet to determine their place and how the cat approaches life and handles the challenges thrown their way through Pryio. While it is often determined by the time of day in which the Bastet achieved her First Change, Pryio can shift if the Bastet undergoes a severe life change. Daylight Bastet are open and direct, they tend to be diplomats, warriors, lawgivers, and protectors." #NT!
+ trait_pryio_night:0 "Night" #NT!
+ trait_pryio_night_desc:0 "Also known as 'Moon-Favor', Bastet to determine their place and how the cat approaches life and handles the challenges thrown their way through Pryio. While it is often determined by the time of day in which the Bastet achieved her First Change, Pryio can shift if the Bastet undergoes a severe life change. Night Bastet are often withdrawn and reclusive, they tend to be assassins, scholars, scientists, and practitioners of dark magics." #NT!
+
+

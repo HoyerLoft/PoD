@@ -1,0 +1,720 @@
+﻿l_russian:
+
+
+
+education_intrigue_1_true_magick_add_loc:0 "Add [GetTrait('education_intrigue_1').GetIcon(GetPlayer)]" #NT!
+education_intrigue_1_true_magick_remove_loc:0 "Remove [GetTrait('education_intrigue_1').GetName(GetPlayer)]" #NT!
+
+education_intrigue_2_true_magick_add_loc:0 "Add [GetTrait('education_intrigue_2').GetName(GetPlayer)]" #NT!
+education_intrigue_2_true_magick_remove_loc:0 "Remove [GetTrait('education_intrigue_2').GetName(GetPlayer)]" #NT!
+
+education_intrigue_3_true_magick_add_loc:0 "Add [GetTrait('education_intrigue_3').GetName(GetPlayer)]" #NT!
+education_intrigue_3_true_magick_remove_loc:0 "Remove [GetTrait('education_intrigue_3').GetName(GetPlayer)]" #NT!
+
+education_intrigue_4_true_magick_add_loc:0 "Add [GetTrait('education_intrigue_4').GetName(GetPlayer)]" #NT!
+education_intrigue_4_true_magick_remove_loc:0 "Remove [GetTrait('education_intrigue_4').GetName(GetPlayer)]" #NT!
+
+education_diplomacy_1_true_magick_add_loc:0 "Add [GetTrait('education_diplomacy_1').GetName(GetPlayer)]" #NT!
+education_diplomacy_1_true_magick_remove_loc:0 "Remove [GetTrait('education_diplomacy_1').GetName(GetPlayer)]" #NT!
+
+education_diplomacy_2_true_magick_add_loc:0 "Add [GetTrait('education_diplomacy_2').GetName(GetPlayer)]" #NT!
+education_diplomacy_2_true_magick_remove_loc:0 "Remove [GetTrait('education_diplomacy_2').GetName(GetPlayer)]" #NT!
+
+education_diplomacy_3_true_magick_add_loc:0 "Add [GetTrait('education_diplomacy_3').GetName(GetPlayer)]" #NT!
+education_diplomacy_3_true_magick_remove_loc:0 "Remove [GetTrait('education_diplomacy_3').GetName(GetPlayer)]" #NT!
+
+education_diplomacy_4_true_magick_add_loc:0 "Add [GetTrait('education_diplomacy_4').GetName(GetPlayer)]" #NT!
+education_diplomacy_4_true_magick_remove_loc:0 "Remove [GetTrait('education_diplomacy_4').GetName(GetPlayer)]" #NT!
+
+education_stewardship_1_true_magick_add_loc:0 "Add [GetTrait('education_stewardship_1').GetName(GetPlayer)]" #NT!
+education_stewardship_1_true_magick_remove_loc:0 "Remove [GetTrait('education_stewardship_1').GetName(GetPlayer)]" #NT!
+
+education_stewardship_2_true_magick_add_loc:0 "Add [GetTrait('education_stewardship_2').GetName(GetPlayer)]" #NT!
+education_stewardship_2_true_magick_remove_loc:0 "Remove [GetTrait('education_stewardship_2').GetName(GetPlayer)]" #NT!
+
+education_stewardship_3_true_magick_add_loc:0 "Add [GetTrait('education_stewardship_3').GetName(GetPlayer)]" #NT!
+education_stewardship_3_true_magick_remove_loc:0 "Remove [GetTrait('education_stewardship_3').GetName(GetPlayer)]" #NT!
+
+education_stewardship_4_true_magick_add_loc:0 "Add [GetTrait('education_stewardship_4').GetName(GetPlayer)]" #NT!
+education_stewardship_4_true_magick_remove_loc:0 "Remove [GetTrait('education_stewardship_4').GetName(GetPlayer)]" #NT!
+
+education_martial_1_true_magick_add_loc:0 "Add [GetTrait('education_martial_1').GetName(GetPlayer)]" #NT!
+education_martial_1_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_1').GetName(GetPlayer)]" #NT!
+
+education_martial_2_true_magick_add_loc:0 "Add [GetTrait('education_martial_2').GetName(GetPlayer)]" #NT!
+education_martial_2_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_2').GetName(GetPlayer)]" #NT!
+
+education_martial_3_true_magick_add_loc:0 "Add [GetTrait('education_martial_3').GetName(GetPlayer)]" #NT!
+education_martial_3_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_3').GetName(GetPlayer)]" #NT!
+
+education_martial_4_true_magick_add_loc:0 "Add [GetTrait('education_martial_4').GetName(GetPlayer)]" #NT!
+education_martial_4_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_4').GetName(GetPlayer)]" #NT!
+
+education_learning_1_true_magick_add_loc:0 "Add [GetTrait('education_learning_1').GetName(GetPlayer)]" #NT!
+education_learning_1_true_magick_remove_loc:0 "Remove [GetTrait('education_learning_1').GetName(GetPlayer)]" #NT!
+
+education_learning_2_true_magick_add_loc:0 "Add [GetTrait('education_learning_2').GetName(GetPlayer)]" #NT!
+education_learning_2_true_magick_remove_loc:0 "Remove [GetTrait('education_learning_2').GetName(GetPlayer)]" #NT!
+
+education_learning_3_true_magick_add_loc:0 "Add [GetTrait('education_learning_3').GetName(GetPlayer)]" #NT!
+education_learning_3_true_magick_remove_loc:0 "Remove [GetTrait('education_learning_3').GetName(GetPlayer)]" #NT!
+
+education_learning_4_true_magick_add_loc:0 "Add [GetTrait('education_learning_4').GetName(GetPlayer)]" #NT!
+education_learning_4_true_magick_remove_loc:0 "Remove [GetTrait('education_learning_4').GetName(GetPlayer)]" #NT!
+
+diplomat_true_magick_add_loc:0 "Add [GetTrait('diplomat').GetName(GetPlayer)]" #NT!
+diplomat_true_magick_remove_loc:0 "Remove [GetTrait('diplomat').GetName(GetPlayer)]" #NT!
+
+family_first_true_magick_add_loc:0 "Add [GetTrait('family_first').GetName(GetPlayer)]" #NT!
+family_first_true_magick_remove_loc:0 "Remove [GetTrait('family_first').GetName(GetPlayer)]" #NT!
+
+august_true_magick_add_loc:0 "Add [GetTrait('august').GetName(GetPlayer)]" #NT!
+august_true_magick_remove_loc:0 "Remove [GetTrait('august').GetName(GetPlayer)]" #NT!
+
+lifestyle_reveler_true_magick_add_loc:0 "Add [GetTrait('lifestyle_reveler').GetName(GetPlayer)]" #NT!
+lifestyle_reveler_true_magick_remove_loc:0 "Remove [GetTrait('lifestyle_reveler').GetName(GetPlayer)]" #NT!
+
+lifestyle_blademaster_true_magick_add_loc:0 "Add [GetTrait('lifestyle_blademaster').GetName(GetPlayer)]" #NT!
+lifestyle_blademaster_true_magick_remove_loc:0 "Remove [GetTrait('lifestyle_blademaster').GetName(GetPlayer)]" #NT!
+
+lifestyle_hunter_true_magick_add_loc:0 "Add [GetTrait('lifestyle_hunter').GetName(GetPlayer)]" #NT!
+lifestyle_hunter_true_magick_remove_loc:0 "Remove [GetTrait('lifestyle_hunter').GetName(GetPlayer)]" #NT!
+
+strategist_true_magick_add_loc:0 "Add [GetTrait('strategist').GetName(GetPlayer)]" #NT!
+strategist_true_magick_remove_loc:0 "Remove [GetTrait('strategist').GetName(GetPlayer)]" #NT!
+
+overseer_true_magick_add_loc:0 "Add [GetTrait('overseer').GetName(GetPlayer)]" #NT!
+overseer_true_magick_remove_loc:0 "Remove [GetTrait('overseer').GetName(GetPlayer)]" #NT!
+
+gallant_true_magick_add_loc:0 "Add [GetTrait('gallant').GetName(GetPlayer)]" #NT!
+gallant_true_magick_remove_loc:0 "Remove [GetTrait('gallant').GetName(GetPlayer)]" #NT!
+
+architect_true_magick_add_loc:0 "Add [GetTrait('architect').GetName(GetPlayer)]" #NT!
+architect_true_magick_remove_loc:0 "Remove [GetTrait('architect').GetName(GetPlayer)]" #NT!
+
+administrator_true_magick_add_loc:0 "Add [GetTrait('administrator').GetName(GetPlayer)]" #NT!
+administrator_true_magick_remove_loc:0 "Remove [GetTrait('administrator').GetName(GetPlayer)]" #NT!
+
+avaricious_true_magick_add_loc:0 "Add [GetTrait('avaricious').GetName(GetPlayer)]" #NT!
+avaricious_true_magick_remove_loc:0 "Remove [GetTrait('avaricious').GetName(GetPlayer)]" #NT!
+
+schemer_true_magick_add_loc:0 "Add [GetTrait('schemer').GetName(GetPlayer)]" #NT!
+schemer_true_magick_remove_loc:0 "Remove [GetTrait('schemer').GetName(GetPlayer)]" #NT!
+
+seducer_true_magick_add_loc:0 "Add [GetTrait('seducer').GetName(GetPlayer)]" #NT!
+seducer_true_magick_remove_loc:0 "Remove [GetTrait('seducer').GetName(GetPlayer)]" #NT!
+
+torturer_true_magick_add_loc:0 "Add [GetTrait('torturer').GetName(GetPlayer)]" #NT!
+torturer_true_magick_remove_loc:0 "Remove [GetTrait('torturer').GetName(GetPlayer)]" #NT!
+
+whole_of_body_true_magick_add_loc:0 "Add [GetTrait('whole_of_body').GetName(GetPlayer)]" #NT!
+whole_of_body_true_magick_remove_loc:0 "Remove [GetTrait('whole_of_body').GetName(GetPlayer)]" #NT!
+
+scholar_true_magick_add_loc:0 "Add [GetTrait('scholar').GetName(GetPlayer)]" #NT!
+scholar_true_magick_remove_loc:0 "Remove [GetTrait('scholar').GetName(GetPlayer)]" #NT!
+
+theologian_true_magick_add_loc:0 "Add [GetTrait('theologian').GetName(GetPlayer)]" #NT!
+theologian_true_magick_remove_loc:0 "Remove [GetTrait('theologian').GetName(GetPlayer)]" #NT!
+
+lifestyle_mystic_true_magick_add_loc:0 "Add [GetTrait('lifestyle_mystic').GetName(GetPlayer)]" #NT!
+lifestyle_mystic_true_magick_remove_loc:0 "Remove [GetTrait('lifestyle_mystic').GetName(GetPlayer)]" #NT!
+
+lifestyle_physician_true_magick_add_loc:0 "Add [GetTrait('lifestyle_physician').GetName(GetPlayer)]" #NT!
+lifestyle_physician_true_magick_remove_loc:0 "Remove [GetTrait('lifestyle_physician').GetName(GetPlayer)]" #NT!
+
+lifestyle_herbalist_true_magick_add_loc:0 "Add [GetTrait('lifestyle_herbalist').GetName(GetPlayer)]" #NT!
+lifestyle_herbalist_true_magick_remove_loc:0 "Remove [GetTrait('lifestyle_herbalist').GetName(GetPlayer)]" #NT!
+
+lifestyle_gardener_true_magick_add_loc:0 "Add [GetTrait('lifestyle_gardener').GetName(GetPlayer)]" #NT!
+lifestyle_gardener_true_magick_remove_loc:0 "Remove [GetTrait('lifestyle_gardener').GetName(GetPlayer)]" #NT!
+
+lustful_true_magick_add_loc:0 "Add [GetTrait('lustful').GetName(GetPlayer)]" #NT!
+lustful_true_magick_remove_loc:0 "Remove [GetTrait('lustful').GetName(GetPlayer)]" #NT!
+
+chaste_true_magick_add_loc:0 "Add [GetTrait('chaste').GetName(GetPlayer)]" #NT!
+chaste_true_magick_remove_loc:0 "Remove [GetTrait('chaste').GetName(GetPlayer)]" #NT!
+
+gluttonous_true_magick_add_loc:0 "Add [GetTrait('gluttonous').GetName(GetPlayer)]" #NT!
+gluttonous_true_magick_remove_loc:0 "Remove [GetTrait('gluttonous').GetName(GetPlayer)]" #NT!
+
+temperate_true_magick_add_loc:0 "Add [GetTrait('temperate').GetName(GetPlayer)]" #NT!
+temperate_true_magick_remove_loc:0 "Remove [GetTrait('temperate').GetName(GetPlayer)]" #NT!
+
+greedy_true_magick_add_loc:0 "Add [GetTrait('greedy').GetName(GetPlayer)]" #NT!
+greedy_true_magick_remove_loc:0 "Remove [GetTrait('greedy').GetName(GetPlayer)]" #NT!
+
+generous_true_magick_add_loc:0 "Add [GetTrait('generous').GetName(GetPlayer)]" #NT!
+generous_true_magick_remove_loc:0 "Remove [GetTrait('generous').GetName(GetPlayer)]" #NT!
+
+lazy_true_magick_add_loc:0 "Add [GetTrait('lazy').GetName(GetPlayer)]" #NT!
+lazy_true_magick_remove_loc:0 "Remove [GetTrait('lazy').GetName(GetPlayer)]" #NT!
+
+diligent_true_magick_add_loc:0 "Add [GetTrait('diligent').GetName(GetPlayer)]" #NT!
+diligent_true_magick_remove_loc:0 "Remove [GetTrait('diligent').GetName(GetPlayer)]" #NT!
+
+wrathful_true_magick_add_loc:0 "Add [GetTrait('wrathful').GetName(GetPlayer)]" #NT!
+wrathful_true_magick_remove_loc:0 "Remove [GetTrait('wrathful').GetName(GetPlayer)]" #NT!
+
+calm_true_magick_add_loc:0 "Add [GetTrait('calm').GetName(GetPlayer)]" #NT!
+calm_true_magick_remove_loc:0 "Remove [GetTrait('calm').GetName(GetPlayer)]" #NT!
+
+patient_true_magick_add_loc:0 "Add [GetTrait('patient').GetName(GetPlayer)]" #NT!
+patient_true_magick_remove_loc:0 "Remove [GetTrait('patient').GetName(GetPlayer)]" #NT!
+
+impatient_true_magick_add_loc:0 "Add [GetTrait('impatient').GetName(GetPlayer)]" #NT!
+impatient_true_magick_remove_loc:0 "Remove [GetTrait('impatient').GetName(GetPlayer)]" #NT!
+
+arrogant_true_magick_add_loc:0 "Add [GetTrait('arrogant').GetName(GetPlayer)]" #NT!
+arrogant_true_magick_remove_loc:0 "Remove [GetTrait('arrogant').GetName(GetPlayer)]" #NT!
+
+humble_true_magick_add_loc:0 "Add [GetTrait('humble').GetName(GetPlayer)]" #NT!
+humble_true_magick_remove_loc:0 "Remove [GetTrait('humble').GetName(GetPlayer)]" #NT!
+
+deceitful_true_magick_add_loc:0 "Add [GetTrait('deceitful').GetName(GetPlayer)]" #NT!
+deceitful_true_magick_remove_loc:0 "Remove [GetTrait('deceitful').GetName(GetPlayer)]" #NT!
+
+honest_true_magick_add_loc:0 "Add [GetTrait('honest').GetName(GetPlayer)]" #NT!
+honest_true_magick_remove_loc:0 "Remove [GetTrait('honest').GetName(GetPlayer)]" #NT!
+
+craven_true_magick_add_loc:0 "Add [GetTrait('craven').GetName(GetPlayer)]" #NT!
+craven_true_magick_remove_loc:0 "Remove [GetTrait('craven').GetName(GetPlayer)]" #NT!
+
+brave_true_magick_add_loc:0 "Add [GetTrait('brave').GetName(GetPlayer)]" #NT!
+brave_true_magick_remove_loc:0 "Remove [GetTrait('brave').GetName(GetPlayer)]" #NT!
+
+shy_true_magick_add_loc:0 "Add [GetTrait('shy').GetName(GetPlayer)]" #NT!
+shy_true_magick_remove_loc:0 "Remove [GetTrait('shy').GetName(GetPlayer)]" #NT!
+
+gregarious_true_magick_add_loc:0 "Add [GetTrait('gregarious').GetName(GetPlayer)]" #NT!
+gregarious_true_magick_remove_loc:0 "Remove [GetTrait('gregarious').GetName(GetPlayer)]" #NT!
+
+ambitious_true_magick_add_loc:0 "Add [GetTrait('ambitious').GetName(GetPlayer)]" #NT!
+ambitious_true_magick_remove_loc:0 "Remove [GetTrait('ambitious').GetName(GetPlayer)]" #NT!
+
+content_true_magick_add_loc:0 "Add [GetTrait('content').GetName(GetPlayer)]" #NT!
+content_true_magick_remove_loc:0 "Remove [GetTrait('content').GetName(GetPlayer)]" #NT!
+
+arbitrary_true_magick_add_loc:0 "Add [GetTrait('arbitrary').GetName(GetPlayer)]" #NT!
+arbitrary_true_magick_remove_loc:0 "Remove [GetTrait('arbitrary').GetName(GetPlayer)]" #NT!
+
+just_true_magick_add_loc:0 "Add [GetTrait('just').GetName(GetPlayer)]" #NT!
+just_true_magick_remove_loc:0 "Remove [GetTrait('just').GetName(GetPlayer)]" #NT!
+
+cynical_true_magick_add_loc:0 "Add [GetTrait('cynical').GetName(GetPlayer)]" #NT!
+cynical_true_magick_remove_loc:0 "Remove [GetTrait('cynical').GetName(GetPlayer)]" #NT!
+
+zealous_true_magick_add_loc:0 "Add [GetTrait('zealous').GetName(GetPlayer)]" #NT!
+zealous_true_magick_remove_loc:0 "Remove [GetTrait('zealous').GetName(GetPlayer)]" #NT!
+
+paranoid_true_magick_add_loc:0 "Add [GetTrait('paranoid').GetName(GetPlayer)]" #NT!
+paranoid_true_magick_remove_loc:0 "Remove [GetTrait('paranoid').GetName(GetPlayer)]" #NT!
+
+trusting_true_magick_add_loc:0 "Add [GetTrait('trusting').GetName(GetPlayer)]" #NT!
+trusting_true_magick_remove_loc:0 "Remove [GetTrait('trusting').GetName(GetPlayer)]" #NT!
+
+compassionate_true_magick_add_loc:0 "Add [GetTrait('compassionate').GetName(GetPlayer)]" #NT!
+compassionate_true_magick_remove_loc:0 "Remove [GetTrait('compassionate').GetName(GetPlayer)]" #NT!
+
+callous_true_magick_add_loc:0 "Add [GetTrait('callous').GetName(GetPlayer)]" #NT!
+callous_true_magick_remove_loc:0 "Remove [GetTrait('callous').GetName(GetPlayer)]" #NT!
+
+sadistic_true_magick_add_loc:0 "Add [GetTrait('sadistic').GetName(GetPlayer)]" #NT!
+sadistic_true_magick_remove_loc:0 "Remove [GetTrait('sadistic').GetName(GetPlayer)]" #NT!
+
+stubborn_true_magick_add_loc:0 "Add [GetTrait('stubborn').GetName(GetPlayer)]" #NT!
+stubborn_true_magick_remove_loc:0 "Remove [GetTrait('stubborn').GetName(GetPlayer)]" #NT!
+
+fickle_true_magick_add_loc:0 "Add [GetTrait('fickle').GetName(GetPlayer)]" #NT!
+fickle_true_magick_remove_loc:0 "Remove [GetTrait('fickle').GetName(GetPlayer)]" #NT!
+
+vengeful_true_magick_add_loc:0 "Add [GetTrait('vengeful').GetName(GetPlayer)]" #NT!
+vengeful_true_magick_remove_loc:0 "Remove [GetTrait('vengeful').GetName(GetPlayer)]" #NT!
+
+forgiving_true_magick_add_loc:0 "Add [GetTrait('forgiving').GetName(GetPlayer)]" #NT!
+forgiving_true_magick_remove_loc:0 "Remove [GetTrait('forgiving').GetName(GetPlayer)]" #NT!
+
+rowdy_true_magick_add_loc:0 "Add [GetTrait('rowdy').GetName(GetPlayer)]" #NT!
+rowdy_true_magick_remove_loc:0 "Remove [GetTrait('rowdy').GetName(GetPlayer)]" #NT!
+
+charming_true_magick_add_loc:0 "Add [GetTrait('charming').GetName(GetPlayer)]" #NT!
+charming_true_magick_remove_loc:0 "Remove [GetTrait('charming').GetName(GetPlayer)]" #NT!
+
+curious_true_magick_add_loc:0 "Add [GetTrait('curious').GetName(GetPlayer)]" #NT!
+curious_true_magick_remove_loc:0 "Remove [GetTrait('curious').GetName(GetPlayer)]" #NT!
+
+pensive_true_magick_add_loc:0 "Add [GetTrait('pensive').GetName(GetPlayer)]" #NT!
+pensive_true_magick_remove_loc:0 "Remove [GetTrait('pensive').GetName(GetPlayer)]" #NT!
+
+bossy_true_magick_add_loc:0 "Add [GetTrait('bossy').GetName(GetPlayer)]" #NT!
+bossy_true_magick_remove_loc:0 "Remove [GetTrait('bossy').GetName(GetPlayer)]" #NT!
+
+drunkard_true_magick_add_loc:0 "Add [GetTrait('drunkard').GetName(GetPlayer)]" #NT!
+drunkard_true_magick_remove_loc:0 "Remove [GetTrait('drunkard').GetName(GetPlayer)]" #NT!
+
+hashishiyah_true_magick_add_loc:0 "Add [GetTrait('hashishiyah').GetName(GetPlayer)]" #NT!
+hashishiyah_true_magick_remove_loc:0 "Remove [GetTrait('hashishiyah').GetName(GetPlayer)]" #NT!
+
+rakish_true_magick_add_loc:0 "Add [GetTrait('rakish').GetName(GetPlayer)]" #NT!
+rakish_true_magick_remove_loc:0 "Remove [GetTrait('rakish').GetName(GetPlayer)]" #NT!
+
+reclusive_true_magick_add_loc:0 "Add [GetTrait('reclusive').GetName(GetPlayer)]" #NT!
+reclusive_true_magick_remove_loc:0 "Remove [GetTrait('reclusive').GetName(GetPlayer)]" #NT!
+
+irritable_true_magick_add_loc:0 "Add [GetTrait('irritable').GetName(GetPlayer)]" #NT!
+irritable_true_magick_remove_loc:0 "Remove [GetTrait('irritable').GetName(GetPlayer)]" #NT!
+
+flagellant_true_magick_add_loc:0 "Add [GetTrait('flagellant').GetName(GetPlayer)]" #NT!
+flagellant_true_magick_remove_loc:0 "Remove [GetTrait('flagellant').GetName(GetPlayer)]" #NT!
+
+profligate_true_magick_add_loc:0 "Add [GetTrait('profligate').GetName(GetPlayer)]" #NT!
+profligate_true_magick_remove_loc:0 "Remove [GetTrait('profligate').GetName(GetPlayer)]" #NT!
+
+improvident_true_magick_add_loc:0 "Add [GetTrait('improvident').GetName(GetPlayer)]" #NT!
+improvident_true_magick_remove_loc:0 "Remove [GetTrait('improvident').GetName(GetPlayer)]" #NT!
+
+contrite_true_magick_add_loc:0 "Add [GetTrait('contrite').GetName(GetPlayer)]" #NT!
+contrite_true_magick_remove_loc:0 "Remove [GetTrait('contrite').GetName(GetPlayer)]" #NT!
+
+comfort_eater_true_magick_add_loc:0 "Add [GetTrait('comfort_eater').GetName(GetPlayer)]" #NT!
+comfort_eater_true_magick_remove_loc:0 "Remove [GetTrait('comfort_eater').GetName(GetPlayer)]" #NT!
+
+inappetetic_true_magick_add_loc:0 "Add [GetTrait('inappetetic').GetName(GetPlayer)]" #NT!
+inappetetic_true_magick_remove_loc:0 "Remove [GetTrait('inappetetic').GetName(GetPlayer)]" #NT!
+
+journaller_true_magick_add_loc:0 "Add [GetTrait('journaller').GetName(GetPlayer)]" #NT!
+journaller_true_magick_remove_loc:0 "Remove [GetTrait('journaller').GetName(GetPlayer)]" #NT!
+
+confider_true_magick_add_loc:0 "Add [GetTrait('confider').GetName(GetPlayer)]" #NT!
+confider_true_magick_remove_loc:0 "Remove [GetTrait('confider').GetName(GetPlayer)]" #NT!
+
+athletic_true_magick_add_loc:0 "Add [GetTrait('athletic').GetName(GetPlayer)]" #NT!
+athletic_true_magick_remove_loc:0 "Remove [GetTrait('athletic').GetName(GetPlayer)]" #NT!
+
+pregnant_true_magick_add_loc:0 "Add [GetTrait('pregnant').GetName(GetPlayer)]" #NT!
+pregnant_true_magick_remove_loc:0 "Remove [GetTrait('pregnant').GetName(GetPlayer)]" #NT!
+
+depressed_1_true_magick_add_loc:0 "Add [GetTrait('depressed_1').GetName(GetPlayer)]" #NT!
+depressed_1_true_magick_remove_loc:0 "Remove [GetTrait('depressed_1').GetName(GetPlayer)]" #NT!
+
+depressed_genetic_true_magick_add_loc:0 "Add [GetTrait('depressed_genetic').GetName(GetPlayer)]" #NT!
+depressed_genetic_true_magick_remove_loc:0 "Remove [GetTrait('depressed_genetic').GetName(GetPlayer)]" #NT!
+
+lunatic_1_true_magick_add_loc:0 "Add [GetTrait('lunatic_1').GetName(GetPlayer)]" #NT!
+lunatic_1_true_magick_remove_loc:0 "Remove [GetTrait('lunatic_1').GetName(GetPlayer)]" #NT!
+
+lunatic_genetic_true_magick_add_loc:0 "Add [GetTrait('lunatic_genetic').GetName(GetPlayer)]" #NT!
+lunatic_genetic_true_magick_remove_loc:0 "Remove [GetTrait('lunatic_genetic').GetName(GetPlayer)]" #NT!
+
+possessed_1_true_magick_add_loc:0 "Add [GetTrait('possessed_1').GetName(GetPlayer)]" #NT!
+possessed_1_true_magick_remove_loc:0 "Remove [GetTrait('possessed_1').GetName(GetPlayer)]" #NT!
+
+possessed_genetic_true_magick_add_loc:0 "Add [GetTrait('possessed_genetic').GetName(GetPlayer)]" #NT!
+possessed_genetic_true_magick_remove_loc:0 "Remove [GetTrait('possessed_genetic').GetName(GetPlayer)]" #NT!
+
+ill_true_magick_add_loc:0 "Add [GetTrait('ill').GetName(GetPlayer)]" #NT!
+ill_true_magick_remove_loc:0 "Remove [GetTrait('ill').GetName(GetPlayer)]" #NT!
+
+pneumonic_true_magick_add_loc:0 "Add [GetTrait('pneumonic').GetName(GetPlayer)]" #NT!
+pneumonic_true_magick_remove_loc:0 "Remove [GetTrait('pneumonic').GetName(GetPlayer)]" #NT!
+
+great_pox_true_magick_add_loc:0 "Add [GetTrait('great_pox').GetName(GetPlayer)]" #NT!
+great_pox_true_magick_remove_loc:0 "Remove [GetTrait('great_pox').GetName(GetPlayer)]" #NT!
+
+early_great_pox_true_magick_add_loc:0 "Add [GetTrait('early_great_pox').GetName(GetPlayer)]" #NT!
+early_great_pox_true_magick_remove_loc:0 "Remove [GetTrait('early_great_pox').GetName(GetPlayer)]" #NT!
+
+lovers_pox_true_magick_add_loc:0 "Add [GetTrait('lovers_pox').GetName(GetPlayer)]" #NT!
+lovers_pox_true_magick_remove_loc:0 "Remove [GetTrait('lovers_pox').GetName(GetPlayer)]" #NT!
+
+leper_true_magick_add_loc:0 "Add [GetTrait('leper').GetName(GetPlayer)]" #NT!
+leper_true_magick_remove_loc:0 "Remove [GetTrait('leper').GetName(GetPlayer)]" #NT!
+
+wounded_1_true_magick_add_loc:0 "Add [GetTrait('wounded_1').GetName(GetPlayer)]" #NT!
+wounded_1_true_magick_remove_loc:0 "Remove [GetTrait('wounded_1').GetName(GetPlayer)]" #NT!
+
+wounded_2_true_magick_add_loc:0 "Add [GetTrait('wounded_2').GetName(GetPlayer)]" #NT!
+wounded_2_true_magick_remove_loc:0 "Remove [GetTrait('wounded_2').GetName(GetPlayer)]" #NT!
+
+wounded_3_true_magick_add_loc:0 "Add [GetTrait('wounded_3').GetName(GetPlayer)]" #NT!
+wounded_3_true_magick_remove_loc:0 "Remove [GetTrait('wounded_3').GetName(GetPlayer)]" #NT!
+
+maimed_true_magick_add_loc:0 "Add [GetTrait('maimed').GetName(GetPlayer)]" #NT!
+maimed_true_magick_remove_loc:0 "Remove [GetTrait('maimed').GetName(GetPlayer)]" #NT!
+
+one_eyed_true_magick_add_loc:0 "Add [GetTrait('one_eyed').GetName(GetPlayer)]" #NT!
+one_eyed_true_magick_remove_loc:0 "Remove [GetTrait('one_eyed').GetName(GetPlayer)]" #NT!
+
+one_legged_true_magick_add_loc:0 "Add [GetTrait('one_legged').GetName(GetPlayer)]" #NT!
+one_legged_true_magick_remove_loc:0 "Remove [GetTrait('one_legged').GetName(GetPlayer)]" #NT!
+
+disfigured_true_magick_add_loc:0 "Add [GetTrait('disfigured').GetName(GetPlayer)]" #NT!
+disfigured_true_magick_remove_loc:0 "Remove [GetTrait('disfigured').GetName(GetPlayer)]" #NT!
+
+infirm_true_magick_add_loc:0 "Add [GetTrait('infirm').GetName(GetPlayer)]" #NT!
+infirm_true_magick_remove_loc:0 "Remove [GetTrait('infirm').GetName(GetPlayer)]" #NT!
+
+incapable_true_magick_add_loc:0 "Add [GetTrait('incapable').GetName(GetPlayer)]" #NT!
+incapable_true_magick_remove_loc:0 "Remove [GetTrait('incapable').GetName(GetPlayer)]" #NT!
+
+gout_ridden_true_magick_add_loc:0 "Add [GetTrait('gout_ridden').GetName(GetPlayer)]" #NT!
+gout_ridden_true_magick_remove_loc:0 "Remove [GetTrait('gout_ridden').GetName(GetPlayer)]" #NT!
+
+consumption_true_magick_add_loc:0 "Add [GetTrait('consumption').GetName(GetPlayer)]" #NT!
+consumption_true_magick_remove_loc:0 "Remove [GetTrait('consumption').GetName(GetPlayer)]" #NT!
+
+cancer_true_magick_add_loc:0 "Add [GetTrait('cancer').GetName(GetPlayer)]" #NT!
+cancer_true_magick_remove_loc:0 "Remove [GetTrait('cancer').GetName(GetPlayer)]" #NT!
+
+typhus_true_magick_add_loc:0 "Add [GetTrait('typhus').GetName(GetPlayer)]" #NT!
+typhus_true_magick_remove_loc:0 "Remove [GetTrait('typhus').GetName(GetPlayer)]" #NT!
+
+bubonic_plague_true_magick_add_loc:0 "Add [GetTrait('bubonic_plague').GetName(GetPlayer)]" #NT!
+bubonic_plague_true_magick_remove_loc:0 "Remove [GetTrait('bubonic_plague').GetName(GetPlayer)]" #NT!
+
+smallpox_true_magick_add_loc:0 "Add [GetTrait('smallpox').GetName(GetPlayer)]" #NT!
+smallpox_true_magick_remove_loc:0 "Remove [GetTrait('smallpox').GetName(GetPlayer)]" #NT!
+
+sickly_true_magick_add_loc:0 "Add [GetTrait('sickly').GetName(GetPlayer)]" #NT!
+sickly_true_magick_remove_loc:0 "Remove [GetTrait('sickly').GetName(GetPlayer)]" #NT!
+
+scarred_true_magick_add_loc:0 "Add [GetTrait('scarred').GetName(GetPlayer)]" #NT!
+scarred_true_magick_remove_loc:0 "Remove [GetTrait('scarred').GetName(GetPlayer)]" #NT!
+
+eunuch_true_magick_add_loc:0 "Add [GetTrait('eunuch').GetName(GetPlayer)]" #NT!
+eunuch_true_magick_remove_loc:0 "Remove [GetTrait('eunuch').GetName(GetPlayer)]" #NT!
+
+blind_true_magick_add_loc:0 "Add [GetTrait('blind').GetName(GetPlayer)]" #NT!
+blind_true_magick_remove_loc:0 "Remove [GetTrait('blind').GetName(GetPlayer)]" #NT!
+
+beauty_bad_1_true_magick_add_loc:0 "Add [GetTrait('beauty_bad_1').GetName(GetPlayer)]" #NT!
+beauty_bad_1_true_magick_remove_loc:0 "Remove [GetTrait('beauty_bad_1').GetName(GetPlayer)]" #NT!
+
+beauty_bad_2_true_magick_add_loc:0 "Add [GetTrait('beauty_bad_2').GetName(GetPlayer)]" #NT!
+beauty_bad_2_true_magick_remove_loc:0 "Remove [GetTrait('beauty_bad_2').GetName(GetPlayer)]" #NT!
+
+beauty_bad_3_true_magick_add_loc:0 "Add [GetTrait('beauty_bad_3').GetName(GetPlayer)]" #NT!
+beauty_bad_3_true_magick_remove_loc:0 "Remove [GetTrait('beauty_bad_3').GetName(GetPlayer)]" #NT!
+
+beauty_good_1_true_magick_add_loc:0 "Add [GetTrait('beauty_good_1').GetName(GetPlayer)]" #NT!
+beauty_good_1_true_magick_remove_loc:0 "Remove [GetTrait('beauty_good_1').GetName(GetPlayer)]" #NT!
+
+beauty_good_2_true_magick_add_loc:0 "Add [GetTrait('beauty_good_2').GetName(GetPlayer)]" #NT!
+beauty_good_2_true_magick_remove_loc:0 "Remove [GetTrait('beauty_good_2').GetName(GetPlayer)]" #NT!
+
+beauty_good_3_true_magick_add_loc:0 "Add [GetTrait('beauty_good_3').GetName(GetPlayer)]" #NT!
+beauty_good_3_true_magick_remove_loc:0 "Remove [GetTrait('beauty_good_3').GetName(GetPlayer)]" #NT!
+
+intellect_bad_1_true_magick_add_loc:0 "Add [GetTrait('intellect_bad_1').GetName(GetPlayer)]" #NT!
+intellect_bad_1_true_magick_remove_loc:0 "Remove [GetTrait('intellect_bad_1').GetName(GetPlayer)]" #NT!
+
+intellect_bad_2_true_magick_add_loc:0 "Add [GetTrait('intellect_bad_2').GetName(GetPlayer)]" #NT!
+intellect_bad_2_true_magick_remove_loc:0 "Remove [GetTrait('intellect_bad_2').GetName(GetPlayer)]" #NT!
+
+intellect_bad_3_true_magick_add_loc:0 "Add [GetTrait('intellect_bad_3').GetName(GetPlayer)]" #NT!
+intellect_bad_3_true_magick_remove_loc:0 "Remove [GetTrait('intellect_bad_3').GetName(GetPlayer)]" #NT!
+
+intellect_good_1_true_magick_add_loc:0 "Add [GetTrait('intellect_good_1').GetName(GetPlayer)]" #NT!
+intellect_good_1_true_magick_remove_loc:0 "Remove [GetTrait('intellect_good_1').GetName(GetPlayer)]" #NT!
+
+intellect_good_2_true_magick_add_loc:0 "Add [GetTrait('intellect_good_2').GetName(GetPlayer)]" #NT!
+intellect_good_2_true_magick_remove_loc:0 "Remove [GetTrait('intellect_good_2').GetName(GetPlayer)]" #NT!
+
+intellect_good_3_true_magick_add_loc:0 "Add [GetTrait('intellect_good_3').GetName(GetPlayer)]" #NT!
+intellect_good_3_true_magick_remove_loc:0 "Remove [GetTrait('intellect_good_3').GetName(GetPlayer)]" #NT!
+
+physique_bad_1_true_magick_add_loc:0 "Add [GetTrait('physique_bad_1').GetName(GetPlayer)]" #NT!
+physique_bad_1_true_magick_remove_loc:0 "Remove [GetTrait('physique_bad_1').GetName(GetPlayer)]" #NT!
+
+physique_bad_2_true_magick_add_loc:0 "Add [GetTrait('physique_bad_2').GetName(GetPlayer)]" #NT!
+physique_bad_2_true_magick_remove_loc:0 "Remove [GetTrait('physique_bad_2').GetName(GetPlayer)]" #NT!
+
+physique_bad_3_true_magick_add_loc:0 "Add [GetTrait('physique_bad_3').GetName(GetPlayer)]" #NT!
+physique_bad_3_true_magick_remove_loc:0 "Remove [GetTrait('physique_bad_3').GetName(GetPlayer)]" #NT!
+
+physique_good_1_true_magick_add_loc:0 "Add [GetTrait('physique_good_1').GetName(GetPlayer)]" #NT!
+physique_good_1_true_magick_remove_loc:0 "Remove [GetTrait('physique_good_1').GetName(GetPlayer)]" #NT!
+
+physique_good_2_true_magick_add_loc:0 "Add [GetTrait('physique_good_2').GetName(GetPlayer)]" #NT!
+physique_good_2_true_magick_remove_loc:0 "Remove [GetTrait('physique_good_2').GetName(GetPlayer)]" #NT!
+
+physique_good_3_true_magick_add_loc:0 "Add [GetTrait('physique_good_3').GetName(GetPlayer)]" #NT!
+physique_good_3_true_magick_remove_loc:0 "Remove [GetTrait('physique_good_3').GetName(GetPlayer)]" #NT!
+
+pure_blooded_true_magick_add_loc:0 "Add [GetTrait('pure_blooded').GetName(GetPlayer)]" #NT!
+pure_blooded_true_magick_remove_loc:0 "Remove [GetTrait('pure_blooded').GetName(GetPlayer)]" #NT!
+
+fecund_true_magick_add_loc:0 "Add [GetTrait('fecund').GetName(GetPlayer)]" #NT!
+fecund_true_magick_remove_loc:0 "Remove [GetTrait('fecund').GetName(GetPlayer)]" #NT!
+
+strong_true_magick_add_loc:0 "Add [GetTrait('strong').GetName(GetPlayer)]" #NT!
+strong_true_magick_remove_loc:0 "Remove [GetTrait('strong').GetName(GetPlayer)]" #NT!
+
+shrewd_true_magick_add_loc:0 "Add [GetTrait('shrewd').GetName(GetPlayer)]" #NT!
+shrewd_true_magick_remove_loc:0 "Remove [GetTrait('shrewd').GetName(GetPlayer)]" #NT!
+
+clubfooted_true_magick_add_loc:0 "Add [GetTrait('clubfooted').GetName(GetPlayer)]" #NT!
+clubfooted_true_magick_remove_loc:0 "Remove [GetTrait('clubfooted').GetName(GetPlayer)]" #NT!
+
+hunchbacked_true_magick_add_loc:0 "Add [GetTrait('hunchbacked').GetName(GetPlayer)]" #NT!
+hunchbacked_true_magick_remove_loc:0 "Remove [GetTrait('hunchbacked').GetName(GetPlayer)]" #NT!
+
+lisping_true_magick_add_loc:0 "Add [GetTrait('lisping').GetName(GetPlayer)]" #NT!
+lisping_true_magick_remove_loc:0 "Remove [GetTrait('lisping').GetName(GetPlayer)]" #NT!
+
+stuttering_true_magick_add_loc:0 "Add [GetTrait('stuttering').GetName(GetPlayer)]" #NT!
+stuttering_true_magick_remove_loc:0 "Remove [GetTrait('stuttering').GetName(GetPlayer)]" #NT!
+
+dwarf_true_magick_add_loc:0 "Add [GetTrait('dwarf').GetName(GetPlayer)]" #NT!
+dwarf_true_magick_remove_loc:0 "Remove [GetTrait('dwarf').GetName(GetPlayer)]" #NT!
+
+giant_true_magick_add_loc:0 "Add [GetTrait('giant').GetName(GetPlayer)]" #NT!
+giant_true_magick_remove_loc:0 "Remove [GetTrait('giant').GetName(GetPlayer)]" #NT!
+
+inbred_true_magick_add_loc:0 "Add [GetTrait('inbred').GetName(GetPlayer)]" #NT!
+inbred_true_magick_remove_loc:0 "Remove [GetTrait('inbred').GetName(GetPlayer)]" #NT!
+
+weak_true_magick_add_loc:0 "Add [GetTrait('weak').GetName(GetPlayer)]" #NT!
+weak_true_magick_remove_loc:0 "Remove [GetTrait('weak').GetName(GetPlayer)]" #NT!
+
+dull_true_magick_add_loc:0 "Add [GetTrait('dull').GetName(GetPlayer)]" #NT!
+dull_true_magick_remove_loc:0 "Remove [GetTrait('dull').GetName(GetPlayer)]" #NT!
+
+impotent_true_magick_add_loc:0 "Add [GetTrait('impotent').GetName(GetPlayer)]" #NT!
+impotent_true_magick_remove_loc:0 "Remove [GetTrait('impotent').GetName(GetPlayer)]" #NT!
+
+spindly_true_magick_add_loc:0 "Add [GetTrait('spindly').GetName(GetPlayer)]" #NT!
+spindly_true_magick_remove_loc:0 "Remove [GetTrait('spindly').GetName(GetPlayer)]" #NT!
+
+scaly_true_magick_add_loc:0 "Add [GetTrait('scaly').GetName(GetPlayer)]" #NT!
+scaly_true_magick_remove_loc:0 "Remove [GetTrait('scaly').GetName(GetPlayer)]" #NT!
+
+albino_true_magick_add_loc:0 "Add [GetTrait('albino').GetName(GetPlayer)]" #NT!
+albino_true_magick_remove_loc:0 "Remove [GetTrait('albino').GetName(GetPlayer)]" #NT!
+
+wheezing_true_magick_add_loc:0 "Add [GetTrait('wheezing').GetName(GetPlayer)]" #NT!
+wheezing_true_magick_remove_loc:0 "Remove [GetTrait('wheezing').GetName(GetPlayer)]" #NT!
+
+bleeder_true_magick_add_loc:0 "Add [GetTrait('bleeder').GetName(GetPlayer)]" #NT!
+bleeder_true_magick_remove_loc:0 "Remove [GetTrait('bleeder').GetName(GetPlayer)]" #NT!
+
+infertile_true_magick_add_loc:0 "Add [GetTrait('infertile').GetName(GetPlayer)]" #NT!
+infertile_true_magick_remove_loc:0 "Remove [GetTrait('infertile').GetName(GetPlayer)]" #NT!
+
+celibate_true_magick_add_loc:0 "Add [GetTrait('celibate').GetName(GetPlayer)]" #NT!
+celibate_true_magick_remove_loc:0 "Remove [GetTrait('celibate').GetName(GetPlayer)]" #NT!
+
+pilgrim_true_magick_add_loc:0 "Add [GetTrait('pilgrim').GetName(GetPlayer)]" #NT!
+pilgrim_true_magick_remove_loc:0 "Remove [GetTrait('pilgrim').GetName(GetPlayer)]" #NT!
+
+excommunicated_true_magick_add_loc:0 "Add [GetTrait('excommunicated').GetName(GetPlayer)]" #NT!
+excommunicated_true_magick_remove_loc:0 "Remove [GetTrait('excommunicated').GetName(GetPlayer)]" #NT!
+
+devoted_true_magick_add_loc:0 "Add [GetTrait('devoted').GetName(GetPlayer)]" #NT!
+devoted_true_magick_remove_loc:0 "Remove [GetTrait('devoted').GetName(GetPlayer)]" #NT!
+
+sayyid_true_magick_add_loc:0 "Add [GetTrait('sayyid').GetName(GetPlayer)]" #NT!
+sayyid_true_magick_remove_loc:0 "Remove [GetTrait('sayyid').GetName(GetPlayer)]" #NT!
+
+saoshyant_true_magick_add_loc:0 "Add [GetTrait('saoshyant').GetName(GetPlayer)]" #NT!
+saoshyant_true_magick_remove_loc:0 "Remove [GetTrait('saoshyant').GetName(GetPlayer)]" #NT!
+
+saoshyant_descendant_true_magick_add_loc:0 "Add [GetTrait('saoshyant_descendant').GetName(GetPlayer)]" #NT!
+saoshyant_descendant_true_magick_remove_loc:0 "Remove [GetTrait('saoshyant_descendant').GetName(GetPlayer)]" #NT!
+
+savior_true_magick_add_loc:0 "Add [GetTrait('savior').GetName(GetPlayer)]" #NT!
+savior_true_magick_remove_loc:0 "Remove [GetTrait('savior').GetName(GetPlayer)]" #NT!
+
+divine_blood_true_magick_add_loc:0 "Add [GetTrait('divine_blood').GetName(GetPlayer)]" #NT!
+divine_blood_true_magick_remove_loc:0 "Remove [GetTrait('divine_blood').GetName(GetPlayer)]" #NT!
+
+blood_of_prophet_true_magick_add_loc:0 "Add [GetTrait('blood_of_prophet').GetName(GetPlayer)]" #NT!
+blood_of_prophet_true_magick_remove_loc:0 "Remove [GetTrait('blood_of_prophet').GetName(GetPlayer)]" #NT!
+
+faith_warrior_true_magick_add_loc:0 "Add [GetTrait('faith_warrior').GetName(GetPlayer)]" #NT!
+faith_warrior_true_magick_remove_loc:0 "Remove [GetTrait('faith_warrior').GetName(GetPlayer)]" #NT!
+
+saint_true_magick_add_loc:0 "Add [GetTrait('saint').GetName(GetPlayer)]" #NT!
+saint_true_magick_remove_loc:0 "Remove [GetTrait('saint').GetName(GetPlayer)]" #NT!
+
+order_member_true_magick_add_loc:0 "Add [GetTrait('order_member').GetName(GetPlayer)]" #NT!
+order_member_true_magick_remove_loc:0 "Remove [GetTrait('order_member').GetName(GetPlayer)]" #NT!
+
+berserker_true_magick_add_loc:0 "Add [GetTrait('berserker').GetName(GetPlayer)]" #NT!
+berserker_true_magick_remove_loc:0 "Remove [GetTrait('berserker').GetName(GetPlayer)]" #NT!
+
+shieldmaiden_true_magick_add_loc:0 "Add [GetTrait('shieldmaiden').GetName(GetPlayer)]" #NT!
+shieldmaiden_true_magick_remove_loc:0 "Remove [GetTrait('shieldmaiden').GetName(GetPlayer)]" #NT!
+
+varangian_true_magick_add_loc:0 "Add [GetTrait('varangian').GetName(GetPlayer)]" #NT!
+varangian_true_magick_remove_loc:0 "Remove [GetTrait('varangian').GetName(GetPlayer)]" #NT!
+
+poet_true_magick_add_loc:0 "Add [GetTrait('poet').GetName(GetPlayer)]" #NT!
+poet_true_magick_remove_loc:0 "Remove [GetTrait('poet').GetName(GetPlayer)]" #NT!
+
+bastard_true_magick_add_loc:0 "Add [GetTrait('bastard').GetName(GetPlayer)]" #NT!
+bastard_true_magick_remove_loc:0 "Remove [GetTrait('bastard').GetName(GetPlayer)]" #NT!
+
+legitimized_bastard_true_magick_add_loc:0 "Add [GetTrait('legitimized_bastard').GetName(GetPlayer)]" #NT!
+legitimized_bastard_true_magick_remove_loc:0 "Remove [GetTrait('legitimized_bastard').GetName(GetPlayer)]" #NT!
+
+disputed_heritage_true_magick_add_loc:0 "Add [GetTrait('disputed_heritage').GetName(GetPlayer)]" #NT!
+disputed_heritage_true_magick_remove_loc:0 "Remove [GetTrait('disputed_heritage').GetName(GetPlayer)]" #NT!
+
+child_of_concubine_female_true_magick_add_loc:0 "Add [GetTrait('child_of_concubine_female').GetName(GetPlayer)]" #NT!
+child_of_concubine_female_true_magick_remove_loc:0 "Remove [GetTrait('child_of_concubine_female').GetName(GetPlayer)]" #NT!
+
+child_of_concubine_male_true_magick_add_loc:0 "Add [GetTrait('child_of_concubine_male').GetName(GetPlayer)]" #NT!
+child_of_concubine_male_true_magick_remove_loc:0 "Remove [GetTrait('child_of_concubine_male').GetName(GetPlayer)]" #NT!
+
+wild_oat_true_magick_add_loc:0 "Add [GetTrait('wild_oat').GetName(GetPlayer)]" #NT!
+wild_oat_true_magick_remove_loc:0 "Remove [GetTrait('wild_oat').GetName(GetPlayer)]" #NT!
+
+bastard_founder_true_magick_add_loc:0 "Add [GetTrait('bastard_founder').GetName(GetPlayer)]" #NT!
+bastard_founder_true_magick_remove_loc:0 "Remove [GetTrait('bastard_founder').GetName(GetPlayer)]" #NT!
+
+twin_true_magick_add_loc:0 "Add [GetTrait('twin').GetName(GetPlayer)]" #NT!
+twin_true_magick_remove_loc:0 "Remove [GetTrait('twin').GetName(GetPlayer)]" #NT!
+
+kinslayer_1_true_magick_add_loc:0 "Add [GetTrait('kinslayer_1').GetName(GetPlayer)]" #NT!
+kinslayer_1_true_magick_remove_loc:0 "Remove [GetTrait('kinslayer_1').GetName(GetPlayer)]" #NT!
+
+kinslayer_2_true_magick_add_loc:0 "Add [GetTrait('kinslayer_2').GetName(GetPlayer)]" #NT!
+kinslayer_2_true_magick_remove_loc:0 "Remove [GetTrait('kinslayer_2').GetName(GetPlayer)]" #NT!
+
+kinslayer_3_true_magick_add_loc:0 "Add [GetTrait('kinslayer_3').GetName(GetPlayer)]" #NT!
+kinslayer_3_true_magick_remove_loc:0 "Remove [GetTrait('kinslayer_3').GetName(GetPlayer)]" #NT!
+
+deviant_true_magick_add_loc:0 "Add [GetTrait('deviant').GetName(GetPlayer)]" #NT!
+deviant_true_magick_remove_loc:0 "Remove [GetTrait('deviant').GetName(GetPlayer)]" #NT!
+
+cannibal_true_magick_add_loc:0 "Add [GetTrait('cannibal').GetName(GetPlayer)]" #NT!
+cannibal_true_magick_remove_loc:0 "Remove [GetTrait('cannibal').GetName(GetPlayer)]" #NT!
+
+sodomite_true_magick_add_loc:0 "Add [GetTrait('sodomite').GetName(GetPlayer)]" #NT!
+sodomite_true_magick_remove_loc:0 "Remove [GetTrait('sodomite').GetName(GetPlayer)]" #NT!
+
+incestuous_true_magick_add_loc:0 "Add [GetTrait('incestuous').GetName(GetPlayer)]" #NT!
+incestuous_true_magick_remove_loc:0 "Remove [GetTrait('incestuous').GetName(GetPlayer)]" #NT!
+
+adulterer_true_magick_add_loc:0 "Add [GetTrait('adulterer').GetName(GetPlayer)]" #NT!
+adulterer_true_magick_remove_loc:0 "Remove [GetTrait('adulterer').GetName(GetPlayer)]" #NT!
+
+fornicator_true_magick_add_loc:0 "Add [GetTrait('fornicator').GetName(GetPlayer)]" #NT!
+fornicator_true_magick_remove_loc:0 "Remove [GetTrait('fornicator').GetName(GetPlayer)]" #NT!
+
+murderer_true_magick_add_loc:0 "Add [GetTrait('murderer').GetName(GetPlayer)]" #NT!
+murderer_true_magick_remove_loc:0 "Remove [GetTrait('murderer').GetName(GetPlayer)]" #NT!
+
+born_in_the_purple_true_magick_add_loc:0 "Add [GetTrait('born_in_the_purple').GetName(GetPlayer)]" #NT!
+born_in_the_purple_true_magick_remove_loc:0 "Remove [GetTrait('born_in_the_purple').GetName(GetPlayer)]" #NT!
+
+augustus_true_magick_add_loc:0 "Add [GetTrait('augustus').GetName(GetPlayer)]" #NT!
+augustus_true_magick_remove_loc:0 "Remove [GetTrait('augustus').GetName(GetPlayer)]" #NT!
+
+viking_true_magick_add_loc:0 "Add [GetTrait('viking').GetName(GetPlayer)]" #NT!
+viking_true_magick_remove_loc:0 "Remove [GetTrait('viking').GetName(GetPlayer)]" #NT!
+
+reincarnation_true_magick_add_loc:0 "Add [GetTrait('reincarnation').GetName(GetPlayer)]" #NT!
+reincarnation_true_magick_remove_loc:0 "Remove [GetTrait('reincarnation').GetName(GetPlayer)]" #NT!
+
+adventurer_true_magick_add_loc:0 "Add [GetTrait('adventurer').GetName(GetPlayer)]" #NT!
+adventurer_true_magick_remove_loc:0 "Remove [GetTrait('adventurer').GetName(GetPlayer)]" #NT!
+
+heresiarch_true_magick_add_loc:0 "Add [GetTrait('heresiarch').GetName(GetPlayer)]" #NT!
+heresiarch_true_magick_remove_loc:0 "Remove [GetTrait('heresiarch').GetName(GetPlayer)]" #NT!
+
+peasant_leader_true_magick_add_loc:0 "Add [GetTrait('peasant_leader').GetName(GetPlayer)]" #NT!
+peasant_leader_true_magick_remove_loc:0 "Remove [GetTrait('peasant_leader').GetName(GetPlayer)]" #NT!
+
+witch_true_magick_add_loc:0 "Add [GetTrait('witch').GetName(GetPlayer)]" #NT!
+witch_true_magick_remove_loc:0 "Remove [GetTrait('witch').GetName(GetPlayer)]" #NT!
+
+disinherited_true_magick_add_loc:0 "Add [GetTrait('disinherited').GetName(GetPlayer)]" #NT!
+disinherited_true_magick_remove_loc:0 "Remove [GetTrait('disinherited').GetName(GetPlayer)]" #NT!
+
+denounced_true_magick_add_loc:0 "Add [GetTrait('denounced').GetName(GetPlayer)]" #NT!
+denounced_true_magick_remove_loc:0 "Remove [GetTrait('denounced').GetName(GetPlayer)]" #NT!
+
+logistician_true_magick_add_loc:0 "Add [GetTrait('logistician').GetName(GetPlayer)]" #NT!
+logistician_true_magick_remove_loc:0 "Remove [GetTrait('logistician').GetName(GetPlayer)]" #NT!
+
+military_engineer_true_magick_add_loc:0 "Add [GetTrait('military_engineer').GetName(GetPlayer)]" #NT!
+military_engineer_true_magick_remove_loc:0 "Remove [GetTrait('military_engineer').GetName(GetPlayer)]" #NT!
+
+aggressive_attacker_true_magick_add_loc:0 "Add [GetTrait('aggressive_attacker').GetName(GetPlayer)]" #NT!
+aggressive_attacker_true_magick_remove_loc:0 "Remove [GetTrait('aggressive_attacker').GetName(GetPlayer)]" #NT!
+
+unyielding_defender_true_magick_add_loc:0 "Add [GetTrait('unyielding_defender').GetName(GetPlayer)]" #NT!
+unyielding_defender_true_magick_remove_loc:0 "Remove [GetTrait('unyielding_defender').GetName(GetPlayer)]" #NT!
+
+forder_true_magick_add_loc:0 "Add [GetTrait('forder').GetName(GetPlayer)]" #NT!
+forder_true_magick_remove_loc:0 "Remove [GetTrait('forder').GetName(GetPlayer)]" #NT!
+
+flexible_leader_true_magick_add_loc:0 "Add [GetTrait('flexible_leader').GetName(GetPlayer)]" #NT!
+flexible_leader_true_magick_remove_loc:0 "Remove [GetTrait('flexible_leader').GetName(GetPlayer)]" #NT!
+
+desert_warrior_true_magick_add_loc:0 "Add [GetTrait('desert_warrior').GetName(GetPlayer)]" #NT!
+desert_warrior_true_magick_remove_loc:0 "Remove [GetTrait('desert_warrior').GetName(GetPlayer)]" #NT!
+
+jungle_stalker_true_magick_add_loc:0 "Add [GetTrait('jungle_stalker').GetName(GetPlayer)]" #NT!
+jungle_stalker_true_magick_remove_loc:0 "Remove [GetTrait('jungle_stalker').GetName(GetPlayer)]" #NT!
+
+reaver_true_magick_add_loc:0 "Add [GetTrait('reaver').GetName(GetPlayer)]" #NT!
+reaver_true_magick_remove_loc:0 "Remove [GetTrait('reaver').GetName(GetPlayer)]" #NT!
+
+reckless_true_magick_add_loc:0 "Add [GetTrait('reckless').GetName(GetPlayer)]" #NT!
+reckless_true_magick_remove_loc:0 "Remove [GetTrait('reckless').GetName(GetPlayer)]" #NT!
+
+holy_warrior_true_magick_add_loc:0 "Add [GetTrait('holy_warrior').GetName(GetPlayer)]" #NT!
+holy_warrior_true_magick_remove_loc:0 "Remove [GetTrait('holy_warrior').GetName(GetPlayer)]" #NT!
+
+open_terrain_expert_true_magick_add_loc:0 "Add [GetTrait('open_terrain_expert').GetName(GetPlayer)]" #NT!
+open_terrain_expert_true_magick_remove_loc:0 "Remove [GetTrait('open_terrain_expert').GetName(GetPlayer)]" #NT!
+
+rough_terrain_expert_true_magick_add_loc:0 "Add [GetTrait('rough_terrain_expert').GetName(GetPlayer)]" #NT!
+rough_terrain_expert_true_magick_remove_loc:0 "Remove [GetTrait('rough_terrain_expert').GetName(GetPlayer)]" #NT!
+
+forest_fighter_true_magick_add_loc:0 "Add [GetTrait('forest_fighter').GetName(GetPlayer)]" #NT!
+forest_fighter_true_magick_remove_loc:0 "Remove [GetTrait('forest_fighter').GetName(GetPlayer)]" #NT!
+
+cautious_leader_true_magick_add_loc:0 "Add [GetTrait('cautious_leader').GetName(GetPlayer)]" #NT!
+cautious_leader_true_magick_remove_loc:0 "Remove [GetTrait('cautious_leader').GetName(GetPlayer)]" #NT!
+
+organizer_true_magick_add_loc:0 "Add [GetTrait('organizer').GetName(GetPlayer)]" #NT!
+organizer_true_magick_remove_loc:0 "Remove [GetTrait('organizer').GetName(GetPlayer)]" #NT!
+
+winter_soldier_true_magick_add_loc:0 "Add [GetTrait('winter_soldier').GetName(GetPlayer)]" #NT!
+winter_soldier_true_magick_remove_loc:0 "Remove [GetTrait('winter_soldier').GetName(GetPlayer)]" #NT!
+
+crusader_king_true_magick_add_loc:0 "Add [GetTrait('crusader_king').GetName(GetPlayer)]" #NT!
+crusader_king_true_magick_remove_loc:0 "Remove [GetTrait('crusader_king').GetName(GetPlayer)]" #NT!
+
+chakravarti_true_magick_add_loc:0 "Add [GetTrait('chakravarti').GetName(GetPlayer)]" #NT!
+chakravarti_true_magick_remove_loc:0 "Remove [GetTrait('chakravarti').GetName(GetPlayer)]" #NT!
+
+greatest_of_khans_true_magick_add_loc:0 "Add [GetTrait('greatest_of_khans').GetName(GetPlayer)]" #NT!
+greatest_of_khans_true_magick_remove_loc:0 "Remove [GetTrait('greatest_of_khans').GetName(GetPlayer)]" #NT!
+
+paragon_true_magick_add_loc:0 "Add [GetTrait('paragon').GetName(GetPlayer)]" #NT!
+paragon_true_magick_remove_loc:0 "Remove [GetTrait('paragon').GetName(GetPlayer)]" #NT!
+
+consecrated_blood_true_magick_add_loc:0 "Add [GetTrait('consecrated_blood').GetName(GetPlayer)]" #NT!
+consecrated_blood_true_magick_remove_loc:0 "Remove [GetTrait('consecrated_blood').GetName(GetPlayer)]" #NT!
+
+education_martial_prowess_1_true_magick_add_loc:0 "Add [GetTrait('education_martial_prowess_1').GetName(GetPlayer)]" #NT!
+education_martial_prowess_1_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_prowess_1').GetName(GetPlayer)]" #NT!
+
+education_martial_prowess_2_true_magick_add_loc:0 "Add [GetTrait('education_martial_prowess_2').GetName(GetPlayer)]" #NT!
+education_martial_prowess_2_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_prowess_2').GetName(GetPlayer)]" #NT!
+
+education_martial_prowess_3_true_magick_add_loc:0 "Add [GetTrait('education_martial_prowess_3').GetName(GetPlayer)]" #NT!
+education_martial_prowess_3_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_prowess_3').GetName(GetPlayer)]" #NT!
+
+education_martial_prowess_4_true_magick_add_loc:0 "Add [GetTrait('education_martial_prowess_4').GetName(GetPlayer)]" #NT!
+education_martial_prowess_4_true_magick_remove_loc:0 "Remove [GetTrait('education_martial_prowess_4').GetName(GetPlayer)]" #NT!
+
+loyal_true_magick_add_loc:0 "Add [GetTrait('loyal').GetName(GetPlayer)]" #NT!
+loyal_true_magick_remove_loc:0 "Remove [GetTrait('loyal').GetName(GetPlayer)]" #NT!
+
+disloyal_true_magick_add_loc:0 "Add [GetTrait('disloyal').GetName(GetPlayer)]" #NT!
+disloyal_true_magick_remove_loc:0 "Remove [GetTrait('disloyal').GetName(GetPlayer)]" #NT!

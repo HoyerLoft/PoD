@@ -1,0 +1,219 @@
+﻿l_russian:
+ game_concept_arcana_lifestyle:0 "Arcana" #NT!
+ game_concept_arcana_lifestyle_desc:0 "An Arcana is a feat of “spiritual magic” that draw upon the faith and belief of a demon's mortal followers." #NT!
+
+ arcana_lifestyle_name:0 "Arcana" #NT!
+ arcana_lifestyle_desc:0 "Focus on the powers that come from faith of mortals turned into miracles of your own sinful designs." #NT!
+ arcana_lifestyle_highlight_desc:0 "Because you Resolve, you gain #P [GetPlayer.Custom('GetDemonicLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_arcana_lifestyle_xp_gain_mult:0 "Monthly Arcana [lifestyle|E] [experience|E]" #NT!
+
+ arcana_form_focus:0 "Form Focus" #NT!
+ arcana_form_focus_modifier:1 "[GetFocus('arcana_form_focus').GetName]" #NT!
+ arcana_form_focus_desc:0 "Create and bend flesh and bone to the image of the character’s will." #NT!
+ arcana_form_focus_effect_desc:0 "Focusing on Form grants:" #NT!
+
+ arcana_glory_focus:0 "Glory Focus" #NT!
+ arcana_glory_focus_modifier:1 "[GetFocus('arcana_glory_focus').GetName]" #NT!
+ arcana_glory_focus_desc:0 "Imbue characters with superior capabilities." #NT!
+ arcana_glory_focus_effect_desc:0 "Focusing on Glory grants:" #NT!
+
+ arcana_mind_soul_focus:0 "Mind and Soul Focus" #NT!
+ arcana_mind_soul_focus_modifier:1 "[GetFocus('arcana_mind_soul_focus').GetName]" #NT!
+ arcana_mind_soul_focus_desc:0 "Perceive, affect and ultimately control the hearts, minds and souls of others." #NT!
+ arcana_mind_soul_focus_effect_desc:0 "Focusing on Mind and Soul grants:" #NT!
+
+ arcana_fate_portals_focus:0 "Fate and Portals Focus" #NT!
+ arcana_fate_portals_focus_modifier:1 "[GetFocus('arcana_fate_portals_focus').GetName]" #NT!
+ arcana_fate_portals_focus_desc:0 "Alter destiny, time, space and the patterns of connection that bind the principles and substance of the universe together." #NT!
+ arcana_fate_portals_focus_effect_desc:0 "Focusing on Fate and Portals grants:" #NT!
+
+ arcana_force_element_focus:0 "Force and Element Focus" #NT!
+ arcana_force_element_focus_modifier:1 "[GetFocus('arcana_force_element_focus').GetName]" #NT!
+ arcana_force_element_focus_desc:0 "Create or redirect the fundamental forces and elemental patterns of energy that form the primordial foundation of the universe." #NT!
+ arcana_force_element_focus_effect_desc:0 "Focusing on Force and Element grants:" #NT!
+
+ GAINS_ARCANA_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [arcana_lifestyle|E] Experience" #NT!
+ GAINED_ARCANA_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [arcana_lifestyle|E] Experience" #NT!
+ I_GAIN_ARCANA_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [arcana_lifestyle|E] Experience" #NT!
+ I_GAINED_ARCANA_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [arcana_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_ARCANA_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [arcana_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_ARCANA_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [arcana_lifestyle|E] Experience" #NT!
+
+ GAINS_A_ARCANA_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [arcana_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_ARCANA_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [arcana_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_ARCANA_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [arcana_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_ARCANA_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [arcana_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_ARCANA_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [arcana_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_ARCANA_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [arcana_lifestyle|E] [perk|E] Unlock" #NT!
+
+ ARCANA_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Arcana lifestyle perk points: $NUM|V0$" #NT!
+
+ NOT_has_demon_trait:0 "@warning_icon!#X You do #bold not#! have the [trait|E]: [GetTrait('demon').GetName( GetPlayer )]#!" #NT!
+
+ form_visible:1 "Form" #NT!
+ glory_visible:1 "Glory" #NT!
+ mind_soul_visible:1 "Mind and Soul" #NT!
+ fate_portals_visible:1 "Fate and Portals" #NT!
+ force_element_visible:1 "Force and Element" #NT!
+
+ apocalyptic_form_perk_name:0 "Apocalyptic Form" #NT!
+ preternatural_reflexes_perk_name:0 "Preternatural Reflexes" #NT!
+ hardened_flesh_perk_name:0 "Hardened Flesh" #NT!
+ perfect_immunity_perk_name:0 "Perfect Immunity" #NT!
+ arcana_regeneration_perk_name:0 "Regeneration" #NT!
+ arsenal_of_the_beast_perk_name:0 "Arsenal of the Beast" #NT!
+ increased_health_perk_name:0 "Increased Health" #NT!
+ resilience_perk_name:0 "Resilience" #NT!
+ sense_vitality_perk_name:0 "Sense Vitality" #NT!
+ contagion_mastery_perk_name:0 "Contagion Mastery" #NT!
+ ultimate_horror_perk_name:0 "Ultimate Horror" #NT!
+ wings_perk_name:0 "Wings" #NT!
+ inhuman_strength_perk_name:0 "Inhuman Strength" #NT!
+ inured_to_agony_perk_name:0 "Inured to Agony" #NT!
+ damage_immunity_perk_name:0 "Damage Immunity" #NT!
+ healing_touch_perk_name:0 "Healing Touch" #NT!
+ reshape_flesh_perk_name:0 "Reshape Flesh" #NT!
+ relentless_soul_perk_name:0 "Relentless Soul" #NT!
+ unyielding_perk_name:0 "Unyielding" #NT!
+ speed_of_thought_perk_name:0 "Speed of Thought" #NT!
+ incorporeal_form_perk_name:0 "Incorporeal Form" #NT!
+ divine_potential_perk_name:0 "Divine Potential" #NT!
+ arcana_longevity_perk_name:0 "Longevity" #NT!
+ trait_aptitude_perk_name:0 "Trait Aptitude" #NT!
+ trait_enhancement_perk_name:0 "Trait Enhancement" #NT!
+ invocation_of_name_perk_name:0 "Invocation of Name" #NT!
+ devour_soul_perk_name:0 "Devour Soul" #NT!
+ enthrall_perk_name:0 "Enthrall" #NT!
+ immortal_spirit_perk_name:0 "Immortal Spirit" #NT!
+ arcana_possession_perk_name:0 "Possession" #NT!
+ ravage_perk_name:0 "Ravage" #NT!
+ inviolate_soul_perk_name:0 "Inviolate Soul" #NT!
+ spirit_sight_perk_name:0 "Spirit Sight" #NT!
+ read_the_sin_perk_name:0 "Read the Sin" #NT!
+ compel_sin_perk_name:0 "Compel Sin" #NT!
+ read_the_heart_perk_name:0 "Read the Heart" #NT!
+ gift_of_faith_perk_name:0 "Gift of Faith" #NT!
+ greater_invocation_perk_name:0 "Greater Invocation" #NT!
+ perfect_lie_perk_name:0 "Perfect Lie" #NT!
+ read_the_mind_perk_name:0 "Read the Mind" #NT!
+ conquering_will_perk_name:0 "Conquering Will" #NT!
+ command_the_eternal_soul_perk_name:0 "Command the Eternal Soul" #NT!
+ reapers_hunger_perk_name:0 "Reaper's Hunger" #NT!
+ implacable_vengeance_perk_name:0 "Implacable Vengeance" #NT!
+ shield_of_spite_perk_name:0 "Shield of Spite" #NT!
+ lash_of_anguish_perk_name:0 "Lash of Anguish" #NT!
+ shrouded_soul_perk_name:0 "Shrouded Soul" #NT!
+ arcana_sin_eating_perk_name:0 "Sin Eating" #NT!
+ ravage_sinner_perk_name:0 "Ravage Sinner" #NT!
+ soul_burn_perk_name:0 "Soul Burn" #NT!
+ cerement_of_walking_dust_perk_name:0 "Cerement of Walking Dust" #NT!
+ command_the_dead_perk_name:0 "Command the Dead" #NT!
+ raise_the_dead_perk_name:0 "Raise the Dead" #NT!
+ spirit_strike_perk_name:0 "Spirit Strike" #NT!
+ excise_soul_perk_name:0 "Excise Soul" #NT!
+ abandon_vessel_perk_name:0 "Abandon Vessel" #NT!
+ theft_of_faith_perk_name:0 "Theft of Faith" #NT!
+ transfer_vessel_perk_name:0 "Transfer Vessel" #NT!
+ usurpation_of_flesh_perk_name:0 "Usurpation of Flesh" #NT!
+ visage_of_glory_perk_name:0 "Visage of Glory" #NT!
+ behold_the_metatron_perk_name:0 "Behold the Metatron" #NT!
+ arcana_revelation_perk_name:0 "Revelation" #NT!
+ pattern_sense_perk_name:0 "Pattern Sense" #NT!
+ fortunate_guess_perk_name:0 "Fortunate Guess" #NT!
+ foretell_perk_name:0 "Foretell" #NT!
+ alter_fate_perk_name:0 "Alter Fate" #NT!
+ beyond_now_perk_name:0 "Beyond Now" #NT!
+ certainties_of_chance_perk_name:0 "Certainties of Chance" #NT!
+ portal_mastery_perk_name:0 "Portal Mastery" #NT!
+ arcana_premonition_perk_name:0 "Premonition" #NT!
+ arcana_scry_perk_name:0 "Scry" #NT!
+ sharpened_senses_perk_name:0 "Sharpened Senses" #NT!
+ shortened_path_perk_name:0 "Shortened Path" #NT!
+ step_between_perk_name:0 "Step Between" #NT!
+ touch_from_afar_perk_name:0 "Touch From Afar" #NT!
+ twist_of_fate_perk_name:0 "Twist of Fate" #NT!
+ arcana_open_gate_perk_name:0 "Open Gate" #NT!
+ celestial_radiance_perk_name:0 "Celestial Radiance" #NT!
+ arcana_invisibility_perk_name:0 "Invisibility" #NT!
+ shadow_mastery_perk_name:0 "Shadow Mastery" #NT!
+
+ APOCALYPTIC_FORM_PERK_EFFECT:0 "Allow shapeshift to [GetModifier( 'POD_shapeshift_form_apocalyptic_angelic_modifier' ).GetNameWithTooltip|L] or [GetModifier( 'POD_shapeshift_form_apocalyptic_damned_modifier' ).GetNameWithTooltip|L] as [GetTrait('demon').GetName( GetPlayer )].\nAllow shapeshift to [GetModifier( 'POD_shapeshift_form_apocalyptic_lesser_modifier' ).GetNameWithTooltip|L] as [thrall|E].\n#F All demons, as a remnant of their divinity, have state of existence they can change to in battle, their awesome Apocalyptic form. Depending on the Demon's torment, they may appear angelic, as if they had never fallen, or truly wicked and violent, showing the true scape of their inner torment. In all cases, this terrible and powerful form is a demon's go to asset for war.#!" #NT!
+ PRETERNATURAL_REFLEXES_PERK_EFFECT:0 "#F At this state of power, a demon gains a supernatural awareness of their surroundings, always ready to spring into combat, and always ready.#!" #NT!
+ HARDENED_FLESH_PERK_EFFECT:0 "#F The demon's host body, at this state, becomes truly durable, able to shrug off normally lethal blows at peak condition. The raw power flowing into the body keeps it forever young, until the demon decides it is done with its current body.#!" #NT!
+ PERFECT_IMMUNITY_PERK_EFFECT:0 "You won't get diseases.\n#F With a little understanding of the Arcanas of Form, a demon can eliminate the worry of ailment or disease, keeping them in perpetual good health.#!" #NT!
+ ARCANA_REGENERATION_PERK_EFFECT:0 "As a [character_interaction|E], allows you to heal your wounds.\n#F With an understanding of their inner power, a demon may mend the wounds on its form, to keep their current vessel in peak shape.#!" #NT!
+ ARSENAL_OF_THE_BEAST_PERK_EFFECT:0 "Unlock Arsenal of the Beast Shapeshift option.\n#F The demon, in this state, can manifest a weapon in their Apocalyptic Form, in the shape of sublime blades, or wicked talons not even the cruelest beasts would use.#!" #NT!
+ INCREASED_HEALTH_PERK_EFFECT:0 "#F With an understanding of their physique, a demon can push their vessel past mere mortal limits.#!" #NT!
+ ARCANA_RESILIENCE_PERK_EFFECT:0 "#F Having mastered the damage they can resist, a demon with this arcana is far more difficult to injure, their body supernaturally resistant to harm.#!" #NT!
+ SENSE_VITALITY_PERK_EFFECT:0 "#F A demon's understanding of biology ascends to such heights with this power, the health of others is laid bare before them.#!" #NT!
+ CONTAGION_MASTERY_PERK_EFFECT:0 "As a [character_interaction|E], allows you to give or heal diseases.\n#F The demon, with this power, gains understanding of even the smallest of god's lifeforms, able to purge disease from a host, or worse, afflict them with one.#!" #NT!
+ ULTIMATE_HORROR_PERK_EFFECT:0 "#F So terrible has this demon's apocalyptic form become, madness and woe follow wherever it walks for war.#!" #NT!
+ WINGS_PERK_EFFECT:0 "Unlock [GetModifier( 'arsenal_of_the_beast_wings_modifier' ).GetNameWithTooltip|L] for Arsenal of the Beast Shapeshift.\n#F Beyond just the weapons of monsters, a demon with this power is able to grant themselves flight in their current form. Be it as that of a bird, bat, dragon, or even that of warped granite, these powerful wings let the demons soar once again through the skies, as they did in heaven, so long ago.#!" #NT!
+ INHUMAN_STRENGTH_PERK_EFFECT:0 "#F With this power, a demon's might becomes made manifest in raw power, as cordons of rippling muscle, or as a hidden reserve of terrifying power.#!" #NT!
+ INURED_TO_AGONY_PERK_EFFECT:0 "#F A demon with this power triumphs over such mortal concerns as 'pain' or 'age' and rather, no matter how maimed they are, so long as the demon stands, it will fight as if it was untouched by war or ailment.#!" #NT!
+ DAMAGE_IMMUNITY_PERK_EFFECT:0 "You won't suffer [GetTrait('inappetetic').GetName( GetPlayer )] anymore.\n#F With this power, a demon becomes totally immune to a form of physical destruction, and their form becomes truly, apocalyptically, durable.#!" #NT!
+ HEALING_TOUCH_PERK_EFFECT:0 "As a [character_interaction|E], allows you to heal target's wounds.\n#F With the powers of mortal faith, the demon may heal the living, mending their savaged wounds.#!" #NT!
+ RESHAPE_FLESH_PERK_EFFECT:0 "Bonus to Shapeshift [character_interaction|E] to change appearance.\n#F The demon with this power may command living animal matter to shift and even flow like wax under his touch, capable of being shaped to their damned will.#!" #NT!
+ RELENTLESS_SOUL_PERK_EFFECT:0 "Allows you to never die by wounds.\n#F When a demon would take a killing blow, their innate power can hold back the gates of death for their shell, 'merely' knocking them unconscious instead.#!" #NT!
+ UNYIELDING_PERK_EFFECT:0 "Allow you to spend willpower instead of taking wounds.\n#F So strong is a demon's force of will, so long as they have the strength of conviction, blows can be turned with will alone.#!" #NT!
+ SPEED_OF_THOUGHT_PERK_EFFECT:0 "#F So blinding is this demon's speed, a demon could fire an arrow, and then catch it, with their truly fearsome power.#!" #NT!
+ ARCANA_INCORPOREAL_FORM_PERK_EFFECT:0 "Allow shapeshift to [GetModifier( 'POD_shapeshift_form_incorporeal_modifier' ).GetNameWithTooltip|L]\n#F Using their physical form as an anchor, a demon has found a way to trick the prisons of hell, allowing them to project from a vessel and become a spiritual being once again.#!" #NT!
+ DIVINE_POTENTIAL_PERK_EFFECT:0 "#F Under such understanding of Arcana and the Mortal form, a demon can transcend formerly mortal limits.#!" #NT!
+ ARCANA_LONGEVITY_PERK_EFFECT:0 "As a [decision|E], allow you to spend arcana points to stack [GetModifier( 'longevity_modifier' ).GetNameWithTooltip|L] as [thrall|E]\n#F With this arcana, the thrall stops aging for a period of five years or reduces his physical age by a like amount.#!" #NT!
+ TRAIT_APTITUDE_PERK_EFFECT:0 "#F So thorough has a demon's understanding of a field become, they are unmatched in it, as all they perform with this skill has become a magnum opus.#!" #NT!
+ TRAIT_ENHANCEMENT_PERK_EFFECT:0 "#F At this level of mastery, a demon has truly surpassed the limits of mortalkind.#!" #NT!
+ INVOCATION_OF_NAME_PERK_EFFECT:0 "#F Whenever spoken, the true name of a demon rings in their ears, allowing them to potentially find the person that dared speak it.#!" #NT!
+ DEVOUR_SOUL_PERK_EFFECT:0 "Can use $EXECUTION_DEVOUR_SOUL$ [executions|E] option on [GetTrait('demon').GetName( GetPlayer )].\n#F When outside the confines of Hell, a demon may savage another, destroying its soul and draining it of its very soul.#!" #NT!
+ ENTHRALL_PERK_EFFECT:0 "Unlock Enthrall [character_interaction|E], allowing to make the target your [thrall|E].\n#F With a mere touch, a mortal supplicant to the demon may be 'gifted' by their new demonic master.#!" #NT!
+ IMMORTAL_SPIRIT_PERK_EFFECT:0 "Can't be hurt with physical moves.\n#F So long as it has the Resolve to do so, with this power, a demon may be able to resist the chains of Hell itself.#!" #NT!
+ ARCANA_POSSESSION_PERK_EFFECT:0 "As a [character_interaction|E], allows you to possess a character or artifact while in spirit state.\nAs a [character_interaction|E], allows you to designate your next human vessel in case of the current one is out of use.\n#F With an understanding of shells on the physical world, a demon may bind themselves into a thrall or reliquary, allowing them to dwell on earth without being dragged back into hell.#!" #NT!
+ RAVAGE_PERK_EFFECT:0 "Can use $EXECUTION_DEVOUR_SOUL$ [executions|E] option on [thrall|E].\n#F In times of desperation, a demon may devour the souls of their thralls for power, giving their lives for their fallen masters.#!" #NT!
+ INVIOLATE_SOUL_PERK_EFFECT:0 "Gain strong mental defenses, making you immune to some mental powers.\nCan't be converted to [GetTrait('wraith').GetName( GetPlayer )].\n#F As creatures of possession, none may wrest control of a demon's body from them.#!" #NT!
+ SPIRIT_SIGHT_PERK_EFFECT:0 "Unlock [marked_for_return_interaction|E].\nUnlock $seek_aid_of_the_spirits_decision$ [decision|E].\n#F As spiritual beings, not even the restless dead elude the eyes of a watchful demon.#!" #NT!
+ READ_THE_SIN_PERK_EFFECT:0 "#F As creatures of sin, a demon may gaze onto a mortal, and find the sin that rules their heart.#!" #NT!
+ COMPEL_SIN_PERK_EFFECT:0 "Unlocks [GetScheme('PODsoul_bridge').GetTypeName] [scheme|E].\n#F With this power, a demon may fuel their sin into a victim, bringing out the sin from within their very soul.#!" #NT!
+ READ_THE_HEART_PERK_EFFECT:0 "#F So acute has a demon's spiritual sense become, they can find the sin and virtues of all, no matter how deeply buried.#!" #NT!
+ GIFT_OF_FAITH_PERK_EFFECT:0 "As a [character_interaction|E], allows you to donate Resolve to reduce [stress|E].\n#F When overflowing with divine energy, a Demon may gift their power to a thrall, to ease the weight of stress on their soul.#!" #NT!
+ GREATER_INVOCATION_PERK_EFFECT:0 "Unlock summon [character_interaction|E], allowing you to compel unlanded characters into joining your court..\n#F With this power, a demon begins to have powers over names themselves, able to compel others to submit to their summons.#!" #NT!
+ PERFECT_LIE_PERK_EFFECT:0 "#F No matter how absurd, demons with this power may lie as easily as they breathe.#!" #NT!
+ READ_THE_MIND_PERK_EFFECT:0 "#F The book of the mind laid bare, a demon may this power may pick the mind of thoughts, as if it were an opened book.#!" #NT!
+ CONQUERING_WILL_PERK_EFFECT:0 "#F Invoking the name of Yahweh himself, a demon may empower their warriors, with the word of the god that cast them down.#!" #NT!
+ COMMAND_THE_ETERNAL_SOUL_PERK_EFFECT:0 "As a [character_interaction|E], you can discover the true name of other [GetTrait('demon').GetName( GetPlayer )].\n#F With this power, a demon may invoke another demon's true name, compelling them into submission.#!" #NT!
+ REAPERS_HUNGER_PERK_EFFECT:0 "You gain a Resolve for every kill you perform.\n#F Whenever a demon with this power ends the life of a mortal, they may reap the dying soul of precious power.#!" #NT!
+ IMPLACABLE_VENGEANCE_PERK_EFFECT:0 "Each [rival|E] adds: [GetModifier( 'implacable_vengeance_perk_modifier' ).GetNameWithTooltip|L]. This is cumulative.\n#F Implacable monsters, a demon may invoke a target's true name to be unstoppable harbinger's of their victim's doom, becoming indomitable harbingers of despair.#!" #NT!
+ SHIELD_OF_SPITE_PERK_EFFECT:0 "#F So tormented is a demon's mind, merely attempting to pry into it's mind causes the foolish attacker to suffer horrible pain from the despair and evil within.#!" #NT!
+ LASH_OF_ANGUISH_PERK_EFFECT:0 "#F So attuned a demon has become to its own pain, a demon may project its anguish and inner pain as a barrage of telepathic energy.#!" #NT!
+ SHROUDED_SOUL_PERK_EFFECT:0 "#F With this power, a demon may blur the cognition of those around them, becoming faceless in a crowd, no matter how much the demon stands out.#!" #NT!
+ ARCANA_SIN_EATING_PERK_EFFECT:0 "As a [character_interaction|E], allows you to cause target mortal to suffer a stress break and let you recover Resolve.\n#F The demon's knowledge of sin becomes such, mortals in the throes of despair give sustenance to their infernal tormentor.#!" #NT!
+ RAVAGE_SINNER_PERK_EFFECT:0 "Bonus to Sin Eating [character_interaction|E], add chance to devour target mortal's soul.\n#F Masters of indulgence, a demon may sway a mortal to falling into their sin, so long as they do so willingly.#!" #NT!
+ SOUL_BURN_PERK_EFFECT:0 "Allow you to spend [stress|E] instead of resolve to use your arcana powers when you have [GetModifier( 'resolve0_modifier' ).GetNameWithTooltip|L].\n#F In the true depths of desperation, a demon may tear apart its own spiritual self for emergency power.#!" #NT!
+ CEREMENT_OF_WALKING_DUST_PERK_EFFECT:0 "Allow the use of a dead vessel as a backup vessel in [GetTrait('truefallen').GetName( GetPlayer )] maintenance.\n#F To demons with this power, a corpse is but a stinkier reliquary, allowing them to raise the corpse as their new vessel of choice.#!" #NT!
+ COMMAND_THE_DEAD_PERK_EFFECT:0 "Unlock [bind_wraith_interaction|E].\nUnlock $POD_command_wraith_interaction$ [character_interaction|E].\n#F Not even the dead may escape this power, as a demon may compel them to serve.#!" #NT!
+ RAISE_THE_DEAD_PERK_EFFECT:0 "As a [character_interaction|E], allows you to start a [GetModifier( 'zombu_summon_modifier' ).GetNameWithTooltip|L].\nCan recruit [GetMaA('hidden').GetName], [GetMaA('walker').GetName], [GetMaA('shambler').GetName] and [GetMaA('skeletons').GetName] as [men_at_arms|E].\n#F Even the dead may not escape servitude to the demon, as with this power, the demon may raise legions of the dead, to serve their infernal desires.#!" #NT!
+ SPIRIT_STRIKE_PERK_EFFECT:0 "You can imprison, torture, execute or physically hurt a spirit in [single_combat_duel|E].\n#F With this power, the demon may invoke its spiritual form to maim even spirits, nothing free from the demon's wrath.#!" #NT!
+ EXCISE_SOUL_PERK_EFFECT:0 "Unlock $EXECUTION_CONVERT_TO_WRAITH$ [executions|E] option.\n#F With this terrible power, a demon invokes a ritual, tearing out a victim's soul and forcing it to serve the demon's desires.#!" #NT!
+ ABANDON_VESSEL_PERK_EFFECT:0 "As a [character_interaction|E], allows you to abandon your current vessel.\n#F Under normal circumstances, a demon will not leave its vessel for fear of hell. With this power, a demon may risk leaving it, for whatever reason they desire.#!" #NT!
+ THEFT_OF_FAITH_PERK_EFFECT:0 "Can use $EXECUTION_DEVOUR_SOUL$ [executions|E] option on every one.\n#F So complete has a demon's understanding of souls has become, no soul may escape the possibility of being devoured by their infernal overlord.#!" #NT!
+ TRANSFER_VESSEL_PERK_EFFECT:0 "You no longer need to abandon your current vessel to possess another one.\n#F So perfect has a demon's control over possession, that they may now move vessel's without the risk of hell dragging them back.#!" #NT!
+ USURPATION_OF_FLESH_PERK_EFFECT:0 "Gain strong hook on each [thrall|E].\n#F With this power, a demon may force a thrall's soul and mind to dormancy, making their body their own.#!" #NT!
+ VISAGE_OF_GLORY_PERK_EFFECT:0 "#F Channeling the memories of their lost status as Elohim, for a short time, a demon may become truly angelic.#!" #NT!
+ BEHOLD_THE_METATRON_PERK_EFFECT:0 "#F Becoming a true architect of creation, the demon unveils their truest form, their most primal state, either one of sublime perfection or horrendous evil.#!" #NT!
+ ARCANA_REVELATION_PERK_EFFECT:0 "As a [character_interaction|E], allows you to drain Resolve from witnesses.\n#F When lacking a reliable source of resolve, a demon may sap a mortal of their faith through an extreme religious crisis.#!" #NT!
+ PATTERN_SENSE_PERK_EFFECT:0 "#F Demons once had an instinctual sensitivity to the patterns of the natural order, having established those patterns at the beginning of time. With this arcana, a demon has relearned that, and how to exploit it.#!" #NT!
+ FORTUNATE_GUESS_PERK_EFFECT:0 "You will receive a notification if someone intent to murder your friends or family.\nYou will receive a notification if someone intent to seduce your lovers or consorts.\n#F So attuned to mortal connections the demon has become, a demon may sometimes understand and know if anyone shows ill will to their favored cultists.#!" #NT!
+ FORETELL_PERK_EFFECT:0 "Unlocks the [deceitful_progress_hostile_schemes_decision|E].\n#F Such is a demon's understanding of creation, a demon may be able to predict that which has yet to occur.#!" #NT!
+ ALTER_FATE_PERK_EFFECT:0 "Unlocks the [impatient_rushing_all_schemes_decision|E]\n#F Having once divined creation itself, with this power, a demon may invoke a victim's name to manipulate and twist their very destiny.#!" #NT!
+ BEYOND_NOW_PERK_EFFECT:0 "#F With this power, a demon may step outside of time itself, the tapestry of the cosmos temporarily at their command.#!" #NT!
+ CERTAINTIES_OF_CHANCE_PERK_EFFECT:0 "#F From merely observing the flow of chance and destiny, a demon may twist it to their ends.#!" #NT!
+ PORTAL_MASTERY_PERK_EFFECT:0 "#F Just as existence once lay at their beck and call, a demon may pass or bar barriers at their will.#!" #NT!
+ ARCANA_PREMONITION_PERK_EFFECT:0 "#F Like a spider in its web, the character senses vibrations in the strands of fate when danger approaches, making them ready for all outcomes.#!" #NT!
+ ARCANA_SCRY_PERK_EFFECT:0 "[buy_claim_interaction|E] and [buy_artifact_claim_interaction|E] Cost: #P -50%#!\n#F With concentration and a name, a demon may divine information about this place of focus.#!" #NT!
+ SHARPENED_SENSES_PERK_EFFECT:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!\n#F Having once been Yahweh's hand in creation, a demon may continue to guide the universe as they choose.#!" #NT!
+ SHORTENED_PATH_PERK_EFFECT:0 "#F With an understanding of the old pathways of creation, a demon may cut the time of traversal down to fractions of what it once was.#!" #NT!
+ STEP_BETWEEN_PERK_EFFECT:0 "#F With this power, a demon may gently warp space, vanishing and reappearing in a blur of light or wavering shadow.#!" #NT!
+ TOUCH_FROM_AFAR_PERK_EFFECT:0 "#F As the demon's understanding of spatial reality grows, as does the scope of their arcanas.#!" #NT!
+ TWIST_OF_FATE_PERK_EFFECT:0 "As a [decision|E], allow you to spend arcana point to gain gold and prestige.\n#F Fate seems to favor the demon, as they gain unusual mortal boons, seemingly at random.#!" #NT!
+ ARCANA_OPEN_GATE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to teleport to target location.\n#F With this understanding of arcana, the demon can bend or tear space into a brief portal connecting its location with another place.#!" #NT!
+ CELESTIAL_RADIANCE_PERK_EFFECT:0 "Allow shapeshift to [GetModifier( 'POD_shapeshift_form_light_modifier' ).GetNameWithTooltip|L].\n#F The demon channels its power as blinding light, becoming a burning beacon of light.#!" #NT!
+ ARCANA_INVISIBILITY_PERK_EFFECT:0 "Allow shapeshift to [GetModifier( 'POD_shapeshift_form_mist_modifier' ).GetNameWithTooltip|L].\n#F As their form becomes more and more malleable to the demon's will, they gain the ability to remove themselves from the visions of the beings of creation.#!" #NT!
+ SHADOW_MASTERY_PERK_EFFECT:0 "Allow shapeshift to [GetModifier( 'POD_shapeshift_form_shadow_modifier' ).GetNameWithTooltip|L].\n#F So powerful has the demon's will over its own soul become, a demon may wear their soul, becoming a towering column of darkness.#!" #NT!

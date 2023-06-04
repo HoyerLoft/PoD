@@ -1,0 +1,16 @@
+﻿l_russian:
+ foreign_affairs_name:1 "foreign_affairs_visible" #NT!
+ family_name:1 "family_visible" #NT!
+ majesty_name:1 "majesty_visible" #NT!
+ strategy_name:1 "strategy_visible" #NT!
+ authority_name:1 "authority_visible" #NT!
+ chivalry_name:1 "chivalry_visible" #NT!
+ skulduggery_name:0 "skulduggery_visible" #NT!
+ temptation_name:0 "temptation_visible" #NT!
+ intimidation_name:0 "intimidation_visible" #NT!
+ domain_name:1 "domain_visible" #NT!
+ duty_name:1 "duty_visible" #NT!
+ wealth_name:1 "wealth_visible" #NT!
+ theology_name:1 "theology_visible" #NT!
+ medicine_name:1 "medicine_visible" #NT!
+ scholarship_name:1 "scholarship_visible" #NT!

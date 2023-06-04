@@ -1,0 +1,42 @@
+﻿l_russian:
+
+ POD_summon.100.t:0 "Вас Призывают" #NT!
+ POD_summon.100.desc:0 "You feel an urge to come to the side of [schemer.GetTitledFirstName]. It is clearly unnatural, a strong vampire is using Caine's gifts against you!" #NT!
+ POD_summon.100.option.a:0 "Использовать всю силу воли, чтобы воспротивиться призыву" #NT!
+ POD_summon.100.option.b:0 "Отвергаю призыв." #NT!
+ POD_summon.100.option.c:0 "Принимаю призыв" #NT!
+
+ POD_summon.200.t:0 "Summoning [target.GetFirstNameNoTooltip]" #NT!
+ POD_summon.200.desc:0 "I feel my mystical energy touching the mind of [target.GetTitledFirstName]. [target.GetSheHe|U] is resisting the summoning. Caine's gifts aren't perfect, and they only go as far as your willpower do. The link is not yet lost though and I could use my blood and mental fortitude to augment the summoning, making it even more irresistible." #NT!
+ POD_summon.200.option.a:0 "Rouse the blood to bring [target.GetHerHim] to me." #NT!
+ POD_summon.200.a.tt_fortitude:0 "[target.GetFirstNameNoTooltip] is skilled at the [discipline|E] of fortitude and is resistant to my powers." #NT!
+ POD_summon.200.a.tt_willpower:0 "[target.GetFirstNameNoTooltip] has exerted their will to resist my powers." #NT!
+ POD_summon.200.a.success.desc:0 "Victory" #NT!
+ POD_summon.200.a.tt_success:0 "[target.GetTitledFirstName] will arrive in my court" #NT!
+ POD_summon.200.a.failure.desc:0 "Defeat" #NT!
+ POD_summon.200.a.tt_failure:0 "[target.GetTitledFirstName] will resist my summoning" #NT!
+ POD_summon.200.option.b:0 "Rouse the blood and exert my will. I will not be denied!" #NT!
+ POD_summon.200.option.b.tt.beast:0 "#R Yes! Bring them to us!#!" #NT!
+ POD_summon.200.option.c:0 "Give up, I no longer want [target.GetHerHim]." #NT!
+ POD_summon.200.option.c.tt:0 "The summoning will fail." #NT!
+ POD_summon.200.option.c.tt.beast:0 "#R No! They are getting away!#!" #NT!
+
+ POD_summon.300.t:0 "[target.GetFirstNameNoTooltip] Summoned" #NT!
+ POD_summon.300.desc:0 "Through the use of my mystical power, [target.GetTitledFirstName] has arrived in my court. It is now time to decide what I will do with this new guest. A place of honor or of shame?\nWhatever the case, don't expect them to take it nicely at first. Summoning someone without their consent by using the raw power of your blood isn't very friendly." #NT!
+ POD_summon.300.option.a:0 "Welcome to my home, said the spider to the fly." #NT!
+ POD_summon.300.option.a.tt.beast:0 "#R Dinner Time!#!" #NT!
+
+ POD_summon.400.t:0 "You Have Arrived" #NT!
+ POD_summon.400.desc:0 "You find yourself in the court of [schemer.GetTitledFirstName]." #NT!
+ POD_summon.400.option.a:0 "My new home." #NT!
+
+ POD_summon.500.t:0 "Resisted the Summoning" #NT!
+ POD_summon.500.desc:0 "[target.GetTitledFirstName] has resisted my summoning. Their will was strongest and they will probably not forget your tentative for a while. Summoning someone with the raw power of the blood isn't very friendly after all." #NT!
+ POD_summon.500.option.a:0 "Foiled!" #NT!
+ POD_summon.500.option.a.tt.beast:0 "#R Lets hunt them down and eat them!#!" #NT!
+
+ POD_summon.600.t:0 "Resisted Summoning" #NT!
+ POD_summon.600.desc:0 "You know longer feel [schemer.GetTitledFirstName]'s calling you." #NT!
+ POD_summon.600.option.a:0 "Stay out of my mind!" #NT!
+
+

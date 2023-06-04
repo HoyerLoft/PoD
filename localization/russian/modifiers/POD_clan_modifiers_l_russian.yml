@@ -1,0 +1,26 @@
+﻿l_russian:
+ gossip_modifier:0 "Known Gossip" #NT!
+ madness_network_actor_modifier:0 "Madness Network - Backlash" #NT!
+ madness_network_target_modifier:0 "Madness Network - compromised" #NT!
+ madness_network_diplomacy_modifier:0 "Madness Network - borrowed diplomacy skill" #NT!
+ madness_network_stewardship_modifier:0 "Madness Network - borrowed stewardship skill" #NT!
+ madness_network_martial_modifier:0 "Madness Network - borrowed martial skill" #NT!
+ madness_network_intrigue_modifier:0 "Madness Network - borrowed intrigue skill" #NT!
+ madness_network_learning_modifier:0 "Madness Network - borrowed learning skill" #NT!
+ councilor_diplomacy_modifier:0 "Excellent Councilor - diplomacy" #NT!
+ councilor_steward_modifier:0 "Excellent Councilor - stewardship" #NT!
+ councilor_marshal_modifier:0 "Excellent Councilor - Martial" #NT!
+ councilor_spymaster_modifier:0 "Excellent Councilor - intrigue" #NT!
+ councilor_chaplain_modifier:0 "Excellent Councilor - faith" #NT!
+ councilor_diplomacy_negative_modifier:0 "Atrocious Councilor - diplomacy" #NT!
+ councilor_steward_negative_modifier:0 "Atrocious Councilor - stewardship" #NT!
+ councilor_marshal_negative_modifier:0 "Atrocious Councilor - Martial" #NT!
+ councilor_spymaster_negative_modifier:0 "Atrocious Councilor - intrigue" #NT!
+ councilor_chaplain_negative_modifier:0 "Atrocious Councilor - faith" #NT!
+ #POD_brujah_cadre_modifier:0 "Fighting with Cadre" #NT!
+ #POD_proven_beta_modifier:0 "Weak Beta" #NT!
+ POD_toreador_bane_modifier:0 "Distracted by Beauty" #NT!
+ POD_toreador_bane_modifier.painting:0 "Distracted by a painting" #NT!
+ POD_toreador_bane_modifier.song:0 "Distracted by a song" #NT!
+ POD_toreador_bane_modifier.sculpture:0 "Distracted by a sculpture" #NT!
+ POD_toreador_bane_modifier.poem:0 "Distracted by a poem" #NT!

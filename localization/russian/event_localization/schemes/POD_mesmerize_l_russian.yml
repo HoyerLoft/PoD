@@ -1,0 +1,44 @@
+﻿l_russian:
+
+ POD_mesmerize.100.t:0 "На вас используется Доминирование" #NT!
+ POD_mesmerize.100.desc:0 "[schemer.GetTitledFirstName] использует на вас Доминирование, чтобы подчинить собственной воле." #NT!
+ POD_mesmerize.100.option.a:0 "Использовать силу воли, чтобы воспротивиться Доминированию" #NT!
+ POD_mesmerize.100.option.b:0 "Отринуть Доминирование." #NT!
+ POD_mesmerize.100.option.c:0 "Принять Доминирование." #NT!
+
+ POD_mesmerize.200.t:0 "Доминирование [target.GetFirstNameNoTooltip]" #NT!
+ POD_mesmerize.200.desc:0 "Я навязываю свою волю [target.GetTitledFirstName]. Но [target.GetSheHe|U] сопротивляется мне!\nВам нужно сломать волю цели, если вы хотите преуспеть. Персонажей с сильной волей труднее сломить, и такая интенсивная концентрация ваших умственных способностей может привести к стрессовому переживанию и для вас самих." #NT!
+ POD_mesmerize.200.option.a:0 "Пробудить кровь для [target.GetHerHim] подчинения." #NT!
+ POD_mesmerize.200.a.tt_fortitude:0 "[target.GetFirstNameNoTooltip] в совершенстве владеет дисциплиной Стойкости и мало восприимчив к вашим силам." #NT!
+ POD_mesmerize.200.a.tt_willpower:0 "[target.GetFirstNameNoTooltip] использует свою волю, чтобы воспротивиться вашим силам." #NT!
+ POD_mesmerize.200.a.success.desc:0 "Победа" #NT!
+ POD_mesmerize.200.a.tt_success:0 "[target.GetTitledFirstName] считает, что имеет перед вами обязательства." #NT!
+ POD_mesmerize.200.a.failure.desc:0 "Провал" #NT!
+ POD_mesmerize.200.a.tt_failure:0 "[target.GetTitledFirstName] сопротивляется вашему Доминированию." #NT!
+ POD_mesmerize.200.option.b:0 "Пробудить кровь и напрячь мою волю. Я тут Владыка!" #NT!
+ POD_mesmerize.200.option.b.tt.beast:0 "#R Я ТВОЙ Господин! #!" #NT!
+ POD_mesmerize.200.option.c:0 "Это пустая трата времени, Я больше не желаю доминировать над [target.GetTitledFirstName]." #NT!
+ POD_mesmerize.200.option.c.tt:0 "Доминирование провалилось." #NT!
+
+ POD_mesmerize.300.t:0 "[target.GetFirstNameNoTooltip] под действием Гипноза" #NT!
+ POD_mesmerize.300.desc:0 "Под действием дисциплины Доминирования, [target.GetTitledFirstName] будет следовать моим приказам. \n\n #X Чтобы использовать команды, используйте Приказать Марионетке [character_interaction|E].\nНекоторые команды требуют,чтобы вы пометили цель, что можно сделать с помощью "Пометить вторичную Цель" [character_interaction|E].#!" #NT!
+ POD_mesmerize.300.desc.short_term:0 "\n\n Поскольку у вас нет перка "Глубинная Директива", у вас есть лишь пара дней, чтобы отдать приказы." #NT!
+ POD_mesmerize.300.option.a:0 "Что я хочу [target.GetHerHim] приказать?" #NT!
+ POD_mesmerize.300.option.a.tt.beast:0 "#R Кровь! Мы хотим Кровь! #!" #NT!
+
+ POD_mesmerize.400.t:0 "Долг, от которого я не могу отказаться" #NT!
+ POD_mesmerize.400.desc:0 "Я в долгу перед [schemer.GetTitledFirstName]." #NT!
+ POD_mesmerize.400.option.a:0 "Как я могу отплатить [schemer.GetHerHim]?" #NT!
+
+ POD_mesmerize.500.t:0 "Сопротивление Доминированию" #NT!
+ POD_mesmerize.500.desc:0 "[target.GetTitledFirstName] не поддается моему Доминированию." #NT!
+ POD_mesmerize.500.option.a:0 "Этого не может быть!" #NT!
+ POD_mesmerize.500.option.a.tt.beast:0 "#R Избить их до клятвы в вечной покорности! #!" #NT!
+
+ POD_mesmerize.600.t:0 "Сопротивление Доминированию" #NT!
+ POD_mesmerize.600.desc:0 "Я сбросил ментальные оковы Доминирования персонажа [schemer.GetTitledFirstName]." #NT!
+ POD_mesmerize.600.option.a:0 "У меня железная воля!" #NT!
+
+ POD_mesmerize.700_toast_title:0 "Эффект Доминирования закончился" #NT!
+ POD_mesmerize.700_toast_ct:0 "Вы должны начать новые происки, если вы хотите навязывать свою волю [target.GetName]." #NT!
+

@@ -1,0 +1,79 @@
+﻿l_russian:
+
+POD_mark_secondary_target_interaction:0 "Выбрать Вторичную цель" #NT!
+POD_mark_secondary_target_interaction_desc:0 "Выбрать целью для контролируемых марионеток, позволяя приказывать им, что они будут делать со вторичной целью." #NT!
+POD_mark_secondary_target_interaction_ct:0 "[recipient.GetName] станет объектом доминирующих команд для марионеток, таких как "начать происки", "освободить заключенного", "остановить войну" и других взаимодействий со второстепенной целью." #NT!
+
+POD_dominate_interaction:0 "Приказать Марионетке" #NT!
+POD_dominate_interaction_desc:0 "Используйте свое влиние, чтобы отдать команду.\n #X Для некоторых команд потребуется пометить цель, что можно сделать с помощью команды Выбрать вторичную цель [character_interaction|E].#!" #NT!
+POD_dominate_interaction.failure.ct:0 "[recipient.GetFirstName] сопротивляется твоей команде." #NT!
+recipient_secondary_POD_dominate_interaction:0 "Вторичная Цель" #NT!
+dominate_toast_failure_title:0 "Комманда Провалилась" #NT!
+dominate_toast_success_title:0 "Команда Успешна" #NT!
+POD_dominate_interaction_gold_option:0 "Дай мне золото!" #NT!
+POD_dominate_interaction_embarass_option:0 "Опозорь себя!" #NT!
+POD_dominate_interaction_reveal_secret_option:0 "Скажи мне секрет" #NT!
+POD_dominate_interaction_reveal_secret_option_ct:0 "[recipient.GetFirstName] открывает вам секрет" #NT!
+POD_dominate_interaction_recruit_option:0 "Служи мне!" #NT!
+POD_dominate_interaction_masq_option:0 "Нарушай Маскарад!" #NT!
+POD_dominate_interaction_suicide_option:0 "Убей себя." #NT!
+POD_dominate_interaction_suicide_option_ct:0 "[recipient.GetFirstName] навредил себе в меру своих возможностей" #NT!
+POD_dominate_interaction_stop_scheme_option:0 "Хватит плести интриги!" #NT!
+POD_dominate_interaction_release_prisoner_option:0 "Выпусти из тюрьмы!" #NT!
+POD_dominate_interaction_abduct_option:0 "Похить мою цель!" #NT!
+POD_dominate_interaction_murder_option:0 "Убей моего Врага!" #NT!
+POD_dominate_interaction_stop_war_option:0 "Прекрати атаковать меня!" #NT!
+POD_dominate_interaction_cooldown:0 "После использования этой силы вам придется подождать 10 лет, прежде чем использовать её снова." #NT!
+POD_dominate_interaction_condition_option:0 "Состояние!" #NT!
+POD_dominate_interaction_condition_reinforce_ct:0 "Укрепляйте свое состояние, продлевая ее за пределы первоначальных десяти лет до десяти лет спустя." #NT!
+POD_dominate_interaction_condition_create_ct:0 "Со временем сломайте волю своей жертвы, превратив ее в марионетку, которой можно управлять с большой легкостью и частотой. Воспользуйтесь этой опцией пять раз в течение десяти лет, и вы превратите [recipient.GetFirstName] в сломленного слугу." #NT!
+POD_dominate_interaction_condition_current_ct:0 "Уровень состояния: [recipient.MakeScope.GetVariable('conditioning_level').GetValue|0]/5" #NT!
+POD_dominate_interaction_condition_cooldown_ct:0 "Вы не сможете выдать другую команду в течение года." #NT!
+
+POD_dominate_self_interaction:0 "Приказать Марионетке" #NT!
+POD_dominate_self_interaction_desc:0 "Используйте свое влиние, чтобы отдать команду." #NT!
+POD_dominate_self_interaction.failure.ct:0 "[secondary_actor.GetFirstName] сопротивляется твоей команде." #NT!
+POD_dominate_self_interaction_gold_option:0 "Дай мне золото!" #NT!
+POD_dominate_self_interaction_embarass_option:0 "Опозорь себя!" #NT!
+POD_dominate_self_interaction_reveal_secret_option:0 "Скажи мне секрет" #NT!
+POD_dominate_self_interaction_reveal_secret_option_ct:0 "[secondary_actor.GetFirstName] открывает вам секрет" #NT!
+POD_dominate_self_interaction_recruit_option:0 "Служи мне!" #NT!
+POD_dominate_self_interaction_masq_option:0 "Нарушай Маскарад!" #NT!
+POD_dominate_self_interaction_suicide_option:0 "Убей себя." #NT!
+POD_dominate_self_interaction_suicide_option_ct:0 "[secondary_actor.GetFirstName] авредил себе в меру своих возможностей" #NT!
+POD_dominate_self_interaction_stop_scheme_option:0 "Хватит плести интриги!" #NT!
+POD_dominate_self_interaction_release_prisoner_option:0 "Выпусти из тюрьмы!" #NT!
+POD_dominate_self_interaction_abduct_option:0 "Похить мою цель!" #NT!
+POD_dominate_self_interaction_murder_option:0 "Убей моего Врага!" #NT!
+POD_dominate_self_interaction_stop_war_option:0 "Прекрати атаковать меня!" #NT!
+POD_dominate_self_interaction_cooldown:0 "После использования этой силы вам придется подождать 10 лет, прежде чем использовать её снова." #NT!
+POD_dominate_self_interaction_condition_option:0 "Состояние!" #NT!
+POD_dominate_self_interaction_condition_reinforce_ct:0 "Укрепляйте свое состояние, продлевая ее за пределы первоначальных десяти лет до десяти лет спустя." #NT!
+POD_dominate_self_interaction_condition_create_ct:0 "Со временем сломайте волю своей жертвы, превратив ее в марионетку, которой можно управлять с большой легкостью и частотой. Воспользуйтесь этой опцией пять раз в течение десяти лет, и вы превратите [recipient.GetFirstName] в сломленного слугу." #NT!
+POD_dominate_self_interaction_condition_current_ct:0 "Уровень состояния: [secondary_recipient.MakeScope.GetVariable('conditioning_level').GetValue|0]/5" #NT!
+POD_dominate_self_interaction_condition_cooldown_ct:0 "Вы не сможете выдать другую команду в течение года." #NT!
+actor_secondary_POD_dominate_self_interaction:0 "Марионетка" #NT!
+recipient_secondary_POD_dominate_self_interaction:0 "Вторичная Цель" #NT!
+
+POD_dominate_speak_through_the_blood_interaction:0 "Речь Сквозь Поколения" #NT!
+POD_dominate_speak_through_the_blood_interaction_desc:0 "Отдайте приказ всей вашей родословной, заставляя ваших детей следовать вашей воле." #NT!
+POD_dominate_speak_through_the_blood_interaction_suicide_option_loc:0 "Весь ваш род покончит с собой" #NT!
+POD_dominate_speak_through_the_blood_interaction_gold_option_loc:0 "Каждый приземлившийся член вашей родословной будет платить вам десятину" #NT!
+POD_dominate_speak_through_the_blood_interaction_embarass_option_loc:0 "Ваши дети выставят себя дураками" #NT!
+POD_dominate_speak_through_the_blood_interaction_recruit_option_loc:0 "Каждый придворный твоей крови доберется до твоего двора" #NT!
+POD_dominate_speak_through_the_blood_interaction_masq_option_loc:0 "Твои потомки нарушат маскарад" #NT!
+POD_dominate_speak_through_the_blood_interaction_stop_scheme_option_loc:0 "Ваша линия перестанет строить козни, чтобы помешать вашей цели" #NT!
+POD_dominate_speak_through_the_blood_interaction_murder_option_loc:0 "Ваша родословная будет стремиться убить вашу цель" #NT!
+POD_dominate_speak_through_the_blood_interaction_stop_war_option_loc:0 "Ваша родословная прекратит любую войну, направленную против вас, установив белый мир" #NT!
+POD_dominate_speak_through_the_blood_interaction_reveal_secret_option_loc:0 "Ваша родословная раскроет один из их секретов" #NT!
+
+
+POD_forgetful_mind_interaction:0 "Забывчивый Разум - Мнения" #NT!
+POD_forgetful_mind_interaction_desc:0 "Измените воспоминания вашей цели, заставив ее забыть обиды, которые она затаила на вас." #NT!
+forgetful_mind_duel_ct:0 "Если вы выиграете дуэль управления против [recipient.GetFirstName], их недовольство уменьшится." #NT!
+forgetful_mind_duel_success_title:0 "Повелитель разума!" #NT!
+forgetful_mind_duel_failure_title:0 "[recipient.GetFirstName] Сопротивляется" #NT!
+POD_forgetful_mind_opinion:0 "Забытые обиды." #NT!
+
+
+

@@ -1,0 +1,116 @@
+﻿l_russian:
+ wraith_potency_1:0 "Wraith Potency I" #NT!
+ wraith_potency_1_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_2:0 "Wraith Potency II" #NT!
+ wraith_potency_2_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_3:0 "Wraith Potency III" #NT!
+ wraith_potency_3_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_4:0 "Wraith Potency IV" #NT!
+ wraith_potency_4_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_5:0 "Wraith Potency V" #NT!
+ wraith_potency_5_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_6:0 "Wraith Potency VI" #NT!
+ wraith_potency_6_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_7:0 "Wraith Potency VII" #NT!
+ wraith_potency_7_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_8:0 "Wraith Potency VIII" #NT!
+ wraith_potency_8_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_9:0 "Wraith Potency IX" #NT!
+ wraith_potency_9_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ wraith_potency_10:0 "Wraith Potency X" #NT!
+ wraith_potency_10_desc:0 "The higher the potency, the stronger the wraith." #NT!
+ haunted_willpower:0 "Haunted Will" #NT!
+ haunted_willpower_desc:0 "A wraith haunting you is causing stress." #NT!
+ haunted_schemes:0 "Haunted Spy Network" #NT!
+ haunted_schemes_desc:0 "A wraith is actively disrupting schemes." #NT!
+ haunted_war:0 "Haunted Commanders" #NT!
+ haunted_war_desc:0 "A wraith is disrupting your best-laid battle plans." #NT!
+ haunted_diplomacy:0 "Haunted Court" #NT!
+ haunted_diplomacy_desc:0 "A wraith is proving a distraction, and making it difficult to communicate." #NT!
+ haunted_rulership:0 "Haunted Infrastructure" #NT!
+ haunted_rulership_desc:0 "A poltergeist is disrupting the flow of coin in the realm." #NT!
+ haunted_sleep:0 "Haunted Dreams" #NT!
+ haunted_sleep_desc:0 "A wraith haunting sleeping victim weakens the body and slows the mind." #NT!
+
+ pathos0_modifier:0 "Pathos: 0" #NT!
+ pathos1_modifier:0 "Pathos: 1" #NT!
+ pathos2_modifier:0 "Pathos: 2" #NT!
+ pathos3_modifier:0 "Pathos: 3" #NT!
+ pathos4_modifier:0 "Pathos: 4" #NT!
+ pathos5_modifier:0 "Pathos: 5" #NT!
+
+ fetter_lost_1_modifier:0 "[Fetter|E] Lost (1/10)" #NT!
+ fetter_lost_2_modifier:0 "[Fetter|E] Lost (2/10)" #NT!
+ fetter_lost_3_modifier:0 "[Fetter|E] Lost (3/10)" #NT!
+ fetter_lost_4_modifier:0 "[Fetter|E] Lost (4/10)" #NT!
+ fetter_lost_5_modifier:0 "[Fetter|E] Lost (5/10)" #NT!
+ fetter_lost_6_modifier:0 "[Fetter|E] Lost (6/10)" #NT!
+ fetter_lost_7_modifier:0 "[Fetter|E] Lost (7/10)" #NT!
+ fetter_lost_8_modifier:0 "[Fetter|E] Lost (8/10)" #NT!
+ fetter_lost_9_modifier:0 "[Fetter|E] Lost (9/10)" #NT!
+ fetter_lost_10_modifier:0 "[Fetter|E] Lost (10/10)" #NT!
+
+ fetter_resolved_1_modifier:0 "[Fetter|E] Resolved (1/10)" #NT!
+ fetter_resolved_2_modifier:0 "[Fetter|E] Resolved (2/10)" #NT!
+ fetter_resolved_3_modifier:0 "[Fetter|E] Resolved (3/10)" #NT!
+ fetter_resolved_4_modifier:0 "[Fetter|E] Resolved (4/10)" #NT!
+ fetter_resolved_5_modifier:0 "[Fetter|E] Resolved (5/10)" #NT!
+ fetter_resolved_6_modifier:0 "[Fetter|E] Resolved (6/10)" #NT!
+ fetter_resolved_7_modifier:0 "[Fetter|E] Resolved (7/10)" #NT!
+ fetter_resolved_8_modifier:0 "[Fetter|E] Resolved (8/10)" #NT!
+ fetter_resolved_9_modifier:0 "[Fetter|E] Resolved (9/10)" #NT!
+ fetter_resolved_10_modifier:0 "[Fetter|E] Resolved (10/10)" #NT!
+ fetter_resolved_10_modifier_desc:0 "Supposedly, a wraith who manages to Resolve all of his [Fetters|E] can remain in the Shadowlands indefinitely, but if such success bestows this benefit, it is rare to the point of myth." #NT!
+ temporary_fetter_modifier:0 "Temporary [Fetter|E]" #NT!
+ temporary_fetter_modifier_desc:0 "You can stay in the Shadowlands without suffering [stress|E] as long as this modifier remains." #NT!
+ enfant_modifier:0 "Enfant" #NT!
+ enfant_modifier_desc:0 "An Enfant is a Wraith who has just been created." #NT!
+ trapped_in_yomi_modifier:0 "Trapped in the Yomi" #NT!
+
+ foul_food_moifier:0 "Foul Food" #NT!
+ dark_ether_modifier:0 "Dark Ether" #NT!
+ foul_humour_modifier:0 "Foul Humour" #NT!
+ tempus_fugit_modifier:0 "Tempus Fugit" #NT!
+ tesseract_bomb_modifier:0 "Tesseract Bomb" #NT!
+ phantom_pain_modifier:0 "Phantom Pain" #NT!
+
+ spectre_prestige_modifier:0 "Spectre Prestige" #NT!
+ dark_allies_modifier:0 "Dark Allies" #NT!
+ shadow_traits_modifier:0 "Shadow Traits" #NT!
+ infamy_modifier:0 "Infamy" #NT!
+ honeyed_tongue_modifier:0 "Honeyed Tongue" #NT!
+ shadowed_face_modifier:0 "Shadowed Face" #NT!
+ shadow_cat_modifier:0 "Shadow Cat" #NT!
+ shadow_dog_modifier:0 "Shadow Dog" #NT!
+ shadow_horse_modifier:0 "Shadow Horse" #NT!
+ shadow_wolf_modifier:0 "Shadow Wolf" #NT!
+ shadow_bear_modifier:0 "Shadow Bear" #NT!
+ shadow_lion_modifier:0 "Shadow Lion" #NT!
+ shadow_tiger_modifier:0 "Shadow Tiger" #NT!
+ shadow_rat_modifier:0 "Shadow Rat" #NT!
+ shadow_cockroach_modifier:0 "Shadow Cockroach" #NT!
+ bad_luck_modifier:0 "Bad Luck" #NT!
+ bad_luck_modifier_desc:0 "Your Shadow is spending Angst to cause your actions to go wrong." #NT!
+ shadows_whispers_modifier:0 "Shadow's Whisper" #NT!
+ shadows_whispers_modifier_desc:0 "Your Shadow is spending Angst to communicate with other Wraith's Shadows in your realm." #NT!
+ deaths_sigil_modifier:0 "Death's Sigil" #NT!
+ deaths_sigil_modifier_desc:0 "Your Shadow is spending Angst to put a sign of Oblivion’s touch on you." #NT!
+ mirror_mirror_modifier:0 "Mirror, Mirror" #NT!
+ mirror_mirror_modifier_desc:0 "Your Shadow is spending Angst to make your reflection horribly distorted." #NT!
+ aura_of_corruption_modifier:0 "Aura of Corruption" #NT!
+ aura_of_corruption_modifier_desc:0 "Your Shadow is spending Angst to make your presence unpleasant to other wraiths." #NT!
+ trick_of_the_light_modifier:0 "Trick of the Light" #NT!
+ trick_of_the_light_modifier_desc:0 "Your Shadow is spending Angst to alter your perception." #NT!
+ tainted_touch_modifier:0 "Tainted Touch" #NT!
+ tainted_touch_modifier_desc:0 "Your Shadow is spending Angst to make your something of a Typhoid Mary among the Restless." #NT!
+ freudian_slip_modifier:0 "Freudian Slip" #NT!
+ freudian_slip_modifier_desc:0 "Your Shadow is spending Angst to force you to make involuntary actions or unedited statements." #NT!
+ separated_shadow_modifier:0 "Materialized Shadow" #NT!
+ pasiphae_modifier:0 "Pasiphae" #NT!
+
+ wraith_possession_diplomacy_gain_modifier:0 "Wraith Possession: Diplomacy Gain" #NT!
+ wraith_possession_martial_gain_modifier:0 "Wraith Possession: Martial Gain" #NT!
+ wraith_possession_stewardship_gain_modifier:0 "Wraith Possession: Stewardship Gain" #NT!
+ wraith_possession_intrigue_gain_modifier:0 "Wraith Possession: Intrigue Gain" #NT!
+ wraith_possession_learning_gain_modifier:0 "Wraith Possession: Learning Gain" #NT!
+ wraith_possession_prowess_gain_modifier:0 "Wraith Possession: Prowess Gain" #NT!

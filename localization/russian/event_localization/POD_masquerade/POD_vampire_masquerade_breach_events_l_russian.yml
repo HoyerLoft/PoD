@@ -1,0 +1,45 @@
+﻿l_russian:
+ POD_vampire_masquerade_breach.100.title:0 "Breach of the Masquerade" #NT!
+ POD_vampire_masquerade_breach.100.desc:0 "[mortal.GetTitledFirstName] saw you violate the Silence of Blood, revealing yourself as a vampire.  [masquerade|E] has been breached. What shall be done with them?" #NT!
+ POD_vampire_masquerade_breach.100.a:0 "Make them forget." #NT!
+ POD_vampire_masquerade_breach.100.b:0 "Ignore them for now." #NT!
+ POD_vampire_masquerade_breach.100.c:0 "Bribe them to say nothing." #NT!
+ POD_vampire_masquerade_breach.100.d:0 "Kill them." #NT!
+ POD_vampire_masquerade_breach.100.e:0 "Drain [mortal.GetTitledFirstName] of blood, killing them. " #NT!
+ POD_vampire_masquerade_breach.100.d.tt.beast:0 "#R The prey has smelled the predator - strike now, lest you become prey yourself.#!" #NT!
+ POD_vampire_masquerade_breach.100.e.tt.beast:0 "#R Two birds with one stone!#!" #NT!
+ POD_vampire_masquerade_breach.100.d.notwounded:0 "You overcome the puny mortal unscathed" #NT!
+ POD_vampire_masquerade_breach.100.d.wounded:0 "The mortal proves.... Troublesome" #NT!
+ POD_vampire_masquerade_breach.100.d.woundedtoast:0 "Before going down, [mortal.GetTitledFirstName] managed to wound you." #NT!
+ POD_vampire_masquerade_breach.100.d.woundedtoastitle:0 "Wounded" #NT!
+
+ POD_vampire_masquerade_breach.300.title:0 "Breach of the Masquerade" #NT!
+ POD_vampire_masquerade_breach.300.desc:0 "[mortal.GetTitledFirstName] saw [vampire_exposes_masquerade.GetTitledFirstName] violate the Silence of Blood, revealing [vampire_exposes_masquerade.GetFirstName] as a vampire.  [masquerade|E] has been breached. What shall be done with [mortal.GetFirstName]?" #NT!
+ POD_vampire_masquerade_breach.300.a:0 "Make [mortal.GetTitledFirstName] forget." #NT!
+ POD_vampire_masquerade_breach.300.b:0 "Ignore [mortal.GetTitledFirstName] for now. " #NT!
+ POD_vampire_masquerade_breach.300.c:0 "Bribe [mortal.GetTitledFirstName] to say nothing." #NT!
+ POD_vampire_masquerade_breach.300.d:0 "Kill [mortal.GetTitledFirstName]." #NT!
+
+ POD_vampire_masquerade_breach.400.title:0 "Breach of the Masquerade" #NT!
+ POD_vampire_masquerade_breach.400.desc:0 "[vampire_exposes_masquerade.GetTitledFirstName] has violated the Silence of Blood, revealing themself as a vampire.  [masquerade|E] has been breached. What shall be done with [vampire_exposes_masquerade.GetFirstName]?" #NT!
+ POD_vampire_masquerade_breach.400.a:0 "Forgive [vampire_exposes_masquerade.GetTitledFirstName] for a favor." #NT!
+ POD_vampire_masquerade_breach.400.b:0 "Forgive [vampire_exposes_masquerade.GetTitledFirstName]." #NT!
+ POD_vampire_masquerade_breach.400.c:0 "Order my minions to arrest [vampire_exposes_masquerade.GetTitledFirstName]." #NT!
+ POD_vampire_masquerade_breach.400.d:0 "This is not forgiven or forgotten [vampire_exposes_masquerade.GetTitledFirstName]." #NT!
+ POD_vampire_masquerade_breach.400.c.Arrest:0 "[vampire_exposes_masquerade.GetTitledFirstName] is brought to my dungeon in chains." #NT!
+ POD_vampire_masquerade_breach.400.c.ArrestNotificationtitle:0 "Breach contained" #NT!
+ POD_vampire_masquerade_breach.400.c.ArrestNotification:0 "[vampire_exposes_masquerade.GetTitledFirstName] has been imprisoned." #NT!
+ POD_vampire_masquerade_breach.400.c.Escape:0 "[vampire_exposes_masquerade.GetTitledFirstName] evades capture." #NT!
+ POD_vampire_masquerade_breach.400.c.EscapeNotificationtitle:0 "[vampire_exposes_masquerade.GetTitledFirstName] escaped!" #NT!
+ POD_vampire_masquerade_breach.400.c.EscapeNotification:0 "Your minions failed to bring [vampire_exposes_masquerade.GetTitledFirstName] in. #R Weaklings.#!" #NT!
+
+ POD_opinion_breached_masquerade:0 "Breached Masquerade" #NT!
+ POD_masquerade_breach:0 "Masquerade Breach" #NT!
+ POD_masquerade_breach_desc:0 "A vampire violated the Silence of Blood.  [masquerade|E] has been breached." #NT!
+
+ trait_POD_knows_too_much:0 "Knows too much" #NT!
+ trait_POD_knows_too_much_desc:0 "This mortal has witnessed a glimpse of the supernatural and survived... for now." #NT!
+
+
+
+

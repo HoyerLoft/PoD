@@ -1,0 +1,349 @@
+﻿l_russian:
+
+ POD_hun_manipulation_interaction:0 "Hun Manipulation" #NT!
+ POD_hun_manipulation_interaction_desc:0 "You use your art to manipulate your soul." #NT!
+
+ POD_adjust_balance_interaction:0 "Adjust Balance" #NT!
+ POD_adjust_balance_interaction_desc:0 "Create minor variants to a target's internal balance of chi, possibly allowing to create imbalances or cure them." #NT!
+ POD_adjust_balance_interaction_to_yin:0 "Yin (One unit)" #NT!
+ POD_adjust_balance_interaction_to_yang:0 "Yang (One unit)" #NT!
+ POD_adjust_balance_interaction_to_balanced:0 "Balanced (One unit)" #NT!
+ POD_adjust_balance_interaction_to_yin_instant:0 "Yin (Directly)" #NT!
+ POD_adjust_balance_interaction_to_yang_instant:0 "Yang (Directly)" #NT!
+ POD_adjust_balance_interaction_to_balanced_instant:0 "Balanced (Directly)" #NT!
+
+ POD_shift_balance_interaction:0 "Shift Balance" #NT!
+ POD_shift_balance_interaction_desc:0 "Alter your internal Chi balance, becoming either Yin or Yang imbalanced. You can only change one chi virtue unit when you don't have the Shift the Balance perk." #NT!
+ POD_shift_balance_interaction_to_yin:0 "Yin (One unit)" #NT!
+ POD_shift_balance_interaction_to_yang:0 "Yang (One unit)" #NT!
+ POD_shift_balance_interaction_to_balanced:0 "Balanced (One unit)" #NT!
+ POD_shift_balance_interaction_to_yin_instant:0 "Yin (Directly)" #NT!
+ POD_shift_balance_interaction_to_yang_instant:0 "Yang (Directly)" #NT!
+ POD_shift_balance_interaction_to_balanced_instant:0 "Balanced (Directly)" #NT!
+
+ POD_chi_interrupt_interaction:0 "Interrupt Chi" #NT!
+ POD_chi_interrupt_interaction_desc:0 "Stop the internal flow of chi within [recipient.GetFirstName], causing painful spasms." #NT!
+
+ POD_distant_death_kata_interaction:0 "Distant Death Kata" #NT!
+ POD_distant_death_kata_interaction_desc:0 "By slowly inhaling and exhaling while punching in the air, you may mystically transfer your punch to [recipient.GetFirstName]." #NT!
+
+ POD_absorb_chi_interaction:0 "Devour Chi" #NT!
+ POD_absorb_chi_interaction_desc:0 "Harvest Chi from [recipient.GetFirstName] until you are full or [recipient.GetSheHe] are empty." #NT!
+ POD_absorb_chi_interaction_breath_yin:0 "Devour Yin Chi from breath" #NT!
+ POD_absorb_chi_interaction_breath_yang:0 "Devour Yang Chi from breath" #NT!
+ POD_absorb_chi_interaction_flesh:0 "Devour Chi from blood" #NT!
+ POD_absorb_chi_interaction_devore_chi_even_overdose:0 "Overdose" #NT!
+ POD_absorb_chi_ambient_interaction:0 "Osmosis" #NT!
+ POD_absorb_chi_ambient_interaction_desc:0 "Harvest Chi from the ambient area, this will deteriorate the environment and raise the local Wall level." #NT!
+ POD_absorb_chi_interaction_ambient:0 "Devour Chi from the ambient area." #NT!
+ POD_absorb_chi_piety_interaction:0 "Prayer-Eating" #NT!
+ POD_absorb_chi_piety_interaction_desc:0 "Transform prayers directed at [recipient.GetFirstName] into a nourishing, honey-like substance that replenishes [recipient.GetHerHiS] chi." #NT!
+
+ POD_awake_spirit_interaction:0 "Awake" #NT!
+ POD_awake_spirit_interaction_desc:0 "Awake [recipient.GetFirstName]." #NT!
+
+ POD_freeze_spirit_interaction:0 "Freeze" #NT!
+ POD_freeze_spirit_interaction_desc:0 "Freeze [recipient.GetFirstName]." #NT!
+
+ POD_lash_the_demon_interaction:0 "Separate Darker Sides" #NT!
+ POD_lash_the_demon_interaction_desc:0 "Separate [recipient.GetFirstName] from [recipient.GetHerHis] darker sides (the vampiric Beast, a wraith's Shadow etc.). " #NT!
+ POD_forced_to_frenzy.tt:0 "The victim immediately frenzies." #NT!
+
+ POD_chi_heal:0 "Chi Heal" #NT!
+ POD_chi_heal_action:0 "Chi Heal" #NT!
+ POD_chi_heal_interaction:0 "Chi Heal" #NT!
+ POD_chi_heal_shih_interaction:0 "Chi Heal" #NT!
+ POD_chi_heal_wutian_interaction:0 "Chi Heal" #NT!
+ POD_chi_heal_interaction_desc:0 "Use the power of Chi to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_chi_heal_interaction_options_heading:0 "What shall I call on Chi to heal?" #NT!
+ POD_yangchi_heal:0 "Yang Chi Heal" #NT!
+ POD_yangchi_heal_action:0 "Yang Chi Heal" #NT!
+ POD_yangchi_heal_interaction:0 "Yang Chi Heal" #NT!
+ POD_yangchi_heal_interaction_desc:0 "Use the power of Yang Chi mixed with your blood to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_yangchi_heal_interaction_options_heading:0 "What shall I call on Yang Chi to heal?" #NT!
+
+ POD_shapeshift_by_chi:0 "Shapeshift" #NT!
+ POD_shapeshift_by_chi_interaction:0 "Shapeshift" #NT!
+ POD_shapeshift_by_chi_interaction_desc:0 "Use your Chi to shapeshift your form." #NT!
+ POD_vampshapeshift_interaction_demonic_feature:0 "Set Demonic Feature" #NT!
+ POD_vampshapeshift_interaction_transform_demonic_feature:0 "Reset Demonic Feature" #NT!
+ POD_vampshapeshift_interaction_metallic_modification:0 "Metallic Modification" #NT!
+
+ POD_adopt_chihmei_prisioner:0 "Civilize" #NT!
+ POD_adopt_chihmei_prisioner_interaction:0 "Civilize" #NT!
+ POD_adopt_chihmei_prisioner_interaction_desc:0 "By ritual, you can civilize this chih-mei, wash up all [recipient.GetHerHis] traits and adopt them as your disciple." #NT!
+
+ POD_choose_sire_interaction:0 "Choose [Sire|E]" #NT!
+ POD_choose_sire_interaction_desc:0 "You want [recipient.GetFirstName] to become your [Sire|E]." #NT!
+
+ POD_choose_sifu_interaction:0 "Choose Sifu" #NT!
+ POD_choose_sifu_interaction_desc:0 "You want [recipient.GetFirstName] to become your Sifu." #NT!
+
+ POD_spirit_eating_interaction:0 "Spirit Eating #weak (Scheme)#!" #NT!
+ POD_spirit_eating_interaction_desc:0 "Remove the soul from the victim's body. You can use this ability for healing magic or to set a tormented soul right, or even to devour souls outright." #NT!
+
+ POD_chi_rift_interaction:0 "Chi Rift" #NT!
+ POD_chi_rift_interaction_desc:0 "Unleashing a tempest of elemental Chi that will wreak havoc in an area." #NT!
+ POD_chi_rift_interaction.tt:0 "You will unleash a tempest of elemental Chi over [recipient.GetFirstName]'s realm" #NT!
+ POD_chi_rift.duel.desc:0 "Power Challenge" #NT!
+ POD_chi_rift.duel.success:0 "You successfully used the Chi Rift power" #NT!
+ POD_chi_rift.duel.tt.attacker_wins:0 "[recipient.GetFirstName]'s realm submerges into a tempest of elemental Chi that wreaks havoc wherever it goes." #NT!
+ POD_chi_rift.duel.failure:0 "You fail to use the Chi Rift power" #NT!
+ POD_chi_rift.duel.tt.attacker_lost:0 "You fail" #NT!
+ POD_whole_realm_was_havocked_toast:0 "A tempest of elemental Chi was released on your realm by [actor.GetFirstName]" #NT!
+ POD_havocked_enemy_realm_toast:0 "You've successfully released a tempest of elemental Chi over [recipient.GetFirstName]'s realm" #NT!
+ POD_chi_rift_failed_toast:0 "You couldn't release a tempest of elemental Chi over [recipient.GetFirstName]'s realm" #NT!
+ POD_capital_county_havocked_toast:0 "A tempest of elemental Chi was released on your capital by [actor.GetFirstName]" #NT!
+
+ POD_kueijin_spy_interaction:0 "Spy" #NT!
+ POD_kueijin_spy_interaction_desc:0 "Use your arts power to know [recipient.GetFirstName]'s secret or block [recipient.GetFirstName]'s scheme." #NT!
+ POD_kueijin_spy_interaction_options_heading:0 "Which power shall I use?" #NT!
+ POD_kueijin_spy_interaction_evaluate:0 "Evaluate" #NT!
+ POD_kueijin_spy_interaction_scrutinize:0 "Scrutinize" #NT!
+ POD_kueijin_spy_interaction_permeate:0 "Permeate" #NT!
+ POD_kueijin_spy_interaction_detach_limb:0 "Detach Limb" #NT!
+ POD_kueijin_spy_interaction_permeate_plus:0 "Permeate+" #NT!
+ POD_kueijin_spy_interaction_pelesit:0 "Pelesit" #NT!
+ POD_kueijin_spy.duel.success:0 "You successfully used the power" #NT!
+ POD_kueijin_spy.duel.tt.evaluate:0 "You scanned your opponent and discerned [recipient.GetHerHis] weaknesses." #NT!
+ POD_kueijin_spy.duel.tt.scrutinize:0 "You know the dark plan of your opponent." #NT!
+ POD_kueijin_spy.duel.tt.permeate:0 "You teleported into your opponent's haven and stole some of [recipient.GetHerHis] secrets." #NT!
+ POD_kueijin_spy.duel.tt.detach_limb:0 "You detach and animate one of your body part to silently interfere with your opponent's schemes." #NT!
+ POD_kueijin_spy.duel.tt.permeate_plus:0 "You can pass any wall or ground, no defense can stop your infiltration." #NT!
+ POD_kueijin_spy.duel.tt.pelesit:0 "You transform same flesh into an insect, now your opponent can't hide anything from you." #NT!
+ POD_kueijin_spy.duel.failure:0 "You fail to use the power" #NT!
+ POD_kueijin_spy.duel.tt.attacker_lost:0 "You fail" #NT!
+
+ POD_purification_interaction:0 "Purification" #NT!
+ POD_purification_interaction_desc:0 "Your third eye bathes the target in a luminous radiance, thus allowing healing [recipient.GetFirstName] Derangement." #NT!
+
+ POD_soul_bridge_interaction:0 "Soul Bridge" #NT!
+ POD_soul_bridge_interaction_desc:0 "Your silently transmit simple empathic urges to [recipient.GetFirstName], the emotion is strong enough that [recipient.GetFirstName] is forced to act on it." #NT!
+
+ POD_chi_mastery_interaction:0 "Chi Mastery" #NT!
+ POD_chi_mastery_interaction_desc:0 "With a touch, you can bleed the Chi from [recipient.GetFirstName] or you can corrupt the Chi flow, defiling [recipient.GetFirstName]." #NT!
+ POD_chi_mastery_interaction_option_bleed:0 "Bleed the Chi" #NT!
+ POD_chi_mastery_interaction_option_corrupt:0 "Corrupt the Chi" #NT!
+ PODchi_mastery.duel.desc:0 "Power Challenge" #NT!
+ PODchi_mastery.duel.success:0 "You successfully used the Chi Mastery power" #NT!
+ PODchi_mastery.duel.tt.attacker_wins:0 "[recipient.GetFirstName]'s Chi or equivalent disperses into the surrounding atmosphere or becomes corrupted." #NT!
+ PODchi_mastery.duel.failure:0 "You fail to use the Chi Mastery power" #NT!
+ PODchi_mastery.duel.tt.attacker_lost:0 "You fail" #NT!
+
+ POD_celestial_needle_interaction:0 "Celestial Needle" #NT!
+ POD_celestial_needle_interaction_desc:0 "Mend Chi Rifts and other gaps between the worlds." #NT!
+ not_have_chi_rift_in_location:0 "The target province must have the [GetModifier( 'chi_rift_power_modifier' ).GetNameWithTooltip|L] modifier." #NT!
+
+ POD_steal_chi_interaction:0 "Steal Chi" #NT!
+ POD_steal_chi_interaction_desc:0 "Steal Chi from [recipient.GetFirstName]." #NT!
+ POD_steal_chi_interaction_weapon:0 "Steal Chi to enhance a weapon" #NT!
+ POD_steal_chi_interaction_yangchi:0 "Steal Yang Chi for yourself" #NT!
+ POD_steal_chi_interaction_yinchi:0 "Steal Yin Chi for yourself" #NT!
+
+ POD_celestial_barrier_interaction:0 "Celestial Barrier" #NT!
+ POD_celestial_barrier_interaction_desc:0 "Temporarily blocks the shen's ability to take Chi from other sources." #NT!
+
+ POD_chi_castle_interaction:0 "Chi Castle" #NT!
+ POD_chi_castle_interaction_desc:0 "Form a temporary Dragon Nest." #NT!
+
+ POD_tread_the_dragon_tracks_interaction:0 "Tread the Dragon Tracks" #NT!
+ flowing_with_the_down_interaction:0 "Flowing with the Down" #NT!
+ POD_dragon_chariot_interaction:0 "Dragon Chariot" #NT!
+ POD_dragon_chariot_interaction_desc:0 "Travel with your army alongside a Dragon Line." #NT!
+ POD_dragons_rapine_interaction:0 "Dragon Rapine" #NT!
+ POD_dragons_rapine_interaction_desc:0 "Teleport one's army along a Dragon Line." #NT!
+
+ POD_soul_exchange_interaction:0 "Soul Exchange" #NT!
+ POD_soul_exchange_interaction_desc:0 "Exchange [recipient.GetFirstName] soul and another soul from your or [recipient.GetHerHis] court." #NT!
+ recipient_secondary_POD_soul_exchange_interaction:0 "Another Soul" #NT!
+
+ POD_taming_the_fire_interaction:0 "Taming the Fire" #NT!
+ POD_taming_the_fire_interaction_desc:0 "You command and redirect [recipient.GetFirstName]'s soul into a Fire or Wave Soul." #NT!
+ POD_taming_the_fire_interaction_options_heading:0 "Into what soul shall I redirect this victim?" #NT!
+ POD_taming_the_fire_interaction_fire:0 "Fire Soul." #NT!
+ POD_taming_the_fire_interaction_wave:0 "Wave Soul." #NT!
+
+ POD_evocation_of_madness_interaction:0 "Evocation of Madness" #NT!
+ POD_evocation_of_madness_interaction_desc:0 "You force another cathayan into Shadow Soul." #NT!
+
+ POD_po_manipulation_interaction:0 "Manipulate P'o" #NT!
+ POD_po_manipulation_interaction_desc:0 "You use your art to manipulate your demon." #NT!
+ POD_po_manipulation_interaction_options_heading:0 "Which power shall I use?" #NT!
+ POD_po_manipulation_interaction_cleave_the_demon:0 "Cleave the Demon" #NT!
+ POD_po_manipulation_interaction_yoke_the_demon:0 "Yoke the Demon" #NT!
+ POD_po_manipulation_interaction_two_become_one:0 "Two Become One" #NT!
+ POD_po_manipulation_interaction_strengthening_the_demon:0 "Strengthening the Demon" #NT!
+
+ POD_inspire_life_interaction:0 "Inspire Life" #NT!
+ POD_inspire_life_interaction_desc:0 "Force [recipient.GetFirstName] into a non-living item." #NT!
+
+ POD_darkling_mirror_interaction:0 "Darkling mirror" #NT!
+ POD_darkling_mirror_interaction_desc:0 "Split your P'o" #NT!
+ POD_darkling_mirror_interaction.tt:0 "You will try to split your P'o apart from your Hun and body." #NT!
+
+ POD_train_arts_interaction:0 "Train Art" #NT!
+ POD_train_arts_interaction_desc:0 "Teach [recipient.GetFirstName] one of your Art" #NT!
+
+ POD_manifest_demon_weapon_interaction:0 "Manifest Demon Weapon" #NT!
+ POD_manifest_demon_weapon_interaction_desc:0 "Manifest your personal demon weapon." #NT!
+ artifact_demon_weapon_name:0 "Demon Weapon" #NT!
+ artifact_demon_weapon_description:0 "A mystical weapon appears in the character's hand. Such a weapon might blaze with Chi, emit frightful moans, be covered in leering faces, etc." #NT!
+
+ POD_store_chi_interaction:0 "Store Chi" #NT!
+ POD_store_chi_interaction_desc:0 "Store Chi into your Chi vessel." #NT!
+ POD_store_chi_interaction_options_heading:0 "How much do you want to store?" #NT!
+ POD_extract_chi_interaction:0 "Extract Stored Chi" #NT!
+ POD_extract_chi_interaction_desc:0 "Extract stored Chi from the Chi vessel to refuel you." #NT!
+ POD_extract_chi_interaction_options_heading:0 "How much do you want to extract?" #NT!
+ POD_extract_chi_1_tooltip:0 "Spends #V 1#! stored Chi" #NT!
+ POD_extract_chi_2_tooltip:0 "Spends #V 2#! stored Chi" #NT!
+ POD_extract_chi_3_tooltip:0 "Spends #V 3#! stored Chi" #NT!
+ POD_extract_chi_4_tooltip:0 "Spends #V 4#! stored Chi" #NT!
+ POD_extract_chi_5_tooltip:0 "Spends #V 5#! stored Chi" #NT!
+ POD_extract_chi_6_tooltip:0 "Spends #V 6#! stored Chi" #NT!
+ POD_extract_chi_7_tooltip:0 "Spends #V 7#! stored Chi" #NT!
+ POD_extract_chi_8_tooltip:0 "Spends #V 8#! stored Chi" #NT!
+ POD_extract_chi_9_tooltip:0 "Spends #V 9#! stored Chi" #NT!
+ POD_extract_chi_10_tooltip:0 "Spends #V 10#! stored Chi" #NT!
+ chi_vessel_damaged:0 "Chi Vessel Damaged" #NT!
+
+ POD_taking_the_face_interaction:0 "Taking the Face" #NT!
+ POD_taking_the_face_interaction_desc:0 "You gain the appearance of [recipient.GetFirstName]." #NT!
+
+ POD_goblin_portal_interaction:0 "Goblin Portal" #NT!
+ POD_goblin_portal_interaction_desc:0 "Teleport to [recipient.GetFirstName]'s location." #NT!
+
+ POD_manifest_blood_blade_interaction:0 "Blood Blade" #NT!
+ POD_manifest_blood_blade_interaction_desc:0 "Create a weapon made of blood that causes aggravated damage." #NT!
+
+ POD_manifest_goblin_sword_interaction:0 "Goblin Sword" #NT!
+ POD_manifest_goblin_sword_interaction_desc:0 "Manifests a fiery sword within your hand that can harm both physical as well as spiritual objects." #NT!
+
+ POD_taste_of_jade_interaction:0 "Taste of Jade" #NT!
+ POD_taste_of_jade_interaction_desc:0 "Attune a piece of ordinary jade to Chi energies, turning it into a piece of true jade." #NT!
+
+ POD_manifest_blade_of_stone_interaction:0 "Blade of Stone" #NT!
+ POD_manifest_blade_of_stone_interaction_desc:0 "Create weapons of stone." #NT!
+
+ POD_channel_yin_energy_weapon_interaction:0 "Channel Yin Energy #Weak (Weapon)#!" #NT!
+ POD_channel_yin_energy_armor_interaction:0 "Channel Yin Energy #Weak (Armor)#!" #NT!
+ POD_channel_yin_energy_interaction_desc:0 "With the Yin Mantle active, you can channel Yin energy through metal." #NT!
+ POD_summon_yin_artifact_interaction:0 "Solidify Yin Objects" #NT!
+ POD_summon_yin_artifact_interaction_desc:0 "Create ropes, chains, claws or blades of a black, icy substance." #NT!
+ POD_touch_of_rust_interaction:0 "Touch of Rust" #NT!
+ POD_touch_of_rust_interaction_desc:0 "Make [recipient.GetFirstName] lose all [recipient.GetHerHis] gold." #NT!
+
+ POD_channel_yang_energy_regalia_interaction:0 "Channel Yang Energy #Weak (Regalia)#!" #NT!
+ POD_channel_yang_energy_interaction_desc:0 "While holding a wooden object, you can channel Yang energy through that object." #NT!
+
+ POD_opening_the_gates_interaction:0 "Opening the Gates" #NT!
+ POD_opening_the_gates_interaction_desc:0 "Give [recipient.GetFirstName] wound with the severity depending on [recipient.GetFirstName]'s power fuel level." #NT!
+
+ POD_hand_of_darkness_interaction:0 "Hand of Darkness" #NT!
+ POD_hand_of_darkness_interaction_desc:0 "By directing harmful influences toward an area or interfering with good feng shui, you makes life difficult indeed for that area's residents." #NT!
+ POD_hand_of_darkness_interaction.tt:0 "You will deliberately interferes with or attacks over [recipient.GetFirstName]'s realm's feng shui" #NT!
+ POD_hand_of_darkness.duel.desc:0 "Power Challenge" #NT!
+ POD_hand_of_darkness.duel.success:0 "You successfully used the Hand of Darkness power" #NT!
+ POD_hand_of_darkness.duel.tt.attacker_wins:0 "Anyone living or working in [recipient.GetFirstName]'s realm is almost certainly doomed to failure and lack of prosperity." #NT!
+ POD_hand_of_darkness.duel.failure:0 "You fail to use the Hand of Darkness power" #NT!
+ POD_hand_of_darkness.duel.tt.attacker_lost:0 "You fail" #NT!
+ POD_whole_realm_was_cursed_toast:0 "Your realm's feng shui is attacked by [actor.GetFirstName]" #NT!
+ POD_cursed_enemy_realm_toast:0 "You've successfully attacked feng shui over [recipient.GetFirstName]'s realm" #NT!
+ POD_hand_of_darkness_failed_toast:0 "You couldn't interferes with feng shui over [recipient.GetFirstName]'s realm" #NT!
+ POD_capital_county_cursed_toast:0 "Your capital's feng shui is attacked by [actor.GetFirstName]" #NT!
+
+ POD_broom_of_heaven_interaction:0 "Broom of Heaven" #NT!
+ POD_broom_of_heaven_interaction_desc:0 "Uses this power to cleanse an area of evil influences or defilement." #NT!
+ not_have_hand_of_darkness_in_location:0 "The target province must have the [GetModifier( 'hand_of_darkness_modifier' ).GetNameWithTooltip|L] modifier." #NT!
+
+ POD_chi_ward_interaction:0 "Chi Ward" #NT!
+ POD_chi_ward_interaction_desc:0 "Unleashing [GetModifier('chi_ward_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+
+ POD_soul_taint_interaction:0 "Soul Taint" #NT!
+ POD_soul_taint_interaction_desc:0 "Make [recipient.GetFirstName] disliked by everyone, making all their social interactions harder." #NT!
+ POD_infuse_demon_chi_interaction:0 "Infuse Demon Chi" #NT!
+ POD_infuse_demon_chi_interaction_desc:0 "Give [recipient.GetFirstName] stress trait." #NT!
+ POD_purge_tainted_chi_interaction:0 "Purge Tainted Chi" #NT!
+ POD_purge_tainted_chi_interaction_desc:0 "Cure [recipient.GetFirstName]'s stress trait." #NT!
+ POD_calm_the_fires_interaction:0 "Calm the Fires of Frenzy" #NT!
+ POD_calm_the_fires_interaction_desc:0 "Heal [recipient.GetFirstName]'s stress to gain piety." #NT!
+
+ POD_evaluate_interaction:0 "Evaluate" #NT!
+ POD_evaluate_interaction_desc:0 "Make all hostile scheme target to you lose progress." #NT!
+ POD_scrutinize_interaction:0 "Scrutinize" #NT!
+ POD_scrutinize_interaction_desc:0 "Make all scheme target to you become exposed." #NT!
+ POD_the_lens_of_the_self_interaction:0 "The Lens of the Self" #NT!
+ POD_the_lens_of_the_self_interaction_desc:0 "Make all personal scheme target to you gain or lose progress." #NT!
+ POD_the_lens_of_the_self_interaction_increase:0 "Increase" #NT!
+ POD_the_lens_of_the_self_interaction_decrease:0 "Decrease" #NT!
+ POD_the_lens_of_the_self_interaction.increase:0 "All personal scheme target to you gain progress." #NT!
+ POD_the_lens_of_the_self_interaction.decrease:0 "All personal scheme target to you lose progress." #NT!
+
+ POD_a_stumble_on_the_path_interaction:0 "A Stumble on the Path" #NT!
+ POD_a_stumble_on_the_path_interaction_desc:0 "Make [recipient.GetFirstName] lose dharma level." #NT!
+ POD_beyond_the_door_interaction:0 "Beyond the Door" #NT!
+ POD_beyond_the_door_interaction_desc:0 "Teleport into [recipient.GetFirstName]'s location." #NT!
+ POD_adopt_hin_interaction:0 "Adopt Hin" #NT!
+ POD_adopt_hin_interaction_desc:0 "Become [recipient.GetFirstName]'s Sifu." #NT!
+
+ POD_read_destiny_character_interaction:0 "Read the Destiny of #Weak (Character)#!" #NT!
+ POD_read_destiny_character_interaction_desc:0 "Read the destiny of [recipient.GetFirstName] to provide help or gain an advantage." #NT!
+ POD_read_destiny_house_interaction:0 "Read the Destiny of #Weak (House)#!" #NT!
+ POD_read_destiny_house_interaction_desc:0 "Read the destiny of [recipient.GetHouse.GetBaseName] house to provide help or gain an advantage." #NT!
+ POD_read_destiny_dynasty_interaction:0 "Read the Destiny of #Weak (Dynasty)#!" #NT!
+ POD_read_destiny_dynasty_interaction_desc:0 "Read the destiny of [recipient.GetDynasty.GetBaseName] dynasty to provide help or gain an advantage." #NT!
+ POD_read_destiny_interaction_option_advise:0 "Advise their Destiny" #NT!
+ POD_read_destiny_interaction_option_expose:0 "Expose their Destiny" #NT!
+
+ POD_influence_joss_character_interaction:0 "Influence Joss #Weak (Character)#!" #NT!
+ POD_influence_joss_character_interaction_desc:0 "Realign streams of joss to support [recipient.GetFirstName]." #NT!
+ POD_influence_joss_house_interaction:0 "Influence Joss #Weak (House)#!" #NT!
+ POD_influence_joss_house_interaction_desc:0 "Realign streams of joss to support [recipient.GetHouse.GetBaseName]." #NT!
+
+ POD_celestial_curse_interaction:0 "Celestial Curse" #NT!
+ POD_celestial_curse_interaction_desc:0 "Invoke a curse of bad luck upon [recipient.GetFirstName]." #NT!
+
+ POD_reset_zodiac_interaction:0 "Reset Zodiac" #NT!
+ POD_reset_zodiac_interaction_desc:0 "Reset [recipient.GetFirstName]'s Zodiac." #NT!
+ temporary_zodiac_reset_tooltip:0 "This zodiac change will only last 5 year because you don't have [GetPerk( 'substitution_of_the_twelve_perk' ).GetName( GetPlayer )] perk." #NT!
+
+ POD_prevent_destiny_death_interaction:0 "Prevent Destined Death" #NT!
+ POD_prevent_destiny_death_interaction_desc:0 "Prevent [recipient.GetFirstName]'s accidental death by knowing how it would happen." #NT!
+
+ POD_find_past_incarnations_interaction:0 "Find Past Incarnations" #NT!
+ POD_find_past_incarnations_interaction_desc:0 "Find [recipient.GetFirstName]'s past incarnations." #NT!
+
+ POD_voice_harm_interaction:0 "Harmful Voice" #NT!
+ POD_voice_harm_interaction_desc:0 "Use your voice to harm [recipient.GetFirstName]'s knights." #NT!
+
+ POD_razor_winds_interaction:0 "Razor Winds" #NT!
+ POD_razor_winds_interaction_desc:0 "Unleashing a blast of lacerating winds that will wreak havoc in an area." #NT!
+ POD_razor_winds_interaction.tt:0 "You will unleash a blast of lacerating winds over [recipient.GetFirstName]'s realm" #NT!
+ POD_razor_winds.duel.desc:0 "Power Challenge" #NT!
+ POD_razor_winds.duel.success:0 "You successfully used the Razor Winds power" #NT!
+ POD_razor_winds.duel.tt.attacker_wins:0 "[recipient.GetFirstName]'s realm submerges into a blast of lacerating winds that howl wherever it goes." #NT!
+ POD_razor_winds.duel.failure:0 "You fail to use the Razor Winds power" #NT!
+ POD_razor_winds.duel.tt.attacker_lost:0 "You fail" #NT!
+ POD_razor_winds_failed_toast:0 "You couldn't release a blast of lacerating winds over [recipient.GetFirstName]'s realm" #NT!
+
+ POD_remembrance_of_yomi_interaction:0 "Remembrance of Yomi" #NT!
+ POD_remembrance_of_yomi_interaction_desc:0 "Bring Yomi memories to [recipient.GetFirstName]'s mind." #NT!
+ POD_command_akuma_interaction:0 "Command Akuma" #NT!
+ POD_command_akuma_interaction_desc:0 "Force an Akuma to do depraved acts for you." #NT!
+ actor_secondary_POD_command_akuma_interaction:0 "Akuma" #NT!
+
+ POD_illusion_shattering_strike_interaction:0 "Illusion-Shattering Strike" #NT!
+ POD_illusion_shattering_strike_interaction_desc:0 "Sending [recipient.GetFirstName] back into [recipient.GetHerHis] native realm" #NT!
+
+ POD_feed_the_soul_interaction:0 "Feed the Soul" #NT!
+ POD_feed_the_soul_interaction_desc:0 "Transfer perk points from one to other." #NT!
+ POD_feed_the_soul_interaction_from_diplomacy_lifestyle:0 "From diplomacy lifestyle" #NT!
+ POD_feed_the_soul_interaction_from_martial_lifestyle:0 "From martial lifestyle" #NT!
+ POD_feed_the_soul_interaction_from_stewardship_lifestyle:0 "From stewardship lifestyle" #NT!
+ POD_feed_the_soul_interaction_from_intrigue_lifestyle:0 "From intrigue lifestyle" #NT!
+ POD_feed_the_soul_interaction_from_learning_lifestyle:0 "From learning lifestyle" #NT!
+ POD_feed_the_soul_interaction_to_diplomacy_lifestyle:0 "To diplomacy lifestyle" #NT!
+ POD_feed_the_soul_interaction_to_martial_lifestyle:0 "To martial lifestyle" #NT!
+ POD_feed_the_soul_interaction_to_stewardship_lifestyle:0 "To stewardship lifestyle" #NT!
+ POD_feed_the_soul_interaction_to_intrigue_lifestyle:0 "To intrigue lifestyle" #NT!
+ POD_feed_the_soul_interaction_to_learning_lifestyle:0 "To learning lifestyle" #NT!

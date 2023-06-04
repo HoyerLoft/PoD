@@ -1,0 +1,92 @@
+﻿l_russian:
+
+ #Common Road of Blood Localization #NT!
+ roadofblood_religion:0 "Road of Blood" #NT!
+ roadofblood_religion_adj:0 "Sentinel" #NT!
+ roadofblood_religion_adherent:0 "Sentinel" #NT!
+ roadofblood_religion_adherent_plural:0 "Sentinels" #NT!
+ roadofblood_religion_desc:0 "Since the curse put upon them by the Baali, [Clan|E] Assamite mainly follow this road of destruction and purification by [diablerie|E]. Each kill is only a temporary respite from an unending hunger." #NT!
+ roadofblood_high_god_name:0 "Blood" #NT!
+ roadofblood_high_god_name_possessive:0 "Blood's" #NT!
+ roadofblood_high_god_name_alternate:0 "The Blood" #NT!
+ roadofblood_high_god_name_alternate_possessive:0 "The Blood's" #NT!
+ roadofblood_good_god_jesus:0 "$roadofblood_health_god_name$" #NT!
+ roadofblood_good_god_christ:0 "Haqim" #NT!
+ roadofblood_devil_name:0 "The Beast" #NT!
+ roadofblood_devil_name_possessive:0 "The Beast's" #NT!
+ roadofblood_evil_god_lucifer:0 "The Beast" #NT!
+ roadofblood_evil_god_beelzebub:0 "The Beast" #NT!
+ roadofblood_evil_god_mephistopheles:0 "The Beast" #NT!
+ roadofblood_death_deity_name:0 "Destruction" #NT!
+ roadofblood_death_deity_name_possessive:0 "Destruction's" #NT!
+ roadofblood_house_of_worship:0 "Alamut" #NT!
+ roadofblood_house_of_worship_plural:0 "Alamut" #NT!
+ roadofblood_religious_symbol:0 "dagger" #NT!
+ roadofblood_religious_text:0 "words of Haqim" #NT!
+ roadofblood_religious_head_title:0 "da'i" #NT!
+ roadofblood_religious_head_title_name:0 "da'i" #NT!
+ roadofblood_devotee_male:0 "da'i" #NT!
+ roadofblood_devotee_male_plural:0 "da'i" #NT!
+ roadofblood_devotee_female:0 "da'i" #NT!
+ roadofblood_devotee_female_plural:0 "da'i" #NT!
+ roadofblood_devotee_neuter:0 "da'i" #NT!
+ roadofblood_devotee_neuter_plural:0 "da'i" #NT!
+ roadofblood_priest_male:0 "da'i" #NT!
+ roadofblood_priest_male_plural:0 "da'i" #NT!
+ roadofblood_priest_alternate_plural:0 "da'i" #NT!
+ roadofblood_bishop:0 "ace" #NT!
+ roadofblood_bishop_plural:0 "ace" #NT!
+ roadofblood_positive_afterlife:0 "heaven" #NT!
+ roadofblood_negative_afterlife:0 "the abyss" #NT!
+ roadofblood_witchgodname_the_horned_god:0 "the Beast" #NT!
+
+ roadofblood_creator_god_name:0 "$roadofblood_high_god_name$" #NT!
+ roadofblood_creator_god_name_possessive:0 "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_health_god_name:0 "blood" #NT!
+ roadofblood_health_god_name_possessive:0 "blood's" #NT!
+ roadofblood_fertility_god_name:0 "$roadofblood_high_god_name$" #NT!
+ roadofblood_fertility_god_name_possessive:0 "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_wealth_god_name:0 "$roadofblood_high_god_name$" #NT!
+ roadofblood_wealth_god_name_possessive:0 "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_household_god_name:0 "$roadofblood_health_god_name$" #NT!
+ roadofblood_household_god_name_possessive:0 "$roadofblood_health_god_name_possessive$" #NT!
+ roadofblood_fate_god_name:0 "$roadofblood_high_god_name$" #NT!
+ roadofblood_fate_god_name_possessive:0 "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_knowledge_god_name:0 "$roadofblood_high_god_name$" #NT!
+ roadofblood_knowledge_god_name_possessive:0 "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_war_god_name:0 "$roadofblood_high_god_name$" #NT!
+ roadofblood_war_god_name_possessive:0 "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_trickster_god_name:0 "Fortuna" #NT!
+ roadofblood_trickster_god_name_possessive:0 "Fortuna's" #NT!
+ roadofblood_night_god_name:0 "$roadofblood_high_god_name$" #NT!
+ roadofblood_night_god_name_possessive:0 "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_water_god_name:0 "$roadofblood_health_god_name$" #NT!
+ roadofblood_water_god_name_possessive:0 "$roadofblood_health_god_name_possessive$" #NT!
+
+ #Sentinel-Group Faiths #NT!
+ tariqelhaqim:0 "Tariq el-Haqim" #NT!
+ tariqelhaqim_adj:0 "Banu Haqim" #NT!
+ tariqelhaqim_adherent:0 "Sentinel" #NT!
+ tariqelhaqim_adherent_plural:0 "Sentinels" #NT!
+ tariqelhaqim_desc:0 "Those who follow Via Sanguinus are among the most deadly to their fellow [cainites|E], as the act of [diablerie|E] is almost a rite of purification among the Sentinels. Indeed, one of the main tenets of the road are for its followers to purge all that are unworthy of the blood of Caine and purify the bloodlines." #NT!
+
+ pathofrighteousness:0 "Path of Righteousness" #NT!
+ pathofrighteousness_adj:0 "Righteousness" #NT!
+ pathofrighteousness_adherent:0 "Watcher" #NT!
+ pathofrighteousness_adherent_plural:0 "Watchers" #NT!
+ pathofrighteousness_desc:0 "Watchers over Watchers, adherents of this path concern themselves with rooting out corruption and lack of resolve among adherents of the Road of Blood." #NT!
+
+ holy_order_sentinnels_of_haqim:0 "The Sentinels of Haqim" #NT!
+ holy_order_knives:0 "The Knives in the Dark" #NT!
+ holy_order_judges:0 "The Judges" #NT!
+ holy_order_alamut:0 "The Warriors of Alamut" #NT!
+
+ sisterhoodoferinyes:0 "Sisterhood of Erinyes" #NT!
+ sisterhoodoferinyes_adj:0 "Sisterly" #NT!
+ sisterhoodoferinyes_adherent:0 "Sister" #NT!
+ sisterhoodoferinyes_adherent_plural:0 "Sisters" #NT!
+ sisterhoodoferinyes_desc:0 "The Sisterhood has existed in one form or another since the nights of ancient Greece, when a vizir gave the blood to a trio of sisters rumored to have prophetic powers.\nDedicated to uphold Haqim's view on justice, the Sisters have often been ostracized by the male dominated Alamut but have always carried themselves publicly and with pride in the halls of the Banu Haqim." #NT!
+
+
+
+

@@ -1,0 +1,41 @@
+﻿l_russian:
+ gauntlet0_modifier:0 "Shroud 0" #NT!
+ gauntlet0_modifier_desc:0 "Skinlands and Shadowlands are one again, for now." #NT!
+ gauntlet1_modifier:0 "Gauntlet 1" #NT!
+ gauntlet1_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet2_modifier:0 "Gauntlet 2" #NT!
+ gauntlet2_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet3_modifier:0 "Gauntlet 3" #NT!
+ gauntlet3_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet4_modifier:0 "Gauntlet 4" #NT!
+ gauntlet4_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet5_modifier:0 "Gauntlet 5" #NT!
+ gauntlet5_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet6_modifier:0 "Gauntlet 6" #NT!
+ gauntlet6_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet7_modifier:0 "Gauntlet 7" #NT!
+ gauntlet7_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet8_modifier:0 "Gauntlet 8" #NT!
+ gauntlet8_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet9_modifier:0 "Gauntlet 9" #NT!
+ gauntlet9_modifier_desc:0 "Gauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+ gauntlet10_modifier:0 "Gauntlet 10" #NT!
+ gauntlet10_modifier_desc:0 "#Bold Those who sit in this location are not allowed to use Chi Art.#!\nGauntlet(Shroud) is the barrier surrounding material reality, also referred to as the Wall in the Middle Kingdom." #NT!
+
+ spirit_opinion0_modifier:0 "Spirit State 0: Furious" #NT!
+ spirit_opinion1_modifier:0 "Spirit State 1: Angry" #NT!
+ spirit_opinion2_modifier:0 "Spirit State 2: Disappointed" #NT!
+ spirit_opinion3_modifier:0 "Spirit State 3: Calmed" #NT!
+ spirit_opinion4_modifier:0 "Spirit State 4: Happy" #NT!
+ spirit_opinion5_modifier:0 "Spirit State 5: Grateful" #NT!
+
+ temporary_dragon_nest_modifier:0 "Temporary Dragon Nest" #NT!
+
+ NOT_has_wall_trigger_tooltip:0 "This location #Bold not#! have the Wall(Gauntlet) county modifier." #NT!
+ NOT_has_shroud_trigger_tooltip:0 "This location #Bold not#! have the Shroud(Gauntlet) county modifier." #NT!
+ NOT_wall_too_strong_trigger_tooltip:0 "This location must not have the Wall(Gauntlet) county modifier at level 10." #NT!
+ NOT_has_spirit_opinion_trigger_tooltip:0 "This location must have 'Spirit Opinion' county modifier." #NT!
+ NOT_has_temporary_dragon_nest_modifier:0 "This location already have 'Temporary Dragon Nest' province modifier." #NT!
+
+ nihil_modifier:0 "Nihil" #NT!
+ nihil_modifier_desc:0 "A portal that connects a specific location to the Tempest or the Labyrinth." #NT!

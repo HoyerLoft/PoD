@@ -1,0 +1,638 @@
+﻿l_russian:
+ # Default title names #NT!
+ e_enoch:0 "Энох" #NT!
+ e_enoch_adj:0 "Энохск" #NT!
+ e_fiefs_of_the_black_cross:0 "Вотчины Черного креста" #NT!
+ e_fiefs_of_the_black_cross_adj:0 "Вентрск" #NT!
+ e_voivodate:0 "Воеводство" #NT!
+ e_voivodate_adj:0 "Цимисхск" #NT!
+ e_sea_of_shadows:0 "Море Теней" #NT!
+ e_sea_of_shadows_adj:0 "Ласомбрск" #NT!
+ e_avalon:0 "Баронства Авалона" #NT!
+ e_avalon_adj:0 "Авалонск" #NT!
+ e_love:0 "Дворы Любви" #NT!
+ e_love_adj:0 "Тореадор" #NT!
+ e_midgard:0 "Мидгард" #NT!
+ e_midgard_adj:0 "Эйнхерийск" #NT!
+ e_anda:0 "Anda Horde" #NT!
+ e_anda_adj:0 "Anda" #NT!
+ e_ashirra:0 "Аширрский Халифат" #NT!
+ e_ashirra_adj:0 "Аширра" #NT!
+ e_assamites:0 "Аламут" #NT!
+ e_assamites_adj:0 "Ассамит" #NT!
+ k_giovanni:0 "Семья Джованни" #NT!
+ k_giovanni_adj:0 "Джованни" #NT!
+ e_ravnos:0 "Ravnos Kshatriya" #NT!
+ e_ravnos_adj:0 "Ravnos" #NT!
+ e_setite:0 "Последователи Сета" #NT!
+ e_setite_adj:0 "Сетит" #NT!
+ e_talmahera:0 "Tal'mahe'Ra" #NT!
+ e_talmahera_adj:0 "Black Hand" #NT!
+ k_obertus:0 "Obertus Akoimetoi" #NT!
+ k_obertus_adj:0 "Obertus" #NT!
+ k_moloch:0 "Орден Молоха" #NT!
+ k_moloch_adj:0 "Молохимск" #NT!
+ k_angellisater:0 "Орден Азанеаля" #NT!
+ k_angellisater_adj:0 "Ангеллис" #NT!
+ k_webofknives:0 "Паутина Кинжалов" #NT!
+ k_webofknives_adj:0 "Паутинск" #NT!
+ k_losttribe:0 "Потерянное Племя" #NT!
+ k_losttribe_adj:0 "Потерянный" #NT!
+ k_olives:0 "Diet of Olives" #NT!
+ k_olives_adj:0 "Салюбрск" #NT!
+ k_seeofnod:0 "Море Нод" #NT!
+ k_seeofnod_adj:0 "Еретическ" #NT!
+ e_tremere:0 "Дом Тремер" #NT!
+ e_tremere_adj:0 "Тремерск" #NT!
+ e_shadow_curtain:0 "Теневая Завеса" #NT!
+ e_shadow_curtain_adj:0 "Тенев" #NT!
+ k_erciyes:0 "Аргеос" #NT!
+ k_erciyes_adj:0 "Каппадокийск" #NT!
+ k_free_state:0 "Free State" #NT!
+ k_free_state_adj:0 "Furores" #NT!
+ k_lacadaemonia:0 "New Lacadaemonia" #NT!
+ k_lacadaemonia_adj:0 "Promethean" #NT!
+ d_city_of_god:0 "City of God" #NT!
+ d_city_of_god_adj:0 "Heretic" #NT!
+ k_blood_horde:0 "Кровавая Орда" #NT!
+ k_blood_horde_adj:0 "Гангрельск" #NT!
+ d_bar_sinister:0 "Bar Sinister" #NT!
+ d_bar_sinister_adj:0 "Furores" #NT!
+ k_midnight_crescent:0 "Ночной Полумесяц" #NT!
+ k_midnight_crescent_adj:0 "Аширрск" #NT!
+ d_silent_fury:0 "Silent Fury" #NT!
+ d_silent_fury_adj:0 "Furores" #NT!
+ k_feral_horde:0 "Feral Horde" #NT!
+ k_feral_horde_adj:0 "Gangrel" #NT!
+ k_eastern_lords:0 "Восточные владыки" #NT!
+ k_eastern_lords_adj:0 "Венгерский" #NT!
+ e_infinite_thunder:0 "Infinite Thunder Court" #NT!
+ e_infinite_thunder_adj:0 "Thunder" #NT!
+ e_scarlet_dragon:0 "Scarlet Phoenix Court" #NT!
+ e_scarlet_dragon_adj:0 "Scarlet" #NT!
+ k_white_exiles:0 "White Exiles" #NT!
+ k_white_exiles_adj:0 "Exiles" #NT!
+ d_orme_alliance:0 "Orme Alliance" #NT!
+ d_orme_alliance_adj:0 "Norman" #NT!
+ k_golden_cross:0 "Courts of the Golden Cross" #NT!
+ k_golden_cross_adj:0 "Occitan" #NT!
+ k_grand_court:0 "Grand Court" #NT!
+ k_grand_court_adj:0 "French" #NT!
+ e_dream:0 "Dream" #NT!
+ e_dream_adj:0 "Dreamer" #NT!
+ e_lhiannan:0 "Witching-Lands" #NT!
+ e_lhiannan_adj:0 "Witch" #NT!
+ e_lhiannan_article:0 "The " #NT!
+ k_timisoara_banat:0 "Banat Timisoara" #NT!
+ k_timisoara_banat_adj:0 "Timisoaran" #NT!
+ k_celestial_tribe:0 "Celestial Tribe" #NT!
+ k_celestial_tribe_adj:0 "Celestial" #NT!
+ e_malkavian:0 "Clan Malkavian" #NT!
+ e_malkavian_adj:0 "Malkavian" #NT!
+ e_spqr:0 "S.P.Q.R" #NT!
+ e_spqr_adj:0 "Roman" #NT!
+ e_carthage:0 "Carthage" #NT!
+ e_carthage_adj:0 "Carthaginian" #NT!
+ e_nosferatu:0 "Clan Nosferatu" #NT!
+ e_nosferatu_adj:0 "Nosferatu" #NT!
+ e_eternal_rome:0 "Вечный Рим" #NT!
+ e_eternal_rome_adj:0 "Римский" #NT!
+ e_ventrue:0 "Clan Ventrue" #NT!
+ e_ventrue_adj:0 "Ventrue" #NT!
+ e_church_third_caine:0 "Third Caine" #NT!
+ e_church_third_caine_adj:0 "Third Cainite" #NT!
+ e_church_third_caine_article:0 "Church of the " #NT!
+ e_gangrel:0 "Clan Gangrel" #NT!
+ e_gangrel_adj:0 "Gangrel" #NT!
+ e_free_states:0 "Cainite Free States" #NT!
+ e_free_states_adj:0 "Furores" #NT!
+ e_salubri:0 "Clan Salubri" #NT!
+ e_salubri_adj:0 "Salubri" #NT!
+ e_baali:0 "Clan Baali" #NT!
+ e_baali_adj:0 "Baali" #NT!
+ e_western_ravnos:0 "Western Ravnos" #NT!
+ e_western_ravnos_adj:0 "Western Ravnos" #NT!
+ e_laibon:0 "Ebony Kingdom" #NT!
+ e_laibon_adj:0 "Laibon" #NT!
+ k_golconda:0 "Golconda" #NT!
+ k_golconda_adj:0 "Golconda" #NT!
+ k_shakari:0 "Shakari" #NT!
+ k_shakari_adj:0 "Shakari" #NT!
+ k_ferals_livonia:0 "Ferals of Livonia" #NT!
+ k_ferals_livonia_adj:0 "Livonian" #NT!
+ k_shadow_reconquista:0 "Shadow Reconquista" #NT!
+ k_shadow_reconquista_adj:0 "Reconquista" #NT!
+ k_lunar_shores:0 "Lunar Shores" #NT!
+ k_lunar_shores_adj:0 "Lunatics" #NT!
+ k_haven_of_travellers:0 "Haven of Travellers" #NT!
+ k_haven_of_travellers_adj:0 "Travellers" #NT!
+ k_knights_of_acre:0 "Knights of Acre" #NT!
+ k_knights_of_acre_adj:0 "Knights" #NT!
+ k_sisters_of_st_john:0 "Sisters of St. John" #NT!
+ k_sisters_of_st_john_adj:0 "Sisters" #NT!
+ k_red_order:0 "Red Order" #NT!
+ k_red_order_adj:0 "Red Order" #NT!
+ k_oculi_dei:0 "Oculi Dei" #NT!
+ k_oculi_dei_adj:0 "Oculi Dei" #NT!
+ k_house_murnau:0 "House Murnau" #NT!
+ k_house_murnau_adj:0 "von Murnua" #NT!
+ k_sword_of_st_james:0 "Sword of St. James" #NT!
+ k_sword_of_st_james_adj:0 "Swords" #NT!
+ e_shadow_inquisition:0 "Shadow Inquisition" #NT!
+ e_shadow_inquisition_adj:0 "Inquisition" #NT!
+ k_calomenasforsaken:0 "Calomena's Forsaken" #NT!
+ k_calomenasforsaken_adj:0 "Forsaken" #NT!
+ k_councilofashes:0 "Council of Ashes" #NT!
+ k_councilofashes_adj:0 "Council of Ashes" #NT!
+ e_sphereofendarkenment:0 "Sphere of Endarkenment" #NT!
+ e_sphereofendarkenment_adj:0 "Sphere of Endarkenment" #NT!
+ e_melamutukku:0 "Melam Utukku" #NT!
+ e_melamutukku_adj:0 "Melam Utukku" #NT!
+ k_aracie:0 "Aracie" #NT!
+ k_aracie_adj:0 "Aracie" #NT!
+ d_crimson_curia:0 "Crimson Curia" #NT!
+ d_crimson_curia_adj:0 "Crimson Curia" #NT!
+ e_ordo_vaticinii:0 "Imperium Vaticinni" #NT!
+ e_ordo_vaticinii_adj:0 "Vaticini" #NT!
+ e_libertas_castrum:0 "Fvria Imperiosa's Blood Cult" #Libertas Castrum #NT!
+ e_libertas_castrum_adj:0 "Fvrian" #NT!
+ d_fvriaimperiosa:0 "Fvria Imperiosa" #NT!
+ d_fvriaimperiosa_adj:0 "Fvrian" #NT!
+ d_ordo_vaticinii:0 "Ordo Vaticinii" #NT!
+ d_ordo_vaticinii_adj:0 "Vaticinii" #NT!
+ d_viaapotheosis:0 "Via Apotheosis" #NT!
+ d_viaapotheosis_adj:0 "Apotheosisian" #NT!
+ d_viatartaros:0 "Via Tartaros" #NT!
+ d_viatartaros_adj:0 "Tartarosian" #NT!
+ k_sea_of_wraiths:0 "Sea of Wraiths" #NT!
+ k_sea_of_wraiths_adj:0 "Sea Wraiths" #NT!
+ d_naktanchara:0 "Naktanchara" #NT!
+ d_naktanchara_adj:0 "Naktanchara" #NT!
+ e_patala:0 "Patala" #NT!
+ e_patala_adj:0 "Patalan" #NT!
+ k_franchecomte:0 "Franche-Comté" #NT!
+ k_franchecomte_adj:0 "Franche-Comté" #NT!
+ e_blackdeath:0 "Black Death" #NT!
+ e_blackdeath_adj:0 "Black Death" #NT!
+ d_pathofhonorableaccord:0 "Path of Honorable Accord" #NT!
+ d_pathofhonorableaccord_adj:0 "Path of Honorable Accord" #NT!
+ d_pathofpowerandtheinnervoice:0 "Path of Power and the Inner Voice" #NT!
+ d_pathofpowerandtheinnervoice_adj:0 "Path of Power and the Inner Voice" #NT!
+ d_pathofcathari:0 "Cathari" #NT!
+ d_pathofcathari_adj:0 "Cathari" #NT!
+ d_pathofcathari_article:0 "Path of " #NT!
+ d_pathofthebeast:0 "Path of the Beast" #NT!
+ d_pathofthebeast_adj:0 "Path of the Beast" #NT!
+ d_pathofharmony:0 "Path of Harmony " #NT!
+ d_pathofharmony_adj:0 "Path of Harmony" #NT!
+ d_pathofcaine:0 "Path of Caine" #NT!
+ d_pathofcaine_adj:0 "Path of Caine" #NT!
+ d_pathofnight:0 "Path of Night" #NT!
+ d_pathofnight_adj:0 "Path of Night" #NT!
+ d_pathofmetamorphosis:0 "Path of Metamorphosis" #NT!
+ d_pathofmetamorphosis_adj:0 "Path of Metamorphosis" #NT!
+ d_pathofdeathandthesoul:0 "Path of Death and the Soul" #NT!
+ d_pathofdeathandthesoul_adj:0 "Path of Death and the Soul" #NT!
+ d_vasantasenadharma:0 "Vasantasenadharma" #NT!
+ d_vasantasenadharma_adj:0 "Vasantasenadharma" #NT!
+ d_tariqelsama:0 "Tariq el-Sama" #NT!
+ d_tariqelsama_adj:0 "Tariq el-Sama" #NT!
+ d_einherjar:0 "Эйнхерий" #NT!
+ d_einherjar_adj:0 "Эйнхерийск" #NT!
+ d_viapeccati:0 "Via Peccati" #NT!
+ d_viapeccati_adj:0 "Via Peccati" #NT!
+ d_viavoluptarius:0 "Via Voluptarius" #NT!
+ d_viavoluptarius_adj:0 "Via Voluptarius" #NT!
+ d_viayasaq:0 "Yasa" #NT!
+ d_viayasaq_adj:0 "Yasa" #NT!
+ d_codeofsamiel:0 "Code of Samiel" #NT!
+ d_codeofsamiel_adj:0 "Code of Samiel" #NT!
+ d_codeoftremere:0 "Code of Tremere" #NT!
+ d_codeoftremere_adj:0 "Code of Tremere" #NT!
+ d_talmahera:0 "Hand-Without-Sun" #NT!
+ d_talmahera_adj:0 "Hand-Without-Sun" #NT!
+ d_tariqelhaqim:0 "Tariq el'Haqim" #NT!
+ d_tariqelhaqim_adj:0 "Tariq el'Haqim" #NT!
+ d_abyssal:0 "Amici Noctis" #NT!
+ d_abyssal_adj:0 "Amici Noctis" #NT!
+ d_mithraism:0 "Mithraism" #NT!
+ d_mithraism_adj:0 "Mithraism" #NT!
+ d_mayaparisatya:0 "Mayaparisatya" #NT!
+ d_mayaparisatya_adj:0 "Mayaparisatya" #NT!
+ d_archangeli:0 "Via Archangeli" #NT!
+ d_archangeli_adj:0 "Via Archangeli" #NT!
+ d_roadofset:0 "Hierophants of Set" #NT!
+ d_roadofset_adj:0 "Hierophants of Set" #NT!
+ d_ossium:0 "Via Ossium" #NT!
+ d_ossium_adj:0 "Via Ossium" #NT!
+ d_mutationis:0 "Cult of Metamorphosis" #NT!
+ d_mutationis_adj:0 "Cult of Metamorphosis" #NT!
+ d_noctis:0 "Via Noctis" #NT!
+ d_noctis_adj:0 "Via Noctis" #NT!
+ e_camarilla:0 "Camarilla" #NT!
+ e_camarilla_adj:0 "Camarilla" #NT!
+ e_sabbat:0 "Sabbat" #NT!
+ e_sabbat_adj:0 "Sabbat" #NT!
+ d_churchoftheblackmagdalene:0 "Black Magdalene" #NT!
+ d_churchoftheblackmagdalene_adj:0 "Black Magdalene" #NT!
+ d_churchoftheblackmagdalene_article:0 "Church of the " #NT!
+ k_shadowinquisition:0 "Shadow Inquisition" #NT!
+ k_shadowinquisition_adj:0 "Shadow Inquisition" #NT!
+ d_followersoflazarus:0 "Followers of Lazarus" #NT!
+ d_followersoflazarus_adj:0 "Followers of Lazarus" #NT!
+ k_nottunheimr:0 "Nóttunheimr" #NT!
+ k_nottunheimr_adj:0 "Nóttunheimr" #NT!
+ k_erebus:0 "Erebus" #NT!
+ k_erebus_adj:0 "Erebusi" #NT!
+ e_ukshanucarini:0 "Ukshanucârinî" #NT!
+ e_ukshanucarini_adj:0 "Ukshanucârinî" #NT!
+ k_wolflair:0 "Wolf Lair" #NT!
+ k_wolflair_adj:0 "Wolf Lair" #NT!
+ k_wardens_of_seth:0 "Wardens of Seth" #NT!
+ k_wardens_of_seth_adj:0 "Wardens of Seth" #NT!
+ e_quincunx_vanguard:0 "Quincunx Vanguard" #NT!
+ e_quincunx_vanguard_adj:0 "Quincunx" #NT!
+ k_umbra:0 "Umbra" #NT!
+ k_umbra_adj:0 "Umbra" #NT!
+ k_carthego_nova:0 "Carthego Nova" #NT!
+ k_carthego_nova_adj:0 "Carthego Nova" #NT!
+ k_new_tremere_order:0 "New Tremere Order" #NT!
+ k_new_tremere_order_adj:0 "New Tremere Order" #NT!
+ k_dark_pulpo_fleet:0 "Dark Pulpo Fleet" #NT!
+ k_dark_pulpo_fleet_adj:0 "Dark Pulpo Fleet" #NT!
+ k_avalon:0 "Avalon" #NT!
+ k_avalon_adj:0 "Avalon" #NT!
+ k_mortifiers:0 "Mortifiers" #NT!
+ k_mortifiers_adj:0 "Mortifiers" #NT!
+ k_land_of_whispers:0 "Whispers" #NT!
+ k_land_of_whispers_adj:0 "Whispers" #NT!
+ k_land_of_whispers_article:0 "Land of " #NT!
+ k_covenant_of_ashes:0 "Covenant of Ashes" #NT!
+ k_covenant_of_ashes_adj:0 "Covenant" #NT!
+ k_court_of_crows:0 "Court of Crows" #NT!
+ k_court_of_crow_adj:0 "Crows" #NT!
+ d_path_of_asakku:0 "Path of Asakku" #NT!
+ d_path_of_assaku_adj:0 "Corrupted" #NT!
+ d_third_caine:0 "Ecumenical Patriarchate of the Third Caine" #NT!
+ d_third_caine_adj:0 "Third Cainite" #NT!
+ d_third_caine_article:0 "Ecumenical Patriarchate of the " #NT!
+ k_brass_blood:0 "Realm of Brass & Blood" #NT!
+ k_brass_blood_adj:0 "Brass & Blood" #NT!
+ k_ravens_head:0 "Raven's Head" #NT!
+ k_ravens_head_adj:0 "Raven's Head" #NT!
+ e_hyperborea:0 "Hyperborea" #NT!
+ e_hyperborea_adj:0 "Hyperborean" #NT!
+ e_vere-imejaa_sinod:0 "Vere-Imejaa Sinod" #NT!
+ e_vere-imejaa_sinod_adj:0 "Sinod" #NT!
+ d_drowned_monastery:0 "Drowned Monastery" #NT!
+ d_drowned_monastery_adj:0 "Drowned" #NT!
+ e_regno_del_desiderio:0 "Regno del Desiderio" #NT!
+ e_regno_del_desiderio_adj:0 "Desiderio" #NT!
+ d_path_of_carnal_desire:0 "Carnal Desire" #NT!
+ d_path_of_carnal_desire_adj:0 "Desired" #NT!
+ d_path_of_carnal_desire_article:0 "Path of " #NT!
+ e_isis:0 "Followers of Isis" #NT!
+ e_isis_adj:0 "Followers" #NT!
+ k_cardona:0 "Cardona Family" #NT!
+ k_cardona_adj:0 "Cardona" #NT!
+ e_giovanni:0 "Clan Giovanni" #NT!
+ e_giovanni_adj:0 "Giovanni" #NT!
+ k_tremere:0 "Clan Tremere" #NT!
+ k_tremere_adj:0 "Tremere" #NT!
+ e_cainite_curia:0 "Cainite Curia" #NT!
+ e_cainite_curia_adj:0 "Curia" #NT!
+ k_milan:0 "Milan" #NT!
+ k_milan_adj:0 "Milanese" #NT!
+ e_old_country:0 "Old Country" #NT!
+ e_old_country_adj:0 "Sabbat" #NT!
+ e_golden_courts:0 "Golden Courts" #NT!
+ e_golden_courts_adj:0 "Golden" #NT!
+ k_court_wolves:0 "Court of Wolves" #NT!
+ k_court_wolves_adj:0 "Wolves" #NT!
+ k_oradea_league:0 "Oradea League" #NT!
+ k_oradea_league_adj:0 "Oradea" #NT!
+ e_egypt:0 "Kemet" #NT!
+ e_egypt_adj:0 "Kemetic" #NT!
+ e_white_court:0 "White Tiger Court" #NT!
+ e_white_court_adj:0 "White" #NT!
+ e_vinsaule:0 "Vinsaule" #NT!
+ e_vinsaule_adj:0 "Vinsaule" #NT!
+ k_aethiopia:0 "Aethiopia" #NT!
+ k_aethiopia_adj:0 "Aethiopia" #NT!
+ e_white_shadow:0 "White Shadow" #NT!
+ e_white_shadow_adj:0 "White Shadow" #NT!
+ k_guernsey:0 "Guernsey" #NT!
+ k_guernsey_adj:0 "Guernsey" #NT!
+ k_guernsey_article:0 "Most Serene Court of " #NT!
+ k_eternal_bacchanalia:0 "Eternal Bacchanalia" #NT!
+ k_eternal_bacchanalia_adj:0 "Eternal Bacchanalia" #NT!
+ k_libertatia:0 "Libertatia" #NT!
+ k_libertatia_adj:0 "Libertatia" #NT!
+ e_elfame:0 "Elfame" #NT!
+ e_elfame_adj:0 "Unseelie" #NT!
+ d_baobhan_sith:0 "Baobhan Sith" #NT!
+ d_baobhan_sith_adj:0 "Baobhan Sith" #NT!
+ e_toreador:0 "Clan Toreador" #NT!
+ e_toreador_adj:0 "Toreador" #NT!
+ k_sun_glory:0 "Sun's Glory Sept" #NT!
+ k_sun_glory_adj:0 "Sun" #NT!
+ d_field_stars:0 "Field of Stars Sept" #NT!
+ d_field_stars_adj:0 "Star" #NT!
+ d_white_sea:0 "White Sea" #NT!
+ d_white_sea_adj:0 "White Sea" #NT!
+ d_white_sea_article:0 "Sept of the " #NT!
+ d_wild_sea:0 "Wild Sea" #NT!
+ d_wild_sea_adj:0 "Wild" #NT!
+ d_wild_sea_article:0 "Sept of the " #NT!
+ k_fimbul_winter:0 "Fimbul Winter Night Sept" #NT!
+ k_fimbul_winter_adj:0 "Winter" #NT!
+ d_bright_promise:0 "Bright Promise" #NT!
+ d_bright_promise_adj:0 "Bright Promise" #NT!
+ d_bright_promise_article:0 "Sept of the " #NT!
+ d_winter_forest:0 "Winter Forest Sept" #NT!
+ d_winter_forest_adj:0 "Winter" #NT!
+ k_night_sky:0 "Night Sky" #NT!
+ k_night_sky_adj:0 "Nightly" #NT!
+ k_night_sky_article:0 "Sept of the " #NT!
+ d_wheel_ptah:0 "Sept of the Wheel of Ptah" #NT!
+ d_wheel_ptah_adj:0 "Wheel" #NT!
+ d_wheel_ptah_article:0 "Sept of the " #NT!
+ k_crescent_moon:0 "Crescent Moon" #NT!
+ k_crescent_moon_adj:0 "Crescent Moon" #NT!
+ k_crescent_moon_article:0 "Sept of the " #NT!
+ k_snow_leopard:0 "Snow Leopard" #NT!
+ k_snow_leopard_adj:0 "Snowy" #NT!
+ k_snow_leopard_article:0 "Sept of the " #NT!
+ e_black_furies:0 "Black Furies" #NT!
+ e_black_furies_adj:0 "Furious" #NT!
+ e_bone_gnawers:0 "Bone Gnawers" #NT!
+ e_bone_gnawers_adj:0 "Gnawing" #NT!
+ e_children_gaia:0 "Children of Gaia" #NT!
+ e_children_gaia_adj:0 "Gaia" #NT!
+ e_fianna:0 "Fianna" #NT!
+ e_fianna_adj:0 "Fianna" #NT!
+ e_warders_men:0 "Warders of Men" #NT!
+ e_warders_men_adj:0 "Warding" #NT!
+ e_get_fenris:0 "Get of Fenris" #NT!
+ e_get_fenris_adj:0 "Get" #NT!
+ e_red_talons:0 "Red Talons" #NT!
+ e_red_talons_adj:0 "Red" #NT!
+ e_shadow_lords:0 "Shadow Lords" #NT!
+ e_shadow_lords_adj:0 "Shadowy" #NT!
+ e_silver_fangs:0 "Silver Fangs" #NT!
+ e_silver_fangs_adj:0 "Silvery" #NT!
+ e_silent_striders:0 "Silent Striders" #NT!
+ e_silent_striders_adj:0 "Silent" #NT!
+ e_stargazers:0 "Stargazers" #NT!
+ e_stargazers_adj:0 "Stargazing" #NT!
+ e_black_spiral_dancers:0 "Black Spiral Dancers" #NT!
+ e_black_spiral_dancers_adj:0 "Dancing" #NT!
+ e_garou_nation:0 "Garou Nation" #NT!
+ e_garou_nation_adj:0 "Garou" #NT!
+ k_nychta:0 "Νύχτα" #NT!
+ k_nychta_adj:0 "Νύχτα" #NT!
+ e_onyx_dragon_court:0 "Onyx Dragon Court" #NT!
+ k_dya_pani_chauchimos_adj:0 "Dya Pani Chauchimos" #NT!
+ k_brunestud:0 "Brunestud" #NT!
+ k_brunestud_adj:0 "Brunestud" #NT!
+ k_brunestud_article:0 "Grand Principality of " #NT!
+ e_stygia:0 "Stygia" #NT!
+ e_stygia_adj:0 "Stygia" #NT!
+ k_great_swarm:0 "The Great Swarm" #NT!
+ k_great_swarm_adj:0 "Swarmer" #NT!
+ k_hunedoara:0 "Hunedoara" #NT!
+ k_hunedoara_adj:0 "Hunedoaran" #NT!
+ k_garden_of_pleasure:0 "Garden of Pleasure" #NT!
+ k_garden_of_pleasure_adj:0 "Orgiastic" #NT!
+ k_garden_of_pleasure_article: "The " #NT!
+ k_new_lacedaemon:0 "New Lacedaemon" #NT!
+ k_new_lacedaemon_adj:0 "Lacedaemion" #NT!
+ k_akkad:0 "Akkad" #NT!
+ k_akkad_adj:0 "Akkadian" #NT!
+ k_dis:0 "Dis" #NT!
+ k_dis_adj:0 "Disian" #NT!
+ k_new_carthage:0 "Carthago Nova" #NT!
+ k_new_carthage_adj:0 "Carthaginian" #NT!
+ k_court_of_iron:0 "Court of Iron" #NT!
+ k_court_of_iron_adj:0 "Iron" #NT!
+ k_new_boeotia:0 "New Boeotia" #NT!
+ k_new_boeotia_adj:0 "Boeotian" #NT!
+ k_iram_of_the_pillars:0 "Iram of the Pillars" #NT!
+ k_iram_of_the_pillars_adj:0 "Pillars" #NT!
+ e_leviathan:0 "Leviathan" #NT!
+ e_leviathan_adj:0 "Leviathan" #NT!
+ e_cultusveteriscustodiae:0 "Cultus Veteris Custodiae" #NT!
+ e_cultusveteriscustodiae_adj:0 "Custodiae" #NT!
+ e_jotunheim:0 "Jotunheim" #NT!
+ e_jotunheim_adj:0 "Jotun" #NT!
+ e_sha:0 "Sha" #NT!
+ e_sha_adj:0 "Sha" #NT!
+ d_leviathan:0 "Leviathan" #NT!
+ d_leviathan_adj:0 "Leviathan" #NT!
+ d_leviathan_article:0 "Path of " #NT!
+ d_jotunnsvag:0 "Jötunns Väg" #NT!
+ d_jotunnsvag_adj:0 "Jötunns Väg" #NT!
+ d_siberakh:0 "Sept of the Siberakh" #NT!
+ d_siberakh_adj:0 "Siberakh" #NT!
+ e_yellow_springs:0 "Yellow Springs" #NT!
+ e_yellow_springs_adj:0 "Yellow Springs" #NT!
+ e_spring_court:0 "Spring" #NT!
+ e_spring_court_adj:0 "Spring" #NT!
+ e_spring_court_article:0 "Court of " #NT!
+ e_summer_court:0 "Summer" #NT!
+ e_summer_court_adj:0 "Summer Court" #NT!
+ e_summer_court_article:0 "Court of " #NT!
+ e_autumn_court:0 "Autumn" #NT!
+ e_autumn_court_adj:0 "Autumn" #NT!
+ e_autumn_court_article:0 "Court of " #NT!
+ e_winter_court:0 "Winter" #NT!
+ e_winter_court_adj:0 "Winter" #NT!
+ e_winter_court_article:0 "Court of " #NT!
+ e_solstice_court:0 "Solstice" #NT!
+ e_solstice_court_adj:0 "Solstice" #NT!
+ e_solstice_court_article:0 "Court of " #NT!
+ k_beaumayn:0 "Beaumayn" #NT!
+ k_beaumayn_adj:0 "Beaumayn" #NT!
+ k_beaumayn_article:0 "House " #NT!
+ k_dougal:0 "Dougal" #NT!
+ k_dougal_adj:0 "Dougal" #NT!
+ k_dougal_article:0 "House " #NT!
+ k_eiluned:0 "Eiluned" #NT!
+ k_eiluned_adj:0 "Eiluned" #NT!
+ k_eiluned_article:0 "House " #NT!
+ k_fiona:0 "Fiona" #NT!
+ k_fiona_adj:0 "Fiona" #NT!
+ k_fiona_article:0 "House " #NT!
+ k_gwydion:0 "Gwydion" #NT!
+ k_gwydion_adj:0 "Gwydion" #NT!
+ k_gwydion_article:0 "House " #NT!
+ k_liam:0 "Liam" #NT!
+ k_liam_adj:0 "Liam" #NT!
+ k_liam_article:0 "House " #NT!
+ k_aesin:0 "Aesin" #NT!
+ k_aesin_adj:0 "Aesin" #NT!
+ k_aesin_article:0 "House " #NT!
+ k_ailil:0 "Ailil" #NT!
+ k_ailil_adj:0 "Ailil" #NT!
+ k_ailil_article:0 "House " #NT!
+ k_balor:0 "Balor" #NT!
+ k_balor_adj:0 "Balor" #NT!
+ k_balor_article:0 "House " #NT!
+ k_daireann:0 "Daireann" #NT!
+ k_daireann_adj:0 "Daireann" #NT!
+ k_daireann_article:0 "House " #NT!
+ k_leanhaun:0 "Leanhaun" #NT!
+ k_leanhaun_adj:0 "Leanhaun" #NT!
+ k_leanhaun_article:0 "House " #NT!
+ k_varich:0 "Varich" #NT!
+ k_varich_adj:0 "Varich" #NT!
+ k_varich_article:0 "House " #NT!
+ k_danaan:0 "Danaan" #NT!
+ k_danaan_adj:0 "Danaan" #NT!
+ k_danaan_article:0 "House " #NT!
+ k_scathach:0 "House Scathach" #NT!
+ k_scathach_adj:0 "Scathach" #NT!
+ d_faerie_well:0 "Faerie Well" #NT!
+ d_faerie_well_adj:0 "Faerie Well" #NT!
+ d_faerie_well_article:0 "Promise of the" #NT!
+ d_grand_bazaar:0 "Grand Bazaar" #NT!
+ d_grand_bazaar_adj:0 "Grand Bazaar" #NT!
+ d_crystal_fortress:0 "Crystal Fortress" #NT!
+ d_crystal_fortres_adj:0 "Crystal Fortress" #NT!
+ d_ynys_witrin:0 "Ynys Witrin" #NT!
+ d_ynys_witrin_adj:0 "Ynys Witrin" #NT!
+ d_amber_palace:0 "Amber Palace" #NT!
+ d_amber_palace_adj:0 "Amber Palace" #NT!
+ d_valiant_forge:0 "Valiant Forge" #NT!
+ d_valiant_forge_adj:0 "Valiant Forge" #NT!
+ d_valiant_forge_article:0 "Court of " #NT!
+ d_ocean_of_dust:0 "Ocean of Dust" #NT!
+ d_ocean_of_dust_adj:0 "Ocean of Dust" #NT!
+ d_keshalyi:0 "Keshalyi Gatherings" #NT!
+ d_keshalyi_adj:0 "Keshalyi Gatherings" #NT!
+ d_chill_court:0 "Water Wraith" #NT!
+ d_chill_court_adj:0 "Water Wraith" #NT!
+ d_chill_court_article:0 "Chill Court of the " #NT!
+ d_black_road:0 "Black Road" #NT!
+ d_black_road_adj:0 "Black Road" #NT!
+ d_black_road_article:0 "The " #NT!
+ d_callicantzaroi:0 "Callicantzaroi Court" #NT!
+ d_callicantzaroi_adj:0 "Callicantzaroi Court" #NT!
+ d_callicantzaroi_article:0 "The " #NT!
+ c_underbridge:0 "Underbridge" #NT!
+ c_underbridge_adj:0 "Underbridge" #NT!
+ d_underbridge:0 "Underbridge" #NT!
+ d_underbridge_adj:0 "Underbridge" #NT!
+ k_underbridge:0 "Underbridge" #NT!
+ k_underbridge_adj:0 "Underbridge" #NT!
+ e_underbridge:0 "Underbridge" #NT!
+ e_underbridge_adj:0 "Underbridge" #NT!
+ d_nights_kin:0 "Stones of Night's Kin" #NT!
+ d_nights_kin_adj:0 "Stones of Night's Kin" #NT!
+ #c_nights_kin_article:0 "Stones of " #NT!
+ d_woven_staves:0 "Throne of Woven Staves" #NT!
+ d_woven_staves_adj:0 "Throne of Woven Staves" #NT!
+ #c_woven_staves_article:0 "Throne of " #NT!
+ d_heady_apple:0 "Griggling Apple" #NT!
+ d_heady_apple_adj:0 "Griggling Apple" #NT!
+ d_heady_apple_article:0 "Court of " #NT!
+ d_lost_forest:0 "Lost Forest" #NT!
+ d_lost_forest_adj:0 "Lost Forest" #NT!
+ d_frozen_lake:0 "Frozen Lake" #NT!
+ d_frozen_lake_adj:0 "Frozen Lake" #NT!
+ d_sunken_city:0 "Ys, the Sunken City" #NT!
+ d_sunken_city_adj:0 "Ysian" #NT!
+ d_shadow_bridge:0 "Shadow Bridge"  # Same as Underbridge #NT!
+ d_shadow_bridge_adj:0 "Shadow Bridge" # Same as Underbridge #NT!
+ k_ife:0 "Ife" #NT!
+ k_ife_adj:0 "Ife" #NT!
+# k_ife_article:0 "Kingdom of " #NT!
+ e_season_courts:0 "Court of All Seasons" #NT!
+ e_season_courts_adj:0 "Season" #NT!
+ d_unshriven_zealot:0 "Unshriven Zealot" #NT!
+ d_unshriven_zealot_adj:0 "Unshriven Zealot" #NT!
+ d_hive_of_the_unshriven_zealot_article:0 "Hive of the " #NT!
+ k_hibernia:0 "Hibernia" #NT!
+ k_hibernia_adj:0 "Hibernian" #NT!
+ k_caledonia:0 "Caledonia" #NT!
+ k_caledonia_adj:0 "Caledonian" #NT!
+ k_cymru:0 "Cymru" #NT!
+ k_cymru_adj:0 "Cyymru" #NT!
+ d_snowflakes:0 "Snowflakes" #NT!
+ d_snowflakes_adj:0 "Snowflakes" #NT!
+ d_snowflakes_article:0 "Isle of " #NT!
+ d_drails_horde:0 "Coterie of Drail" #NT!
+ d_drails_horde_adj:0 "Drailian" #NT!
+ k_solstice_court:0 "Solstice" #NT!
+ k_solstice_court_adj:0 "Solstice" #NT!
+ k_solstice_court_article:0 "Court of " #NT!
+ d_isle_of_dreams:0 "Isle of Dreams" #NT!
+ d_isle_of_dreams_adj:0 "Isle of Dreams" #NT!
+ d_exodus:0 "Exodus" #NT!
+ d_exodus_adj:0 "Exodus" #NT!
+ d_exodus_article:0 "Harbingers of " #NT!
+ d_silent_waves:0 "Silent Waves" #NT!
+ d_silent_waves_adj:0 "Silent Waves" #NT!
+ d_silent_waves_article:0 "Plains of " #NT!
+ d_blood_peace:0 "Blood Peace" #NT!
+ d_blood_peace_adj:0 "Blood Peace" #NT!
+ d_blood_peace_article:0 "The " #NT!
+ k_blood_peace:0 "Blood Peace" #NT!
+ k_blood_peace_adj:0 "Blood Peace" #NT!
+ k_blood_peace_article:0 "The " #NT!
+ d_scherezades_circle:0 "Scherezade's Circle" #NT!
+ d_scherezades_circle_adj:0 "Scherezade's Circle" #NT!
+ d_broceliande:0 "Brocéliande" #NT!
+ d_broceliande_adj:0 "Brocéliande" #NT!
+ d_loch_ness:0 "Loch Ness" #NT!
+ d_loch_ness_adj:0 "Loch Ness" #NT!
+ d_olympus:0 "Olympus" #NT!
+ d_olympus_adj:0 "Olympus" #NT!
+ d_vesuvius:0 "Vesuvius" #NT!
+ d_vesuvius_adj:0 "Vesuvius" #NT!
+ d_teide:0 "Teide" #NT!
+ d_teide_adj:0 "Teide" #NT!
+ d_hekla:0 "Hekla" #NT!
+ d_hekla_adj:0 "Hekla" #NT!
+ d_nea_kameni:0 "Nea Kameni" #NT!
+ d_nea_kameni_adj:0 "Nea Kameni" #NT!
+ d_arat:0 "Mount Arat" #NT!
+ d_arat_adj:0 "Mount Arat" #NT!
+ d_everest:0 "Everest" #NT!
+ d_everest_adj:0 "Everest" #NT!
+ d_matterhorn:0 "Matterhorn" #NT!
+ d_matterhorn_adj:0 "Matterhorn" #NT!
+ d_elbrus:0 "Elbrus" #NT!
+ d_elbrus_adj:0 "Elbrus" #NT!
+ d_toubkal:0 "Toubkal" #NT!
+ d_toubkal_adj:0 "Toubkal" #NT!
+ d_van:0 "Van" #NT!
+ d_van_adj:0 "Van" #NT!
+ d_lake_baikal:0 "Baikal" #NT!
+ d_lake_baikal_adj:0 "Baikal" #NT!
+ d_aral_sea:0 "Aral Sea" #NT!
+ d_aral_sea_adj:0 "Aral Sea" #NT!
+ d_kardamyli:0 "Kardamyli" #NT!
+ d_kardamyli_adj:0 "Kardamyli" #NT!
+ d_bialowieza_forest:0 "Brocéliande" #NT!
+ d_bialowieza_forest_adj:0 "Brocéliande" #NT!
+ d_wistmans_wood:0 "Wistman's Wood" #NT!
+ d_wistmans_wood_adj:0 "Wistman's Wood" #NT!
+ d_hoia_forest:0 "Hoia Forest" #NT!
+ d_hoia_forest_adj:0 "Hoia Forest" #NT!
+ d_black_forest:0 "Black Forest" #NT!
+ d_black_forest_adj:0 "Black Forest" #NT!
+ d_foloi_oak_forest:0 "Foloi Oak Forest" #NT!
+ d_foloi_oak_forest_adj:0 "Foloi Oak Forest" #NT!
+ d_slive_gullion_forest:0 "Slive Gullion Forest" #NT!
+ d_slive_gullion_forest_adj:0 "Slive Gullion Forest" #NT!
+ d_puzzlewood:0 "Puzzlewood" #NT!
+ d_puzzlewood_adj:0 "Puzzlewood" #NT!
+ d_gruissan:0 "Gruissan" #NT!
+ d_gruissan_adj:0 "Gruissan" #NT!
+ d_ab_paran:0 "Ab-Paran" #NT!
+ d_ab_paran_adj:0 "Ab-Paran" #NT!
+ d_baku:0 "Baku" #NT!
+ d_baku_adj:0 "Baku" #NT!
+
+

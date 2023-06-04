@@ -1,0 +1,385 @@
+﻿l_russian:
+
+ POD_use_alchemical_product_interaction:0 "Use Alchemical Product" #NT!
+ POD_use_advanced_alchemical_product_interaction:0 "Use Alchemical Product #Weak (High Level)#!" #NT!
+ POD_use_alchemical_product_interaction_desc:0 "Use an alchemical product." #NT!
+ POD_use_alchemical_product_interaction_options_heading:0 "Which product shall I use?" #NT!
+ POD_offer_alchemical_product_interaction:0 "Offer Alchemical Product" #NT!
+ POD_offer_advanced_alchemical_product_interaction:0 "Offer Alchemical Product #Weak (High Level)#!" #NT!
+ POD_offer_alchemical_product_interaction_desc:0 "Offer [recipient.GetFirstName] an alchemical product." #NT!
+ POD_offer_alchemical_product_interaction_options_heading:0 "Which product shall I offer?" #NT!
+ POD_sell_alchemical_product_interaction:0 "Sell Alchemical Product" #NT!
+ POD_sell_advanced_alchemical_product_interaction:0 "Sell Alchemical Product #Weak (High Level)#!" #NT!
+ POD_sell_alchemical_product_interaction_desc:0 "Sell [recipient.GetFirstName] an alchemical product." #NT!
+ POD_sell_alchemical_product_interaction_options_heading:0 "Which product shall I sell?" #NT!
+ POD_buy_alchemical_product_interaction:0 "Buy Alchemical Product" #NT!
+ POD_buy_alchemical_product_interaction_desc:0 "Buy [recipient.GetFirstName] an alchemical product that [recipient.GetSheHe] has." #NT!
+ POD_buy_alchemical_product_interaction_options_heading:0 "Which product shall I buy?" #NT!
+ actor_alchemy_slot_1:0 "[GetPlayer.Custom( 'GetAlchemyProductType1' )]" #NT!
+ actor_alchemy_slot_2:0 "[GetPlayer.Custom( 'GetAlchemyProductType2' )]" #NT!
+ actor_alchemy_slot_3:0 "[GetPlayer.Custom( 'GetAlchemyProductType3' )]" #NT!
+ actor_alchemy_slot_4:0 "[GetPlayer.Custom( 'GetAlchemyProductType4' )]" #NT!
+ actor_alchemy_slot_5:0 "[GetPlayer.Custom( 'GetAlchemyProductType5' )]" #NT!
+ actor_alchemy_slot_6:0 "[GetPlayer.Custom( 'GetAlchemyProductType6' )]" #NT!
+ actor_alchemy_slot_7:0 "[GetPlayer.Custom( 'GetAlchemyProductType7' )]" #NT!
+ actor_alchemy_slot_8:0 "[GetPlayer.Custom( 'GetAlchemyProductType8' )]" #NT!
+ actor_alchemy_slot_9:0 "[GetPlayer.Custom( 'GetAlchemyProductType9' )]" #NT!
+ actor_alchemy_slot_10:0 "[GetPlayer.Custom( 'GetAlchemyProductType10' )]" #NT!
+ recipient_alchemy_slot_1:0 "Product 1" #NT!
+ recipient_alchemy_slot_2:0 "Product 2" #NT!
+ recipient_alchemy_slot_3:0 "Product 3" #NT!
+ recipient_alchemy_slot_4:0 "Product 4" #NT!
+ recipient_alchemy_slot_5:0 "Product 5" #NT!
+ recipient_alchemy_slot_6:0 "Product 6" #NT!
+ recipient_alchemy_slot_7:0 "Product 7" #NT!
+ recipient_alchemy_slot_8:0 "Product 8" #NT!
+ recipient_alchemy_slot_9:0 "Product 9" #NT!
+ recipient_alchemy_slot_10:0 "Product 10" #NT!
+
+ POD_set_neteru_interaction:0 "Recognize Neteru" #NT!
+ POD_set_neteru_interaction_desc:0 "Recognize [recipient.GetFirstName] as your [neteru|E]." #NT!
+ POD_set_neteru_interaction_extra_icon:0 "$hook_extra_icon$" #NT!
+ POD_remove_neteru_interaction:0 "Reject Neteru" #NT!
+ POD_remove_neteru_interaction_desc:0 "Reject [recipient.GetFirstName]'s worship, stop consider [recipient.GetHerHim] as your [neteru|E]." #NT!
+
+ POD_fertility_of_osiris_interaction:0 "Fertility Of Osiris" #NT!
+ POD_fertility_of_osiris_interaction_desc:0 "Make [recipient.GetFirstName] pregnant from her dead husband." #NT!
+ POD_fertility_of_osiris_interaction_options_heading:0 "Which husband shall be the father?" #NT!
+ POD_fertility_of_osiris_spouse_1:0 "Oldest" #NT!
+ POD_fertility_of_osiris_spouse_2:0 "Second Oldest" #NT!
+ POD_fertility_of_osiris_spouse_3:0 "Third Oldest" #NT!
+ POD_fertility_of_osiris_spouse_4:0 "Fourth Oldest" #NT!
+ POD_fertility_of_osiris_spouse_5:0 "Fifth Oldest" #NT!
+ pod_cannot_pregnant:0 "[CHARACTER.GetFirstName] can't be pregnant" #NT!
+ NOT_has_any_dead_spouse:0 "[CHARACTER.GetFirstName] don't have any dead husband" #NT!
+
+ POD_divine_forms_interaction:0 "Divine Forms" #NT!
+ POD_divine_forms_interaction_desc:0 "Invoking one of the gods to temporarily raise one of your Attributes." #NT!
+ POD_divine_forms_interaction_options_heading:0 "Which god shall I invoke?" #NT!
+ POD_divine_forms_diplomacy:0 "Hathor will make me more charming!" #NT!
+ POD_divine_forms_martial:0 "Montu will teach me warfare!" #NT!
+ POD_divine_forms_stewardship:0 "Horus will show me how to be a ruler!" #NT!
+ POD_divine_forms_intrigue:0 "Isis will lend me her cunning!" #NT!
+ POD_divine_forms_learning:0 "Ptah will share his wisdom!" #NT!
+ POD_divine_forms_prowess:0 "Amun will give me strength!" #NT!
+ POD_divine_forms_diplomacy_wutian:0 "Yue Lao will find my true love!" #NT!
+ POD_divine_forms_martial_wutian:0 "Ch'ih-Yu will teach me how to be fierce!" #NT!
+ POD_divine_forms_stewardship_wutian:0 "Ts'ai-Shen will make me rich!" #NT!
+ POD_divine_forms_intrigue_wutian:0 "Chuko Liang will give me ideas!" #NT!
+ POD_divine_forms_learning_wutian:0 "Lao-Tzu will teach me the Tao of nature!" #NT!
+ POD_divine_forms_prowess_wutian:0 "I will have the Power of the Mu!" #NT!
+
+ POD_weather_magic_interaction:0 "Weather Magic #weak (Worldly)#!" #NT!
+ POD_weather_magic_specific_interaction:0 "Weather Magic" #NT!
+ POD_weather_magic_interaction_desc:0 "Unleashing a natural disaster to target a geographical region." #NT!
+ POD_weather_magic_specific_interaction_desc:0 "Unleashing a natural disaster in [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.flow:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.storm:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.earthquake:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.plague:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.flood:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.drought:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_weather_magic_interaction.tt.flow.middle_east:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower.middle_east:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_weather_magic_interaction.tt.storm.middle_east:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_weather_magic_interaction.tt.earthquake.middle_east:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_weather_magic_interaction.tt.plague.middle_east:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_weather_magic_interaction.tt.flood.middle_east:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_weather_magic_interaction.tt.drought.middle_east:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_weather_magic_interaction.tt.flow.india:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over India." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower.india:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over India." #NT!
+ POD_weather_magic_interaction.tt.storm.india:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over India." #NT!
+ POD_weather_magic_interaction.tt.earthquake.india:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over India." #NT!
+ POD_weather_magic_interaction.tt.plague.india:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over India." #NT!
+ POD_weather_magic_interaction.tt.flood.india:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over India." #NT!
+ POD_weather_magic_interaction.tt.drought.india:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over India." #NT!
+ POD_weather_magic_interaction.tt.flow.tibet:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower.tibet:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_weather_magic_interaction.tt.storm.tibet:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_weather_magic_interaction.tt.earthquake.tibet:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_weather_magic_interaction.tt.plague.tibet:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_weather_magic_interaction.tt.flood.tibet:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_weather_magic_interaction.tt.drought.tibet:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_weather_magic_interaction.tt.flow.steppe:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower.steppe:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_weather_magic_interaction.tt.storm.steppe:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_weather_magic_interaction.tt.earthquake.steppe:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_weather_magic_interaction.tt.plague.steppe:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_weather_magic_interaction.tt.flood.steppe:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_weather_magic_interaction.tt.drought.steppe:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_weather_magic_interaction.tt.flow.asia_minor:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower.asia_minor:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_weather_magic_interaction.tt.storm.asia_minor:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_weather_magic_interaction.tt.earthquake.asia_minor:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_weather_magic_interaction.tt.plague.asia_minor:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_weather_magic_interaction.tt.flood.asia_minor:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_weather_magic_interaction.tt.drought.asia_minor:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_weather_magic_interaction.tt.flow.africa:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower.africa:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_weather_magic_interaction.tt.storm.africa:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_weather_magic_interaction.tt.earthquake.africa:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_weather_magic_interaction.tt.plague.africa:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_weather_magic_interaction.tt.flood.africa:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_weather_magic_interaction.tt.drought.africa:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_weather_magic_interaction.tt.flow.europe:0 "Unleashing [GetModifier('weather_magic_flow_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_weather_magic_interaction.tt.meteor_shower.europe:0 "Unleashing [GetModifier('weather_magic_meteor_shower_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_weather_magic_interaction.tt.storm.europe:0 "Unleashing [GetModifier('weather_magic_storm_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_weather_magic_interaction.tt.earthquake.europe:0 "Unleashing [GetModifier('weather_magic_earthquake_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_weather_magic_interaction.tt.plague.europe:0 "Unleashing [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_weather_magic_interaction.tt.flood.europe:0 "Unleashing [GetModifier('weather_magic_flood_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_weather_magic_interaction.tt.drought.europe:0 "Unleashing [GetModifier('weather_magic_drought_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_weather_magic.duel.desc:0 "Power Challenge" #NT!
+ POD_weather_magic.duel.success:0 "You successfully used weather magic" #NT!
+ POD_weather_magic.duel.tt.attacker_wins:0 "The target region suffers from the selected natural hazard depending on your level of weather magic." #NT!
+ POD_weather_magic.duel.failure:0 "You fail to use the weather magic" #NT!
+ POD_weather_magic.duel.tt.attacker_lost:0 "You couldn't release the selected natural hazard over the target region" #NT!
+ POD_weather_magic_from_enemy_toast:0 "Hazard!" #NT!
+ POD_weather_magic_from_enemy.tt:0 "A natural hazard was released on your realm by [actor.GetFirstName]" #NT!
+ POD_weather_magic_interaction_options_heading:0 "Which natural hazard shall I invoke?" #NT!
+ POD_weather_magic_flow:0 "Flow" #NT!
+ POD_weather_magic_meteor_shower:0 "Meteor Shower" #NT!
+ POD_weather_magic_storm:0 "Storm" #NT!
+ POD_weather_magic_earthquake:0 "Earthquake" #NT!
+ POD_weather_magic_plague:0 "Plague" #NT!
+ POD_weather_magic_flood:0 "Flood" #NT!
+ POD_weather_magic_drought:0 "Drought" #NT!
+
+ POD_discover_true_name_interaction:0 "Discover True Name" #NT!
+ POD_discover_true_name_interaction_desc:0 "Gathering detailed information about [recipient.GetFirstName] and translating that knowledge into the true words that can form the ren." #NT!
+ NOT_know_this_ren:0 "You do #bold not#! know the correspond ren." #NT!
+ NOT_know_ren_skin:0 "You do #bold not#! know the ren for "Skin"" #NT!
+ NOT_know_ren_eye:0 "You do #bold not#! know the ren for "Eye"" #NT!
+ NOT_know_ren_leg:0 "You do #bold not#! know the ren for "Leg"" #NT!
+ NOT_know_ren_genital:0 "You do #bold not#! know the ren for "Genital"" #NT!
+ POD_asking_the_trees_interaction:0 "Asking the Trees" #NT!
+ POD_asking_the_trees_interaction_desc:0 "By speaking a true name, you can spawn organic life in your location." #NT!
+ POD_asking_the_trees_interaction_options_heading:0 "Which organic life shall I name to grow?" #NT!
+ POD_forgetting_the_tree_interaction:0 "Forgetting the Tree" #NT!
+ POD_forgetting_the_tree_interaction_desc:0 "By speaking a true name, you can destroy organic life in your location." #NT!
+ POD_forgetting_the_tree_interaction_options_heading:0 "Which organic life shall I name to destroy?" #NT!
+ naming_the_crop:0 "Crop" #NT!
+ naming_the_weed:0 "Weed" #NT!
+ naming_the_flower:0 "Flower" #NT!
+ naming_the_thorn:0 "Thorn" #NT!
+ naming_the_tree:0 "Tree" #NT!
+ naming_the_mushroom:0 "Mushroom" #NT!
+ POD_mend_flesh_interaction:0 "Mend Flesh" #NT!
+ POD_mend_flesh_interaction_desc:0 "By speaking a true name, you can restore a body part of [recipient.GetFirstName]." #NT!
+ POD_mend_flesh_interaction_options_heading:0 "Which body part shall I name to restore?" #NT!
+ NOT_valid_mend_flesh:0 "[CHARACTER.GetShortUIName] does #bold not#! have any body parts you can restore" #NT!
+ NOT_valid_mend_flesh_self:0 "You do #bold not#! have any body parts to restore" #NT!
+ NOT_valid_mend_flesh_global:0 "Do #bold not#! body parts to restore" #NT!
+ POD_naming_the_bodys_destruction_interaction:0 "Naming the Body's Destruction" #NT!
+ POD_naming_the_bodys_destruction_interaction_desc:0 "By speaking a true name, you can destroy a body part of [recipient.GetFirstName]." #NT!
+ POD_naming_the_bodys_destruction_interaction_options_heading:0 "Which body part shall I name to destroy?" #NT!
+ naming_the_eye:0 "Eye" #NT!
+ naming_the_leg:0 "Leg" #NT!
+ naming_the_scar:0 "Scar" #NT!
+ naming_the_face:0 "Face" #NT!
+ naming_the_genital:0 "Genital" #NT!
+
+ POD_activate_effigy_interaction:0 "Activate Effigy" #NT!
+ POD_activate_effigy_interaction_desc:0 "Activate an effigy so you can order them." #NT!
+ POD_activate_effigy_interaction_options_heading:0 "Which type of effigy do you want to activate?" #NT!
+ POD_creature_effigy:0 "Creature" #NT!
+ POD_chattel_effigy:0 "Chattel" #NT!
+ POD_the_crawling_eye_effigy:0 "The Crawling Eye" #NT!
+ POD_stalking_hound_of_typhon_effigy:0 "Stalking Hound of Typhon" #NT!
+ POD_deactivate_effigy_interaction:0 "Deactivate Effigy" #NT!
+ POD_deactivate_effigy_interaction_desc:0 "Deactivate effigy to save your sekhem or gold." #NT!
+ POD_deactivate_effigy_interaction_options_heading:0 "Which type of effigy do you want to deactivate?" #NT!
+ POD_activate_effigy_character_interaction:0 "Activate Effigy" #NT!
+ POD_activate_effigy_character_interaction_desc:0 "Activate [recipient.GetFirstName] so you can use them." #NT!
+ POD_deactivate_effigy_character_interaction:0 "Deactivate Effigy" #NT!
+ POD_deactivate_effigy_character_interaction_desc:0 "Deactivate [recipient.GetFirstName] to save your sekhem." #NT!
+ POD_command_effigy_interaction:0 "Command Creature Effigy" #NT!
+ POD_command_effigy_interaction_desc:0 "Command your activated creature effigies." #NT!
+ POD_command_effigy_interaction_options_heading:0 "Which task should you order?" #NT!
+ POD_command_effigy_scheme:0 "Be part of my secret plan." #NT!
+ POD_command_effigy_lifestyle:0 "Assist my art training." #NT!
+ POD_command_effigy_gold:0 "Go earn some cash." #NT!
+ POD_command_effigy_prestige:0 "Spread my name." #NT!
+ POD_command_effigy_piety:0 "Join my cause." #NT!
+ POD_command_effigy_renown:0 "Help my family." #NT!
+ POD_command_effigy_secret:1 "Steal a secret." #NT!
+ POD_command_effigy_wound:0 "Surprise my enemy." #NT!
+ POD_command_effigy.success:0 "Success" #NT!
+ POD_command_effigy.fail:0 "Fail" #NT!
+ POD_command_effigy.fail_result:0 "The sent effigy has failed its task." #NT!
+ POD_command_effigy.the_crawling_eye.tt:0 "Your effigy has infiltrated your opponent's haven and stolen secrets from them." #NT!
+
+ POD_store_sekhem_interaction:0 "Store Sekhem" #NT!
+ POD_store_sekhem_interaction_desc:0 "Store Sekhem into your sekhem vessel." #NT!
+ POD_store_sekhem_interaction_options_heading:0 "How much do you want to store?" #NT!
+ POD_extract_sekhem_interaction:0 "Extract Stored Sekhem" #NT!
+ POD_extract_sekhem_interaction_desc:0 "Extract stored Sekhem from the sekhem vessel to refuel you." #NT!
+ POD_extract_sekhem_interaction_options_heading:0 "How much do you want to extract?" #NT!
+ POD_extract_sekhem_1_tooltip:0 "Spends #V 1#! stored Sekhem" #NT!
+ POD_extract_sekhem_2_tooltip:0 "Spends #V 2#! stored Sekhem" #NT!
+ POD_extract_sekhem_3_tooltip:0 "Spends #V 3#! stored Sekhem" #NT!
+ POD_extract_sekhem_4_tooltip:0 "Spends #V 4#! stored Sekhem" #NT!
+ POD_extract_sekhem_5_tooltip:0 "Spends #V 5#! stored Sekhem" #NT!
+ POD_extract_sekhem_6_tooltip:0 "Spends #V 6#! stored Sekhem" #NT!
+ POD_extract_sekhem_7_tooltip:0 "Spends #V 7#! stored Sekhem" #NT!
+ POD_extract_sekhem_8_tooltip:0 "Spends #V 8#! stored Sekhem" #NT!
+ POD_extract_sekhem_9_tooltip:0 "Spends #V 9#! stored Sekhem" #NT!
+ POD_extract_sekhem_10_tooltip:0 "Spends #V 10#! stored Sekhem" #NT!
+ sekhem_vessel_damaged:0 "Sekhem Vessel Damaged" #NT!
+
+ POD_bond_of_fate_chattel_interaction:0 "Bond of Fate #Weak (Object)#!" #NT!
+ POD_bond_of_fate_chattel_interaction_desc:0 "Creates a counterpart effigy of an inanimate object to create a sympathetic link between them." #NT!
+ POD_bond_of_fate_servitor_interaction:0 "Bond of Fate #Weak (Person)#!" #NT!
+ POD_bond_of_fate_servitor_interaction_desc:0 "Creates a counterpart effigy of [recipient.GetFirstName] to create a sympathetic link between them." #NT!
+ recipient_secondary_POD_bond_of_fate_servitor_interaction:0 "Target Effigy" #NT!
+ POD_bond_of_fate_servitor_interaction_desc.duel.desc:0 "Learning Challenge" #NT!
+ POD_bond_of_fate_servitor_interaction_desc.duel.success:0 "You successfully created a effigy clone of [recipient.GetFirstName]." #NT!
+ POD_bond_of_fate_servitor_interaction_desc.duel.failure:0 "You fail to create a effigy clone of [recipient.GetFirstName]." #NT!
+
+ POD_synthesize_effigy_interaction:"Synthesize Effigy" #NT!
+ POD_synthesize_effigy_interaction_desc:0 "Synthesize a higher level effigy using three effigies of the same name as fusion material." #NT!
+ not_enough_effigies_or_missing_perk:0 "You do not have three of the same type of effigy or the correct corresponding perk to upgrade to" #NT!
+ POD_synthesize_simple_creature_effigy:0 "Simple Creature -> Lesser Creature" #NT!
+ POD_synthesize_lesser_creature_effigy:0 "Lesser Creature -> Major Creature" #NT!
+ POD_synthesize_major_creature_effigy:0 "Major Creature -> Superior Creature" #NT!
+ POD_synthesize_superior_creature_effigy:0 "Superior Creature -> Princely Creature" #NT!
+ POD_synthesize_princely_creature_effigy:0 "Princely Creature -> Vizier's Beast" #NT!
+ POD_synthesize_viziers_beast_effigy:0 "Vizier's Beast -> Kingly Beast" #NT!
+ POD_synthesize_kingly_beast_effigy:0 "Kingly Beast -> Divine Beast" #NT!
+ POD_synthesize_lesser_chattel_effigy:0 "Lesser Chattel -> Complex Chattel" #NT!
+ POD_synthesize_complex_chattel_effigy:0 "Complex Chattel -> Superior Chattel" #NT!
+ POD_synthesize_superior_chattel_effigy:0 "Superior Chattel -> Princely Chattel" #NT!
+
+ POD_seal_of_maat_interaction:0 "Seal of Ma'at" #NT!
+ POD_seal_of_maat_interaction_desc:0 "Replicate one of the Amulet as tattoos on your own skin." #NT!
+ POD_seal_of_maat_interaction_options_heading:0 "Which one do you want want to replicate?" #NT!
+ POD_simple_ward_amulet:0 "Simple Ward" #NT!
+ POD_wood_ward_amulet:0 "Wood Ward" #NT!
+ POD_lesser_ward_amulet:0 "Lesser Ward" #NT!
+ POD_lesser_talisman_amulet:0 "Lesser Talisman" #NT!
+ POD_amulet_of_cloud_walking_amulet:0 "Amulet of Cloud Walking" #NT!
+ POD_major_ward_amulet:0 "Major Ward" #NT!
+ POD_metal_ward_amulet:0 "Metal Ward" #NT!
+ POD_veil_of_amaunet_amulet:0 "Veil of Amaunet" #NT!
+ POD_greater_ward_amulet:0 "Greater Ward" #NT!
+ POD_greater_talisman_amulet:0 "Greater Talisman" #NT!
+ POD_gebs_blessing_amulet:0 "Geb's Blessing" #NT!
+ POD_greater_veil_of_amaunet_amulet:0 "Greater Veil of Amaunet" #NT!
+
+ POD_mummy_shapeshift_interaction:0 "Shapeshift" #NT!
+ POD_mummy_shapeshift_interaction_desc:0 "Use your power to shapeshift your form." #NT!
+ POD_name_the_secret_interaction:0 "Name the Secret" #NT!
+ POD_name_the_secret_interaction_desc:0 "Use your power to reveal all secrets of [recipient.GetFirstName]." #NT!
+ POD_healing_bandages_interaction:0 "Healing Bandages" #NT!
+ POD_healing_bandages_interaction_desc:0 "Use the enchanted bandages to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_healing_bandages_interaction_options_heading:0 "What shall the bandages heal?" #NT!
+ POD_eye_of_sakhmet_interaction:0 "Eye of Sekhmet" #NT!
+ POD_eye_of_sakhmet_interaction_desc:0 "Give a modifier that make [recipient.GetFirstName] unable to heal [recipient.GetHerHis] wound." #NT!
+
+ POD_sell_effigy_artifact_interaction:0 "Sell Effigy #Weak (Artifact)#!" #NT!
+ POD_sell_effigy_character_interaction:0 "Sell Effigy #Weak (Character)#!" #NT!
+ recipient_secondary_POD_sell_effigy_character_interaction:0 "Effigy to Sell" #NT!
+ POD_sell_effigy_interaction_desc:0 "Sell [recipient.GetFirstName] an effigy that you have." #NT!
+ POD_sell_effigy_interaction_options_heading:0 "Which effigy shall I sell?" #NT!
+ POD_simple_creature_effigy:0 "Simple Creature" #NT!
+ POD_lesser_creature_effigy:0 "Lesser Creature" #NT!
+ POD_major_creature_effigy:0 "Major Creature" #NT!
+ POD_superior_creature_effigy:0 "Superior Creature" #NT!
+ POD_princely_creature_effigy:0 "Princely Creature" #NT!
+ POD_lesser_chattel_effigy:0 "Lesser Chattel" #NT!
+ POD_complex_chattel_effigy:0 "Complex Chattel" #NT!
+ POD_superior_chattel_effigy:0 "Superior Chattel" #NT!
+ POD_princely_chattel_effigy:0 "Princely Chattel" #NT!
+ POD_simple_servitor_effigy:0 "Simple Servitor" #NT!
+ POD_overseer_effigy:0 "Overseer" #NT!
+ POD_guard_effigy:0 "Guard" #NT!
+
+ POD_command_the_beast_interaction:0 "Command the Beast" #NT!
+ POD_command_the_beast_interaction_desc:0 "Find an animal and intimidate it to your service." #NT!
+ POD_command_the_beast_interaction_options_heading:0 "What animal should I intimidate?" #NT!
+ POD_command_the_beast_interaction_horse:0 "Horse" #NT!
+ POD_command_the_beast_interaction_cat:0 "Cat" #NT!
+ POD_command_the_beast_interaction_dog:0 "Dog" #NT!
+ POD_command_the_beast_interaction_wolf:0 "Wolf" #NT!
+ POD_command_the_beast_interaction_bear:0 "Bear" #NT!
+ POD_command_the_beast_interaction_lion:0 "Lion" #NT!
+ POD_command_the_beast_interaction_tiger:0 "Tiger" #NT!
+ POD_command_the_beast_interaction_rat:0 "Rat" #NT!
+
+ POD_breakdown_artifact_interaction:0 "Breakdown Artifact" #NT!
+ POD_breakdown_artifact_interaction_desc:0 "Breakdown artifact into artifact pieces for later recreation." #NT!
+ POD_recreate_artifact_interaction:0 "Recreate Artifact" #NT!
+ POD_recreate_artifact_interaction_desc:0 "Recreate Artifact from artifact pieces in the inventory." #NT!
+ NOT_POD_has_artifact_pieces:0 "Have two or more artifact pieces in inventory." #NT!
+
+ POD_grant_extra_life_interaction:0 "Grant Extra Life" #NT!
+ POD_grant_extra_life_interaction_desc:0 "Grant [recipient.GetFirstName] an extra life that allows [recipient.GetHerHim] to resurrect once." #NT!
+ POD_scouring_oblivion_interaction:0 "Scouring Oblivion" #NT!
+ POD_scouring_oblivion_interaction_desc:0 "Extracting the energy of death from [recipient.GetFirstName] bodies, restoring lost lifeforce." #NT!
+ POD_whispers_to_the_heart_interaction:0 "Whisper to the Heart" #NT!
+ POD_whispers_to_the_heart_interaction_desc:0 "You inspire a selected emotion in [recipient.GetFirstName]." #NT!
+ POD_becoming_the_person_interaction:0 "Becoming the Person" #NT!
+ POD_becoming_the_person_interaction_desc:0 "You gain the appearance of [recipient.GetFirstName]." #NT!
+ POD_banish_from_existence_interaction:0 "Banish from Existence" #NT!
+ POD_banish_from_existence_interaction_desc:0 "You kill [recipient.GetFirstName] and remove all records of [recipient.GetHerHim]." #NT!
+ POD_ptahs_word_interaction:0 "Ptah's Word" #NT!
+ POD_ptahs_word_interaction_desc:0 "By speaking a true name, you can spawn any inanimate object in your location." #NT!
+ POD_ptahs_word_interaction_options_heading:0 "Which material shall I name to create?" #NT!
+ naming_the_gold:0 "Gold" #NT!
+ naming_the_silver:0 "Silver" #NT!
+ POD_command_interaction:0 "Command" #NT!
+ POD_command_interaction_desc:0 "Command [recipient.GetFirstName] by speaking [recipient.GetHerHis] true name." #NT!
+ POD_command_interaction_short_term_gold_option:0 "Pay gold" #NT!
+ POD_command_interaction_artifact_claim_option:0 "Let me claim your artifact" #NT!
+ POD_command_interaction_long_term_gold_option:0 "Pay income" #NT!
+ POD_command_interaction_imprision_option:0 "Enter my prison" #NT!
+ POD_command_interaction_recruit_option:0 "Enter my court" #NT!
+ POD_command_interaction_release_prisoner_option:0 "Release all prisoner" #NT!
+ POD_command_interaction_title_claim_option:0 "Let me claim your title" #NT!
+ POD_command_interaction_join_war_option:0 "Join my war" #NT!
+ POD_command_interaction_reveal_secret_and_scheme_option:0 "Reveal all your secrets and schemes" #NT!
+ I_need_artifact_whisper_between_two_hearts:0 "I need to possess the amulet [artifact|E] Whisper Between Two Hearts" #NT!
+ victim_needs_artifact_whisper_between_two_hearts:0 "[recipient.GetFirstName] needs to possess the amulet [artifact|E] Whisper Between Two Hearts" #NT!
+ POD_draw_sekhem_interaction:"Draw Sekhem" #NT!
+ POD_draw_sekhem_interaction_desc:"Drawing Sekhem from them to you." #NT!
+ POD_spell_of_life_interaction:"Spell of Life" #NT!
+ POD_spell_of_life_interaction_desc:"Use the famed Spell of Life to give [recipient.GetFirstName] eternal life." #NT!
+ POD_spell_of_life_opinion:"Grant Immortality" #NT!
+ POD_ask_neteru_for_conversion_interaction:0 "Demand Conversion #Weak (Neteru)#!" #NT!
+ POD_ask_neteru_for_osiris_conversion_interaction_desc:0 "Demand that [recipient.GetShortUINameNoTooltip] converts to Osiris League [faith|E]." #NT!
+ POD_ask_neteru_for_apophis_conversion_interaction_desc:0 "Demand that [recipient.GetShortUINameNoTooltip] converts to Apophis Servant [faith|E]." #NT!
+ POD_manipulate_the_shroud_interaction:0 "Manipulate the Shroud" #NT!
+ POD_manipulate_the_shroud_interaction_desc:0 "Change the Shroud rating of target area." #NT!
+ POD_create_asekh_sen_interaction:0 "Create an Asekh-sen" #NT!
+ POD_create_asekh_sen_interaction_desc:0 "Create an Asekh-sen as a substitute." #NT!
+
+ POD_control_creature_interaction:0 "Control Creature" #NT!
+ POD_control_creature_interaction_desc:0 "Find an animal and take control of it." #NT!
+ POD_control_creature_interaction_options_heading:0 "What animal should I control?" #NT!
+ POD_control_creature_interaction_horse:0 "Horse" #NT!
+ POD_control_creature_interaction_cat:0 "Cat" #NT!
+ POD_control_creature_interaction_dog:0 "Dog" #NT!
+ POD_control_creature_interaction_wolf:0 "Wolf" #NT!
+ POD_control_creature_interaction_bear:0 "Bear" #NT!
+ POD_control_creature_interaction_lion:0 "Lion" #NT!
+ POD_control_creature_interaction_tiger:0 "Tiger" #NT!
+ POD_control_creature_interaction_rat:0 "Rat" #NT!
+ POD_control_creature_interaction_cockroach:0 "Cockroach" #NT!
+
+ POD_restore_pneuma_by_magic_interaction:0 "Pneuma Restoration" #NT!
+ POD_restore_pneuma_by_magic_interaction_desc:0 "Enable a constant Sekhem restoration, the cost is #N 4#! gold at month, but each level of the ducal building Occult Affiliation in your capital will lower it by #P 25%#!." #NT!
+ POD_not_restore_pneuma_by_magic_interaction_desc:0 "Disable the constant Sekhem restoration, no longer paying gold to maintain it." #NT!
+ POD_cabiri_maintenance.tt:0 "Wizards can use the Prime Sphere to grant a mummy Sekhem in the form of Quintessence." #NT!
+ POD_shemsuheru_maintenance:0 "Meditation" #NT!
+ POD_shemsuheru_maintenance.tt:0 "The world outside the [GetGeographicalRegion('pod_lands_of_faith').GetName] is strongly influenced by the power of Apophis, making Sekhem less freely available. A mummy may spend a full day meditating to recover Sekhem." #NT!
+ pod_lands_of_faith:0 "Lands of Faith" #NT!
+
+ POD_separate_khaibit_interaction:0 "Separate Khaibit" #NT!
+ POD_separate_khaibit_interaction_desc:0 "Split your Khaibit" #NT!
+ POD_separate_khaibit_interaction.tt:0 "You will try to split your Khaibit apart from your body." #NT!
+
+ POD_train_hekau_interaction:0 "Train Hekau" #NT!
+ POD_train_hekau_interaction_desc:0 "Teach [recipient.GetFirstName] one of your Hekau" #NT!
+
+ POD_renaming_the_hekau_interaction:0 "Renaming the Hekau" #NT!
+ POD_renaming_the_hekau_interaction_desc:0 "Refund [recipient.GetFirstName]'s perks." #NT!

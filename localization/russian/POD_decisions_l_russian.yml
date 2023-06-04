@@ -1,0 +1,1072 @@
+﻿l_russian:
+ groom_successor_decision:0 "В поисках Наследника" #NT!
+ groom_successor_decision_tooltip:1 "Your servants will suggest a number of suitable candidates" #NT!
+ groom_successor_decision_desc:0 "Wan Kuei aren't able to [Embrace|E] or, most of the time, have children naturally. As such, if you don't want your hard work going to waste in case of an unfortunate accident, you must be prepared. You will ask your servants to bring forth a number of suitable candidates." #NT!
+ groom_successor_decision_effect_tooltip:1 "You will be presented with a group of candidates and may accept one as your own child for a prestige fee" #NT!
+ groom_successor_decision_confirm:0 "Start the search" #NT!
+ oust_mithras_objective_decision:0 "Опуская Солнце" #NT!
+ oust_mithras_objective_decision_tooltip:1 "Если вы добьетесь успеха, вы получите великую награду и навсегда сокрушите культ Митры" #NT!
+ oust_mithras_objective_decision_desc:0 "Митра и его приспешники были чумой на этих островах с тех пор, как он прибежал сюда, спасаясь от своих неудач на континенте. Сородичам Туманного Альбиона давно пора вырвать свою родину из лап этого так называемого персидского "Бога"." #NT!
+ #oust_mithras_objective_decision_effect_tooltip:1 "Провозгласите, что Британия свободна от влияния Митры." #NT!
+ oust_mithras_objective_decision_effect_tooltip2:1 "Это сокрушит религию Via Mithras, дарует вам большой престиж и сформирует новую группу воинов, посвятивших себя защите Альбиона." #NT!
+ oust_mithras_objective_decision_confirm:0 "Наконец время пришло" #NT!
+ oust_mithras_custom_decision:0 "Вам нужно иметь вассалов без веры Via Mithras. Бароны не считаются." #NT!
+ oust_mithras_custom_decision2:0 "[TARGET_CHARACTER.GetFirstName] должен быть мертв или в [torpor|E]е." #NT!
+ mithras_victory_objective_decision:0 "Скипетр и Солнце" #NT!
+ mithras_victory_objective_decision_tooltip:1 "По мере роста влияния культа Митры, [Clan|E] Вентру падет в его руки" #NT!
+ mithras_victory_objective_decision_desc:0 "Митра уже однажды был близок к тому, чтобы доминировать в религиозном пантеоне, в Древнем Риме. Сегодня человечество кажется недосягаемым, но у вас, как у выдающегося члена Вентру, все еще есть возможность захватить контроль над Кланом с помощью веры. Если сначала будут решены какие-то мелкие вопросы..." #NT!
+ mithras_victory_objective_decision_effect_tooltip2:1 "Культ Митры получит силу, и большинство Вентру обратятся в него, навсегда связав Клан и Веру" #NT!
+ mithras_victory_objective_decision_confirm:0 "[Clan|E] и вера, едины" #NT!
+ mithras_victory_custom_decision:0 "[TARGET_CHARACTER.GetFirstName], один из трех главных противников доминирования Клана Вентру, должен быть мертв или в [torpor|E]е." #NT!
+ mithras_victory_custom_decision2:0 "Ни один другой Вентру, кроме вас или Митры, не может носить имперский титул. Если только они сами не являются членами культа Митры." #NT!
+ toreador_victory_objective_decision:0 "Мечтая Снова" #NT!
+ toreador_victory_objective_decision_tooltip:1 "Знаменательное событие, которое найдет отклик на протяжении всей истории каинитов." #NT!
+ toreador_victory_objective_decision_desc:0 "В 1204 году произошло немыслимое: Михаил, патриарх Константинопольской мечты, погиб, когда его город сгорел. С того рокового времени многочисленные последователи мертвого Архангела пытались воссоздать эту самую святую утопию." #NT!
+ toreador_victory_objective_decision_confirm:0 "Я надеюсь, Михаил наблюдает" #NT!
+ toreador_victory_objective_decision_effect_tooltip:1 "Вам будет представлен выбор между обновлением веры Архангела или просто наслаждением материальными наградами." #NT!
+ shadow_reconquista_objective_decision:0 "Теневая Реконкиста" #NT!
+ shadow_reconquista_objective_decision_tooltip:1 "Это порадует лидеров Клана Ласомбра и, что ж, проложит вам путь к грядущим великим свершениям." #NT!
+ shadow_reconquista_objective_decision_desc:0 "В ошибочной попытке сохранить свою политическую власть аширрские члены Клана Ласомбра спровоцировали гражданскую войну, которая почти положила конец господству Ласомбра в Иберии. Они должны быть остановлены как можно скорее." #NT!
+ shadow_reconquista_objective_decision_confirm:0 "Их восстание закончится" #NT!
+ shadow_reconquista_objective_decision_effect_tooltip:1 "Вы узурпируете или создадите титул "Море теней". Это решение может оказаться непопулярным в течение некоторого времени." #NT!
+ shadow_reconquista_objective_decision_custom:1 "В вашем царстве не должно быть верных аширре. Бароны не в счет." #NT!
+ einherjar_victory_objective_decision:0 "Побеждая Рагнарек" #NT!
+ einherjar_victory_objective_decision_tooltip:1 "За пределами Рагнарека лежит возможность будущего для вашего народа." #NT!
+ einherjar_victory_objective_decision_desc:0 "Дети Кахарла испытывают сильное давление из-за прихода христианства. Один пропал, и их собственный народ ополчился против них с вилами и огнем. Поскольку немецкие Вентру уже захватили города в южной Скандинавии, похоже, время эйнхерия закончилось." #NT!
+ einherjar_victory_objective_decision_confirm:0 "Вальгалла обеспечена" #NT!
+ einherjar_victory_objective_decision_effect_tooltip:1 "Вы воспользуетесь своими потрясающими и неожиданными победами, чтобы возродить веру [einherjar|E] и привести ее в эту новую эру." #NT!
+ ashirra_deconquista_objective_decision:0 "Иберия после Полуночи" #NT!
+ ashirra_deconquista_objective_decision_tooltip:1 "Окончание гражданской войны в Иберии в пользу аширры - грандиозное начинание, но с достой наградой." #NT!
+ ashirra_deconquista_objective_decision_desc:0 "Верующие аширры терпели неудачу за неудачей с начала гражданской войны в Ласомбра. При поддержке "Моря теней" победа Де Руиса кажется обеспеченной. Но, возможно, вы все еще можете переломить ситуацию..." #NT!
+ ashirra_deconquista_objective_decision_confirm:0 "Благоверные торжествуют" #NT!
+ ashirra_deconquista_objective_decision_effect_tooltip:1 "Ваша победа подорвет могущество Sea of Shadows, подготовит вас к грядущим великим свершениям и позволит вам восстановить истерзанную войной Иберию." #NT!
+ ashirra_deconquista_objective_decision_custom:1 "В ваших землях не должны быть персонажей с верой Via Noctis. Бароны не считаются." #NT!
+ malkavian_victory_objective_decision:0 "Небольшой Розыгрыш" #NT!
+ malkavian_victory_objective_decision_tooltip:1 "Малкав разговаривает с тобой и приказывает тебе что-то делать! Возможно." #NT!
+ malkavian_victory_objective_decision_desc:0 "У вас есть компульсия, или пророческое видение, или лихорадочный сон... в любом случае, вы почти уверены, что вам нужно собрать Клан Малкавиан, чтобы провести большой ритуал в Богемии. Или в Иерусалиме." #NT!
+ malkavian_victory_objective_decision_confirm:0 "Грядут важные события!" #NT!
+ malkavian_victory_objective_decision_effect_tooltip:1 "Вы проведете ритуал с идеальной точностью и знанием того, что делаете. Может быть." #NT!
+ senate_victory_objective_decision:0 "Вечная Республика" #NT!
+ senate_victory_objective_decision_tooltip:1 "Рим пал, но его республиканский дух еще цел. [Clan|E] Вентру двигается в новых направлениях, но его движение может быть обращено и к более старым, гордым путям." #NT!
+ senate_victory_objective_decision_desc:0 "До того, как он превратился в бездонную яму греха, Неживой Рим был утопией республиканских канитов. Мечта о Сенате, где каждый, ну, в общем, большинство кланов могли бы иметь своего представителя, все еще достижима. Если ошибочная попытка немецкого Вентру построить новую империю будет пресечена первой..." #NT!
+ senate_victory_objective_decision_confirm:0 "Мы есть Сенат" #NT!
+ senate_victory_objective_decision_effect_tooltip:1 "Республиканский Рим будет восстановлен, и будет введена новая политика, чтобы соответствующим образом вознаграждать и наказывать кланы." #NT!
+ senate_victory_objective_decision_custom:1 "[TARGET_TITLE.GetNameNoTier] титул должен быть ваш или не существовать вовсе." #NT!
+ brujah_victory_objective_decision:0 "Карфаген" #NT!
+ brujah_victory_objective_decision_tooltip:1 "Мы никогда не забудим Карфаген, утопию Троиль, где люди и каиниты сосуществуют. Сожженный завистливыми римлянами, его дух все еще живет в каждом из нас." #NT!
+ brujah_victory_objective_decision_desc:0 "Рим и Камилла разрушили наш священный Карфаген, идеальный город. Но это никогда по-настоящему не исчезнет, пока Клан Бруха все еще жив. Возможно, в эти времена, когда пал сам Рим, мы могли бы увидеть возрождение нашей утопии." #NT!
+ brujah_victory_objective_decision_confirm:0 "Троиль бы гордилась" #NT!
+ brujah_victory_objective_decision_effect_tooltip:1 "У вас будет выбор, как поступить в этот исторический момент. Карфаген будет воссоздан либо как политический инструмент, либо как истинная, сеющая раскол утопия." #NT!
+ brujah_victory_objective_decision_custom:1 "[TARGET_CHARACTER.GetFirstName], тогдашний и нынешний принц Рима, который когда-то разрушил наш город, должно быть, мертв или находится в торпоре." #NT!
+ babayaga_victory_objective_decision:0 "Ваша Заботливая Бабушка" #NT!
+ babayaga_victory_objective_decision_tooltip:1 "[Clan|E] Носферату проклят, если только вам не удастся заключить союз с Королевой Ведьм." #NT!
+ babayaga_victory_objective_decision_desc:0 "Абсимильярд, прародитель [Clan|E]а Носферату где-то там планирует погибель своего потомства. Единственная надежда - на Бабу Ягу, Маленькую бабушку, которой уже однажды удалось дать ему отпор. Please her, and perhaps you may yet survive the coming storm." #NT!
+ babayaga_victory_objective_decision_confirm:0 "Бабушка, внемли нашей мольбе!" #NT!
+ babayaga_victory_objective_decision_effect_tooltip:1 "[Clan|E] Носферату объединится вокруг Бабы Яги и её избранный чемпион это вы." #NT!
+ babayaga_victory_objective_decision_custom:1 "Заклятый враг Бабы Яги, [TARGET_CHARACTER.GetFirstName] Белой Руси, даолжна быть мертва или в [torpor|E]е." #NT!
+ nosferatu_victory_objective_decision:0 "Ужасы в Темноте" #NT!
+ nosferatu_victory_objective_decision_tooltip:1 "Угрозы в буквальном смысле слова таятся в темноте. [Clan|E] Носферату нуждается в защитнике." #NT!
+ nosferatu_victory_objective_decision_desc:0 "Ваш [Clan|E] истребляется своим прародителем, Абсимильярдом. Таким образом, вы вынуждены прятаться в тени, ожидая, когда его гнев поглотит вас. Но, возможно, кто-то сможет объединить Клан и нанести ответный удар..." #NT!
+ nosferatu_victory_objective_decision_confirm:0 "Мы переживем тебя, основатель" #NT!
+ nosferatu_victory_objective_decision_effect_tooltip:1 "Вы объедините [Clan|E] Носферату, мощное достоинство, учитывая насколько a устойчива и коварна ваша родословная." #NT!
+ urshulgi_victory_objective_decision:0 "Мечты Бога" #NT!
+ urshulgi_victory_objective_decision_tooltip:1 "Единственный любимый сын, Ур-Шульги, знает волю Хакима." #NT!
+ urshulgi_victory_objective_decision_desc:0 "[Clan|E] Ассамитов находится в состоянии отрицания. Наше предназначение - очистить землю от нечистой крови Детей Кхаина и вернуть ее нашему прародителю Хакиму. Мы должны показать им правду." #NT!
+ urshulgi_victory_objective_decision_confirm:0 "Черная Паства усиляется" #NT!
+ urshulgi_victory_objective_decision_effect_tooltip:1 "[Clan|E] Ассамитов обратится в ваш культ, и мечта Ур-Шульги сокрушит души неверных." #NT!
+ urshulgi_victory_objective_decision_custom:1 "Главные враги на пути влияния аламута, Джамал, Накуртум и Аль-Ашрад, должны быть мертвы или в [torpor|E]е." #NT!
+ assamite_victory_objective_decision:0 "Разделенный Клан" #NT!
+ assamite_victory_objective_decision_tooltip:1 "Дети Хакима нуждаются в новом, объединяющем руководстве." #NT!
+ assamite_victory_objective_decision_desc:0 "[Clan|E] Ассамитов разделен между конкурирующими конфессиями, тайными культами и личными интересами. Эти разногласия глубоки и угрожают уничтожить клан в скором времени. Это нужно прекратить." #NT!
+ assamite_victory_objective_decision_confirm:0 "Больше никаких "Брат против Брата", мы будем едины. #NT!
+ assamite_victory_objective_decision_effect_tooltip:1 "Вы объедините Клан Ассамитов и определите его дальнейшую судьбу." #NT!
+ assamite_victory_objective_decision_custom:1 "Отколовшиеся секты, Паутина Кинжалов/Хорасан и Потерянное Племя, уничтожены или принадлежат напрямую вам." #NT!
+ sinner_victory_objective_decision:0 "Политический Грех" #NT!
+ sinner_victory_objective_decision_tooltip:1 "Грешники могут превратить эту пуританскую эпоху в нечто гораздо большее." #NT!
+ sinner_victory_objective_decision_desc:0 "Сегодня Грешники - жалкие создания, едва ли последовательные в своей жажде упадка. Но когда-то Грешники правили самой могущественной империей каинитов, самим Римом. Это могло бы повториться снова." #NT!
+ sinner_victory_objective_decision_confirm:0 "Друзья, римляне, соотечественники, услышьте же меня" #NT!
+ sinner_victory_objective_decision_effect_tooltip:1 "Вечный Рим будет восстановлен. Дорога Греха восстановит свое политическое господство." #NT!
+ ventrue_victory_objective_decision:0 "Король Королей" #NT!
+ ventrue_victory_objective_decision_tooltip:1 "Слишком много королей среди сородичей в этом мире" #NT!
+ ventrue_victory_objective_decision_desc:0 "Вы из [Clan|E]а Правителей, но что, если вы можете быть правителем правителей? [Clan|E] Вентру сильнее всего, когда он един в конце концов..." #NT!
+ ventrue_victory_objective_decision_confirm:0 "Сначала Клан Вентру, затем весь мир" #NT!
+ ventrue_victory_objective_decision_effect_tooltip:1 "Вы объедините [Clan|E] Вентру, обеспечивая свое господство над собственным кланом." #NT!
+ ventrue_victory_objective_decision_custom:1 "Ни один Вентру кроме вас не может быть императором!" #NT!
+ lasombra_victory_objective_decision:0 "Вера в Тенях" #NT!
+ lasombra_victory_objective_decision_tooltip:1 "Эта грязная гражданская война должна закончиться. Вам нужно действовать, пока не стало слишком поздно." #NT!
+ lasombra_victory_objective_decision_desc:0 "Клан Ласомбра находится в состоянии войны сам с собой с момента отделения движения аширры. Это ослабило влияние "Моря теней" на Средиземное море, и это нужно прекратить немедленно." #NT!
+ lasombra_victory_objective_decision_confirm:0 "Пора перевернуть эту страницу нашей истории" #NT!
+ lasombra_victory_objective_decision_effect_tooltip:1 "Оставшееся движение аширры будет уничтожено, и ваша власть над Кланом будет абсолютной... на время." #NT!
+ lasombra_victory_objective_decision_custom:1 "Ночной Полумесяц/Андалусия и титулы халифата аширры/Арабской империи должны принадлежать вам или быть уничтожены." #NT!
+ ashirra_victory_objective_decision:0 "Полумесяц над Тенями" #NT!
+ ashirra_victory_objective_decision_tooltip:1 "Движение аширры должно одержать победу в продолжающейся гражданской войне." #NT!
+ ashirra_victory_objective_decision_desc:0 "Клан Ласомбра находится в состоянии войны, и его мусульманская часть сформировала коалицию, частью которой являетесь вы, аширра. Чтобы верующие были в безопасности, необходимо разобраться со старым руководством Ласомбра." #NT!
+ ashirra_victory_objective_decision_confirm:0 "Пришло время изгнать их" #NT!
+ ashirra_victory_objective_decision_effect_tooltip:1 "Оставшимся христианам Ласомбра будет дан последний шанс обратиться в ислам, и ваша власть как Вечного халифа будет обеспечена." #NT!
+ ashirra_victory_objective_decision_custom:1 "Либо вы контролируете титул [GetTitleByKey('e_sea_of_shadows').GetNameNoTier], либо никто." #NT!
+ heretic_victory_objective_decision:0 "Истина до возвращения Каина" #NT!
+ heretic_victory_objective_decision_tooltip:1 "Если ничего не предпринять, в свое Третье Пришествие Кайн вернется в обреченный мир, полный неверующих." #NT!
+ heretic_victory_objective_decision_desc:0 "Церковь Третьего Пришествия Каина, или [cainite|E]ская Ересь для окружающих, умирает. На её последователей охотятся почти во всех уголках Европы, её лидерство сломлено, ей грозит вымирание. Восстановление влияния церкви маловероятно, но... в конце концов, вере не требуются доказательства." #NT!
+ heretic_victory_objective_decision_confirm:0 "Этой ночью Демиургу будет нанесен серьезный удар." #NT!
+ heretic_victory_objective_decision_effect_tooltip:1 "Вы придадите Церкви вторую жизнь, обретя новые убеждения и вступив в новую эру распространения вашей веры." #NT!
+ anda_victory_objective_decision:0 "Гром среди Степей" #NT!
+ anda_victory_objective_decision_tooltip:1 "Эти новые земли нуждаются в быстром и решительном завоевании, если мы хотим выдержать контратаку Ван Куэй." #NT!
+ anda_victory_objective_decision_desc:0 "Путешествуя с нашими монгольскими сородичами, анды процветали. Но китайские Ван Куэй готовятся к войне, и мы должны укрепить наши позиции на западе перед их нападением." #NT!
+ anda_victory_objective_decision_confirm:0 "Эти степи теперь наши" #NT!
+ anda_victory_objective_decision_effect_tooltip:1 "Вы задержите контратаку Ван Куэя и вдохновите западных гангрелов присоединиться к вам." #NT!
+ gangrel_victory_objective_decision:0 "Кара" #NT!
+ gangrel_victory_objective_decision_tooltip:1 "Ваш мир умирает, но еще не пришло время нанести ответный удар." #NT!
+ gangrel_victory_objective_decision_desc:0 "На протяжении веков гангрелы были изгнаны из вампирской политики. Хуже того, их соклановцы были выслежены и насильственно обращены в христианство. Это должно прекратиться." #NT!
+ gangrel_victory_objective_decision_confirm:0 "Эра Волков начинается." #NT!
+ gangrel_victory_objective_decision_effect_tooltip:1 "Объединив [Clan|E] Гангрел, вы сокрушите так называеме цивилизованные кланы." #NT!
+ tremere_victory_objective_decision:0 "Воля Тремера" #NT!
+ tremere_victory_objective_decision_tooltip:1 "[Clan|E] Тремер молод, и окружен врагами. Мы должны укрепить наши новые позиции, пока не стало слишком поздно." #NT!
+ tremere_victory_objective_decision_desc:0 " [Clan|E] Тремер был рожден в войне и боли. Цимисхии неумолимы, и нашу пропагандистскую кампанию против Салюбри все еще можно повернуть вспять. Мы не должны останавливаться и сокрушать всех, кто противостоит воле Тремера." #NT!
+ tremere_victory_objective_decision_confirm:0 "Новый [Clan|E], наконец-то в безопасности" #NT!
+ tremere_victory_objective_decision_effect_tooltip:1 "Вы станете Главным Консулом [Clan|E]а, и обрушите проклятье на ваших оставшихся врагов." #NT!
+ tremere_victory_objective_decision_custom:0 "Воеводство Цимисхов должно быть уничтожено" #NT!
+ tremere_victory_objective_decision_customb:0 "Мы должны убедиться, что салюбри не имеют имперского титула" #NT!
+ tzimisce_victory_objective_decision:0 "Вечная Изменчивость" #NT!
+ tzimisce_victory_objective_decision_tooltip:1 "Наша неспособность расправиться с наглыми узурпаторами слишком долго делала нас посмешищем в политическом мире каинитов." #NT!
+ tzimisce_victory_objective_decision_desc:0 "Клан Цимисхов раздроблен, неспособный должным образом отреагировать на ничтожную угрозу, которой должны были стать вторжения Тремеров. Нам нужно новое, более сильное руководство." #NT!
+ tzimisce_victory_objective_decision_confirm:0 "Это призыв к пиршеству..." #NT!
+ tzimisce_victory_objective_decision_effect_tooltip:1 "Вы выберете дальнейший путь [Clan|E]а Цимисхов." #NT!
+ tzimisce_victory_objective_decision_custom:0 "Титул [GetTitleByKey('e_tremere').GetNameNoTier] должен быть уничтожен" #NT!
+ cappadocian_victory_objective_decision:0 "Саргонский Кодекс" #NT!
+ cappadocian_victory_objective_decision_tooltip:1 "Самая святая реликвия [Clan|E] Каппадокийцев должна быть восстановлена." #NT!
+ cappadocian_victory_objective_decision_desc:0 "Говорят, что в нем содержатся все пророчества, сделанные Саргоном -Каппадокием- во время его бытия смертным, кодекс был утерян и разделен на фрагменты, когда Лазарь проиграл свою битву с Констанцией. Его перековка  была бы знаменательным событием." #NT!
+ cappadocian_victory_objective_decision_confirm:0 "...Он взывает ко мне" #NT!
+ cappadocian_victory_objective_decision_effect_tooltip:1 "Вы выберете, что делать с этим ультимативным источником знания." #NT!
+ giovanni_victory_objective_decision:0 "Заговор" #NT!
+ giovanni_victory_objective_decision_tooltip:1 "[Clan|E] Каппадокийцев сдерживает наш истинный потенциал. Мы можем быть чем-то гораздо большим." #NT!
+ giovanni_victory_objective_decision_desc:0 "Мы новое пополнение [Clan|E]а Каппадокийцев но наши 'покровители' уже давно перестали быть нам полезными. Пришло время подумать о нашем будущем как о независимом [Clan|E]е..." #NT!
+ giovanni_victory_objective_decision_confirm:0 "Давайте пригласим нашего дорогого праотца на пир..." #NT!
+ giovanni_victory_objective_decision_effect_tooltip:1 "Вы приведете в движение рождение [Clan|E]а Джованни." #NT!
+ giovanni_victory_objective_decision_custom:0 "Либо вы контролируете [GetTitleByKey('k_erciyes').GetNameNoTier], либо никто." #NT!
+ furores_victory_objective_decision:0 "Новые Начала" #NT!
+ furores_victory_objective_decision_tooltip:1 "Мы медленно умираем в мелких войнах Старейшин или нашего вида, не имея свободной воли, о которой можно было бы говорить. Это должно прекратиться." #NT!
+ furores_victory_objective_decision_desc:0 "Коррумпированная вампирская иерархия душит всякую надежду на то, что молодые сородичи смогут что-то сделать. Если мы хотим, чтобы это изменилось, должна произойти революция, достаточно сильная, чтобы выдержать их контратаку." #NT!
+ furores_victory_objective_decision_confirm:0 "Нас ждет совершенно новое будущее." #NT!
+ furores_victory_objective_decision_effect_tooltip:1 "Вы объедините Свободные Государства в новое мощное политическое образование." #NT!
+ setite_victory_objective_decision:0 "Объятия Змеи" #NT!
+ setite_victory_objective_decision_tooltip:1 "Любящие объятия Сета и величайшее стремление к моральной свободе должны быть распространены повсюду." #NT!
+ setite_victory_objective_decision_desc:0 "Так называемые Дети Каина введены в заблуждение, веря в извращенную пародию на правду. Мы все сетиты, и, защищая наши традиционные границы, мы сделаем первый шаг к тому, чтобы заставить их понять." #NT!
+ setite_victory_objective_decision_confirm:0 "Давайте поприветствуем наших новых братьев." #NT!
+ setite_victory_objective_decision_effect_tooltip:1 "Правда распространится повсюду, и вы вступите в бой с традиционными врагами вашего [Clan|E]." #NT!
+ setite_victory_objective_decision_custom:0 "Титул [GetTitleByKey('e_ashirra').GetNameNoTier] должен быть уничтожен." #NT!
+ salubri_victory_objective_decision:0 "Отомщение" #NT!
+ salubri_victory_objective_decision_tooltip:1 "Многие думают, что мы переживаем последние часы Салюбри как [Clan|E]а, поскольку нас быстро уничтожают наши многочисленные враги." #NT!
+ salubri_victory_objective_decision_desc:0 "[Clan|E] Салюбри лежит разбросанный, почти уничтоженный жестоким нападением узурпаторов Тремер. Хуже того, старые враги, такие как Баали, пользуются нашей слабостью. Мы должны нанести ответный удар, пока не стало слишком поздно." #NT!
+ salubri_victory_objective_decision_confirm:0 "У мести горько-сладкий вкус." #NT!
+ salubri_victory_objective_decision_effect_tooltip:1 "Вы объедините [Clan|E], раскроете ложь Тремеров и выберите свою дальнейшую судьбу." #NT!
+ salubri_victory_objective_decision_custom:0 "Титулы Баали, [GetTitleByKey('k_moloch').GetNameNoTier] and [GetTitleByKey('k_angellisater').GetNameNoTier], должны быть уничтожены." #NT!
+ baali_victory_objective_decision:0 "Конец Времен" #NT!
+ baali_victory_objective_decision_tooltip:1 "Эта порочная и болезненная иллюзия реальности должна закончиться сожжением всего Творения." #NT!
+ baali_victory_objective_decision_desc:0 "Наш повелитель, Нергал, был очень близок к тому, чтобы покончить с этим несчастным миром во время предыдущих Войн Баали. Хотя молохимы противостоят нам больше, чем когда-либо, мы могли бы уничтожить их и ускорить гибель всех." #NT!
+ baali_victory_objective_decision_confirm:0 "...И вот, начинается конец веков." #NT!
+ baali_victory_objective_decision_effect_tooltip:1 "Вы объедините [Clan|E] Баали, призовете могучих демонов из Преисподней и начнете финальную войну." #NT!
+ baali_victory_objective_decision_custom:0 "Ваш соперник, Орден Молоха, должен быть уничтожен. Так же, как и давнишние соперники вашего [Clan|E]а, Салюбри [GetTitleByKey('k_olives').GetNameNoTier] и империя ассамитов [GetTitleByKey('e_assamites').GetNameNoTier]." #NT!
+ molochim_victory_objective_decision:0 "Сторожа Зло" #NT!
+ molochim_victory_objective_decision_tooltip:1 "Мы единственные, кто препятствует возвращению Детей. Наш долг неблагодарен, но священен." #NT!
+ molochim_victory_objective_decision_desc:0 "Если мы хотим помешать безумным Азанеали пробудить древние ужасы, им необходимо дать решительный отпор в продолжающейся гражданской войне. К сожалению, мы также должны справляться с враждой салюбри и ассамитов, которые не делают различий между нами и нашими павшими братьями." #NT!
+ molochim_victory_objective_decision_confirm:0 "А теперь мы должны их накормить." #NT!
+ molochim_victory_objective_decision_effect_tooltip:1 "Вы укрепите доктрины Пути Улья и его последователей." #NT!
+ molochim_victory_objective_decision_custom:0 "Ваш соперник, орден Азанеаля, должен быть уничтожен. Так же, как и давнишние соперники вашего [Clan|E]а, Салюбри [GetTitleByKey('k_olives').GetNameNoTier] и империя ассамитов [GetTitleByKey('e_assamites').GetNameNoTier]." #NT!
+ ravnos_victory_objective_decision:0 "Запад и Восток" #NT!
+ ravnos_victory_objective_decision_tooltip:1 "Находясь вдали от дома, вы должны заработать себе имя." #NT!
+ ravnos_victory_objective_decision_desc:0 "Вы являетесь частью небольшого меньшинства Клана Равнос, не проживающего в Индии. Этот исход причинил много неприятностей вашим сородичам, поскольку вас едва признают [cainite|Е]. Но, возможно, вы сможете выстоять и даже преуспеть в этих обстоятельствах." #NT!
+ ravnos_victory_objective_decision_confirm:0 "Появляется новый Клан Равнос." #NT!
+ ravnos_victory_objective_decision_effect_tooltip:1 "Вы объедините Западный Клан Равнос и выберете позицию по отношению к своим восточным собратьям." #NT!
+ indian_victory_objective_decision:0 "Конец вечной войны" #NT!
+ indian_victory_objective_decision_tooltip:1 "The subcontinent is torn apart by war and strife. You must step up and take action." #NT!
+ indian_victory_objective_decision_desc:0 "The Eternal War between native Indian [cainites|E] and the invading Wan Kuei has gone on for as long as anyone can remember. India will never be free unless someone can unite its disparate defenders." #NT!
+ indian_victory_objective_decision_confirm:0 "Finally, we won." #NT!
+ indian_victory_objective_decision_effect_tooltip:1 "You will unite India, claim the mantle of Chakravarti and start the purge of the remaining Wan Kuei." #NT!
+ kueijin_victory_objective_decision:0 "Rise of The Scarlet Sun" #NT!
+ kueijin_victory_objective_decision_tooltip:1 "The Eternal War is a sordid affair, one your people can't afford to lose." #NT!
+ kueijin_victory_objective_decision_desc:0 "The Wan Kuei invasion of India has stalled for millennia now, with thousands dying without the stubborn Kain-Jin looking any closer to surrender. You will not be stuck with the same fate." #NT!
+ kueijin_victory_objective_decision_confirm:0 "Send a message to the Home Courts." #NT!
+ kueijin_victory_objective_decision_effect_tooltip:1 "You will unite India. Then you will choose how to deal with the Home Courts." #NT!
+ laibon_victory_objective_decision:0 "The Ebony Kingdom" #NT!
+ laibon_victory_objective_decision_tooltip:1 "The Children of Cagn are always infighting, and this has permitted foreign threats to take hold in the Ebony Kingdom." #NT!
+ laibon_victory_objective_decision_desc:0 "Africa lies disunited, with encroaching [cainites|E] from the Muslim world and beyond claiming our land as their own. It is time to push them back." #NT!
+ laibon_victory_objective_decision_confirm:0 "We have protected Africa." #NT!
+ laibon_victory_objective_decision_effect_tooltip:1 "You will unite the Ebony Kingdom and reap the massive prestige coming with such an accomplishment." #NT!
+ restore_the_dream:0 "Restoring the Dream" #NT!
+ restore_the_dream_tooltip:1 "As long as some Vampires believe in it, the Dream can still rise from its ashes." #NT!
+ restore_the_dream_desc:0 "1204 destroyed the peerless utopia that was the Dream of Constantinople. Such a tragedy will usher a terrible era of darkness for the [cainite|E] world, unless someone takes up the mantle of Michael once again." #NT!
+ restore_the_dream_confirm:0 "As it was, it will be." #NT!
+ restore_the_dream_effect_tooltip:1 "You will create the Dream Empire title." #NT!
+ witching_lands:0 "Founding the Witching-Lands" #NT!
+ witching_lands_tooltip:1 "The time of the Druids has come." #NT!
+ witching_lands_desc:0 "With the rise of the Druidic cults and witch-vampires, the forests of the British Isles themselves seem to have revolted against the old Cainite dominions. A new chorus cries out in the Sceptred and Emerald Isles; the Druids - once rejected by all Cainites - now stand triumphant, and their dark forests shall spread forever." #NT!
+ witching_lands_confirm:0 "Forever, and ever." #NT!
+ witching_lands_effect_tooltip:1 "You will create the Witching-Lands title." #NT!
+ restore_the_black_cross:0 "Restoring the Black Cross" #NT!
+ restore_the_black_cross_tooltip:1 "Germany needs a strong Ventrue leadership more than ever." #NT!
+ restore_the_black_cross_desc:0 "Hardestadt's first Black Cross had faults, but it was nonetheless a testament to Ventrue leadership that we could use to legitimize our rule." #NT!
+ restore_the_black_cross_confirm:0 "Under the Cross once again." #NT!
+ restore_the_black_cross_effect_tooltip:1 "You will create the Black Cross Empire title." #NT!
+ restore_the_voivodate:0 "Restoring the Voivodate" #NT!
+ restore_the_voivodate_tooltip:1 "The Tzimisce are an unruly lot, and need a strong leadership." #NT!
+ restore_the_voivodate_desc:0 "A political tool, the Voivodate has always been contested. But it is still a prestigious title, and could be made stronger than ever." #NT!
+ restore_the_voivodate_confirm:0 "We enter here once again." #NT!
+ restore_the_voivodate_effect_tooltip:1 "You will create the Voivodate Empire title." #NT!
+ restore_the_sea_of_shadows:0 "Restoring the Sea of Shadows" #NT!
+ restore_the_sea_of_shadows_tooltip:1 "Our progenitor, Lasombra, needs a strong right hand to lead his [Clan|E]." #NT!
+ restore_the_sea_of_shadows_desc:0 "The Lasombra realm had always been led by Montano, Lasombra's most loyal childe. But times are changing, and a new favorite could come to the fore." #NT!
+ restore_the_sea_of_shadows_confirm:0 "Father, see my ascension!" #NT!
+ restore_the_sea_of_shadows_effect_tooltip:1 "You will create the Sea of Shadows Empire title." #NT!
+ restore_avalon:0 "Restoring Avalon" #NT!
+ restore_avalon_tooltip:1 "A God's realm never truly dies." #NT!
+ restore_avalon_desc:0 "As you know, Mithras is more God than Vampire. Whether he decides to one day returns to his followers, you must prepare a mortal realm for his followers." #NT!
+ restore_avalon_confirm:0 "We stand at the ready." #NT!
+ restore_avalon_effect_tooltip:1 "You will create the Avalon Empire title." #NT!
+ restore_love:0 "Restoring the Courts of Love" #NT!
+ restore_love_tooltip:1 "France will be Toreador, or won't be at all." #NT!
+ restore_love_desc:0 "The Courts of Love were the expression of the Toreador Matriarch triumph over the Ventrue in France. This grand political and artistic venture can't be left to rot as history." #NT!
+ restore_love_confirm:0 "Love is eternal, after all." #NT!
+ restore_love_effect_tooltip:1 "You will create the Courts of Love Empire title." #NT!
+ restore_midgard:0 "Restoring Midgard" #NT!
+ restore_midgard_tooltip:1 "Odin still watches over us." #NT!
+ restore_midgard_desc:0 "Midgard has suffered setback after setback as the [einherjar|E] crumbled before the Ventrue invasion. To survive, they will need a massive counterattack and a new All-High." #NT!
+ restore_midgard_confirm:0 "Ragnarok can wait." #NT!
+ restore_midgard_effect_tooltip:1 "You will create the Midgard Empire title." #NT!
+ restore_ashirra:0 "Restoring the Ashirra Caliphate" #NT!
+ restore_ashirra_tooltip:1 "The Faithful need an home." #NT!
+ restore_ashirra_desc:0 "The [ashirra|E] Caliphate was a young creation by Vampire standards. But it is backed by the faith of millions already and, as such, can only rise once more in due time." #NT!
+ restore_ashirra_confirm:0 "God truly is great." #NT!
+ restore_ashirra_effect_tooltip:1 "You will create the [ashirra|E] Caliphate Empire title." #NT!
+ restore_alamut:0 "Restoring Alamut" #NT!
+ restore_alamut_tooltip:1 "The Children of Haqim are lost without their home." #NT!
+ restore_alamut_desc:0 "Reputed impregnable, Alamut was more than a fortress for the Haqimite [Clan|E]. A political symbol of Haqim's will and unity, it must be made whole if the Children are to prosper again." #NT!
+ restore_alamut_confirm:0 "The wind is back in our favor." #NT!
+ restore_alamut_effect_tooltip:1 "You will create the Alamut Empire title." #NT!
+ restore_giovanni:0 "Restoring the Family" #NT!
+ restore_giovanni_tooltip:1 "The Family's beginnings weren't as smooth as anticipated." #NT!
+ restore_giovanni_desc:0 "The Giovanni have suffered setbacks, but we now have an eternity to come out on top. Let us start by bringing the family back together." #NT!
+ restore_giovanni_confirm:0 "The perfect deal." #NT!
+ restore_giovanni_effect_tooltip:1 "You will create the Giovanni Kingdom title." #NT!
+ restore_ravnos:0 "Restoring the [Clan|E]" #NT!
+ restore_ravnos_tooltip:1 "The Eternal War doesn't permit any dissidence." #NT!
+ restore_ravnos_desc:0 "We have lost the unifying heartland of [Clan|E] Ravnos. This crushing blow to our pride and spirit must be avenged as quickly as possible." #NT!
+ restore_ravnos_confirm:0 "The war rages on." #NT!
+ restore_ravnos_effect_tooltip:1 "You will create the Ravnos Empire title." #NT!
+ restore_setite:0 "Restoring the [Clan|E]" #NT!
+ restore_setite_tooltip:1 "The Chosen Land must be controlled by the Faithful." #NT!
+ restore_setite_desc:0 "Egypt has always been the heartland of our [Clan|E] and our faith. If we are to spread Set's word to the world, we must first secure our rule here." #NT!
+ restore_setite_confirm:0 "Set be praised!" #NT!
+ restore_setite_effect_tooltip:1 "You will create the Setite Empire title." #NT!
+ restore_talmahera:0 "Restoring the Tal'mahe'Ra" #NT!
+ restore_talmahera_tooltip:1 "Even Enoch must have a foothold on Earth." #NT!
+ restore_talmahera_desc:0 "Although we still rule firmly in the [underworld|E], having our connection to the mortal realm severed isn't a good thing. Reconquering our lost bastions is a priority." #NT!
+ restore_talmahera_confirm:0 "Open the portals once more." #NT!
+ restore_talmahera_effect_tooltip:1 "You will create the Tal'mahe'Ra Empire title." #NT!
+ restore_obertus:0 "Restoring the Obertus Order" #NT!
+ restore_obertus_tooltip:1 "Constantinople's legacy still lives on." #NT!
+ restore_obertus_desc:0 "As followers of Via Caeli, we are distrusted by the rest of the Tzimisce [Clan|E]. But we could reinstate the Obertus Order of old to give us some legitimacy in these trying times." #NT!
+ restore_obertus_confirm:0 "For the Son and the Father." #NT!
+ restore_obertus_effect_tooltip:1 "You will create the Obertus Kingdom title." #NT!
+ restore_moloch:0 "Restoring the Order of Moloch" #NT!
+ restore_moloch_tooltip:1 "The Children must be fed." #NT!
+ restore_moloch_desc:0 "Our eternal shadow war to protect the world from demons has been going poorly. If we are to survive, we must unite under one Order once more." #NT!
+ restore_moloch_confirm:0 "Now, to the pits..." #NT!
+ restore_moloch_effect_tooltip:1 "You will create the Order of Moloch Kingdom title." #NT!
+ restore_azaneal:0 "Restoring the Order of Azaneal" #NT!
+ restore_azaneal_tooltip:1 "We can still open the pits..." #NT!
+ restore_azaneal_desc:0 "Azaneal had a vision for the Baali. Despite some setbacks, we must still unite our brethren behind this vision, or the blessed end will never come." #NT!
+ restore_azaneal_confirm:0 "The beginning of the end." #NT!
+ restore_azaneal_effect_tooltip:1 "You will create the Order of Azaneal Kingdom title." #NT!
+ restore_web:0 "Restoring the Web of Knives" #NT!
+ restore_web_tooltip:1 "We have plenty of ears still." #NT!
+ restore_web_desc:0 "Ur-Shulgi's return must be prepared. The Web of Knives is our proxy organization to take control of the Haqimite [Clan|E] for this purpose. It must be rebuilt." #NT!
+ restore_web_confirm:0 "Now, to take over Alamut." #NT!
+ restore_web_effect_tooltip:1 "You will create the Web of Knives Kingdom title." #NT!
+ restore_lost_tribe:0 "Restoring the Lost Tribe" #NT!
+ restore_lost_tribe_tooltip:1 "Anosh's vision is more than just a territory." #NT!
+ restore_lost_tribe_desc:0 "If we are to hasten the revenge of the 2nd Generation of their wayward childe, we need a solid base of operation. Dastur Anosh's Lost Tribe was a perfect one." #NT!
+ restore_lost_tribe_confirm:0 "On the road to Enoch..." #NT!
+ restore_lost_tribe_effect_tooltip:1 "You will create the Lost Tribe Kingdom title." #NT!
+ restore_olives:0 "Восстановить Diet of Olives" #NT!
+ restore_olives_tooltip:1 "[Clan|E] Салюбри еще не уничтожен." #NT!
+ restore_olives_desc:0 "Кавия сражалась достойно в последней битве на землях государств крестоносцев. Если мы хотим спасти Клан Салюбри, мы могли бы принять \ ее методы." #NT!
+ restore_olives_confirm:0 "Идите сюда, Тремеры." #NT!
+ restore_olives_effect_tooltip:1 "Вы создадите королвеский титул Diet of Olives." #NT!
+ restore_see_of_nod:0 "Restoring the See of Nod" #NT!
+ restore_see_of_nod_tooltip:1 "The Faithful need a Church." #NT!
+ restore_see_of_nod_desc:0 "The Church of the Third Caine is on its last legs, harassed by unbelievers everywhere. A show of faith, and force, must be made by retrieving Venice, the seat of the first Archbishop." #NT!
+ restore_see_of_nod_confirm:0 "Now, to spread the word." #NT!
+ restore_see_of_nod_effect_tooltip:1 "You will create the See of Nod Kingdom title." #NT!
+ restore_tremere:0 "Restoring the Tremere" #NT!
+ restore_tremere_tooltip:1 "Every Magus need a study." #NT!
+ restore_tremere_desc:0 "Our survival is precarious, with foes closing on us but the Tremere are nothing if not resilient. We could rebuild the [Clan|E] seat of power everywhere, if need be." #NT!
+ restore_tremere_confirm:0 "Prepare the Council Chambers." #NT!
+ restore_tremere_effect_tooltip:1 "You will create the House of Tremere Empire title." #NT!
+ restore_curtain:0 "Restoring the Shadow Curtain" #NT!
+ restore_curtain_tooltip:1 "The Grandmother has needs of her helpers." #NT!
+ restore_curtain_desc:0 "The agents of the Progenitor have struck deep blows against us. But the Grandmother still sleeps and needs protection. We must not falter." #NT!
+ restore_curtain_confirm:0 "Have a peaceful sleep." #NT!
+ restore_curtain_effect_tooltip:1 "You will create the Shadow Curtain Empire title." #NT!
+ restore_erciyes:0 "Restoring the Erciyes" #NT!
+ restore_erciyes_tooltip:1 "The prophetic mountain is ours by right." #NT!
+ restore_erciyes_desc:0 "Cappadocius himself decreed that the Erciyes are the main base for the [Clan|E]. We must reunite and conquer it like we did the first time." #NT!
+ restore_erciyes_confirm:0 "It will need some cleanup." #NT!
+ restore_erciyes_effect_tooltip:1 "You will create the Erciyes Kingdom title." #NT!
+ restore_crescent:0 "Restoring the Midnight Crescent" #NT!
+ restore_crescent_tooltip:1 "Iberia is not yet lost." #NT!
+ restore_crescent_desc:0 "Badr's attempt at halting the Christian Reconquista has not gone well. But we might fare better, and unite southern Iberia for the Faithful once more." #NT!
+ restore_crescent_confirm:0 "Now, to look to the north..." #NT!
+ restore_crescent_effect_tooltip:1 "You will create the Midnight Crescent Kingdom title." #NT!
+ restore_feral:0 "Восстановить Одичалую Орду" #NT!
+ restore_feral_tooltip:1 "We should gather once more!" #NT!
+ restore_feral_desc:0 "Many Gangrel warlords have tried to unite the [Clan|E] by diplomacy or strength. We must do better than them and actually succeed." #NT!
+ restore_feral_confirm:0 "The Hunt begins." #NT!
+ restore_feral_effect_tooltip:1 "You will create the Feral Horde Kingdom title." #NT!
+ restore_eastern:0 "Restoring the Eastern Lords" #NT!
+ restore_eastern_tooltip:1 "Ventrue with Hungarian characteristics." #NT!
+ restore_eastern_desc:0 "Ventrue east of Germany are a rare breed, viewed with mistrust. As such, they should bend together as the Eastern Lords once did under Bulscu." #NT!
+ restore_eastern_confirm:0 "The true royalty returns to these lands." #NT!
+ restore_eastern_effect_tooltip:1 "You will create the Eastern Lords Kingdom title." #NT!
+ restore_thunder:0 "Restoring the Infinite Thunder" #NT!
+ restore_thunder_tooltip:1 "The Court must be rebuilt if the cycle is to continue." #NT!
+ restore_thunder_desc:0 "Stranger to both Kin-Jin and other Wan Kuei, we are always on the brink of extinction. But our faith is strong, and the Court can rise again." #NT!
+ restore_thunder_confirm:0 "The phoenix has rose again." #NT!
+ restore_thunder_effect_tooltip:1 "You will create the Infinite Thunder Empire title." #NT!
+ restore_scarlet:0 "Restoring the Scarlet Court" #NT!
+ restore_scarlet_tooltip:1 "The Scarlet Court holds Wan Kuei power for most of southeastern Asia." #NT!
+ restore_scarlet_desc:0 "A powerful, but somewhat outsider, member of the five august Courts of the Wan Kuei, the Scarlet Phoenix is a suitable trophy for any ambitious Hungry Dead." #NT!
+ restore_scarlet_confirm:0 "A new phoenix is born." #NT!
+ restore_scarlet_effect_tooltip:1 "You will create the Scarlet Phoenix Empire title." #NT!
+ restore_celestial:0 "Restoring the Celestial Tribe" #NT!
+ restore_celestial_tooltip:1 "Godhood is not an easy journey." #NT!
+ restore_celestial_desc:0 "Unrepentant Godlings aren't welcome by other Wan Kuei, and even less by Kin Jin. As such, the Celestial Tribe is always in danger, but is flexible enough to be rebuilt wherever needed." #NT!
+ restore_celestial_confirm:0 "Ants meddling with Gods." #NT!
+ restore_celestial_effect_tooltip:1 "You will create the Celestial Tribe Kingdom title." #NT!
+ restore_golden:0 "Restoring the Golden Cross" #NT!
+ restore_golden_tooltip:1 "Occitania isn't yet French." #NT!
+ restore_golden_desc:0 "Rising against the tyranny of the Parisian Court of Love, the Golden Cross is a symbol of Occitanian expertise and independence. A powerful rallying cry we could use." #NT!
+ restore_golden_confirm:0 "Paris doesn't define us." #NT!
+ restore_golden_effect_tooltip:1 "You will create the Golden Cross Kingdom title." #NT!
+ restore_grand:0 "Restoring the Grand Court" #NT!
+ restore_grand_tooltip:1 "France can still be ours." #NT!
+ restore_grand_desc:0 "Alexander's blunders lost France for [Clan|E] Ventrue. But things can change, and we could make a comeback as the legitimate rulers of this powerful Kingdom." #NT!
+ restore_grand_confirm:0 "Ventrue domination is not negotiable." #NT!
+ restore_grand_effect_tooltip:1 "You will create the Grand Court Kingdom title." #NT!
+ restore_timisoara:0 "Restoring the Timisoara Banat" #NT!
+ restore_timisoara_tooltip:1 "Carthage of the East." #NT!
+ restore_timisoara_desc:0 "Dominic's attempts of creating a new utopia have been thwarted by, once again, the vile [Clan|E] Ventrue. Still, his idea had merits, and we could pick up the pieces and start anew." #NT!
+ restore_timisoara_confirm:0 "An hopeful new beginning." #NT!
+ restore_timisoara_effect_tooltip:1 "You will create the Timisoara Banat Kingdom title." #NT!
+ restore_anda:0 "Restoring the Anda Horde" #NT!
+ restore_anda_tooltip:1 "The sounds of horses can still be heard." #NT!
+ restore_anda_desc:0 "The Anda faces many enemies, with vengeful Wan Kuei to the east and hostile Gangrel to the west. But the Mongol spirit isn't so easily tamed. The Horde will rise anew." #NT!
+ restore_anda_confirm:0 "We ride once more." #NT!
+ restore_anda_effect_tooltip:1 "You will create the Anda Horde Empire title." #NT!
+ ruler_exit_torpor:0 "Rousing from Torpor" #NT!
+ ruler_exit_torpor_tooltip:1 "Ruling from slumber isn't the easiest of things." #NT!
+ ruler_exit_torpor_desc:0 "Any Vampire worth his salt has a contingency plan in case he falls into [torpor|E] unwillingly. As you are now the nominal ruler of other Vampires, it could be a good time to activate said contingency plan." #NT!
+ ruler_exit_torpor_confirm:0 "I'm back." #NT!
+ restore_golconda:0 "Restoring Golconda" #NT!
+ restore_golconda_tooltip:1 "Saulot's dream will never truly die." #NT!
+ restore_golconda_desc:0 "Golconda is the city where Saulot found the blessed state of the same name. It is of the utmost importance to any Salubri looking to join their progenitor in this holy communion." #NT!
+ restore_golconda_confirm:0 "One more step towards enlightenment." #NT!
+ restore_golconda_effect_tooltip:1 "You will create the Golconda Kingdom title." #NT!
+ restore_livonia:0 "Restoring Livonia" #NT!
+ restore_livonia_tooltip:1 "The Cross will never destroy us." #NT!
+ restore_livonia_desc:0 "Hard pressed for centuries by the knightly [cainites|E] of the Cross, followers of Via Bestiae have been unified, for a time, under the banner of the Gangrel Qarakh. This spirit of resistance could still be a powerful asset to our cause." #NT!
+ restore_livonia_confirm:0 "Not one step back." #NT!
+ restore_livonia_effect_tooltip:1 "You will create the Ferals of Livonia Kingdom title." #NT!
+ restore_reconquista:0 "Восстанавливая Испанию Ласомбра" #NT!
+ restore_reconquista_tooltip:1 "With Faith and Shadows, we will return." #NT!
+ restore_reconquista_desc:0 "The Lasombra civil war in Spain was mostly a political affair, but it brought many opportunities to the younger members of the [Clan|E]. By tapping on its legacy, we will hopefully be able to reap the same rewards." #NT!
+ restore_reconquista_confirm:0 "Back in our home." #NT!
+ restore_reconquista_effect_tooltip:1 "You will create the Shadow Reconquista Kingdom title." #NT!
+ restore_red_order:0 "Restoring the Red Order" #NT!
+ restore_red_order_tooltip:1 "We've known Hell. We took its unholy knowledge, to complement the word of the divine." #NT!
+ restore_red_order_desc:0 "The fall of our main domain doesn't stop our researches. Through holy and unholy blessing, we'll retake our land." #NT!
+ restore_red_order_confirm:0 "Let's delve deeper." #NT!
+ restore_red_order_effect_tooltip:1 "You will recreate the Red Order Kingdom title." #NT!
+ restore_knights_of_acre:0 "Restoring the Knights of Acre" #NT!
+ restore_knights_of_acre_tooltip:1 "Like the smelted sword, we will reforge the sword of God !" #NT!
+ restore_knights_of_acre_desc:0 "As long as there is a brother wielding the Cross, the legacy of the order will endure." #NT!
+ restore_knights_of_acre_confirm:0 "We have reclaimed our Home." #NT!
+ restore_knights_of_acre_effect_tooltip:1 "You will recreate the Knights of Acre Kingdom title." #NT!
+ restore_sisters_of_st_john:0 "Restoring the Sisters of St-John" #NT!
+ restore_sisters_of_st_john_tooltip:1 "As long as there is one sister alive, our mission will continue." #NT!
+ restore_sisters_of_st_john_desc:0 "The fall of the main branch of the Order never meant its destruction. Any sister can retake the mantle and continue the holy work." #NT!
+ restore_sisters_of_st_john_confirm:0 "We have reclaimed our Home." #NT!
+ restore_sisters_of_st_john_effect_tooltip:1 "You will recreate the Sisters of St-John Kingdom title." #NT!
+ restore_house_murnau:0 "Restoring the Realm of House Murnau" #NT!
+ restore_house_murnau_tooltip:1 "Bavaria is ours. They took our cradle and our blood. Let's spill theirs." #NT!
+ restore_house_murnau_desc:0 "The history of Bavaria and House are intertwined. You will need to retake your ancestor land to continue your fight. " #NT!
+ restore_house_murnau_confirm:0 "We have reclaimed our Home." #NT!
+ restore_house_murnau_effect_tooltip:1 "You will recreate the Murnau Kingdom title." #NT!
+ restore_oculi_dei:0 "Restoring the Oculi Dei" #NT!
+ restore_oculi_dei_tooltip:1 "We're the Eyes of God. We saw our return to our home" #NT!
+ restore_oculi_dei_desc:0 "To centralize our network, you need to retake Flanders." #NT!
+ restore_oculi_dei_confirm:0 "We're back in the Channel." #NT!
+ restore_oculi_dei_effect_tooltip:1 "You will recreate the Oculus Dei Kingdom title." #NT!
+ restore_sword_of_st_james:0 "Restoring the Sword of St James" #NT!
+ restore_sword_of_st_james_tooltip:1 "The reconquista of those fiends is a pitiful attempt to emulate our fight. Let's show them." #NT!
+ restore_sword_of_st_james_desc:0 "To reconquer Iberia, you need to start in the Asturies." #NT!
+ restore_sword_of_st_james_confirm:0 "Back in the Asturies." #NT!
+ restore_sword_of_st_james_effect_tooltip:1 "You will recreate the Sword of St James Kingdom title." #NT!
+ PODcustom_vampire_decision:0 "Custom Character" #NT!
+ PODcustom_vampire_decision_tooltip:1 "#R Be sure you really want to do this. Are you sure you want to wipe all your supernatural traits and go to the character generator?#!" #NT!
+ PODcustom_vampire_decision_desc:0 "Be sure you really want to do this. Are you sure you want to wipe all your supernatural traits and go to the character generator?" #NT!
+ PODcustom_vampire_decision_confirm:0 "Wipe all Supernatural traits and go to Character Generator" #NT!
+ knights_support_objective_decision:0 "[GetPlayer.Custom( 'InquiObjective2' )]" #NT!
+ knights_support_objective_decision_tooltip:1 "If you want to unify the Shadow Inquisition, you will need the Knights' help" #NT!
+ knights_support_objective_decision_desc:0 "The Knights of Acre are one of the five progenitors of the Shadow Inquisition. If you want to make a lasting success of the organization, you will need their complete support." #NT!
+ knights_support_objective_decision_effect_tooltip2:1 "The Knights will send one of their best to help you. You will also reinvigorate the Inquisition and be one step closer towards unifying it." #NT!
+ knights_support_objective_decision_confirm:0 "The Sword of God stands at the ready" #NT!
+ knights_support_custom_decision:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName] of Venice, the two main vampire opponents of the Knights, must be dead or in [torpor|E]." #NT!
+ sisters_support_objective_decision:0 "[GetPlayer.Custom( 'InquiObjective3' )]" #NT!
+ sisters_support_objective_decision_tooltip:1 "If you want to unify the Shadow Inquisition, you will need the Sisters' help" #NT!
+ sisters_support_objective_decision_desc:0 "The Sisters of St. John are one of the five progenitors of the Shadow Inquisition. If you want to make a lasting success of the organization, you will need their complete support." #NT!
+ sisters_support_objective_decision_effect_tooltip2:1 "The Sisters will send one of their best to help you. You will also reinvigorate the Inquisition and be one step closer towards unifying it." #NT!
+ sisters_support_objective_decision_confirm:0 "The Heart of God stands at the ready" #NT!
+ sisters_support_custom_decision:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName], the two main vampire opponents of the Sisters, must be dead or in [torpor|E]." #NT!
+ oculi_support_objective_decision:0 "[GetPlayer.Custom( 'InquiObjective5' )]" #NT!
+ oculi_support_objective_decision_tooltip:1 "If you want to unify the Shadow Inquisition, you will need the Oculi's help" #NT!
+ oculi_support_objective_decision_desc:0 "The Oculi Dei is one of the five progenitors of the Shadow Inquisition. If you want to make a lasting success of the organization, you will need their complete support." #NT!
+ oculi_support_objective_decision_effect_tooltip2:1 "The Oculi will send one of its best to help you. You will also reinvigorate the Inquisition and be one step closer towards unifying it." #NT!
+ oculi_support_objective_decision_confirm:0 "The Eyes of God are watching" #NT!
+ oculi_support_custom_decision:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName], the two main vampire opponents of the Oculi Dei, must be dead or in [torpor|E]." #NT!
+ red_support_objective_decision:0 "[GetPlayer.Custom( 'InquiObjective1' )]" #NT!
+ red_support_objective_decision_tooltip:1 "If you want to unify the Shadow Inquisition, you will need the Order's help" #NT!
+ red_support_objective_decision_desc:0 "The Red Order is one of the five progenitors of the Shadow Inquisition. If you want to make a lasting success of the organization, you will need their complete support." #NT!
+ red_support_objective_decision_effect_tooltip2:1 "The Order will send one of its best to help you. You will also reinvigorate the Inquisition and be one step closer towards unifying it." #NT!
+ red_support_objective_decision_confirm:0 "Knowledge is power. Guard it well." #NT!
+ red_support_custom_decision:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName], the two main vampire opponents of the Red Order, must be dead or in [torpor|E]." #NT!
+ murnau_support_objective_decision:0 "[GetPlayer.Custom( 'InquiObjective4' )]" #NT!
+ murnau_support_objective_decision_tooltip:1 "If you want to unify the Shadow Inquisition, you will need the Murnau's help" #NT!
+ murnau_support_objective_decision_desc:0 "House von Murnau is one of the five progenitors of the Shadow Inquisition. If you want to make a lasting success of the organization, you will need their complete support." #NT!
+ murnau_support_objective_decision_effect_tooltip2:1 "The von Murnau will send one of its best to help you. You will also reinvigorate the Inquisition and be one step closer towards unifying it." #NT!
+ murnau_support_objective_decision_confirm:0 "The Hounds of God stand at the ready" #NT!
+ murnau_support_custom_decision:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName], the two main vampire opponents of the House von Murnau, must be dead or in [torpor|E]." #NT!
+ inquisition_victory_objective_decision:0 "The Light of God" #NT!
+ inquisition_victory_objective_decision_tooltip:1 "The ultimate victory is at hand" #NT!
+ inquisition_victory_objective_decision_desc:0 "The Shadow Inquisition is ready to be reborn as one. Finally, The army of Light is ready to finish the fight against the Darkness." #NT!
+ inquisition_victory_objective_decision_effect_tooltip2:1 "You will unify the Shadow Inquisition, ensuring your place into the legend" #NT!
+ inquisition_victory_objective_decision_confirm:0 "Victory, at last" #NT!
+ invite_prospect_decision:0 "Invite Prospect" #NT!
+ invite_prospect_decision_tooltip:0 "Find someone worthy of ordination" #NT!
+ invite_prospect1.tt:0 "Invite a prospect" #NT!
+ invite_prospect1_decision_desc:0 "Christendom is teeming with the sort of talent we could use, but prying the best prospects away from their superiors will take some convincing." #NT!
+ prospect.t:0 "A new prospect arrived." #NT!
+ prospect.desc:0 "The promising candidate is awaiting your interview." #NT!
+ invite_prospect_decision_confirm:0 "Find me someone worthy!" #NT!
+ knights_support_custom_decision_cyprus:0 "The Kingdom of [TARGET_TITLE.GetNameNoTier] must be held by someone of the Shadow Inquisition faith" #NT!
+ knights_support_custom_decision_thessalonika:0 "The Kingdom of [TARGET_TITLE.GetNameNoTier] must be held by someone of the Shadow Inquisition faith" #NT!
+ sisters_support_custom_decision_england:0 "The Kingdom of [TARGET_TITLE.GetNameNoTier] must be held by someone of the Shadow Inquisition faith" #NT!
+ oculi_support_custom_decision_france:0 "The Kingdom of [TARGET_TITLE.GetNameNoTier] must be held by someone of the Shadow Inquisition faith" #NT!
+ red_support_custom_decision_romagna:0 "The Kingdom of [TARGET_TITLE.GetNameNoTier] must be held by someone of the Shadow Inquisition faith" #NT!
+ murnau_support_custom_decision_bavaria:0 "The Kingdom of [TARGET_TITLE.GetNameNoTier] must be held by someone of the Shadow Inquisition faith" #NT!
+ murnau_support_custom_decision_lotharingia:0 "The Kingdom of [TARGET_TITLE.GetNameNoTier] must be held by someone of the Shadow Inquisition faith" #NT!
+ #ask_pope_decision:0 "Ask the Holy Father for funds" #NT!
+ #ask_pope_decision_desc:0 "You will petition the Bishop of Rome for gold to support the cause." #NT!
+ #ask_pope_decision_confirm:0 "Write the letter" #NT!
+ #ask_pope_decision_tooltip:0 "The Pope will certainly hear my plea!" #NT!
+ #ask_pope_decision_effect_tooltip:0 "It will take some finesse on your part to handle the byzantine politics of the Holy See" #NT!
+ #ask_pope.1.t:0 "Funding Request" #NT!
+ #ask_pope.1.desc:0 "Your choice is to either settle on the amount of monetary aid provided in the order's founding charter or persuade the pope to reach deeper into the coffers at the risk of upsetting him." #NT!
+ #ask_pope.a:0 "Request additional funds, exaggerate the threat." #NT!
+ #ask_pope.a.success:0 "You painted a terrifying picture of the looming threat." #NT!
+ #ask_pope.a.failure:0 "The pope dismissed your report as fear-mongering." #NT!
+ #ask_pope.b:0 "Request additional funds, underline the holiness of the cause." #NT!
+ #ask_pope.b.success:0 "You succeeded in appealing to Holy Father's zealous side." #NT!
+ #ask_pope.b.failure:0 "You failed to elevate your cause above the pope's other expenses." #NT!
+ #ask_pope.c:0 "Request additional funds, flatter the Holy Father." #NT!
+ #ask_pope.c.success:0 "You tickled the Holy Father's vanity to get on his good side." #NT!
+ #ask_pope.c.failure:0 "The pope saw through your obvious attempts at flattery." #NT!
+ #ask_pope.d:0 "Request additional funds, inflate your expenses." #NT!
+ #ask_pope.d.success:0 "You moved the numbers around in the ledgers to justify additional funding." #NT!
+ #ask_pope.d.failure:0 "The pope wasn't fooled by your creative accounting." #NT!
+ #ask_pope.e:0 "Simply request the agreed upon sum." #NT!
+ #ask_pope.a.success.t:0 "The pope believes you." #NT!
+ #ask_pope.a.success.desc:0 "The Holy Father is shaken to his very core by the mayhem and depravity you witnessed. He sends a double allowance." #NT!
+ #ask_pope.a.failure.t:0 "The pope is skeptical." #NT!
+ #ask_pope.a.failure.desc:0 "You embellished your report to such a fantastical degree, the Holy Father begins to doubt whether there is anything that you do besides fabricating stories." #NT!
+ #ask_pope.b.success.t:0 "The pope is convinced." #NT!
+ #ask_pope.b.success.desc:0 "The Holy Father agrees, there is no cause more just for a clergyman than protecting his flock. He sends a double allowance." #NT!
+ #ask_pope.b.failure.t:0 "The pope reconsiders his expenses." #NT!
+ #ask_pope.b.failure.desc:0 "Your inept description of the cause of your order reminded the Holy Father of more immediate expenses." #NT!
+ #ask_pope.c.success.t:0 "The pope is flattered." #NT!
+ #ask_pope.c.success.desc:0 "Your subtle and finely tailored flattery made you one of Holy Father's favorite persons to fund. He sends a double allowance." #NT!
+ #ask_pope.c.failure.t:0 "The pope sees through your flattery." #NT!
+ #ask_pope.c.failure.desc:0 "Your brutish attempts at flattering the Holy Father were received as nothing short of insulting." #NT!
+ #ask_pope.d.success.t:0 "You managed to justify the budget." #NT!
+ #ask_pope.d.success.desc:0 "The Holy Father conceded that your mission might be a more costly endeavor than initially anticipated." #NT!
+ #ask_pope.d.failure.t:0 "Your books are suspect." #NT!
+ #ask_pope.d.failure.desc:0 "Your inept attempt at inflating your expenses lead the papal accountants to conclude that you are, in fact, over-funded." #NT!
+ #ask_pope.e.t:0 "You receive funding." #NT!
+ #ask_pope.e.desc:0 "Just the amount provided in the designated fund, no more, no less." #NT!
+ conversion_decision:0 "Mass Conversion" #NT!
+ conversion_decision_tooltip:0 "Convert your realm using your True Faith" #NT!
+ conversion_decision_desc:0 "As a true believer, you could organize a campaign of proselytism rivaling those of the Saints of old." #NT!
+ conversion_decision_effect_tooltip:0 "Your realm counties will convert to your faith." #NT!
+ conversion_decision_confirm:0 "We will show them the Light!" #NT!
+ reclusion_decision:0 "Focus on your Faith" #NT!
+ reclusion_decision_tooltip:0 "Spend time in contemplation to gain some insight into your True Faith" #NT!
+ reclusion_decision_desc:0 "By removing yourself from the gritty [cainite|E] politics, you can, hopefully, gain some peace of mind and renewed faith." #NT!
+ reclusion_decision_effect_tooltip:0 "You will be presented a choice on how to gain some True Faith lifestyle XP" #NT!
+ reclusion_decision_confirm:0 "Peace, at last" #NT!
+ reclusive_leader_modifier:0 "Reclusive Leader" #NT!
+ reclusive_leader_modifier_desc:0 "You have spent time away from court intrigue recently. This is considered as a weakness by your rivals." #NT!
+ PODinquisition.9999.t:0 "The Way of the Divine" #NT!
+ PODinquisition.9999.desc:0 "You have chosen to spend some time away from your court to focus on the burning faith that spring from the core of your soul. A virtuous choice, no doubt, but vampiric politics wait for no one, and you have to chose how much time exactly you wish to leave your rivals plotting behind your back..." #NT!
+ PODinquisition.9999.a:0 "I will spend the bare minimum of time" #NT!
+ PODinquisition.9999.b:0 "I can push for a little more, I will get back control of my court later" #NT!
+ PODinquisition.9999.c:0 "I can do both!" #NT!
+ PODinquisition.9999.c.effect.success.desc:0 "A great success will allow you to progress farther than expected" #NT!
+ PODinquisition.9999.cb.effect.success.desc:0 "You succeeded in your studies" #NT!
+ PODinquisition.9999.cc.effect.success.desc:0 "A complete failure, you lost both your time and your political capital" #NT!
+ PODinquisition.9999.c.success:0 "A complete success!" #NT!
+ PODinquisition.9999.cb.success:0 "A fair success" #NT!
+ PODinquisition.9999.cc.success:0 "A total failure..." #NT!
+ talmahera_victory_objective_decision:0 "Beginning the End" #NT!
+ talmahera_victory_objective_decision_tooltip:1 "You must prepare the end of the [cainite|E] race" #NT!
+ talmahera_victory_objective_decision_desc:0 "The Tal'mahe'Ra lies divided between East and West, cut in half by the Assamites of Persia and the Ravnos of India. If you are to prepare the return of the [antediluvians|E], this schism must be healed." #NT!
+ talmahera_victory_objective_decision_effect_tooltip2:1 "Your will create a link to Enoch in your capital, and your agents will start to work in earnest towards the great goal" #NT!
+ talmahera_victory_objective_decision_confirm:0 "We are guided by duty" #NT!
+ talmahera_victory_objective_decision_custom:0 "Either you or nobody control the [TARGET_TITLE.GetNameNoTier]" #NT!
+ talmahera_victory_objective_decision_customb:0 "[TARGET_CHARACTER.GetFirstName], the traitor leader of the Lost Tribe, must be dead or in [torpor|E]" #NT!
+ blackcross_victory_objective_decision:0 "Under the Black Cross" #NT!
+ blackcross_victory_objective_decision_tooltip:1 "The East is free for the taking" #NT!
+ blackcross_victory_objective_decision_desc:0 "Despite a failed attempt by Jurgen von Verden, the German Ventrue are still looking to the East as a wild and untamed land. Many foes will need to be taken care of before proper Ventrue leadership is achieved though." #NT!
+ blackcross_victory_objective_decision_effect_tooltip2:1 "You will gain a claim on the Western realms. A new prospect will arrive at your court." #NT!
+ blackcross_victory_objective_decision_confirm:0 "A new age of Ventrue leadership" #NT!
+ blackcross_victory_objective_decision_custom:0 "Either you or nobody control the Ferals of Livonia/Lithuania and the Voivodate/Carpathia" #NT!
+ enter_torpor_decision:0 "Впасть в Торпор" #NT!
+ enter_torpor_decision_tooltip:1 "Впадение в [torpor|E] по своей воле не самая пристижная вещь, что может сделать правитель." #NT!
+ enter_torpor_decision_desc:0 "Любому вампиру может наскучить жить долгое время. И сейчас вам наскучила эта эра, может стоит отдохнуть в [Concept('torpor', 'торпоре')|E]? And now you are bored with this era, maybe it's time to rest in [torpor|E]?" #NT!
+ enter_torpor_decision_confirm:0 "Время отдохнуть" #NT!
+ enter_little_death_decision:0 "Enter Little Death" #NT!
+ enter_little_death_decision_desc:0 "Any Wan-Kuei can be bored with unliving for a long time. And now you are bored with this era, maybe it's time to rest in the Little Death?" #NT!
+ enter_slumber_decision:0 "Enter Slumber" #NT!
+ enter_slumber_decision_desc:0 "Any Wraith can be bored with unliving for a long time. And now you are bored with this era, maybe it's time to rest in Slumber?" #NT!
+ enter_coccon_decision:0 "Enter Cocoon" #NT!
+ enter_coccon_decision_desc:0 " The character cocoons herself in a hardened shell while her metabolism slows to a state of suspended animation." #NT!
+ revenant_victory_objective_decision:0 "Steal the Power of Vitae" #NT!
+ revenant_victory_objective_decision_tooltip:1 "Journey to the source of power." #NT!
+ revenant_victory_objective_decision_desc:0 "Free yourself from the tyranny of your Kindred masters, use arcane knowledge and unholy rituals to harness the treasured power of their blood." #NT!
+ revenant_victory_objective_decision_effect_tooltip:2 "This unprecedented assault on the secrets of vitae entails retrieval of ancient manuscripts as well as studies of your own. The procedure itself will require precious and rare ingredients, most notably tapping into [antediluvian|E] bloodlines." #NT!
+ revenant_victory_objective_decision_confirm:0 "Begin the ritual!" #NT!
+ revenant_victory_objective_decision_custom:0 "Capture a powerful (Advanced Potence) grandchilde (4th generation) of Irad (Ravnos, Brujah, Cappadocian, Lasombra)." #NT!
+ revenant_victory_objective_decision_customb:0 "Capture an insightful (Advanced Auspex) grandchilde (4th generation) of Enoch (Toreador, Ventrue, Tzimisce, Malkavian, Salubri)." #NT!
+ revenant_victory_objective_decision_customc:0 "Capture a captivating (Advanced Presence) grandchilde (4th generation) of Zillah (Gangrel, Nosferatu, Setite)." #NT!
+ revenant_victory_followup_decision:0 "A Feast for the New Generation" #NT!
+ revenant_victory_followup_decision_tooltip:1 "You will use the obsolete bodies of the children born of imperfect blood to nourish those who come after them." #NT!
+ revenant_victory_followup_decision_desc:0 "On your long quest to transcend the inherent limitations of your vitae, your loins gave life to many equally stunted children who have no way to follow your path to redemption. Taking those lives back will be an act of mercy... and frugality." #NT!
+ revenant_victory_followup_decision_effect_tooltip:2 "The old will perish, the new will flourish." #NT!
+ revenant_victory_followup_decision_confirm:0 "Let us leave our weakness behind!" #NT!
+ revenant_victory_followup_custom_decision:0 "You have at least five living descendants carrying your enhanced blood." #NT!
+ custom_bloodline_objective_decision:0 "Power of Blood" #NT!
+ custom_bloodline_objective_decision_desc:0 "You are tired of being rejected by [cainite|E] society because of your caitiff lineage. Now it is time to finally establish yourself in this world." #NT!
+ custom_bloodline_custom_decision:0  "You must be of fifth generation or lower." #NT!
+ custom_bloodline_objective_decision_effect_tooltip:0 "You will create your own vampire bloodline with its own [discipline|E] choices." #NT!
+ custom_bloodline_objective_decision_confirm:0 "The time has come" #NT!
+ custom_bloodline_objective_decision_tooltip:0 "You will create your own vampire bloodline with its own [discipline|E] choices." #NT!
+ PODghw_decision:0 "Escalate the Jyhad" #NT!
+ PODghw_decision_desc:0 "Escalate the Jyhad by invoking great holy wars." #NT!
+ PODghw_decision_tooltip:0 "Great Holy Wars will be invokable by all religion heads that have the proper tenets." #NT!
+ PODghw_decision_effect_tooltip:0 "For the cost of a massive amount of piety, the great holy wars will be unlocked." #NT!
+ PODghw_decision_confirm:0 "Escalate the Jyhad!" #NT!
+ PODshadowcrusade_decision:0 "Petition for the Shadow Crusade" #NT!
+ PODshadowcrusade_decision_desc:0 "Petition the head of the Shadow Inquisition to invoke the Shadow Crusade." #NT!
+ PODshadowcrusade_decision_tooltip:0 "Great Holy Wars will be invokable by all religion heads that have the proper tenets." #NT!
+ PODshadowcrusade_decision_effect_tooltip:0 "For the cost of a massive amount of piety, the great holy wars will be unlocked." #NT!
+ PODshadowcrusade_decision_confirm:0 "Petition for the Shadow Crusade" #NT!
+ test_of_faith_decision:0 "Test of Faith" #NT!
+ test_of_faith_decision_tooltip:1 "You will try to change your sinful way of living." #NT!
+ test_of_faith_decision_desc:0 "Being a servant of God means being devoted to Him. You are, in fact, not devoted enough. Your sinful ways may become a barrier that doesn't let you fulfill your cause. A Test of Faith might help you get rid of your sins." #NT!
+ test_of_faith_decision_confirm:0 "It's time to change." #NT!
+ test_of_faith_custom_decision:0 "You have to be sinful" #NT!
+ test_of_faith_decision_effect_tooltip:0 "You will try to get rid of one of your sins and replace it with a virtue" #NT!
+ helena_decision:0 "Troy against Sparta" #NT!
+ helena_decision_tooltip:1 "Menele must die!" #NT!
+ helena_decision_desc:0 "If you are to, finally, move freely again in the world of [cainites|E], you must first deal with the one who has hunted you for so long." #NT!
+ helena_decision_effect_tooltip:1 "You will gain a new, special, [character_interaction|E]" #NT!
+ helena_decision_confirm:0 "Finally..." #NT!
+ helena_custom_decision:0 "[TARGET_CHARACTER.GetFirstName] must be dead" #NT!
+ absalon_decision:0 "The Svantevit Ritual" #NT!
+ absalon_decision_tooltip:1 "The path to godhood?" #NT!
+ absalon_decision_desc:0 "Each step is a trial on your ultimate triumph, one that you will gladly undertake" #NT!
+ absalon_decision_effect_tooltip:1 "The ritual is complete!" #NT!
+ absalon_decision_confirm:0 "Let's get to work" #NT!
+ mithras_decision:0 "Assuming Control" #NT!
+ mithras_decision_tooltip:1 "Time to prove those idiots vassals that you mean business" #NT!
+ mithras_decision_desc:0 "Your vassals think you weak and lovestruck. Prove them otherwise before the reputation spreads." #NT!
+ mithras_decision_effect_tooltip:1 "You will defuse the nasty rumors against you." #NT!
+ mithras_decision_confirm:0 "Satisfied?" #NT!
+ mithras_custom_decision:0 "This decision is only available before 1300" #NT!
+ greek_fire_objective_decision:0 "Recover the Greek Fire" #NT!
+ greek_fire_objective_decision_desc:0 "In our many encounters with servants of Satan of the blood-drinking kind, fire has proven to be their greatest weakness. It wasn't long since the Romans ruled the seas with their terrifying fire weapon, yet its secret has been lost. It's time to recover it and re-engineer it for our purposes." #NT!
+ greek_fire_objective_decision_tooltip:0 "Utilize Greek Fire against your enemies." #NT!
+ greek_fire_objective_decision_effect_tooltip:0 "You will gain an ability to equip fellow hunters with fire-based weaponry." #NT!
+ greek_fire_objective_decision_custom1:0 "Searching the city for the formula requires 12 Intrigue and controlling [TARGET_TITLE.GetNameNoTier]." #NT!
+ greek_fire_objective_decision_custom2:0 "Recovering the secret from a "person" requires you or your courtier to have the Torturer trait and capturing one of the fiends rumoured to know it: Belisarius, Symeon, Alexius, Dracon, Keeper of the Faith." #NT!
+ greek_fire_objective_decision_custom3:0 "Discovering the formula by yourself requires Learning of 20 and your culture discovering the Renaissance Thought innovation." #NT!
+ greek_fire_objective_decision_confirm:0 "Let there be light!" #NT!
+ ghoulbro_objective_decision:0 "March on the City" #NT!
+ ghoulbro_objective_decision_desc:0 "Constantinople is where Basil and Bayezid first started to preach. Back then they were preaching lies of their masters, but with their and the City's fall, the brothers opened their eyes to a new truth. Truth that needs to shaped into the most virulent of gospels and carried by faithful preachers to as many souls as possible. And nowhere there are more souls than where it all started, the Great City of Constantinople." #NT!
+ ghoulbro_objective_decision_tooltip:0 "Return from your exile and gather the flock." #NT!
+ ghoulbro_objective_decision_effect_tooltip:0 "You will awaken the wretched masses to follow your cause." #NT!
+ ghoulbro_custom_decision:0 "You have 20 knights who are both ghouls and Calomena's Forsaken." #NT!
+ ghoulbro_custom_decision1:0 "The deceiver, count [TARGET_CHARACTER.GetFirstName] of Ohrid is dead, unlanded or in [torpor|E]." #NT!
+ ghoulbro_custom_decision2:0 "The deceiver, count [TARGET_CHARACTER.GetFirstName] of Thyatria is dead, unlanded or in [torpor|E]." #NT!
+ ghoulbro_custom_decision3:0 "The deceiver, count [TARGET_CHARACTER.GetFirstName] of Hadrianeia is dead, unlanded or in [torpor|E]." #NT!
+ ghoulbro_objective_decision_confirm:0 "Let us preach!" #NT!
+ tabitha_decision:0 "Shield of Andalusia" #NT!
+ tabitha_decision_tooltip:1 "Your performance is being watched" #NT!
+ tabitha_decision_desc:0 "The Eldest has tasked you with ensuring the quick defeat of the Christian [cainites|E]. Results are expected quickly." #NT!
+ tabitha_decision_effect_tooltip:1 "Alamut will be pleased and send rewards" #NT!
+ tabitha_decision_confirm:0 "I do not fail" #NT!
+ tabitha_custom_decision1:0 "Either you or the Midnight Crescent control Coimbra" #NT!
+ tabitha_custom_decision2:0 "Either you or the Midnight Crescent control Madrid" #NT!
+ montano_decision:0 "Waves in the Sea" #NT!
+ montano_decision_tooltip:1 "[Clan|E] Lasombra needs a strong guiding hand" #NT!
+ montano_decision_desc:0 "If you are to salvage the dire situation of the Sea of Shadows, you must show your strength in Italian matters" #NT!
+ montano_decision_effect_tooltip:1 "Restoring your authority will allow you easier vassalization of Lasombra Princedoms" #NT!
+ montano_decision_confirm:0 "One [Clan|E], one leader" #NT!
+ qawiyya_decision:0 "Saving Damascus" #NT!
+ qawiyya_decision_tooltip:1 "Time is running out for your fallen neighbor" #NT!
+ qawiyya_decision_desc:0 "You have pledged to save Damascus as soon as possible. And the Baali war of misinformation about you makes it all the more pressing..." #NT!
+ qawiyya_decision_effect_tooltip:1 "You will defuse the nasty rumors against you." #NT!
+ qawiyya_decision_confirm:0 "The Salubri are not yet gone" #NT!
+ petaniqua_decision:0 "Walking the Black Spiral" #NT!
+ petaniqua_decision_tooltip:1 "The only solution lies deep underground" #NT!
+ petaniqua_decision_desc:0 "You will probably find nothing more than madness and death in this place but... you have nothing yet to lose anyway" #NT!
+ petaniqua_decision_effect_tooltip:1 "You will try to find some truth in the darkness below, but very probably will only find more madness" #NT!
+ petaniqua_decision_confirm:0 "Staring into the abyss..." #NT!
+ poltzimi_objective_decision:0 "A New Seat of Power" #NT!
+ poltzimi_objective_decision_desc:0 "For too long have your Carpathian clansmen sneered at your supposed provincialism. While your domain is peripheral to the Voivodate and not as ancient as the fiefs it's composed of, the Kingdom of Poland and its capital, Kraków, is more bountiful and closer to the affairs of the wider world than any part of Carpathia. Proving your hegemony here will constitute an undeniable shift of the center of [Clan|E] authority in your direction." #NT!
+ poltzimi_objective_decision_tooltip:0 "Show the [Clan|E] where true power lies." #NT!
+ poltzimi_objective_decision_effect_tooltip:0 "Your rule over Kraków will mark you as worthy of leading the voivodes." #NT!
+ poltzimi_objective_decision_confirm:0 "The Wawel dragon roars!" #NT!
+ invite_ashen_prospect_decision:0 "Invite Ashen Prospect" #NT!
+ invite_ashen_prospect_decision_desc:0 "The first method for estimating the intelligence of a ruler is to look at the men he has around him. A wise Prince keeps those who would serve him with loyalty, strength and conviction close and rewards them well." #NT!
+ invite_ashen_prospect_decision_confirm:0 "Summon those who would serve your cause!" #NT!
+ invite_ashen_prospect_decision_tooltip:0 "There are competent men and women who might serve a prestigious Prince..." #NT!
+ invite_ashen_prospect_decision_effect_tooltip:0 "Three potential minions arrive at your court, ready to curry favor." #NT!
+ join_web_of_knives_decision:0 "Join the Web of Knives" #NT!
+ join_web_of_knives_decision_tooltip:0 "Petition the Banu Haqim to join a deadly web of assassins" #NT!
+ join_web_of_knives_decision_confirm:0 "Get my knife." #NT!
+ join_web_of_knives_decision_desc:0 "The Banu Haqim assassin network known as the Web of Knives occasionally takes on outsider members. If you think you have what it takes to make it as an assassin , you can petition to the Banu Haqim to be included in the web, allowing you to hunt bounties and earn rewards.... for a price. To make it into the web, you must have skill, a good reputation with the Banu Haqim, a willingness to pay tribute to the owners of the web and pass a trial." #NT!
+ join_web_of_knives_decision_ct:0 "You will pass a trial. If you succeed, you will become a member of the Web of Knives, able to hunt targets with a price on their head. However, you must pay a monthly tribute and a part of your earnings to the Banu Haqim." #NT!
+ NEED_BANU_HAQIM_DYNAST_TO_LIKE_ME_LOC:0 "The Head of the Banu Haqim dynasty must approve of you" #NT!
+ fellow_web_of_knives_member_loc:0 "Isn't a Web of Knives member" #NT!
+ skilled_assassin:0 "Be a skilled killer (either more than 10 intrigue or more than 45 prowess)" #NT!
+ cant_fight_banu_haqim:0 "Not in war with any Banu Haqim" #NT!
+ leave_web_of_knives_decision:0 "Leave the Web of Knives" #NT!
+ leave_web_of_knives_decision_tooltip:0 "Part ways with the web and stop paying tribute." #NT!
+ leave_web_of_knives_decision_confirm:0 "Some rest is in order...." #NT!
+ leave_web_of_knives_decision_desc:0 "Being a member of the Web of Knives is grueling and expensive - the hard training, the risk to your life, the drain of time and resources.... And on top of all, you even had to pay a fee for each kill! No one would fault you if you can't cut it.... Well, almost no one." #NT!
+ leave_web_of_knives_decision_ct:0 "You will leave the Web of Knives, no longer able to accept bounties." #NT!
+ advance_dharma_decision:0 "Advance Dharma" #NT!
+ advance_dharma_decision_tooltip:1 "Advance your Dharma as you achieve enlightenment." #NT!
+ advance_dharma_decision_desc:0 "Wan Kuei advance in their Dharma by achieving moments of enlightenment, called dah. These moments arrive rarely, and can be triggered by great insight into one's dharma, or occasionally by great diversion from it. Each step of the way is progressively harder, with the time between moments of enlightenment taking years, then centuries, the millennia at the highest levels. The most enlightened Wan Kuei spend much of their time in contemplation, chasing those moments of clarity." #NT!
+ advance_dharma_decision_confirm:0 "My journey continues." #NT!
+ become_enlightened_decision:0 "Achieve Enlightenment" #NT!
+ become_enlightened_decision_tooltip:1 "The final step of the Dharmic journey." #NT!
+ become_enlightened_decision_desc:0 "You finally become Enlightened; this process often takes millennia, but when that moment of clarity happens, the cares of the Mortal World fall away and you can enter the Hundred Clouds. Your kharmic debt is paid, and you are finally free from the Great Cycle." #NT!
+ become_enlightened_decision_confirm:0 "I am free." #NT!
+ become_enlightened_decision_thrashingdragon_tt:0 "Has Modifier: [GetModifier( 'knowledge_of_thousand_cranes_mother_modifier' ).GetNameWithTooltip|L]" #NT!
+ become_enlightened_decision_songoftheshadow_tt:0 "Has Modifier: [GetModifier( 'wisdom_of_black_pearl_mistress_modifier' ).GetNameWithTooltip|L]" #NT!
+ become_enlightened_decision_resplendentcrane_tt:0 "Every [de_jure|E] [county|E] of your [capital|E] [empire|E] ([THIS.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetDeJureLiege.GetNameNoTier]) must be [THIS.Char.GetFaith.GetAdjective]" #NT!
+ deviltiger_become_enlightened_decision_trigger:0 "You have killed #V 500#! person #weak ([CHARACTER.MakeScope.ScriptValue('POD_killed_character_count')|0])#!" #NT!
+ thousandwhispers_become_enlightened_decision_trigger:0 "You have given birth #V 23#! [GetTrait('dhampyr').GetName( GetPlayer )] child, raised them until adulthood, and killed them #weak ([CHARACTER.MakeScope.ScriptValue('POD_killed_dhampyrchildren_count')|0])#!" #NT!
+ strengthening_or_weakening_the_wall_decision:0 "Manipulating the Local Wall" #NT!
+ strengthening_or_weakening_the_wall_decision_desc:1 "The Wall is the barrier between the Middle Kingdom and the Spirit Worlds. It can be stronger or weaker depending on the area. You can try to change its potency to further your own goals." #NT!
+ strengthening_or_weakening_the_shroud_decision:0 "Manipulating the Local Shroud" #NT!
+ strengthening_or_weakening_the_shroud_decision_desc:1 "The Shroud is the mystical barrier that separates the [underworld|E] from the Skinlands (akin to the Gauntlet). You can try to change its potency to further your own goals." #NT!
+ strengthening_or_weakening_the_gauntlet_decision:0 "Manipulating the Local Gauntlet" #NT!
+ strengthening_or_weakening_the_gauntlet_decision_desc:1 "The Gauntlet, also referred to as the Wall in the Middle Kingdom, is the barrier surrounding material reality, separating it from the Umbra. The Gauntlet of the Dark Umbra is called the Shroud, while the Gauntlets of the Middle and High Umbra are often simply called "Gauntlets"." #NT!
+ raise_the_local_gauntlet_decision_tooltip:1 "Use your power to strengthen or weaken the mystical barrier of your location." #NT!
+ raise_the_local_gauntlet_decision_confirm:0 "Let's do it." #NT!
+ join_clan_decision:0 "Seek Embrace" #NT!
+ join_clan_decision_desc:1 "Maybe it is time to visit some friend you know and beg for immortality?" #NT!
+ join_clan_decision_tooltip:1 "By using a [character_interaction|E] on any other living vampire that is your friend, you will be able to select a character to be related to." #NT!
+ join_clan_decision_confirm:1 "Let's do it." #NT!
+ join_order_decision:0 "Join the Shadow Inquisition" #NT!
+ join_order_decision_desc:1 "As a true believer, you want be a part of the good fight, maybe is time to visit some friend you know and beg for training." #NT!
+ join_order_decision_tooltip:1 "By using a [character_interaction|E] on any other living order member (except the von Murnau) that is your friend, you will be able to select a character to be related to." #NT!
+ join_order_decision_confirm:1 "Let's do it." #NT!
+ join_wu_decision:0 "Join Wu" #NT!
+ join_wu_decision_desc:1 "You don't have to walk your path alone. You have bonded with other lost souls like yourself to form a Wu — a "blood family" of undead." #NT!
+ join_wu_decision_tooltip:1 "By using a [character_interaction|E] on any other living Kuei-Jin that is your friend, you will be able to select a character to be related to." #NT!
+ join_wu_decision_confirm:1 "Let's do it." #NT!
+ join_ghoulbros_decision:0 "Join the Forsaken" #NT!
+ join_ghoulbros_decision_desc:1 "If you are friend with the Calomena's Forsaken, you can ask for an initiation" #NT!
+ join_ghoulbros_decision_tooltip:1 "By using a [character_interaction|E] on any other living Calomena Forsaken that is your friend, you will be able to select a character to be related to." #NT!
+ join_ghoulbros_decision_confirm:1 "Let's do it." #NT!
+ join_shih_decision:0 "Join the [GetTrait('shih').GetName( GetPlayer )]" #NT!
+ join_shih_decision_desc:1 "Search the wild, follow the clues, pass the trials, and become a member of the Eastern Hunters." #NT!
+ join_shih_decision_tooltip:1 "You will become a [GetTrait('shih').GetName( GetPlayer )]" #NT!
+ join_shih_decision_confirm:1 "Let's do it." #NT!
+ hundreds_years_birthday_decision:0 "Celebrate the Hundred Years Second Breathday" #NT!
+ hundreds_years_birthday_decision_desc:1 "It's your hundred year 'second breathday', time for a celebration." #NT!
+ hundreds_years_birthday_decision_tooltip:1 "You will celebrate your hundred years second breathday" #NT!
+ hundreds_years_birthday_decision_confirm:1 "Send the invitations" #NT!
+ dragon_boat_festival_decision:0 "Hold Dragon Boat Festival" #NT!
+ dragon_boat_festival_decision_desc:1 "A Wu might gather to honor the spirits during the Dragon Boat Festival." #NT!
+ dragon_boat_festival_decision_tooltip:1 "You will celebrate the dragon boat festival" #NT!
+ dragon_boat_festival_decision_confirm:1 "Send the invitations" #NT!
+ chi_preference_decision:0 "Chi Setting" #NT!
+ chi_preference_decision_desc:1 "This will allow you to change chi mechanic related settings." #NT!
+ chi_preference_decision_tooltip:1 "Change your Chi setting" #NT!
+ chi_preference_decision_confirm:0 "I want to change." #NT!
+ practicing_arts_decision:0 "Practice your Arts" #NT!
+ practicing_arts_decision_desc:1 "Enlightenment does not come without discipline. As all Eastern philosophies teach, you must refine yourself in body, mind and spirit before the mists can part for you. Intense training burns away mortal delusions; in this elevated state, den (hopefully) appears." #NT!
+ practicing_arts_decision_tooltip:1 "You will concentrate your time on the practice of arts." #NT!
+ practicing_arts_decision_confirm:1 "I want to practice my arts." #NT!
+ practicing_arts_decision_custom:0 "Does #bold not#! have the correspond art [focus|E]" #NT!
+ treking_wilds_decision:0 "Trekking the Wilds" #NT!
+ treking_wilds_decision_desc:1 "Many wu practice rituals handed down since the earliest nights of the Fourth Age. A wu might trek into the hengeyokai haunted wilds to meditate on the Blood Sutras." #NT!
+ treking_wilds_decision_tooltip:1 "You concentrate your time to find adventure." #NT!
+ treking_wilds_decision_confirm:1 "I want to trek into the wild." #NT!
+ mortal_living_decision:0 "Living between Mortals" #NT!
+ mortal_living_decision_desc:1 "Many wu practice rituals handed down since the earliest nights of the Fourth Age. A wu might live as mortals for a month out of every year." #NT!
+ mortal_living_decision_tooltip:1 "You will visit the mortal world." #NT!
+ mortal_living_decision_confirm:1 "I want to live with mortals." #NT!
+ POD_convert_government_decision:0 "Change Government Form" #NT!
+ POD_convert_government_decision_desc:1 "You are using a government type that isn't intended for your character. This decision allows you to change it." #NT!
+ POD_convert_government_decision_tooltip:1 "You are using a government type that isn't intended for your character. This decision allows you to change it.\nChange [government|E] type by becoming [government|E] that suit your character." #NT!
+ POD_convert_government_decision_confirm:1 "Adopt Right Ways" #NT!
+ restore_celestial_army_objective_decision:0 "Restore Celestial Army" #NT!
+ restore_celestial_army_objective_decision_desc:1 "Hundred years ago, many [GetTrait('shih').GetName( GetPlayer )] chose to follow a grander path: Calling themselves the 'Celestial Army', these demon hunters sought to destroy the shen wherever they dwell, even when there was no need for them to act. Many [GetTrait('shih').GetName( GetPlayer )] denounced this Celestial Army, for they were appalled by the breach of one of Yi's principal commands. Eventually, the [GetTrait('shih').GetName( GetPlayer )] grew proud and banished every of the demon hunters who did not belong to the Celestial Army. It was then that their headquarter was destroyed during an earthquake, leaving only the wanderers behind." #NT!
+ restore_celestial_army_objective_decision_tooltip:1 "The Celestial Army's greatest school was built in the Kun Lun Mountains，recover it then decide which path you want to follow" #NT!
+ restore_celestial_army_objective_decision_confirm:1 "The New Headquarter?" #NT!
+ shih_peace_decision:0 "Thoughtful Action" #NT!
+ shih_peace_decision_desc:1 "Wandering Shih only act when it is necessary, like helping those who suffer the yoke of supernatural. Killing a monster simply for looking different is a sure way of awakening their P'o." #NT!
+ shih_peace_decision_tooltip:1 "You will make peace with your neighboring rulers." #NT!
+ shih_peace_decision_confirm:1 "Calm my P'o" #NT!
+ learning_kaja_decision:0 "Learn Kaja" #NT!
+ learning_kaja_decision_desc:1 "The ancient, extraordinarily complex ideographic script of the Wan Xian. Learning it will give you an understanding with all the other kaja users." #NT!
+ learning_kaja_decision_tooltip:1 "You will learn Kaja, and receive advantage from it." #NT!
+ learning_kaja_decision_confirm:1 "So complex!" #NT!
+ meng_huo_you_supply_decision:0 "Meng Huo You Supply" #NT!
+ meng_huo_you_supply_decision_desc:1 "Meng Huo You, stone-lacquer, rock oil or simply petroleum, is used as an incendiary weapon in warfare since the Han Dynasty. Once part of the tribute paid by a small mortal dynasty in Vietnam paid to the Chinese emperor at this time, you may be able to take this weapon for yourself to equip fellow hunters." #NT!
+ meng_huo_you_supply_decision_tooltip:1 "You will take the petroleum supply from Chiêm Thành." #NT!
+ meng_huo_you_supply_decision_confirm:1 "Fire it up!" #NT!
+
+ toreador_grandeur_victory_objective_decision:0 "Dazzling Grandeur" #NT!
+ toreador_grandeur_victory_objective_decision_tooltip:1 "Your court is a reflection of your power and as such, you have to constantly strive to improve it." #NT!
+ toreador_grandeur_victory_objective_decision_desc:0 "The greatest Toreador are trendsetters, respected and admired far and wide for their bold artistic and learned endeavors. You must strive to be the most renowned patron of the undead world." #NT!
+ toreador_grandeur_victory_objective_decision_effect_tooltip:1 "You will be respected among Toreador as the one to follow, and the greatest minds of this era will flock to your realm." #NT!
+ toreador_grandeur_victory_objective_decision_confirm:0 "A masterpiece in the making" #NT!
+ toreador_grandeur_custom_decision:0 "All your available primogen court position must be filled with people of at least a Good aptitude level." #NT!
+ toreador_grandeur_custom_decision2:0 "If you are using the Royal Court DLC, you need your court grandeur level to be at 10. Otherwise, you need more than 15000 prestige." #NT!
+
+ library_victory_objective_decision:0 "Eternal Knowledge" #NT!
+ library_victory_objective_decision_tooltip:1 "Knowledge is power, as they say." #NT!
+ library_victory_objective_decision_desc:0 "You are of a learned clan, who knows the value and power hidden behind the written word. You must make sure to have the greatest library of this age at your disposal." #NT!
+ library_victory_objective_decision_effect_tooltip:1 "You will be able to learn new lifestyles quicker, and your culture's innovations will benefit as well." #NT!
+ library_victory_objective_decision_confirm:0 "A library to rival old Alexandria" #NT!
+ library_victory_objective_decision_custom:0 "You must own The Book of Nod." #NT!
+ library_victory_objective_decision_customa:0 "You must own The [ARTIFACT.GetName]." #NT!
+ library_victory_objective_decision_customb:0 "You must own The [ARTIFACT.GetName]." #NT!
+ library_victory_objective_decision_custom2:0 "You must own one of the great libraries of the undead. Barcelona, Malta, Vienna or the Erciyes (Cappadocia)." #NT!
+
+ avenge_arikels_shame_objective_decision:0 "Avenge Arikel's Shame" #NT!
+ avenge_arikels_shame_objective_decision_tooltip:0 "Your ancestor was shamed long ago, and old grudges never truly die." #NT!
+ avenge_arikels_shame_objective_decision_desc:0 "The founder of [Clan|E] Toreador, Arikel, once ruled as a Goddess of Sumer. Her bitter rival, Ennoia of the Gangrel, forced her out, creating a feud between the two that subsist to this night." #NT!
+ avenge_arikels_shame_objective_decision_effect_tooltip:0 "Your fame as Arikel's foremost defender will be secured and clan Gangrel will be shamed." #NT!
+ avenge_arikels_shame_objective_decision_confirm:0 "A wrong made right" #NT!
+ avenge_arikels_shame_custom_decision_tablet:0 "You must have the [ARTIFACT.GetName] artifact in your possession" #NT!
+ avenge_arikels_shame_custom_decision_gangrel:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName], the lieutenants of Ennoia that helped her in Sumer, must be dead" #NT!
+ avenge_arikels_shame_custom_decision_malks:0 "[TARGET_CHARACTER.GetFirstName], Arikel's friend who sheltered her after Sumer, must be in your court or you must have a Malkavian primogen with an excellent aptitude rating" #NT!
+
+ toreador_unity_objective_decision:0 "A New Era" #NT!
+ toreador_unity_objective_decision_tooltip:0 "It is time for the Toreador to move on from Constantinople." #NT!
+ toreador_unity_objective_decision_desc:0 "[Clan|E] Toreador has been largely influenced by the powerful Michael of Constantinople for centuries now. With his demise, it is time for a new beginning. France will be the new home of the Toreador, if it can be united finally..." #NT!
+ toreador_unity_objective_decision_effect_tooltip:0 "You will unite Clan Toreador under your leadership, gaining the Clan title and bonus related to the cultures of the French area." #NT!
+ toreador_unity_objective_decision_confirm:0 "A perfect country for the perfect Clan" #NT!
+ toreador_unity_objective_decision_alexander:0 "The former ruler of France, [TARGET_CHARACTER.GetFirstName] of clan Ventrue, must be dead" #NT!
+ toreador_unity_objective_decision_love:0 "You must control the [TARGET_TITLE.GetNameNoTier] title, or the title must not exist" #NT!
+ toreador_unity_objective_decision_goldencross:0 "You must control the Courts of the Golden Cross title, or the title must not exist" #NT!
+
+ POD_mummy_crafting_decision:0 "Practice Hekau Craftsmanship" #NT!
+ POD_mummy_crafting_decision_desc:1 "Imitate the alchemists and artisans of old who, bestowed with Thot's wisdom, produced the wondrous items responsible for much of Egypt's splendor." #NT!
+ POD_mummy_crafting_decision_tooltip:1 "You will have a choice to craft a potion, an amulet or an effigy." #NT!
+ POD_mummy_crafting_decision_confirm:1 "Isis, guide my hand." #NT!
+ POD_study_true_name_decision:0 "Learning True Names" #NT!
+ POD_study_true_name_decision_desc:1 "Discovering a new ren (name) is a demanding undertaking. Usually a scribe who has developed some skill with Nomenclature knows a few true names." #NT!
+ POD_study_true_name_decision_tooltip:1 "You will try to advance you knowledge about nomenclature." #NT!
+ POD_study_true_name_decision_confirm:1 "Be patient." #NT!
+
+ end_the_diaspora_objective_decision:0 "End the Diaspora" #NT!
+ end_the_diaspora_objective_decision_desc:1 "Since the fall of Egypt to Alexander's forces in 332 BCE, the Shemsu-Heru have lost their capital, and they all but abandoned the land of their birth after the rise of Islam. It is time to restore your homeland." #NT!
+ end_the_diaspora_objective_decision_tooltip:1 "You will recover your old home." #NT!
+ end_the_diaspora_objective_decision_confirm:1 "Our Home" #NT!
+ unlock_in_name_of_horus_objective_decision:0 "Unlock $in_name_of_horus_objective_decision$ [decision|E]" #NT!
+ in_name_of_horus_objective_decision:0 "Horus' Crusade" #NT!
+ in_name_of_horus_objective_decision_desc:1 "Horus, the son of Osiris and greatest of the Undying, led most of the mummies in a crusade to cleanse the world of his murderous uncle, Set — who was himself the servant of Apophis. You will finish this crusade and meet Horus in his castle to prove your glory and commitment to the cause." #NT!
+ her_nedi_tef_ef_objective_decision:0 "Her-Nedi-Tef-Ef" #NT!
+ her_nedi_tef_ef_objective_decision_desc:1 "You, Horus, son of Osiris and greatest of the Undying, led a crusade to cleanse the world of your murderous uncle, Set. You will finish this crusade and issue a call to arms to all Shemsu-Heru to display your glory and your undying intent to win this war once and for all." #NT!
+ in_name_of_horus_objective_decision_tooltip:1 "You will wipe out the Setite clan of vampires." #NT!
+ in_name_of_horus_objective_decision_confirm:1 "Revenge for Osiris!" #NT!
+ in_name_of_horus_objective_decision_custom:1 "There must be no [GetTrait('setite').GetName( GetPlayer )] [independent_ruler|E] on the map. (You can use the Clan mapmode for an easier check)" #NT!
+ unlock_lightning_the_land_of_faith_objective_decision:0 "Unlock $lightning_the_land_of_faith_objective_decision$ [decision|E]" #NT!
+ lightning_the_land_of_faith_objective_decision:0 "Lightning the Land of Faith" #NT!
+ lightning_the_land_of_faith_objective_decision_desc:1 "Sekhem flowing through the world are focused within the Web of Faith, a powerful, if invisible, connection to the power of the land. And the Land of Faith is comprised of all the areas within the boundaries of the Web of Faith. It is time to reconquer the entirety of this powerful source of power from the servants of darkness." #NT!
+ lightning_the_land_of_faith_objective_decision_tooltip:1 "You will end the root of evil." #NT!
+ lightning_the_land_of_faith_objective_decision_confirm:1 "Light over Darkness" #NT!
+ wandering_good_man_objective_decision:0 "Wandering Good Man" #NT!
+ wandering_good_man_objective_decision_desc:1 "Ishmaelites are, despite their political feuds with the followers of Horus, still Shemsu-Heru, the only difference between being their allegiance. The Ishmaelites see Horus as a petty tyrant whose small-mindedness blinds him to greater evils of the world. You will prove the way Horus had chosen is ineffective and lead the way to victory against Apophis, on your own terms." #NT!
+ cabiri_wandering_good_man_objective_decision_desc:1 "The Cabiri understand the necessity of the struggle against Apophis, but see the Shemsu-Heru as a bunch of self-righteous crusaders who are blinded by their obedience to dead gods. They prefer to fight in their own way." #NT!
+ wandering_good_man_objective_decision_tooltip:1 "You kind name has been recorded in history." #NT!
+ wandering_good_man_objective_decision_confirm:1 "Kindness is the Key" #NT!
+ wandering_good_man_objective_decision_custom:1 "You have stopped #V 7#! natural disasters #weak ([CHARACTER.MakeScope.GetVariable('stopped_natural_hazard_count').GetValue|0])#!" #NT!
+ wandering_good_man_objective_decision_cabiri_effect_tooltip:0 "Every [faiths|E] that don't follow Apophis will gain [GetFaithDoctrine('special_doctrine_allied_to_cabiri_hostility').GetBaseName] [doctrine|E]." #NT!
+ wandering_good_man_objective_decision_ishmaelite_effect_tooltip:0 "Every [faiths|E] that don't follow Apophis will gain [GetFaithDoctrine('special_doctrine_allied_to_shemsuheru_hostility').GetBaseName] [doctrine|E]." #NT!
+ pure_evil_objective_decision:0 "Pure Evil" #NT!
+ pure_evil_objective_decision_desc:1 "Bane Mummies oppose Ma'at on an instinctive level and maintain the twisted ethos that the world is already broken and the only way to mend it is to let Apophis devour the rest. Servants of the Serpent are filled with its essence and bound to fulfill its will." #NT!
+ pure_evil_objective_decision_tooltip:1 "You have proven to every one that you are pure evilness." #NT!
+ pure_evil_objective_decision_confirm:1 "Evilness is the Key" #NT!
+ pure_evil_objective_decision_customa:1 "You have worsened #V 7#! natural disaster #weak ([CHARACTER.MakeScope.GetVariable('aggravated_natural_hazard_count').GetValue|0])#!" #NT!
+ pure_evil_objective_decision_customb:1 "You have killed #V 100#! person #weak ([CHARACTER.MakeScope.ScriptValue('POD_killed_character_count')|0])#!" #NT!
+ pure_evil_objective_decision_customc:1 "You have killed a soulmate." #NT!
+ POD_culture_conversion_decision:0 "Mass Conversion" #NT!
+ POD_culture_conversion_decision_tooltip:0 "Convert your realm using your power and influence" #NT!
+ POD_culture_conversion_decision_desc:0 "Use your power to influence mortals, and arrange a movement to restore the right cultural way." #NT!
+ POD_culture_conversion_decision_effect_tooltip:0 "Your realm counties will convert to your culture." #NT!
+ POD_culture_conversion_decision_confirm:0 "The key to your hopes and dreams!" #NT!
+ stealing_wistom_objective_decision:0 "Stealing Wisdom" #NT!
+ stealing_wistom_objective_decision_tooltip:0 "You will steal the knowledge of the Dragon Pearl, as ordered by your forefather." #NT!
+ stealing_wistom_objective_decision_desc:0 "The name Saulot is unknown to the Wan Kuei, they do know of Zao-Lat, a student of Xue, a thief, a despicable creature who benefited from Xue's compassion, learned Ch'iuh Muh, sat at the feet of the master and stole his wisdom.\nWill you be able to do the same?" #NT!
+ stealing_wistom_objective_decision_custom:0 "You have captured #V 3#! [GetTrait('kueijin').GetName( GetPlayer )] Bodhisattva ([GetTrait('dharma9').GetName( GetPlayer )]) or who aspire to be one ([GetTrait('dharma8').GetName( GetPlayer )])." #NT!
+ stealing_wistom_objective_decision_confirm:0 "The Perfect Heist" #NT!
+ saving_white_tiger_objective_decision:0 "Reorganize the White Tiger" #NT!
+ saving_white_tiger_objective_decision_tooltip:0 "You will unite the White Tiger Court." #NT!
+ saving_white_tiger_objective_decision_desc:0 "The Court of the White Tiger split into competing factions when Empress Fan abandoned her position, who will finally bring the peace?" #NT!
+ saving_white_tiger_objective_decision_da:0 "The current emperor, [TARGET_CHARACTER.GetFirstName], must be your vassal if still alive." #NT!
+ saving_white_tiger_objective_decision_fan:0 "The former emperor, [TARGET_CHARACTER.GetFirstName], must be your vassal if still alive." #NT!
+ saving_white_tiger_objective_decision_time:0 "You must do it before the Quincunx' unification. #weak (1320 - 1355)#!" #NT!
+ saving_white_tiger_objective_decision_confirm:0 "Peace, for now." #NT!
+ end_the_dictum_mortuum_objective_decision:0 "End the Dictum Mortuum" #NT!
+ end_the_dictum_mortuum_objective_decision_tooltip:0 "You will face the Hierarchy and end the code of the dead." #NT!
+ end_the_dictum_mortuum_objective_decision_custom:0 "Starts a war against you. If you win, you will gain [GetModifier('the_gravedigger_of_dictum_mortuum').GetNameWithTooltip]. But if you lose, your entire house will be soulforged." #NT!
+ end_the_dictum_mortuum_objective_decision_desc:0 "The Dictum Mortuum, or code of the dead, is a set of laws laid down by Charon and enforced by the Hierarchy governing appropriate wraithly behavior vis-a-vis the Quick." #NT!
+ end_the_dictum_mortuum_objective_decision_confirm:0 "I'm ready" #NT!
+ charon_wraith_maa_modifier:0 "Charon's Wrath" #NT!
+ charon_troops:0 "Charon's Army" #NT!
+ corrupt_the_world_objective_decision:0 "Corrupt the World" #NT!
+ corrupt_the_world_objective_decision_tooltip:0 "Your power is linked to your sin. Time to corrupt some mortals." #NT!
+ corrupt_the_world_objective_decision_desc:0 "As the War raged on, and the demons learned of the vast and untapped potential for evil in Creation, attraction turned into desire, and the ability to control those desires weakened. Soon, the newborn Demons fed on those sins and became living embodiment of them." #NT!
+ corrupt_the_world_objective_decision_confirm:0 "Sinful Symphony" #NT!
+ corrupt_the_world_objective_decision_custom:0 "Every [de_jure|E] [county|E] of your [capital|E] [empire|E] ([THIS.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetDeJureLiege.GetNameNoTier]) must be [THIS.Char.GetFaith.GetAdjective]" #NT!
+ unlock_lores_tooltip:0 "Unlock the [lore_lifestyle|E]s, the original powers of the Angels, as lifestyle trees." #NT!
+ unlock_breakdown_the_abyss_objective_decision:0 "Unlock $breakdown_the_abyss_objective_decision$ [decision|E]" #NT!
+ unlock_sin_trait_vassalization:0 "Allows to vassalize rulers with the sin [trait|E] corresponding to your faith." #NT!
+ breakdown_the_abyss_objective_decision:0 "Abyssal Prison Break" #NT!
+ breakdown_the_abyss_objective_decision_tooltip:0 "You will crack open the most important prison in existence." #NT!
+ breakdown_the_abyss_objective_decision_desc:0 "The Abyss, also known as Hell or the Pit, is the murky dimension of darkness created by God as an eternal prison for the Fallen. You are one of the few who escaped but what could happen if all of your poor imprisoned brethren were to do the same..." #NT!
+ breakdown_the_abyss_objective_decision_confirm:0 "Freedom at last!" #NT!
+ unlock_final_war_objective_decision:0 "Unlock $final_war_objective_decision$ [decision|E]" #NT!
+ no_more_abyss_prison:0 "You won't be trapped in the abyss when in spiritual state anymore." #NT!
+ allow_create_demon:0 "You can make vessels for other [GetTrait('demon').GetName( GetPlayer )], and recruit them as guests in your court." #NT!
+ final_war_objective_decision:0 "Final War" #NT!
+ final_war_objective_decision_tooltip:0 "You will start a second War of Wrath." #NT!
+ final_war_objective_decision_desc:0 "God has turned his back on Creation, abandoning you to this wretched world. It is time to spit on the face of the Great Betrayer by reducing this abomination to ashes once and for all." #NT!
+ final_war_objective_decision_confirm:0 "The End" #NT!
+ final_war_objective_decision_custom:0 "You will start an endless war until there is no independent ruler without infernalism on the map." #NT!
+ final_war_cb_modifier:0 "Final War" #NT!
+
+ become_massregnant_decision:0 "Mass-Ghoulify" #NT!
+ become_massregnant_decision_tooltip:0 "Unlock [POD_ghoul_maa|E] type [men_at_arms|E]." #NT!
+ become_massregnant_decision_desc:0 "Unlock [POD_ghoul_maa|E] type [men_at_arms|E]." #NT!
+ become_massregnant_decision_confirm:0 "Mass-Ghoulify" #NT!
+ become_masssire_decision:0 "Mass-Embrace" #NT!
+ become_masssire_decision_tooltip:0 "Unlock vampire type [men_at_arms|E]." #NT!
+ become_masssire_decision_desc:0 "Unlock vampire type [men_at_arms|E]." #NT!
+ become_masssire_decision_confirm:0 "Mass-Embrace" #NT!
+ unlock_war_avatar_of_great_fenris_decision:0 "Sacrifice to Great Fenris" #NT!
+ unlock_war_avatar_of_great_fenris_decision_tooltip:0 "Unlock [GetMaA('war_avatar_of_great_fenris').GetName] [men_at_arms|E]." #NT!
+ unlock_war_avatar_of_great_fenris_decision_desc:0 "As the ultimate expression of the pact between tribe and totem, the greatest Get heroes my summon the war-avatar of their tribal totem to aid them in their hour of need. The avatar joins in combat, slaying all that are not Get of Fenris or under their protection. However, Great Fenris demands a sacrifice for his intervention – usually the left hand of the summoner." #NT!
+ unlock_war_avatar_of_great_fenris_decision_confirm:0 "A new battle scar" #NT!
+
+ life_bring_life_objective_decision:0 "Life bring Life" #NT!
+ life_bring_life_objective_decision_desc:0 "While shen battle one another for trinkets of jade, the Yama Kings poison hearts on all sides, playing every end against the middle so that only hell wins.\nMore than breaking up a few fights, however, emissaries of the Wu Feng recruit other noble shen to their cause, from the ferocious hengeyokai shapeshifters to the hidden godlings of the hsien. Life is precious, too precious to be wasted in pointless infighting. Peace brings hope, hope brings healing, healing brings life. In all of these things, hell is defeated." #NT!
+ life_bring_life_objective_decision_tooltip:0 "You will unite as many Shen as you can." #NT!
+ life_bring_life_objective_decision_confirm:0 "United at last" #NT!
+ life_bring_life_kueijin_modifier_tooltip:0 "Gain [GetModifier('life_bring_life_kueijin_modifier').GetNameWithTooltip], if you have fulfill have happy powerful [GetTrait('kueijin').GetName( GetPlayer )] vassal requirement." #NT!
+ life_bring_life_hengeyokai_modifier_tooltip:0 "Gain [GetModifier('life_bring_life_hengeyokai_modifier').GetNameWithTooltip], if you have fulfill have happy powerful hengeyokai vassal requirement" #NT!
+ life_bring_life_chin_ta_modifier_tooltip:0 "Gain [GetModifier('life_bring_life_chin_ta_modifier').GetNameWithTooltip], if you have fulfill have happy powerful mage vassal requirement." #NT!
+ life_bring_life_jade_wraiths_modifier_tooltip:0 "Gain [GetModifier('life_bring_life_jade_wraiths_modifier').GetNameWithTooltip], if you have fulfill have happy powerful wraith vassal requirement." #NT!
+ life_bring_life_hsien_modifier_tooltip:0 "Gain [GetModifier('life_bring_life_hsien_modifier').GetNameWithTooltip], if you have fulfill have happy powerful hsien vassal requirement." #NT!
+ life_bring_life_shih_modifier_tooltip:0 "Gain [GetModifier('life_bring_life_shih_modifier').GetNameWithTooltip], if you have fulfill have happy powerful [GetTrait('shih').GetName( GetPlayer )] vassal requirement." #NT!
+ life_bring_life_kueijin_modifier:0 "United with the Kuei-Jin" #NT!
+ life_bring_life_kueijin_modifier_desc:0 "Gain access to [GetTrait('kueijin').GetName( GetPlayer )]-only buildings, allows to vassalize [GetTrait('kueijin').GetName( GetPlayer )] rulers with [GetFaithDoctrine('under_wufeng_cause_doctrine').GetBaseName] [doctrine|E]." #NT!
+ life_bring_life_hengeyokai_modifier:0 "United with the Hengeyokai" #NT!
+ life_bring_life_chin_ta_modifier:0 "United with the Chi'n Ta" #NT!
+ life_bring_life_jade_wraiths_modifier:0 "United with the Jade Wraiths" #NT!
+ life_bring_life_hsien_modifier:0 "United with the Hsien" #NT!
+ life_bring_life_shih_modifier:0 "United with the Shih" #NT!
+ life_bring_life_shih_modifier_desc:0 "Gain access to [GetTrait('shih').GetName( GetPlayer )]-only buildings, allows to vassalize [GetTrait('shih').GetName( GetPlayer )] rulers with [GetFaithDoctrine('under_wufeng_cause_doctrine').GetBaseName] [doctrine|E]." #NT!
+
+ POD_nephilim_decision:0 "Nephilim" #NT!
+ POD_nephilim_decision_desc:0 "The offspring of demons and mortal women, result of experimentation made by Abaddon and Asmodeus. They were hunted down and killed by Lucifer and his demon followers.\n\nIt is unknown if any Nephilim yet survives. But if you could find Abaddon, now located in the North, or Asmodeus, in the East, or better, ask those dead Nephilim [GetTrait('ferryman').GetName( GetPlayer )] in the [underworld|E] by gathering enough mediums to start a ritual, then maybe you could be the progenitor of a new Nephilim breed..." #NT!
+ POD_nephilim_decision_tooltip:0 "You will find the clues necessary to create Nephilim anew." #NT!
+ POD_nephilim_decision_confirm:0 "The lost ones return..." #NT!
+ nephilim_decision_modifier:0 "Progenitor of Nephilim" #NT!
+ nephilim_decision_modifier_desc:0 "Now your vessel will breed [GetTrait('nephilim').GetName( GetPlayer )] instead of [GetTrait('laham').GetName( GetPlayer )]." #NT!
+ ghw_region_scandinavia:0 "Scandinavia" #NT!
+ POD_nephilim_decision_custom:0 "Your host [TARGET_CHARACTER.GetFirstName] needs to be married and able to have children, since [TARGET_CHARACTER.GetHerHis] children will become your children." #NT!
+
+ purifying_black_tortoise_objective_decision:0 "Purifying the Black Tortoise" #NT!
+ purifying_black_tortoise_objective_decision_tooltip:0 "You will unite the Black Tortoise Court." #NT!
+ purifying_black_tortoise_objective_decision_desc:0 "The Court of the Black Tortoise was corrupted by Yama Kings, Akuma have taken power and followed the Anda in their invasion. They must be stopped." #NT!
+ purifying_black_tortoise_objective_decision_time:0 "You must do it before the last remaining uncorrupted Wan Kuei gives up. #weak (1372)#!" #NT!
+ purifying_black_tortoise_objective_decision_custom:0 "The [GetTitleByKey('e_anda').GetNameNoTier] title must be destroyed" #NT!
+ purifying_black_tortoise_objective_decision_confirm:0 "The Tortoise endured" #NT!
+
+ true_brujah_victory_objective_decision:0 "The Truth About Brujah" #NT!
+ true_brujah_victory_objective_decision_tooltip:0 "The so called "Brujah" are deluded children created by the deceitful Troile. The truth must be brought to light." #NT!
+ true_brujah_victory_objective_decision_desc:0 "To prove the truth about the Brujah clan, you need to force the children of Carthage to back your claim... or be in no position to contest you anymore." #NT!
+ true_brujah_victory_objective_decision_confirm:0 "Let them hear the truth!" #NT!
+ trujah_victory_objective_decision_effect_tooltip:0 "You will have a choice in dealing with the False Brujah. Either showing forgiveness or calling for their ultimate destruction." #NT!
+ trujah_objective_tt:0 "Troile's childer must be brought to your side, either by persuasion or force." #NT!
+ trujah_victory_objective_decision_custom:0 "[TARGET_CHARACTER.GetFirstName] must be your friend or soulmate. Or dead." #NT!
+ trujah_victory_objective_decision_custom2:0 "[TARGET_CHARACTER.GetFirstName] must be your friend or soulmate. Or dead." #NT!
+ trujah_victory_objective_decision_custom3:0 "[TARGET_CHARACTER.GetFirstName] must be your friend or soulmate. Or dead." #NT!
+ trujah_victory_objective_decision_custom4:0 "[TARGET_CHARACTER.GetFirstName] must be your friend or soulmate. Or dead." #NT!
+ trujah_victory_objective_decision_custom5:0 "[TARGET_CHARACTER.GetFirstName] must be your friend or soulmate. Or dead." #NT!
+
+ repentant_brujah_modifier:0 "Repentant False Brujah" #NT!
+ repentant_brujah_modifier_desc:0 "Shamed by their ancestry to Troile, the False Brujah seek redemption." #NT!
+ repentant_brujah_tooltip:0 "All Brujah, except the True, will get a Repentant Brujah modifier. They will automatically access vassalization and religious conversion to you as long as they have this modifier." #NT!
+ end_false_brujah_tooltip:0 "All Brujah, except the True, will get a Kill on Sight modifier, making their unlife much more unpleasant." #NT!
+
+ ikhwan_al_safa_egypt_objective_decision:0 "Aid the Light-Bringers" #NT!
+ ikhwan_al_safa_egypt_objective_decision_desc:0 "The more practical members of the Sayyadin recognize that the Mummies are more experienced and knowledgeable about the night-stalkers than even the Ikhwan al-Safa are, and so extend to them their aid." #NT!
+ ikhwan_al_safa_egypt_objective_decision_tooltip:0 "You will cleanse the core of the Land of Faith, and benefit form this help." #NT!
+ ikhwan_al_safa_egypt_objective_decision_confirm:0 "Immortal friends?" #NT!
+
+ ikhwan_al_safa_arabia_objective_decision:0 "Free the Keening" #NT!
+ ikhwan_al_safa_arabia_objective_decision_desc:0 "The Keening began after the Prophet Mohammad had conquered Mecca and is generally believed to be a manifestation of Allah's power, emanating from the Black Stone inside the Kaaba. Tainted supernaturals, like vampires, feel the Keening as a clamoring cacophony of wails and screams. The Keening stopped only one time in its history, when Qarmatians, members of an Islamic sect, stole the Black Stone from the Kaaba in 950. This allowed the vampire Tarique to erect sorcerous wards that can contain a part of the Keening, although they cannot completely silence it." #NT!
+ ikhwan_al_safa_arabia_objective_decision_tooltip:0 "You will release the Keening form Tarique's evil sorcery." #NT!
+ ikhwan_al_safa_arabia_objective_decision_confirm:0 "Allah will speak." #NT!
+ ikhwan_al_safa_arabia_objective_decision_effect_tooltip:0 "The Keening will release its power that was contained, making all vampires of Arabia recoil from the faith." #NT!
+
+ ikhwan_al_safa_persia_objective_decision:0 "Tasawwuf" #NT!
+ ikhwan_al_safa_persia_objective_decision_desc:0 "You will study in the House of Wisdom and learn Sufism, hopefully finding the secret of how to invoke power from Allah." #NT!
+ ikhwan_al_safa_persia_objective_decision_tooltip:0 "You will find the power contained form Islamic mysticism." #NT!
+ ikhwan_al_safa_persia_objective_decision_confirm:0 "I will find the way." #NT!
+ ikhwan_al_safa_persia_objective_decision_effect_tooltip:0 "[ROOT.Char.GetFaith.GetName] will gain [GetTrait('theurgist').GetName( GetPlayer )] [trait|E] on ordination." #NT!
+
+ akritai_mend_hunter_schism_decision:0 "Mend the Great Schism" #NT!
+ akritai_mend_hunter_schism_decision_desc:0 "The Great Schism saw the Christian Church divided, but if all five of the Episcopal Sees of the Pentarchy were to support the Akritai, the inquisition would submit to us." #NT!
+ akritai_mend_hunter_schism_decision_tooltip:0 "I will reunite Christendom" #NT!
+ akritai_mend_hunter_schism_decision_confirm:0 "One God, one Church!" #NT!
+
+ judge_sorcery_objective_decision:0 "Kabbalah" #NT!
+ judge_sorcery_objective_decision_desc:0 "You will study the sacred texts and mystical practice, hopefully finding the secret of how to draw the power of magic for your own." #NT!
+ judge_sorcery_objective_decision_tooltip:0 "You will find the power contained from Jewish mysticism." #NT!
+ judge_sorcery_objective_decision_confirm:0 "I will find the way." #NT!
+
+ hunter_theurgist_ordination_objective_decision:0 "Theurgy" #NT!
+ hunter_theurgist_ordination_objective_decision_desc:0 "You will study the sacred texts and hopefully find the secret of how to invoke power from God." #NT!
+ hunter_theurgist_ordination_objective_decision_tooltip:0 "You will find the power contained from Theurgy." #NT!
+ hunter_theurgist_ordination_objective_decision_confirm:0 "I will find the way." #NT!
+
+ demon_redemption_objective_decision:0 "Divine Forgiveness" #NT!
+ demon_redemption_objective_decision_tooltip:0 "Maybe, somewhere in the distance, hope still lingers." #NT!
+ demon_redemption_objective_decision_desc:0 "Memories of your past as an angel reminded you of everything you lost during the rebellion. If God truly is forgiving, maybe there is still a place for you in His Silver City?" #NT!
+ demon_redemption_objective_decision_confirm:0 "Finally, the Light" #NT!
+ demon_redemption_objective_custom:0 "This will end your journey in, hopefully, redemption." #NT!
+ demon_redemption_tt1:0 "Forgo all your temporal possessions." #NT!
+ demon_redemption_tt2:0 "Free your thralls." #NT!
+ demon_redemption_tt3:0 "Perjure your sinful faith." #NT!
+ DEBUG_NOT_HAVE_MORE_PIETY_TRIGGER:0 "You have $NUM|V0$ piety or less" #NT!
+ demon_redemption_tt4:0 "Your realm size must be only one county." #NT!
+
+ POD_demon_unearthbound_decision:0 "Scour Demonic Influence" #NT!
+ POD_demon_unearthbound_decision_tooltip:0 "Taking care of the tainted land." #NT!
+ POD_demon_unearthbound_decision_desc:0 "Part of your holdings have been tainted by demonic influence. It would be a costly process, but it can be fixed." #NT!
+ POD_demon_unearthbound_decision_confirm:0 "I need an exorcist!" #NT!
+
+ POD_demon_maintenance.30.t:0 "Scouring Demonic Influence" #NT!
+ POD_demon_maintenance.30.desc:0 "Demonic influence is a pervasive thing most of the time. But there are instances where the denizens of Hell are less subtle, and try to corrupt the land itself in the hopes of tying themselves to it.\nYou aren't exactly sure of the "why" and "how" but the end result is a dreadful sight, with the very nature being tainted by this infernal presence. Luckily, removing such a presence is doable if you put your mind (and resources) to it. You have gathered the greatest hunters of the infernal willing to join you in this area and are ready to go." #NT!
+ POD_demon_maintenance.30.option.a:0 "I banish thee!" #NT!
+
+ POD_demon_earthbound_duchy_decision:0 "Increasing Demonic Influence" #NT!
+ POD_demon_earthbound_duchy_decision_tooltip:0 "Increase your bounded title tier." #NT!
+ POD_demon_earthbound_duchy_decision_desc:0 "You control a vast stretch of land. Spreading your demonic tendrils over this area would require some effort but would consolidate your position in the region." #NT!
+ POD_demon_earthbound_duchy_decision_confirm:0 "I will be everywhere!" #NT!
+
+ POD_demon_earthbound_kingdom_decision:0 "Increasing Demonic Influence" #NT!
+ POD_demon_earthbound_kingdom_decision_tooltip:0 "Increase your bounded title tier." #NT!
+ POD_demon_earthbound_kingdom_decision_desc:0 "You control a vast stretch of land. Spreading your demonic tendrils over this area would require some effort but would consolidate your position in the region." #NT!
+ POD_demon_earthbound_kingdom_decision_confirm:0 "I will be everywhere!" #NT!
+
+ POD_demon_earthbound_empire_decision:0 "Increasing Demonic Influence" #NT!
+ POD_demon_earthbound_empire_decision_tooltip:0 "Increase your bounded title tier." #NT!
+ POD_demon_earthbound_empire_decision_desc:0 "You control a vast stretch of land. Spreading your demonic tendrils over this area would require some effort but would consolidate your position in the region." #NT!
+ POD_demon_earthbound_empire_decision_confirm:0 "I will be everywhere!" #NT!
+
+ commit_suicide_decision_desc_mummy:0 "A mummy has the power to end his own immortal existence. Osiris does not force eternal life on anyone. A mummy who commits suicide is considered to have no will to live, regardless of his Willpower. The mummy must intend to die truly and permanently. Suicidal acts that a mummy performs for other reasons do not end the mummy’s existence." #NT!
+
+ POD_infernalist_study_demonology_1_decision:0 "Learn Demonology" #NT!
+ POD_infernalist_study_demonology_1_decision_tooltip:0 "Gain demonology trait." #NT!
+ POD_infernalist_study_demonology_1_decision_desc:0 "If the allure of evil is enticing, the power it can grant is even more so. There are forbidden lore you could look into..." #NT!
+ POD_infernalist_study_demonology_1_decision_confirm:0 "Infernal learning" #NT!
+ POD_infernalist_study_demonology_2_decision:0 "Study Demonology" #NT!
+ POD_infernalist_study_demonology_2_decision_tooltip:0 "Advanced demonology trait." #NT!
+ POD_infernalist_study_demonology_2_decision_desc:0 "Demonic lore is an extensive affair. There is so much more to learn, so much more power to attain." #NT!
+ POD_infernalist_study_demonology_2_decision_confirm:0 "Infernal studies" #NT!
+ POD_infernalist_study_demonology_3_decision:0 "Master Demonology" #NT!
+ POD_infernalist_study_demonology_3_decision_tooltip:0 "Finish advancing the demonology trait." #NT!
+ POD_infernalist_study_demonology_3_decision_desc:0 "The most coveted secrets of the demons have a terrible cost. But what just as terrible powers could they unlock?" #NT!
+ POD_infernalist_study_demonology_3_decision_confirm:0 "Infernal mastery" #NT!
+
+ POD_infernalist_sacrifice_to_great_demon_decision:0 "Sacrifice to an Infernal Archduke" #NT!
+ POD_infernalist_sacrifice_to_great_demon_decision_tooltip:0 "Choose which greater demon to dedicate a sacrifice to." #NT!
+ POD_infernalist_sacrifice_to_great_demon_decision_desc:0 "With your mastery of demonology, you can perform a great sacrificial ritual dedicated to one of the Infernal Archdukes." #NT!
+ POD_infernalist_sacrifice_to_great_demon_decision_confirm:0 "Bless me!" #NT!
+ POD_infernalist_sacrifice_to_great_demon_decision_custom:0 "You can perform sacrifices as a [character_interaction|E] on yourself after choosing which greater demon to dedicate them to." #NT!
+ POD_demon_maintenance.40.t:0 "Infernal Choice" #NT!
+ POD_demon_maintenance.40.desc:0 "With your mastery of demonology, you can perform a great sacrificial ritual dedicated to one of the Infernal Archdukes.\nThe five lieutenants of Lucifer have long been the pinnacle of Hell's hierarchy, competing between themselves to corrupt Creation and gain their revenge on God. They are always looking for more followers and can be generous creatures with those that honor them... but there is always a price to pay in the end." #NT!
+ POD_demon_maintenance.40.option.abaddon:0 "Abaddon, Lord of the Ebon Legion" #NT!
+ POD_demon_maintenance.40.option.asmodeus:0 "Asmodeus, Lord of the Silver Legion" #NT!
+ POD_demon_maintenance.40.option.azrael:0 "Azrael, Lord of the Alabaster Legion" #NT!
+ POD_demon_maintenance.40.option.belial:0 "Belial, Lord of the Crimson Legion" #NT!
+ POD_demon_maintenance.40.option.dagon:0 "Dagon, Lord of the Iron Legion" #NT!
+ greatdemon_name_abaddon:0 "Abaddon" #NT!
+ greatdemon_name_asmodeus:0 "Asmodeus" #NT!
+ greatdemon_name_azrael:0 "Azrael" #NT!
+ greatdemon_name_belial:0 "Belial" #NT!
+ greatdemon_name_dagon:0 "Dagon" #NT!
+ greatdemon_name_fallback:0 "this greater demon" #NT!
+
+ POD_demon_wealth_and_influence_decision:0 "Twist Fate" #NT!
+ POD_demon_wealth_and_influence_decision_tooltip:0 "Use arcana powers to gain unusual mortal boons." #NT!
+ POD_demon_wealth_and_influence_decision_desc:0 "Fate seems to favor you, as you gain unusual mortal boons, seemingly at random. Is Lady Luck smiling or it is something else?" #NT!
+ POD_demon_wealth_and_influence_decision_confirm:0 "Lucky me!" #NT!
+ POD_infernalist_wealth_and_influence_decision:0 "Request Wealth and Influence" #NT!
+ POD_infernalist_wealth_and_influence_decision_tooltip:0 "Use a demonic investment to gain wealth and influence." #NT!
+ POD_infernalist_wealth_and_influence_decision_desc:0 "Great wealth, influence, or companionship. Almost anything can be gained or increased with a pact with the right "person"..." #NT!
+ POD_infernalist_wealth_and_influence_decision_confirm:0 "A worthy price" #NT!
+ POD_demon_longevity_decision:0 "Immortality?" #NT!
+ POD_demon_longevity_decision_tooltip:0 "Use your arcana power to increase life expectancy." #NT!
+ POD_demon_longevity_decision_desc:0 "For each investment of this Arcana, the thrall stops aging for a period of five years. A small step towards the greatest of prizes." #NT!
+ POD_demon_longevity_decision_confirm:0 "Young Again!" #NT!
+ POD_infernalist_longevity_decision:0 "Immortality?" #NT!
+ POD_infernalist_longevity_decision_tooltip:0 "Use a demonic investment to increase life expectancy." #NT!
+ POD_infernalist_longevity_decision_desc:0 "With this pact, a supplicant can add an extra 5 years to their life. Many Infernalists conduct rituals every 5 years, sacrificing scores of innocents to buy a few more years." #NT!
+ POD_infernalist_longevity_decision_confirm:0 "Young Again!" #NT!
+
+ ravnos_jati_decision:0 "The Ravnos Jati" #NT!
+ ravnos_jati_decision_tooltip:0 "A divided family, each pursuing their own goals." #NT!
+ ravnos_jati_decision_desc:0 "Clan Ravnos is divided between numerous Jati (castes), each pursuing its own goals. If you were to achieve those, the spirit of your Jati as a whole would improve." #NT!
+ ravnos_jati_decision_confirm:0 "Our caste stands triumphant!" #NT!
+
+ awake_hun_and_po_objective_decision:0 "Awake your Hun and P'o" #NT!
+ awake_hun_and_po_objective_decision_tooltip:0 "You will awake your Hun and P'o to become a full-fledged Wan Kuei" #NT!
+ awake_hun_and_po_objective_decision_desc:0 "Salubri receive cold but essentially courteous welcome from Wan Kuei interested in studying the diffusion of their lore. Salubri Disciplines are fascinating perversions (or transformations) of the Wan Kuei heritage, so scholarly inclined Hungry Dead find much of interest. Rumor says that one or more Salubri actually awakened their Hun and P'o but the process itself is mysterious to say the least." #NT!
+ awake_hun_and_po_objective_decision_confirm:0 "The rumor was true." #NT!
+ awake_hun_and_po_objective_decision_custom1:0 "Has #V 1#! courtier that follow [GetFaithByKey('derechchaim').GetName] [faith|E]" #NT!
+ awake_hun_and_po_objective_decision_custom2:0 "Has #V 5000#! [grace_i] from Yu Huang (Located in the Dark Kingdom of Jade)" #NT!
+ awake_hun_and_po_objective_decision_custom3:0 "Has #V 5#! bounded wraith that have an East Asian culture" #NT!
+ awake_hun_and_po_objective_decision_after_last_date:0 "The year is 1421 or later" #NT!

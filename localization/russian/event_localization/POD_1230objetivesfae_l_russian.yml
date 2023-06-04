@@ -1,0 +1,302 @@
+﻿l_russian:
+ black_death_prevented:0 "The Black Death event won't happen in future." #NT!
+ shattering_prevented:0 "The Shattering event won't happen in future." #NT!
+ prevent_black_death_objective_decision_before_last_date:0 "The date is 1347.1.1 or earlier" #NT!
+
+ prevent_black_death_rat_objective_decision:0 "Schemes of the Ratkin" #NT!
+ prevent_black_death_rat_objective_decision_tooltip:1 "You will attempt to prevent the fulfillment of the Prophecy of the Rat." #NT!
+ prevent_black_death_rat_objective_decision_desc:0 "To prevent the Prophecy of the Rat, you should find what the Ratkins are scheming, so first you must deal with their Wyrmish accessories." #NT!
+ prevent_black_death_rat_objective_decision_confirm:0 "Speak!" #NT!
+ prevent_black_death_rat_objective_decision_custom:0 "There must be no ruler following [GetReligionFamily('rf_wyrm').GetName] [religion|E] on the map." #NT!
+
+ prevent_black_death_cat_objective_decision:0 "Kitties!" #NT!
+ prevent_black_death_cat_objective_decision_tooltip:1 "You will prevent the Prophecy of the Rat by making everyone adore cats." #NT!
+ prevent_black_death_cat_objective_decision_desc:0 "Clearly, to prevent the Prophecy of the Rat, you should make everyone love cats!" #NT!
+ prevent_black_death_cat_objective_decision_confirm:0 "Mew!" #NT!
+ prevent_black_death_cat_objective_decision_custom1:0 "Every king and emperor must have [GetModifier('cat_story_modifier').GetNameWithTooltip] modifier" #NT!
+ prevent_black_death_cat_objective_decision_custom2:0 "Can recruit [GetMaA('cats').GetName] as [men_at_arms|E]" #NT!
+
+ prevent_black_death_anda_objective_decision:0 "Stopping the Mongols" #NT!
+ prevent_black_death_anda_objective_decision_tooltip:1 "You will prevent the Prophecy of the Rat by stopping the Mongols, targeting their Anda bodyguards to weaken them." #NT!
+ prevent_black_death_anda_objective_decision_desc:0 "That Prophecy of the Ratkin is unclear, but you have a feeling that dealing with the Mongol and Anda hordes may help." #NT!
+ prevent_black_death_anda_objective_decision_confirm:0 "No more raids." #NT!
+
+ destroy_inquisition_objective_decision:0 "Destroy the Inquisition" #NT!
+ destroy_inquisition_objective_decision_tooltip:1 "You will destroy the Shadow Inquisition." #NT!
+ destroy_inquisition_objective_decision_desc:0 "The Church and its dreaded Inquisition persecution of pagans, the Fae folk and its use of baptism to snuff out the spark of Glamour in young Changelings continues to spread soul crushing Banality. For the Fae to remain on Earth, it is time to stop this." #NT!
+ destroy_inquisition_objective_decision_confirm:0 "No more Catechism." #NT!
+ destroy_inquisition_objective_decision_before_last_date:0 "The date is 1430.1.1 or earlier" #NT!
+ destroy_inquisition_objective_decision_custom1:0 "The Age of Inquisition event won't happen in the future" #NT!
+ destroy_inquisition_objective_decision_custom2:0 "Unlock $prodigal_objective_decision$ decision" #NT!
+ destroy_inquisition_objective_decision_james:0  "The [GetTitleByKey('k_sword_of_st_james').GetNameNoTier] title must be destroyed." #NT!
+ destroy_inquisition_objective_decision_knights:0  "The [GetTitleByKey('k_knights_of_acre').GetNameNoTier] title must be destroyed." #NT!
+ destroy_inquisition_objective_decision_sisters:0  "The [GetTitleByKey('k_sisters_of_st_john').GetNameNoTier] title must be destroyed." #NT!
+ destroy_inquisition_objective_decision_oculi:0  "The [GetTitleByKey('k_oculi_dei').GetNameNoTier] title must be destroyed." #NT!
+ destroy_inquisition_objective_decision_red:0  "The [GetTitleByKey('k_red_order').GetNameNoTier] title must be destroyed." #NT!
+ destroy_inquisition_objective_decision_murnau:0  "The [GetTitleByKey('k_house_murnau').GetNameNoTier] title must be destroyed." #NT!
+
+
+ prodigal_objective_decision:0 "Bring back the Prodigals" #NT!
+ prodigal_objective_decision_tooltip:1 "You will remind the Prodigals of who they are." #NT!
+ prodigal_objective_decision_desc:0 "The Prodigals have forgotten their origins in the Dreaming, it is time to remind them about who they are." #NT!
+ prodigal_objective_decision_confirm:0 "Come back." #NT!
+ prodigal_objective_decision_custom:0 "There must be no independent king and emperor without the faerie trait." #NT!
+ prodigal_objective_decision_custom1:0 "All other supernatural will be renamed as prodigals" #NT!
+ prodigal_objective_decision_custom2:0 "No Kithain supernatural will always accept your offer of vassalization" #NT!
+
+ pod1230objectives_fae.100.t:0 "The Prophecy of the Rat" #NT!
+ pod1230objectives_fae.100.desc:0 "In the early years of the thirteenth century, the winters grew long and cold and the rains fell with monsoon-like duration. Crops drowned. Roads were reduced to muddy morasses. Famine and cold did their part to fill the graveyards.\nYour Seer has spoken, saying that they have seen a dark future worse than the Sundering, the Prophecy of the Rat. You should focus your focus in the next century to make sure it doesn't happen." #NT!
+ pod1230objectives_fae.100.a:0 "The Ratkins and their accessories!" #NT!
+ pod1230objectives_fae.100.b:0 "To stop rats, we need cats!" #NT!
+ unlock_convert_to_catlover_scheme:0 "Unlock [GetScheme('convert_to_catlover').GetTypeName] [scheme|E]." #NT!
+ pod1230objectives_fae.100.c:0 "The Mongols are to blame!" #NT!
+
+ pod1230objectives_fae.101.t:0 "The Ratkin's Scheme" #NT!
+ pod1230objectives_fae.101.desc:0 "There was a dark plan brewed by the vile the Ratkin, they created the most deadly disease ever known as the Black Plague. You are glad that you stopped them before they fully released it upon the world." #NT!
+ pod1230objectives_fae.101.a:0 "Nasty rats." #NT!
+
+ pod1230objectives_fae.102.t:0 "CATastrophe" #NT!
+ pod1230objectives_fae.102.desc:0 "Every one in the world adore cats now, the rat Prophecy is not a problem anymore... but we may have another issue to deal with." #NT!
+ pod1230objectives_fae.102.a:0 "Oh my..." #NT!
+
+ pod1230objectives_fae.103.t:0 "Scourge" #NT!
+ pod1230objectives_fae.103.desc:0 "The Mongol Horde is slowing down thank to you, and your Seer confirms that you have stopped a future of Mongols throwing dead rats during sieges that could have spread a pandemic." #NT!
+ pod1230objectives_fae.103.a:0 "I was right." #NT!
+
+ pod1230objectives_fae.120.t:0 "End of Inquisition" #NT!
+ pod1230objectives_fae.120.desc:0 "The creation of the Inquisition was the culmination of the Sundering as the Church in their doctrinal pursuits tried to eliminate all undesirable supernatural elements, including the fae, from the world. But now it is over." #NT!
+ pod1230objectives_fae.120.a:0 "More superstitions!" #NT!
+
+ pod1230objectives_fae.121.t:0 "Return of the Prodigals" #NT!
+ pod1230objectives_fae.121.desc:0 "All other supernatural denizens of the World of Darkness are factions of the fae who have forgotten their origins in the Dreaming. Now they have returned to their senses." #NT!
+ pod1230objectives_fae.121.a:0 "Welcome back." #NT!
+
+ POD_fae_maintenance.21.t:0 "The Shattering" #NT!
+ POD_fae_maintenance.21.desc:0 "You couldn't stop the Prophecy.\nEventually the threads that were pulled so thin between the mortal realm and the Dreaming began to snap. This severing has brought the Shattering. Not only did it shatter the ties between Arcadia the Earth but the hopes that it could be reversed.\nYou must choose a way to deal with this." #NT!
+ POD_fae_maintenance.21.a:0 "Adopt the Changeling Way." #NT!
+ POD_fae_maintenance.21.b:0 "Flee to Arcadia." #NT!
+ POD_fae_maintenance.21.c:0 "Sequester into a Freehold" #Become a Lost One. #NT!
+
+ POD_fae_maintenance.22.t:0 "The Shattering" #NT!
+ POD_fae_maintenance.22.desc:0 "Eventually the threads that were pulled so thin between the mortal realm and the Dreaming began to snap. This severing is the Shattering. Not only did it shatter the ties between Arcadia the Earth but the hopes that it could be reversed." #NT!
+ POD_fae_maintenance.22.a:0 "Yay?" #NT!
+
+ constantinian_objective_decision:0 "Integrate with the Church" #NT!
+ constantinian_objective_decision_tooltip:1 "The Church will come to see the Fae as holy servants of the divine: angels, prophets, miracle workers and the truly blessed." #NT!
+ constantinian_objective_decision_desc:0 "" #NT!
+ constantinian_objective_decision_confirm:0 "Establish the Constantinian Catechism" #NT!
+ constantinian_objective_decision_custom_artifact:0 "You must have one of the holy relic [artifacts|E] of Christianity: the Holy Grail, a Fragment of the True Cross, the Lamp of Constantine, the Flagrum of the Passion, the Spear of Destiny, the Valencia Chalice or the Gabriel's Trumpet." #NT!
+ constantinian_objective_decision_custom_byzantion:0 "The holder of [GetTitleByKey('c_byzantion').GetNameNoTier] must be an [GetFaithDoctrine('special_doctrine_ecumenical_hunters').GetBaseName] or a [GetFaithDoctrine('doctrine_fae_agenda_constantinian').GetBaseName]" #NT!
+ constantinian_objective_decision_custom_roma:0 "The holder of [GetTitleByKey('c_roma').GetNameNoTier] must be an [GetFaithDoctrine('special_doctrine_ecumenical_hunters').GetBaseName] or a [GetFaithDoctrine('doctrine_fae_agenda_constantinian').GetBaseName]" #NT!
+ constantinian_objective_decision_custom_jerusalem:0 "The holder of [GetTitleByKey('c_jerusalem').GetNameNoTier] must be an [GetFaithDoctrine('special_doctrine_ecumenical_hunters').GetBaseName] or a [GetFaithDoctrine('doctrine_fae_agenda_constantinian').GetBaseName]" #NT!
+ constantinian_objective_decision_custom1:0 "[GetTrait('supehunter').GetName( GetPlayer )]s will stop seeing the Fae as an incompatible enemy. Instead, the Fae will be seen as angels, prophets, miracle workers or as especially blessed." #NT!
+ constantinian_objective_decision_custom2:0 "Can recruit [GetMaA('witchhunters').GetName] as [men_at_arms|E]" #NT!
+
+ pod1230objectives_fae.122.t:0 "Constantinian Catechism" #NT!
+ pod1230objectives_fae.122.desc:0 "" #NT!
+ pod1230objectives_fae.122.a:0 "Awe." #NT!
+
+ destroy_order_of_reason_objective_decision:0 "Beyond Reason" #NT!
+ destroy_order_of_reason_objective_decision_tooltip:1 "You will prevent the Order of Reason from bringing more banality to world." #NT!
+ destroy_order_of_reason_objective_decision_desc:0 "" #NT!
+ destroy_order_of_reason_objective_decision_confirm:0 "No more stasis" #NT!
+ destroy_order_of_reason_objective_decision_before_last_date:0 "The date is 1851.1.1 or earlier" #NT!
+ destroy_order_of_reason_objective_decision_custom:0 "The Order of Reason title must be destroyed." #NT!
+
+ inert_cold_iron_objective_decision:0 "Inert Cold Iron" #NT!
+ inert_cold_iron_objective_decision_tooltip:1 "You will alter scientific "reality", seeking a way to transmute or otherwise change the properties of cold iron to render it inert." #NT!
+ inert_cold_iron_objective_decision_desc:0 "" #NT!
+ inert_cold_iron_objective_decision_confirm:0 "Cured" #NT!
+ inert_cold_iron_objective_decision_before_last_date:0 "The date is 1510.1.1 or earlier" #NT!
+
+ arcadian_restoration_objective_decision:0 "Arcadian Restoration" #NT!
+ arcadian_restoration_objective_decision_tooltip:1 "You will bring back the Mythic Age." #NT!
+ arcadian_restoration_objective_decision_desc:0 "" #NT!
+ arcadian_restoration_objective_decision_confirm:0 "Finally" #NT!
+
+ pod1230objectives_fae.130.t:0 "Beyond Reason" #NT!
+ pod1230objectives_fae.130.desc:0 "" #NT!
+ pod1230objectives_fae.130.a:0 "Logic subdued." #NT!
+
+ pod1230objectives_fae.131.t:0 "Inert Cold Iron" #NT!
+ pod1230objectives_fae.131.desc:0 "" #NT!
+ pod1230objectives_fae.131.a:0 "Science is not longer an obstacle to imagination" #NT!
+
+ pod1230objectives_fae.140.t:0 "Arcadian Restoration" #NT!
+ pod1230objectives_fae.140.desc:0 "" #NT!
+ pod1230objectives_fae.140.a:0 "Merge the Dreaming with Earth." #NT!
+ fae_ending_tooltip:0 "With Arcadia merging with Earth, your game will be over as the world you once knew will be forever changed." #NT!
+ pod1230objectives_fae.140.b:0 "I still has something to do." #NT!
+
+ underbridge_kingdom_objective_decision:0 "King of Underbridge" #NT!
+ underbridge_kingdom_objective_decision_desc:0 "" #NT!
+ underbridge_kingdom_objective_decision_tooltip:0 "You will become the King of Underbridge." #NT!
+ underbridge_kingdom_objective_decision_confirm:0 "None shall cross without my permission" #NT!
+ underbridge_kingdom_objective_decision_custom:0 "I am able to use the Bridge War [casus_belli|E]." #NT!
+ underbridge_kingdom_objective_decision_riverside_county_contol_tt:0 "You [completely_control|E] every riverside [counties|E] of [GetTitleByKey('k_novgorod').GetNameNoTier] ([SCOPE.ScriptValue('underbridge_kingdom_controlled_riverside_county_value')|0]/[SCOPE.ScriptValue('underbridge_kingdom_total_riverside_county_value')|0])" #NT!
+ underbridge_king_modifier:0 "King of Underbridge" #NT!
+
+ underbridge_empire_objective_decision:0 "High King of Underbridge" #NT!
+ underbridge_empire_objective_decision_desc:0 "" #NT!
+ underbridge_empire_objective_decision_tooltip:0 "You will become the High King of Underbridge." #NT!
+ underbridge_empire_objective_decision_confirm:0 "None shall cross without my permission" #NT!
+ underbridge_empire_objective_decision_custom:0 "Every riverside county taken using the Bridge War [casus_belli|E] will become [de_jure|E] [counties|E] of [GetTitleByKey('e_underbridge').GetNameNoTier]." #NT!
+ underbridge_empire_objective_decision_riverside_county_contol_tt:0 "You [completely_control|E] every riverside [counties|E] of [GetTitleByKey('e_shadow_curtain').GetNameNoTier] ([SCOPE.ScriptValue('underbridge_empire_controlled_riverside_county_value')|0]/[SCOPE.ScriptValue('underbridge_empire_total_riverside_county_value')|0])" #NT!
+ underbridge_emperor_modifier:0 "High King of Underbridge" #NT!
+
+ pod1230objectives_fae.150.t:0 "King of Underbridge" #NT!
+ pod1230objectives_fae.150.desc:0 "" #NT!
+ pod1230objectives_fae.150.a:0 "None shall cross without my permission" #NT!
+
+ pod1230objectives_fae.151.t:0 "High King of Underbridge" #NT!
+ pod1230objectives_fae.151.desc:0 "" #NT!
+ pod1230objectives_fae.151.a:0 "None shall cross without my permission" #NT!
+
+ sidhe_house_dominance_beaumayn_objective_decision:0 "The Brother's War" #NT!
+ sidhe_house_dominance_beaumayn_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_beaumayn_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_beaumayn_objective_decision_confirm:0 "We are the Best" #NT!
+ brandell_victory_modifier:0 "Escheat Holder" #NT!
+ markesh_victory_modifier:0 "Harbingers of Exodus" #NT!
+
+ sidhe_house_dominance_dougal_objective_decision:0 "Iron to Steel" #NT!
+ sidhe_house_dominance_dougal_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_dougal_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_dougal_objective_decision_confirm:0 "We are the Best" #NT!
+ dougal_victory_modifier:0 "Iron to Steel" #NT!
+
+ sidhe_house_dominance_eiluned_objective_decision:0 "Fortified Freeholds" #NT!
+ sidhe_house_dominance_eiluned_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_eiluned_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_eiluned_objective_decision_confirm:0 "We are the Best" #NT!
+ eiluned_victory_modifier:0 "Fortified Freeholds" #NT!
+
+ sidhe_house_dominance_fiona_objective_decision:0 "Great Lover" #NT!
+ sidhe_house_dominance_fiona_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_fiona_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_fiona_objective_decision_confirm:0 "We are the Best" #NT!
+ sidhe_house_dominance_fiona_objective_decision_custom:0 "Has #V 3#! great person lover." #NT!
+ fiona_victory_modifier:0 "Great Lover" #NT!
+
+ sidhe_house_dominance_gwydion_objective_decision:0 "The True King" #NT!
+ sidhe_house_dominance_gwydion_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_gwydion_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_gwydion_objective_decision_confirm:0 "We are Magnificent" #NT!
+ sidhe_house_dominance_gwydion_objective_decision_custom:0 "You must recover Caliburn from deep dreaming." #NT!
+ gwydion_victory_modifier:0 "True King" #NT!
+
+ sidhe_house_dominance_liam_objective_decision:0 "Mortal Song" #NT!
+ sidhe_house_dominance_liam_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_liam_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_liam_objective_decision_confirm:0 "We are the Best" #NT!
+ sidhe_house_dominance_liam_objective_decision_custom1:0 "You have finished $destroy_inquisition_objective_decision$ [decision|E]" #NT!
+ sidhe_house_dominance_liam_objective_decision_custom2:0 "You have finished $constantinian_objective_decision$ [decision|E]" #NT!
+ sidhe_house_dominance_liam_objective_decision_custom3:1 "There must be no [GetTrait('supehunter').GetName( GetPlayer )] [independent_ruler|E] on the map." #NT!
+ liam_victory_modifier:0 "Mortal Song" #NT!
+
+ sidhe_house_dominance_aesin_objective_decision:0 "Stand on Midgard" #NT!
+ sidhe_house_dominance_aesin_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_aesin_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_aesin_objective_decision_confirm:0 "We are Magnificent" #NT!
+ aesin_victory_modifier:0 "Stand on Midgard" #NT!
+
+ sidhe_house_dominance_ailil_objective_decision:0 "Seasonal Ending" #NT!
+ sidhe_house_dominance_ailil_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_ailil_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_ailil_objective_decision_confirm:0 "We are Magnificent" #NT!
+ sidhe_house_dominance_ailil_objective_decision_custom:0 "The War of Seasons Struggle is ended." #NT!
+ ailil_victory_modifier:0 "Ending of the War of Seasons" #NT!
+
+ sidhe_house_dominance_balor_objective_decision:0 "Fomorian" #NT!
+ sidhe_house_dominance_balor_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_balor_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_balor_objective_decision_confirm:0 "We are Terrifying" #NT!
+ balor_victory_modifier:0 "Fomorian" #NT!
+
+ sidhe_house_dominance_daireann_objective_decision:0 "Healer-Warrior" #NT!
+ sidhe_house_dominance_daireann_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_daireann_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_daireann_objective_decision_confirm:0 "We are Magnificent" #NT!
+ daireann_victory_modifier:0 "Healer-Warrior" #NT!
+
+ sidhe_house_dominance_leanhaun_objective_decision:0 "Leanhaun's Curse" #NT!
+ sidhe_house_dominance_leanhaun_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_leanhaun_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_leanhaun_objective_decision_confirm:0 "We are Magnificent" #NT!
+ leanhaun_victory_modifier:0 "Leanhaun's Curse Reduced" #NT!
+
+ sidhe_house_dominance_varich_objective_decision:0 "Spirits of the Rus" #NT!
+ sidhe_house_dominance_varich_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_varich_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_varich_objective_decision_confirm:0 "We are Magnificent" #NT!
+ varich_victory_modifier:0 "Spirits of the Rus" #NT!
+
+ sidhe_house_dominance_scathach_objective_decision:0 "Edicts of the Morphean Oracles" #NT!
+ sidhe_house_dominance_scathach_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_scathach_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_scathach_objective_decision_confirm:0 "We are Magnificent" #NT!
+ sidhe_house_dominance_scathach_objective_decision_custom:0 "Shattering is prevented." #NT!
+ scathach_victory_modifier:0 "Edicts of the Morphean Oracles" #NT!
+
+ sidhe_house_dominance_danaan_objective_decision:0 "Dreaming Guard" #NT!
+ sidhe_house_dominance_danaan_objective_decision_desc:0 "" #NT!
+ sidhe_house_dominance_danaan_objective_decision_tooltip:0 "" #NT!
+ sidhe_house_dominance_danaan_objective_decision_confirm:0 "We are Magnificent" #NT!
+ danaan_victory_modifier:0 "Dreaming Guard" #NT!
+
+ pod1230objectives_fae.160.t:0 "Iron Schism" #NT!
+ pod1230objectives_fae.160.desc:0 "" #NT!
+ pod1230objectives_fae.160.a:0 "Brandell Victory" #NT!
+ pod1230objectives_fae.160.b:0 "Markesh Victory" #NT!
+
+ pod1230objectives_fae.161.t:0 "Iron to Steel" #NT!
+ pod1230objectives_fae.161.desc:0 "" #NT!
+ pod1230objectives_fae.161.a:0 "Iron to Steel" #NT!
+
+ pod1230objectives_fae.162.t:0 "Fortified Freeholds" #NT!
+ pod1230objectives_fae.162.desc:0 "" #NT!
+ pod1230objectives_fae.162.a:0 "Fortified Freeholds" #NT!
+
+ pod1230objectives_fae.163.t:0 "Great Lover" #NT!
+ pod1230objectives_fae.163.desc:0 "" #NT!
+ pod1230objectives_fae.163.a:0 "Great Lover" #NT!
+
+ pod1230objectives_fae.164.t:0 "True King" #NT!
+ pod1230objectives_fae.164.desc:0 "" #NT!
+ pod1230objectives_fae.164.a:0 "True King" #NT!
+
+ pod1230objectives_fae.165.t:0 "Mortal Song" #NT!
+ pod1230objectives_fae.165.desc:0 "" #NT!
+ pod1230objectives_fae.165.a:0 "Mortal Song" #NT!
+
+ pod1230objectives_fae.170.t:0 "Stand on Midgard" #NT!
+ pod1230objectives_fae.170.desc:0 "" #NT!
+ pod1230objectives_fae.170.a:0 "Stand on Midgard" #NT!
+
+ pod1230objectives_fae.171.t:0 "Seasonal Ending" #NT!
+ pod1230objectives_fae.171.desc:0 "" #NT!
+ pod1230objectives_fae.171.a:0 "Seasonal Ending" #NT!
+
+ pod1230objectives_fae.172.t:0 "Fomorian" #NT!
+ pod1230objectives_fae.172.desc:0 "" #NT!
+ pod1230objectives_fae.172.a:0 "Fomorian" #NT!
+
+ pod1230objectives_fae.173.t:0 "Healer-Warrior" #NT!
+ pod1230objectives_fae.173.desc:0 "" #NT!
+ pod1230objectives_fae.173.a:0 "Healer-Warrior" #NT!
+
+ pod1230objectives_fae.174.t:0 "Leanhaun's Curse" #NT!
+ pod1230objectives_fae.174.desc:0 "" #NT!
+ pod1230objectives_fae.174.a:0 "Leanhaun's Curse" #NT!
+
+ pod1230objectives_fae.175.t:0 "Spirits of the Rus" #NT!
+ pod1230objectives_fae.175.desc:0 "" #NT!
+ pod1230objectives_fae.175.a:0 "Spirits of the Rus" #NT!
+
+ pod1230objectives_fae.180.t:0 "Edicts of the Morphean Oracles" #NT!
+ pod1230objectives_fae.180.desc:0 "" #NT!
+ pod1230objectives_fae.180.a:0 "Edicts of the Morphean Oracles" #NT!
+
+ pod1230objectives_fae.181.t:0 "Dreaming Guard" #NT!
+ pod1230objectives_fae.181.desc:0 "" #NT!
+ pod1230objectives_fae.181.a:0 "Dreaming Guard" #NT!

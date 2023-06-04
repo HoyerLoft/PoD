@@ -1,0 +1,117 @@
+﻿l_russian:
+
+ POD_contact_animals_interaction:0 "Contact Animals" #NT!
+ POD_contact_animals_interaction_desc:0 "Make an animal your pet." #NT!
+ POD_contact_animals_interaction_options_heading:0 "What animal should I pet?" #NT!
+ POD_train_psi_interaction:0 "Psi Training" #NT!
+ POD_train_psi_interaction_desc:0 "Teach [recipient.GetFirstName] one of your psychic powers." #NT!
+ POD_determine_psi_interaction:0 "Determine Psi Talents" #NT!
+ POD_determine_psi_interaction_desc:0 "Test [recipient.GetFirstName]'s potential for psychic talents." #NT!
+ POD_determine_psi_interaction_sucess:0 "It seems [recipient.GetFirstName] has psychic talents." #NT!
+ POD_determine_psi_interaction_fail:0 "It seems [recipient.GetFirstName] doesn't have have any psychic talents, so [recipient.GetFirstName] won't able to test it again." #NT!
+ POD_test_psi_interaction:0 "Ask for Psychic Testing" #NT!
+ POD_test_psi_interaction_desc:0 "You can ask a friend, lover or soulmate to test you potential for psychic talents." #NT!
+ POD_test_psi_interaction_tooltip:0 "Chance based on [recipient.GetFirstName]'s learning." #NT!
+ POD_test_psi_interaction_sucess:0 "It seems [actor.GetFirstName] has psychic talents." #NT!
+ POD_test_psi_interaction_fail:0 "It seems [actor.GetFirstName] doesn't have have any psychic talents, so [actor.GetFirstName] won't able to test it again." #NT!
+ POD_psychoportation_interaction:0 "Psychoportation" #NT!
+ POD_psychoportation_interaction_desc:0 "Teleport to [recipient.GetFirstName]'s location." #NT!
+ POD_psi_heal_interaction:0 "Psi Heal" #NT!
+ POD_psi_heal_interaction_desc:0 "Use psychic powers to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_psi_heal_interaction_options_heading:0 "What shall I heal?" #NT!
+ POD_psi_leech_interaction:0 "Psi Leech" #NT!
+ POD_psi_leech_interaction_desc:0 "Leech emotion or even lifeforce from [recipient.GetFirstName] for your own use." #NT!
+ POD_psi_leech_interaction_options_heading:0 "What shall I drain?" #NT!
+ POD_psi_leech_interaction_willpower:0 "Willpower" #NT!
+ POD_psi_leech_interaction_lifeforce:0 "Lifeforce" #NT!
+ POD_psi_leech_interaction_gnosis:0 "Gnosis" #NT!
+ POD_psi_mind_control_interaction:0 "Psi Mind Control" #NT!
+ POD_psi_mind_control_interaction_desc:0 "Use psychic powers to dominate [recipient.GetFirstName]’s mind." #NT!
+ POD_psi_mind_control_interaction_options_heading:0 "Which power shall I use?" #NT!
+ POD_psi_mind_control_interaction_hypnosis:0 "Hypnosis" #NT!
+ POD_psi_mind_control_interaction_telepathy:0 "Telepathy" #NT!
+
+ POD_sorcery_summon_interaction:0 "Summon" #NT!
+ POD_sorcery_summon_interaction_desc:0 "By force of magic, summon [recipient.GetFirstName] to your court." #NT!
+ POD_sorcery_summon_interaction_sucess:0 "[recipient.GetFirstName] has been summoned to your court." #NT!
+ POD_sorcery_summon_interaction_fail:0 "[recipient.GetFirstName] has resisted." #NT!
+ POD_sorcery_transport_interaction:0 "Teleport" #NT!
+ POD_sorcery_transport_interaction_desc:0 "Teleport to [recipient.GetFirstName]'s location." #NT!
+ POD_sorcery_bless_interaction:0 "Bless" #NT!
+ POD_sorcery_bless_interaction_desc:0 "Bless [recipient.GetFirstName] as well as [recipient.GetHerHis] relatives." #NT!
+ blessed_by_sorcery_modifier:0 "Bless" #NT!
+ POD_sorcery_curse_interaction:0 "Curse" #NT!
+ POD_sorcery_curse_interaction_desc:0 "Curse [recipient.GetFirstName] as well as [recipient.GetHerHis] relatives." #NT!
+ cursed_by_sorcery_modifier:0 "Curse" #NT!
+ POD_sorcery_weather_control_interaction:0 "Weathercraft" #NT!
+ POD_sorcery_shapeshift_interaction:0 "Shapeshift" #NT!
+ POD_sorcery_shapeshift_interaction_desc:0 "Use your power to shapeshift your form." #NT!
+ POD_sorcery_heal_interaction:0 "Heal" #NT!
+ POD_sorcery_heal_interaction_desc:0 "Use sorcery powers to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_sorcery_heal_interaction_options_heading:0 "What shall I heal?" #NT!
+ POD_sorcery_auto_resurrection_interaction:0 "Ward against Death" #NT!
+ POD_sorcery_auto_resurrection_interaction_desc:0 "Automatically bring a person back that has recently got killed, at a massive piety cost." #NT!
+ POD_sorcery_auto_resurrection_interaction_options_heading:0 "Which people shall I prevent to die from accidental death?" #NT!
+ POD_sorcery_auto_resurrection_interaction_knight:0 "My current knight" #NT!
+ POD_sorcery_auto_resurrection_interaction_councillor:0 "My current councillor" #NT!
+ POD_sorcery_auto_resurrection_interaction_family:0 "My current house member" #NT!
+ POD_sorcery_auto_resurrection_interaction_consort:0 "My current consort" #NT!
+ POD_sorcery_auto_resurrection_interaction_friend:0 "My current friend" #NT!
+ POD_sorcery_auto_resurrection_interaction_lover:0 "My current lover" #NT!
+ resurrection_cost_notification:0 "Resurrection cost" #NT!
+ POD_sorcery_create_potion_interaction:0 "Create Potion" #NT!
+ POD_sorcery_create_potion_interaction_desc:0 "Create concoctions to improve [recipient.GetFirstName]'s skill." #NT!
+ POD_sorcery_create_potion_interaction_options_heading:0 "Which potion shall I create?" #NT!
+ POD_sorcery_create_potion_interaction_social:0 "Potion of Charm" #NT!
+ POD_sorcery_create_potion_interaction_mental:0 "Potion of Intelligence" #NT!
+ POD_sorcery_create_potion_interaction_physical:0 "Potion of Stamina" #NT!
+ social_potion_by_sorcery_modifier:0 "Potion of Charm" #NT!
+ mental_potion_by_sorcery_modifier:0 "Potion of Intelligence" #NT!
+ physical_potion_by_sorcery_modifier:0 "Potion of Stamina" #NT!
+ POD_sorcery_create_talisman_interaction:0 "Create Talisman" #NT!
+ POD_sorcery_create_talisman_interaction_desc:0 "Create a minor magical talisman." #NT!
+ POD_sorcery_create_talisman_interaction_tooltip:0 "The talisman gains a random modifier depending of your stewardship." #NT!
+ talisman_by_sorcery_artifact:0 "Magical Talisman" #NT!
+ POD_train_sorcery_interaction:0 "Sorcery Training" #NT!
+ POD_train_sorcery_interaction_desc:0 "Teach [recipient.GetFirstName] one of your sorcery paths." #NT!
+ POD_initiate_sorcery_interaction:0 "Initiate Sorcery" #NT!
+ POD_initiate_sorcery_interaction_desc:0 "Teach [recipient.GetFirstName] sorcery." #NT!
+ POD_learn_sorcery_interaction:0 "Ask for Mentoring" #NT!
+ POD_learn_sorcery_interaction_desc:0 "You can ask a friend, lover or soulmate to teach you sorcery." #NT!
+
+ POD_theurgy_heal_interaction:0 "Heal" #NT!
+ POD_theurgy_heal_interaction_desc:0 "Use sorcery powers to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_theurgy_heal_interaction_options_heading:0 "What shall I heal?" #NT!
+ POD_train_theurgy_interaction:0 "Theurgy Training" #NT!
+ POD_train_theurgy_interaction_desc:0 "Teach [recipient.GetFirstName] one of your theurgy paths." #NT!
+ POD_initiate_theurgy_interaction:0 "Initiate Theurgy" #NT!
+ POD_initiate_theurgy_interaction_desc:0 "Teach [recipient.GetFirstName] theurgy." #NT!
+ POD_learn_theurgy_interaction:0 "Ask for Mentoring" #NT!
+ POD_learn_theurgy_interaction_desc:0 "You can ask a friend, lover or soulmate to teach you theurgy." #NT!
+
+ POD_animal_control_interaction:0 "Animal Control" #NT!
+ POD_animal_control_interaction_desc:0 "Make an animal your pet." #NT!
+ POD_animal_control_interaction_options_heading:0 "What animal should I pet?" #NT!
+ POD_possessed_shapeshift_interaction:0 "Shapeshift" #NT!
+ POD_possessed_shapeshift_interaction_desc:0 "Use your power to shapeshift your form." #NT!
+ POD_brain_eating_interaction:0 "Brain Eating" #NT!
+ POD_brain_eating_interaction_desc:0 "Absorb [recipient.GetFirstName]'s mental faculties with a touch, and use them to improve yourself." #NT!
+ POD_command_the_earth_interaction:0 "Command the Earth" #NT!
+ POD_curse_of_gaia_interaction:0 "Curse of Gaia" #NT!
+ POD_curse_of_gaia_interaction_desc:0 "Give [recipient.GetFirstName] a Curse of Gaia depending on [recipient.GetHerHis] sin." #NT!
+ POD_infectious_bite_touch_interaction:0 "Inflict Disease" #NT!
+ POD_infectious_bite_touch_interaction_desc:0 "Use your power to infect [recipient.GetFirstName] with a disease." #NT!
+ POD_infectious_bite_touch_interaction_options_heading:0 "What disease shall I use to infect?" #NT!
+ POD_mask_presence_interaction:0 "Mask Presence" #NT!
+ POD_mask_presence_interaction_desc:0 "Use your powers to stop every plot targeting you." #NT!
+ POD_fomori_mind_rape_interaction:0 "Mind Rape" #NT!
+ POD_nightmare_command_interaction:0 "Nightmare Command" #NT!
+ POD_sanity_rending_interaction:0 "Sanity Rending" #NT!
+ POD_sanity_rending_interaction_desc:0 "Use the power to give [recipient.GetFirstName] stress trait." #NT!
+ POD_sanity_rending_interaction_options_heading:0 "What trait shall I use to give?" #NT!
+ POD_size_interaction:0 "Resize" #NT!
+ POD_size_interaction_desc:0 "Use this power to change your size." #NT!
+ POD_size_interaction_options_heading:0 "What size shall I attain?" #NT!
+ POD_succubus_veil_interaction:0 "Succubus' Veil" #NT!
+ POD_train_possessed_power_interaction:0 "Power Training" #NT!
+ POD_train_possessed_power_interaction_desc:0 "Teach [recipient.GetFirstName] one of your spiritual powers." #NT!

@@ -1,0 +1,79 @@
+﻿l_russian:
+ POD_umbra_incarna.0100.t:0 "Commune with Eshtarra" #NT!
+ POD_umbra_incarna.0100.desc:0 "$court_of_eshtarra_desc$" #NT!
+ POD_umbra_incarna.0100.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0100.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0100.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0200.t:0 "Commune with Sokhta" #NT!
+ POD_umbra_incarna.0200.desc:0 "$court_of_sokhta_desc$" #NT!
+ POD_umbra_incarna.0200.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0200.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0200.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0300.t:0 "Commune with Katanka-Sonnak" #NT!
+ POD_umbra_incarna.0300.desc:0 "$court_of_katanka_sonnak_desc$" #NT!
+ POD_umbra_incarna.0300.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0300.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0300.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0400.t:0 "Commune with Mitanu" #NT!
+ POD_umbra_incarna.0400.desc:0 "$court_of_mitanu_desc$" #NT!
+ POD_umbra_incarna.0400.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0400.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0400.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0500.t:0 "Commune with Hakahe" #NT!
+ POD_umbra_incarna.0500.desc:0 "$court_of_hakahe_desc$" #NT!
+ POD_umbra_incarna.0500.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0500.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0500.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0600.t:0 "Commune with Tambiyah" #NT!
+ POD_umbra_incarna.0600.desc:0 "$court_of_tambiyah_desc$" #NT!
+ POD_umbra_incarna.0600.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0600.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0600.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0700.t:0 "Commune with Nerigal" #NT!
+ POD_umbra_incarna.0700.desc:0 "$court_of_nerigal_desc$" #NT!
+ POD_umbra_incarna.0700.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0700.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0700.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0800.t:0 "Commune with Rorg" #NT!
+ POD_umbra_incarna.0800.desc:0 "$court_of_rorg_desc$" #NT!
+ POD_umbra_incarna.0800.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0800.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0800.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.0900.t:0 "Commune with Zarok" #NT!
+ POD_umbra_incarna.0900.desc:0 "$court_of_zarok_desc$" #NT!
+ POD_umbra_incarna.0900.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.0900.b:0 "Request Help" #NT!
+ POD_umbra_incarna.0900.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.1000.t:0 "Commune with Lu-Bat" #NT!
+ POD_umbra_incarna.1000.desc:0 "$court_of_lu_bat_desc$" #NT!
+ POD_umbra_incarna.1000.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.1000.b:0 "Request Help" #NT!
+ POD_umbra_incarna.1000.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.1100.t:0 "Commune with Ruatma" #NT!
+ POD_umbra_incarna.1100.desc:0 "$court_of_ruatma_desc$" #NT!
+ POD_umbra_incarna.1100.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.1100.b:0 "Request Help" #NT!
+ POD_umbra_incarna.1100.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.1200.t:0 "Commune with Shantar" #NT!
+ POD_umbra_incarna.1200.desc:0 "$court_of_shantar_desc$" #NT!
+ POD_umbra_incarna.1200.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.1200.b:0 "Request Help" #NT!
+ POD_umbra_incarna.1200.f:0 "Do nothing" #NT!
+
+ POD_umbra_incarna.1300.t:0 "Commune with Meros" #NT!
+ POD_umbra_incarna.1300.desc:0 "$court_of_meros_desc$" #NT!
+ POD_umbra_incarna.1300.a:0 "Request Gift" #NT!
+ POD_umbra_incarna.1300.b:0 "Request Help" #NT!
+ POD_umbra_incarna.1300.f:0 "Do nothing" #NT!
+

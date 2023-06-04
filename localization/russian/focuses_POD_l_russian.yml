@@ -1,0 +1,687 @@
+﻿l_russian:
+ foreign_affairs_visible:1 "Дипломат" #NT!
+ family_visible:1 "Иерарх Семейства" #NT!
+ majesty_visible:1 "Август" #NT!
+ strategy_visible:1 "Стратег" #NT!
+ authority_visible:1 "Надзиратель" #NT!
+ chivalry_visible:1 "Галантность" #NT!
+ skulduggery_visible:0 "Интриган" #NT!
+ temptation_visible:0 "Соблазнитель" #NT!
+ intimidation_visible:0 "Истязатель" #NT!
+ domain_visible:1 "Архитектор" #NT!
+ duty_visible:1 "Администратор" #NT!
+ wealth_visible:1 "Жадность" #NT!
+ theology_visible:1 "Теолог" #NT!
+ medicine_visible:1 "Здоровое тело" #NT!
+ scholarship_visible:1 "Ученый" #NT!
+
+ #Choleric #NT!
+ choleric_lifestyle_name:0 "Холерик" #NT!
+ choleric_lifestyle_desc:0 "Фокусировка на силах, которые исходят от Холерического Резонанса." #NT!
+ choleric_lifestyle_highlight_desc:0 "Благодаря Холерическому интересу своего [Clan's|E]а вы получаете на #P 10%#! больше [experience|E]а." #NT!
+ monthly_choleric_lifestyle_xp_gain_mult:0 "Месячный Холерический [lifestyle|E] [experience|E]" #NT!
+ choleric_potence_focus:0 "Фокус Могущества" #NT!
+ choleric_potence_focus_modifier:1 "[GetFocus('choleric_potence_focus').GetName]" #NT!
+ choleric_potence_focus_desc:0 "Физическая энергия и сверхестственная сила" #NT!
+ choleric_potence_focus_effect_desc:0 "Фокус Могущества дает:" #NT!
+ potence_visible:1 "Могущество" #NT!
+
+ choleric_celerity_focus:0 "Фокус Стремительности" #NT!
+ choleric_celerity_focus_modifier:1 "[GetFocus('choleric_celerity_focus').GetName]" #NT!
+ choleric_celerity_focus_desc:0 "Сверхестественная быстрота и рефлексы" #NT!
+ choleric_celerity_focus_effect_desc:0 "Фокус Стремительности дает:" #NT!
+ celerity_visible:1 "Стремительность" #NT!
+
+ choleric_vicissitude_focus:0 "Фокус Изменчивости" #NT!
+ choleric_vicissitude_focus_modifier:1 "[GetFocus('choleric_vicissitude_focus').GetName]" #NT!
+ choleric_vicissitude_focus_desc:0 "Плоть как глина" #NT!
+ choleric_vicissitude_focus_effect_desc:0 "Фокус Изменчивости дает:" #NT!
+ vicissitude_visible:1 "Изменчивость" #NT!
+
+ choleric_valeren_focus:0 "Фокус Валерена" #NT!
+ choleric_valeren_focus_modifier:1 "[GetFocus('choleric_valeren_focus').GetName]" #NT!
+ choleric_valeren_focus_desc:0 "Третье Око" #NT!
+ choleric_valeren_focus_effect_desc:0 "Фокус Валерена дает:" #NT!
+ valeren_visible:1 "Валерен" #NT!
+
+ #melancholy #NT!
+ melancholy_lifestyle_name:0 "Меланхолик" #NT!
+ melancholy_lifestyle_desc:0 "Фокусировка на силах, которые исходят от Меланхолического Резонанса." #NT!
+ melancholy_lifestyle_highlight_desc:0 "Благодаря Меланхолическому интересу своего [Clan's|E]а вы получаете на #P 10%#! больше [experience|E]а." #NT!
+ monthly_melancholy_lifestyle_xp_gain_mult:0 "Месячный Меланхолический [lifestyle|E] [experience|E]" #NT!
+ melancholy_fortitude_focus:0 "Фокус Стойкости" #NT!
+ melancholy_fortitude_focus_modifier:1 "[GetFocus('melancholy_fortitude_focus').GetName]" #NT!
+ melancholy_fortitude_focus_desc:0 "Прочность как у скалы" #NT!
+ melancholy_fortitude_focus_effect_desc:0 "Фокус Стойкости:" #NT!
+ fortitude_visible:1 "Стойкость" #NT!
+
+ melancholy_obfuscate_focus:0 "Фокус Затемнения" #NT!
+ melancholy_obfuscate_focus_modifier:1 "[GetFocus('melancholy_obfuscate_focus').GetName]" #NT!
+ melancholy_obfuscate_focus_desc:0 "Просто исчезни" #NT!
+ melancholy_obfuscate_focus_effect_desc:0 "Фокус Затемнения дает:" #NT!
+ obfuscate_visible:1 "Затемнение" #NT!
+
+ melancholy_oblivion_focus:0 "Фокус Забвения" #NT!
+ melancholy_oblivion_focus_modifier:1 "[GetFocus('melancholy_oblivion_focus').GetName]" #NT!
+ melancholy_oblivion_focus_desc:0 "Быстрый и мертвый." #NT!
+ melancholy_oblivion_focus_effect_desc:0 "Фокус Забвения дает:" #NT!
+ oblivion_visible:1 "Забвение" #NT!
+
+ melancholy_chimerstry_focus:0 "Фокус Химерии" #NT!
+ melancholy_chimerstry_focus_modifier:1 "[GetFocus('melancholy_chimerstry_focus').GetName]" #NT!
+ melancholy_chimerstry_focus_desc:0 "Мастера Иллюзий" #NT!
+ melancholy_chimerstry_focus_effect_desc:0 "Фокус Химерии дает:" #NT!
+ chimerstry_visible:1 "Химерия" #NT!
+
+ melancholy_obtenebration_focus:0 "Фокус Оттенения" #NT!
+ melancholy_obtenebration_focus_modifier:1 "[GetFocus('melancholy_obtenebration_focus').GetName]" #NT!
+ melancholy_obtenebration_focus_desc:0 "Власть над Тьмой" #NT!
+ melancholy_obtenebration_focus_effect_desc:0 "Фокус Оттенения дает:" #NT!
+ obtenebration_visible:1 "Оттенение" #NT!
+
+ melancholy_necromancy_focus:0 "Фокус Некромантии" #NT!
+ melancholy_necromancy_focus_modifier:1 "[GetFocus('melancholy_necromancy_focus').GetName]" #NT!
+ melancholy_necromancy_focus_desc:0 "Власть над Мертвыми" #NT!
+ melancholy_necromancy_focus_effect_desc:0 "Фокус Некромантии дает:" #NT!
+ melancholynecromancy_visible:1 "Некромантия" #NT!
+
+ melancholy_visceratika_focus:0 "Фокус Висцератики" #NT!
+ melancholy_visceratika_focus_modifier:1 "[GetFocus('melancholy_visceratika_focus').GetName]" #NT!
+ melancholy_visceratika_focus_desc:0 "Статность." #NT!
+ melancholy_visceratika_focus_effect_desc:0 "Фокус Висцератики дает:" #NT!
+ visceratika_visible:1 "Висцератика" #NT!
+
+ #phlegmatic #NT!
+ phlegmatic_lifestyle_name:0 "Флегматик" #NT!
+ phlegmatic_lifestyle_desc:0 "Фокусировка на силах, которые исходят от Флегматического Резонанса." #NT!
+ phlegmatic_lifestyle_highlight_desc:0 "Благодаря Меланхолическому интересу своего [Clan's|E]а вы получаете на #P 10%#! больше [experience|E]а." #NT!
+ monthly_phlegmatic_lifestyle_xp_gain_mult:0 "Месячный Меланхолический [lifestyle|E] [experience|E]" #NT!
+ phlegmatic_auspex_focus:0 "Фокус Прорицания" #NT!
+ phlegmatic_auspex_focus_modifier:1 "[GetFocus('phlegmatic_auspex_focus').GetName]" #NT!
+ phlegmatic_auspex_focus_desc:0 "Видя невидимое" #NT!
+ phlegmatic_auspex_focus_effect_desc:0 "Фокус Прорицания дает:" #NT!
+ auspex_visible:1 "Прорицание" #NT!
+
+ phlegmatic_dominate_focus:0 "Фокус Доминирования" #NT!
+ phlegmatic_dominate_focus_modifier:1 "[GetFocus('phlegmatic_dominate_focus').GetName]" #NT!
+ phlegmatic_dominate_focus_desc:0 "Подчинись!" #NT!
+ phlegmatic_dominate_focus_effect_desc:0 "Фокус Доминирования дает:" #NT!
+ dominate_visible:1 "Доминирование" #NT!
+
+ phlegmatic_temporis_focus:0 "Фокус Темпорис" #NT!
+ phlegmatic_temporis_focus_modifier:1 "[GetFocus('phlegmatic_temporis_focus').GetName]" #NT!
+ phlegmatic_temporis_focus_desc:0 "Повелевайте течением времени" #NT!
+ phlegmatic_temporis_focus_effect_desc:0 "Фокус Темпорис дает:" #NT!
+ temporis_visible:1 "Темпорис" #NT!
+
+ phlegmatic_dementation_focus:0 "Фокус Помешательства" #NT!
+ phlegmatic_dementation_focus_modifier:1 "[GetFocus('phlegmatic_dementation_focus').GetName]" #NT!
+ phlegmatic_dementation_focus_desc:0 "Черпайте свое безумие и используйте его" #NT!
+ phlegmatic_dementation_focus_effect_desc:0 "Фокус Помешательства дает:" #NT!
+ dementation_visible:1 "Помешательство" #NT!
+
+ phlegmatic_melpominee_focus:0 "Фокус Мельпомении" #NT!
+ phlegmatic_melpominee_focus_modifier:1 "[GetFocus('phlegmatic_melpominee_focus').GetName]" #NT!
+ phlegmatic_melpominee_focus_desc:0 "Сила голоса" #NT!
+ phlegmatic_melpominee_focus_effect_desc:0 "Фокус Мельпомении дает:" #NT!
+ melpominee_visible:1 "Мельпомения" #NT!
+
+ phlegmatic_mytherceria_focus:0 "Фокус Мистерии" #NT!
+ phlegmatic_mytherceria_focus_modifier:1 "[GetFocus('phlegmatic_mytherceria_focus').GetName]" #NT!
+ phlegmatic_mytherceria_focus_desc:0 "Сила, принадлежащая Феям" #NT!
+ phlegmatic_mytherceria_focus_effect_desc:0 "Фокус Мистерии дает:" #NT!
+ mytherceria_visible:1 "Мистерия" #NT!
+
+ #sanguine #NT!
+ sanguine_lifestyle_name:0 "Сангвиник" #NT!
+ sanguine_lifestyle_desc:0 "Фокусировка на силах, которые исходят от Сангвинического Резонанса." #NT!
+ sanguine_lifestyle_highlight_desc:0 "Благодаря Сангвиническому интересу своего [Clan's|E]а вы получаете на #P 10%#! больше [experience|E]а." #NT!
+ monthly_sanguine_lifestyle_xp_gain_mult:0 "Месячный Сангвинический [lifestyle|E] [experience|E]" #NT!
+ sanguine_bloodsorcery_focus:0 "Фокус Магии Крови" #NT!
+ sanguine_bloodsorcery_focus_modifier:1 "[GetFocus('sanguine_bloodsorcery_focus').GetName]" #NT!
+ sanguine_bloodsorcery_focus_desc:0 "Настоящая магия в крови" #NT!
+ sanguine_bloodsorcery_focus_effect_desc:0 "Фокус Магии Крови дает:" #NT!
+ bloodsorcery_visible:1 "Магия Крови" #NT!
+
+ sanguine_presence_focus:0 "Фокус Присутствия" #NT!
+ sanguine_presence_focus_modifier:1 "[GetFocus('sanguine_presence_focus').GetName]" #NT!
+ sanguine_presence_focus_desc:0 "Чтобы узнать меня, нужно сперва полюбить" #NT!
+ sanguine_presence_focus_effect_desc:0 "Фокус Присутствия дает:" #NT!
+ presence_visible:1 "Присутствие" #NT!
+
+ sanguine_thinblood_alchemy_focus:0 "Фокус Алхимии Слабокровных" #NT!
+ sanguine_thinblood_alchemy_focus_modifier:1 "[GetFocus('sanguine_thinblood_alchemy_focus').GetName]" #NT!
+ sanguine_thinblood_alchemy_focus_desc:0 "Сила слабых связей" #NT!
+ sanguine_thinblood_alchemy_focus_effect_desc:0 "Фокус Алхимии Слабокровных дает:" #NT!
+ thinbloodalchemy_visible:1 "Алихимия Слабокровных" #NT!
+
+ daimoinon_visible:1 "Демонизм" #NT!
+ sanguine_daimoinon_focus:0 "Фокус Демонизма" #NT!
+ sanguine_daimoinon_focus_desc:0 "Инфернальные дары Греха и Порочности" #NT!
+ sanguine_daimoinon_focus_effect_desc:0 "Фокус Демонизма дает:" #NT!
+ sanguine_daimoinon_focus_modifier:0 "Фокус Демонизма" #NT!
+
+ sanguine_quietus_focus:0 "Фокус Смертоностности" #NT!
+ sanguine_quietus_focus_modifier:1 "[GetFocus('sanguine_quietus_focus').GetName]" #NT!
+ sanguine_quietus_focus_desc:0 "Власть над кровью" #NT!
+ sanguine_quietus_focus_effect_desc:0 "Фокус Смертоностности дает:" #NT!
+ quietus_visible:1 "Смертностность" #NT!
+
+ #animal #NT!
+ animal_lifestyle_name:0 "Животный" #NT!
+ animal_lifestyle_desc:0 "Фокусировка на силах, которые исходят от Животного Резонанса." #NT!
+ animal_lifestyle_highlight_desc:0 "Благодаря анималистическому интересу своего [Clan's|E]а вы получаете #P 10%#! more [experience|E] in this Lifestyle." #NT!
+ monthly_animal_lifestyle_xp_gain_mult:0 "Месячный Анималистический [lifestyle|E] [experience|E]" #NT!
+ animal_animalism_focus:0 "Фокус Анимализма" #NT!
+ animal_animalism_focus_modifier:1 "[GetFocus('animal_animalism_focus').GetName]" #NT!
+ animal_animalism_focus_desc:0 "Создания Ночи" #NT!
+ animal_animalism_focus_effect_desc:0 "Фокус Анимализма дает:" #NT!
+ animalism_visible:1 "Анимализм" #NT!
+
+ animal_protean_focus:0 "Фокус Превращения" #NT!
+ animal_protean_focus_modifier:1 "[GetFocus('animal_protean_focus').GetName]" #NT!
+ animal_protean_focus_desc:0 "Смена формы" #NT!
+ animal_protean_focus_effect_desc:0 "Фокус Превращения дает" #NT!
+ protean_visible:1 "Превращение" #NT!
+
+ animal_serpentis_focus:0 "Фокус Серпентиса" #NT!
+ animal_serpentis_focus_modifier:1 "[GetFocus('animal_serpentis_focus').GetName]" #NT!
+ animal_serpentis_focus_desc:0 "Овладение дарами Сета" #NT!
+ animal_serpentis_focus_effect_desc:0 "Фокус Серпентиса дает:" #NT!
+ serpentis_visible:1 "Серпентис" #NT!
+
+ animal_spiritus_focus:0 "Фокус Шаманизма" #NT!
+ animal_spiritus_focus_modifier:1 "[GetFocus('animal_spiritus_focus').GetName]" #NT!
+ animal_spiritus_focus_desc:0 "Взаимодействуйте с духами животных" #NT!
+ animal_spiritus_focus_effect_desc:0 "Фокус Шаманизма дает:" #NT!
+ animal_spiritus_visible:1 "Шаманизм" #NT!
+
+ animal_abombwe_focus:0 "Фокус Абомбве" #NT!
+ animal_abombwe_focus_modifier:1 "[GetFocus('animal_abombwe_focus').GetName]" #NT!
+ animal_abombwe_focus_desc:0 "Воспользуйтесь как первобытной тьмой, так и доблестью хищника" #NT!
+ animal_abombwe_focus_effect_desc:0 "Фокус Абомбве дает:" #NT!
+ abombwe_visible:1 "Абомбве" #NT!
+
+ #faith #NT!
+ faith_lifestyle_name:0 "True Faith" #NT!
+ faith_lifestyle_desc:0 "Focus on the powers that come from your faith." #NT!
+ faith_lifestyle_highlight_desc:0 "Because of your [GetTrait('devoted').GetName( GetPlayer )] [trait|E], you gain #P 10%#! more [experience|E] in this Lifestyle." #NT!
+ monthly_faith_lifestyle_xp_gain_mult:0 "Monthly True Faith [lifestyle|E] [experience|E]" #NT!
+
+ faith_truefaith_focus:0 "True Faith Focus" #NT!
+ faith_truefaith_focus_modifier:1 "[GetFocus('faith_truefaith_focus').GetName]" #NT!
+ faith_truefaith_focus_desc:0 "There is no limit to the power of the Divine." #NT!
+ faith_truefaith_focus_effect_desc:0 "Focusing on True Faith grants:" #NT!
+ truefaith_visible:1 "True Faith" #NT!
+
+ patris_name:0 "Sophia Patris" #NT!
+ filius_name:0 "Sedulitas Filius" #NT!
+ spiritus_name:0 "Boni Spiritus" #NT!
+
+ #endowments #NT!
+
+ endowments_lifestyle_name:0 "Conviction" #NT!
+ endowments_lifestyle_desc:0 "Focus on the teachings of your order." #NT!
+ endowments_lifestyle_highlight_desc:0 "Because of your [GetTrait('truefaith').GetName( GetPlayer )] [trait|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_endowments_lifestyle_xp_gain_mult:0 "Monthly Conviction [lifestyle|E] [experience|E]" #NT!
+
+ endowments_all_focus:0 "Conviction Focus" #NT!
+ endowments_all_focus_modifier:1 "[GetFocus('endowments_all_focus').GetName]" #NT!
+ endowments_all_focus_desc:0 "Follow in the footsteps of your predecessors on the path of conviction." #NT!
+ endowments_all_focus_effect_desc:0 "Focusing on strengthening your conviction:" #NT!
+ ritae_visible:1 "Ritae" #NT!
+ investitures_visible:1 "Investitures" #NT!
+ psalms_visible:1 "Psalms" #NT!
+ legacies_visible:1 "Legacies" #NT!
+ blessings_visible:1 "Blessings" #NT!
+
+ #godbodies #NT!
+ godbodies_lifestyle_name:0 "Godbodies" #NT!
+ godbodies_lifestyle_desc:0 "Focus on the powers that come from Chi energy." #NT!
+ godbodies_lifestyle_highlight_desc:0 "Because of your Dharma, you gain #P [GetPlayer.Custom('GetDharmaLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_godbodies_lifestyle_xp_gain_mult:0 "Monthly Godbodies [lifestyle|E] [experience|E]" #NT!
+
+ godbodies_metal_focus:0 "Metal Godbody Focus" #NT!
+ godbodies_metal_focus_modifier:1 "[GetFocus('godbodies_metal_focus').GetName]" #NT!
+ godbodies_metal_focus_desc:0 "The transformation of self into inhumanity, exchanging mortal weakness and frailty for purity and hardiness." #NT!
+ godbodies_metal_focus_effect_desc:0 "Focusing on Metal Godbody grants:" #NT!
+
+ godbodies_wood_focus:0 "Wood Godbody Focus" #NT!
+ godbodies_wood_focus_modifier:1 "[GetFocus('godbodies_wood_focus').GetName]" #NT!
+ godbodies_wood_focus_desc:0 "The pruning of one's self and the cultivation of the Wan Kuei's body, treating it like a garden." #NT!
+ godbodies_wood_focus_effect_desc:0 "Focusing on Wood Godbody grants:" #NT!
+
+ godbodies_water_focus:0 "Water Godbody Focus" #NT!
+ godbodies_water_focus_modifier:1 "[GetFocus('godbodies_water_focus').GetName]" #NT!
+ godbodies_water_focus_desc:0 "The breakdown of barriers between the user and the self, opening the Wan Kuei to change, while allowing him to remain fundamentally himself." #NT!
+ godbodies_water_focus_effect_desc:0 "Focusing on Water Godbody grants:" #NT!
+
+ godbodies_fire_focus:0 "Fire Godbody Focus" #NT!
+ godbodies_fire_focus_modifier:1 "[GetFocus('godbodies_fire_focus').GetName]" #NT!
+ godbodies_fire_focus_desc:0 "The nature of flames to rise and consume without regard for its own survival." #NT!
+ godbodies_fire_focus_effect_desc:0 "Focusing on Fire Godbody grants:" #NT!
+
+ godbodies_earth_focus:0 "Earth Godbody Focus" #NT!
+ godbodies_earth_focus_modifier:1 "[GetFocus('godbodies_earth_focus').GetName]" #NT!
+ godbodies_earth_focus_desc:0 "The balanced nature of earth, aiming to bring the various pulls and currents within a Wan Kuei's soul into a harmonious centered equilibrium." #NT!
+ godbodies_earth_focus_effect_desc:0 "Focusing on Earth Godbody grants:" #NT!
+
+ metalgodbody_name:1 "Metal" #NT!
+ woodgodbody_name:1 "Wood" #NT!
+ watergodbody_name:1 "Water" #NT!
+ firegodbody_name:1 "Fire" #NT!
+ earthgodbody_name:1 "Earth" #NT!
+
+ #shintai #NT!
+ shintai_lifestyle_name:0 "Shintai" #NT!
+ shintai_lifestyle_desc:0 "Focus on the powers that come from Chi energy." #NT!
+ shintai_lifestyle_highlight_desc:0 "Because of your Dharma, you gain #P [GetPlayer.Custom('GetDharmaLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_shintai_lifestyle_xp_gain_mult:0 "Monthly Shintai [lifestyle|E] [experience|E]" #NT!
+
+ shintai_bone_focus:0 "Bone Shintai Focus" #NT!
+ shintai_bone_focus_modifier:1 "[GetFocus('shintai_bone_focus').GetName]" #NT!
+ shintai_bone_focus_desc:0 "Augment the corpse-like features of your bodies, to become awesome and terrible combatants." #NT!
+ shintai_bone_focus_effect_desc:0 "Focusing on Bone Shintai grants:" #NT!
+
+ shintai_flesh_focus:0 "Flesh Shintai Focus" #NT!
+ shintai_flesh_focus_modifier:1 "[GetFocus('shintai_flesh_focus').GetName]" #NT!
+ shintai_flesh_focus_desc:0 "Channel Yang energy through the medium of your corpse in order to augment and transform it." #NT!
+ shintai_flesh_focus_effect_desc:0 "Focusing on Flesh Shintai grants:" #NT!
+
+ shintai_blood_focus:0 "Blood Shintai Focus" #NT!
+ shintai_blood_focus_modifier:1 "[GetFocus('shintai_blood_focus').GetName]" #NT!
+ shintai_blood_focus_desc:0 "Concentrates on the ebb and flow of Chi through the character's circulatory system." #NT!
+ shintai_blood_focus_effect_desc:0 "Focusing on Blood Shintai grants:" #NT!
+
+ shintai_ghostflame_focus:0 "Ghost-Flame Shintai Focus" #NT!
+ shintai_ghostflame_focus_modifier:1 "[GetFocus('shintai_ghostflame_focus').GetName]" #NT!
+ shintai_ghostflame_focus_desc:0 "Evoke the "shade-time flame": raw Chi energy from the spirit worlds." #NT!
+ shintai_ghostflame_focus_effect_desc:0 "Focusing on Ghost-Flame Shintai grants:" #NT!
+
+ shintai_jade_focus:0 "Jade Shintai Focus" #NT!
+ shintai_jade_focus_modifier:1 "[GetFocus('shintai_jade_focus').GetName]" #NT!
+ shintai_jade_focus_desc:0 "Becomes a conduit for the ambient Chi flows of the elements around you." #NT!
+ shintai_jade_focus_effect_desc:0 "Focusing on Jade Shintai grants:" #NT!
+
+ boneshintai_visible:1 "Bone Shintai" #NT!
+ fleshshintai_visible:1 "Flesh Shintai" #NT!
+ bloodshintai_visible:1 "Blood Shintai" #NT!
+ ghostflameshintai_visible:1 "Ghost-Flame Shintai" #NT!
+ jadeshintai_visible:1 "Jade Shintai" #NT!
+
+ #chi arts #NT!
+ chi_arts_lifestyle_name:0 "Chi Arts" #NT!
+ chi_arts_lifestyle_desc:0 "Focus on the powers that come from redirection of Chi." #NT!
+ chi_arts_lifestyle_highlight_desc:0 "Because of your Dharma, you gain #P [GetPlayer.Custom('GetDharmaLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_chi_arts_lifestyle_xp_gain_mult:0 "Monthly Chi Arts [lifestyle|E] [experience|E]" #NT!
+
+ chi_arts_yinprana_focus:0 "Yin Prana Focus" #NT!
+ chi_arts_yinprana_focus_modifier:1 "[GetFocus('chi_arts_yinprana_focus').GetName]" #NT!
+ chi_arts_yinprana_focus_desc:0 "Manipulation of internal Yin." #NT!
+ chi_arts_yinprana_focus_effect_desc:0 "Focusing on Yin Prana grants:" #NT!
+
+ chi_arts_yangprana_focus:0 "Yang Prana Focus" #NT!
+ chi_arts_yangprana_focus_modifier:1 "[GetFocus('chi_arts_yangprana_focus').GetName]" #NT!
+ chi_arts_yangprana_focus_desc:0 "Manipulation of internal Yang." #NT!
+ chi_arts_yangprana_focus_effect_desc:0 "Focusing on Yang Prana grants:" #NT!
+
+ chi_arts_equilibrium_focus:0 "Equilibrium Focus" #NT!
+ chi_arts_equilibrium_focus_modifier:1 "[GetFocus('chi_arts_equilibrium_focus').GetName]" #NT!
+ chi_arts_equilibrium_focus_desc:0 "Concern yourselves with maintaining proper Chi balance in your systems." #NT!
+ chi_arts_equilibrium_focus_effect_desc:0 "Focusing on Equilibrium grants:" #NT!
+
+ chi_arts_tapestry_focus:0 "Tapestry Focus" #NT!
+ chi_arts_tapestry_focus_modifier:1 "[GetFocus('chi_arts_tapestry_focus').GetName]" #NT!
+ chi_arts_tapestry_focus_desc:0 "Manipulate the dragon lines that flow beneath the Middle Kingdom." #NT!
+ chi_arts_tapestry_focus_effect_desc:0 "Focusing on Tapestry grants:" #NT!
+
+ chi_arts_fengshui_focus:0 "Feng Shui Focus" #NT!
+ chi_arts_fengshui_focus_modifier:1 "[GetFocus('chi_arts_fengshui_focus').GetName]" #NT!
+ chi_arts_fengshui_focus_desc:0 "Special insights into the flow of chi." #NT!
+ chi_arts_fengshui_focus_effect_desc:0 "Focusing on Feng Shui grants:" #NT!
+
+ yinprana_name:1 "Yin Prana" #NT!
+ yangprana_name:1 "Yang Prana" #NT!
+ equilibrium_name:1 "Equilibrium" #NT!
+ tapestry_name:1 "Tapestry" #NT!
+ fengshui_name:1 "Feng Shui" #NT!
+
+ #soul arts #NT!
+ soul_arts_lifestyle_name:0 "Soul Arts" #NT!
+ soul_arts_lifestyle_desc:0 "Focus on the powers that come from Souls." #NT!
+ soul_arts_lifestyle_highlight_desc:0 "Because of your Dharma, you gain #P [GetPlayer.Custom('GetDharmaLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_soul_arts_lifestyle_xp_gain_mult:0 "Monthly Soul Arts [lifestyle|E] [experience|E]" #NT!
+
+ soul_arts_chiiumuh_focus:0 "Chi'iu Muh Focus" #NT!
+ soul_arts_chiiumuh_focus_modifier:1 "[GetFocus('soul_arts_chiiumuh_focus').GetName]" #NT!
+ soul_arts_chiiumuh_focus_desc:0 "Draws power from a Third Eye that emulates the Dragon Sages from ages past." #NT!
+ soul_arts_chiiumuh_focus_effect_desc:0 "Focusing on Chi'iu Muh grants:" #NT!
+
+ soul_arts_cultivation_focus:0 "Cultivation Focus" #NT!
+ soul_arts_cultivation_focus_modifier:1 "[GetFocus('soul_arts_cultivation_focus').GetName]" #NT!
+ soul_arts_cultivation_focus_desc:0 ""Cultivate" your P'o." #NT!
+ soul_arts_cultivation_focus_effect_desc:0 "Focusing on Cultivation grants:" #NT!
+
+ soul_arts_internalize_focus:0 "Internalize Focus" #NT!
+ soul_arts_internalize_focus_modifier:1 "[GetFocus('soul_arts_internalize_focus').GetName]" #NT!
+ soul_arts_internalize_focus_desc:0 "Focuses on control over the dual state of your souls." #NT!
+ soul_arts_internalize_focus_effect_desc:0 "Focusing on Internalize grants:" #NT!
+
+ soul_arts_obligation_focus:0 "Obligation Focus" #NT!
+ soul_arts_obligation_focus_modifier:1 "[GetFocus('soul_arts_obligation_focus').GetName]" #NT!
+ soul_arts_obligation_focus_desc:0 "Exert control over others." #NT!
+ soul_arts_obligation_focus_effect_desc:0 "Focusing on Obligation grants:" #NT!
+
+ soul_arts_mibasham_focus:0 "Mibasham Focus" #NT!
+ soul_arts_mibasham_focus_modifier:1 "[GetFocus('soul_arts_mibasham_focus').GetName]" #NT!
+ soul_arts_mibasham_focus_desc:0 "Ontologists of the Middle Kingdom." #NT!
+ soul_arts_mibasham_focus_effect_desc:0 "Focusing on Mibasham grants:" #NT!
+
+ soul_arts_tzuwei_focus:0 "Tzu Wei Focus" #NT!
+ soul_arts_tzuwei_focus_modifier:1 "[GetFocus('soul_arts_tzuwei_focus').GetName]" #NT!
+ soul_arts_tzuwei_focus_desc:0 "Determine the future." #NT!
+ soul_arts_tzuwei_focus_effect_desc:0 "Focusing on Tzu Wei grants:" #NT!
+
+ chiiumuh_visible:1 "Chi'iu Muh" #NT!
+ cultivation_visible:1 "Cultivation" #NT!
+ internalize_visible:1 "Internalize" #NT!
+ obligation_visible:1 "Obligation" #NT!
+ mibasham_visible:1 "Mibasham" #NT!
+ tzuwei_visible:1 "Tzu Wei" #NT!
+
+ #demon arts #NT!
+ demon_arts_lifestyle_name:0 "Demon Arts" #NT!
+ demon_arts_lifestyle_desc:0 "Focus on the powers that come from P'o." #NT!
+ demon_arts_lifestyle_highlight_desc:0 "Because of your Dharma, you gain #P [GetPlayer.Custom('GetDharmaLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_demon_arts_lifestyle_xp_gain_mult:0 "Monthly Demon Arts [lifestyle|E] [experience|E]" #NT!
+
+ demon_arts_blackwind_focus:0 "Black Wind Focus" #NT!
+ demon_arts_blackwind_focus_modifier:1 "[GetFocus('demon_arts_blackwind_focus').GetName]" #NT!
+ demon_arts_blackwind_focus_desc:0 "Channels your P'o to enhance your speed." #NT!
+ demon_arts_blackwind_focus_effect_desc:0 "Focusing on Black Wind grants:" #NT!
+
+ demon_arts_demonshintai_focus:0 "Demon Shintai Focus" #NT!
+ demon_arts_demonshintai_focus_modifier:1 "[GetFocus('demon_arts_demonshintai_focus').GetName]" #NT!
+ demon_arts_demonshintai_focus_desc:0 "Manifest your Inner Demon, transforming your flesh to resemble the servants of Yomi Wan." #NT!
+ demon_arts_demonshintai_focus_effect_desc:0 "Focusing on Demon Shintai grants:" #NT!
+
+ demon_arts_ironmountain_focus:0 "Iron Mountain Focus" #NT!
+ demon_arts_ironmountain_focus_modifier:1 "[GetFocus('demon_arts_ironmountain_focus').GetName]" #NT!
+ demon_arts_ironmountain_focus_desc:0 "Channels your P'o to protect yourself against damage." #NT!
+ demon_arts_ironmountain_focus_effect_desc:0 "Focusing on Iron Mountain grants:" #NT!
+
+ demon_arts_kiai_focus:0 "Kiai Focus" #NT!
+ demon_arts_kiai_focus_modifier:1 "[GetFocus('demon_arts_kiai_focus').GetName]" #NT!
+ demon_arts_kiai_focus_desc:0 "Channels the wrath of the Demon through the voice." #NT!
+ demon_arts_kiai_focus_effect_desc:0 "Focusing on Kiai grants:" #NT!
+
+ demon_arts_hellweaving_focus:0 "Hellweaving Focus" #NT!
+ demon_arts_hellweaving_focus_modifier:1 "[GetFocus('demon_arts_hellweaving_focus').GetName]" #NT!
+ demon_arts_hellweaving_focus_desc:0 "Gifts of power to select Kuei-jin from the Yama Kings and other demonic entities. " #NT!
+ demon_arts_hellweaving_focus_effect_desc:0 "Focusing on Hellweaving grants:" #NT!
+
+ blackwind_name:1 "Black Wind" #NT!
+ demonshintai_name:1 "Demon Shintai" #NT!
+ ironmountain_name:1 "Iron Mountain" #NT!
+ kiai_name:1 "Kiai" #NT!
+ hellweaving_name:1 "Hellweaving" #NT!
+
+ #alternate techniques #NT!
+ alternate_techniques_lifestyle_name:0 "Techniques" #NT!
+ alternate_techniques_lifestyle_desc:0 "Focus on the alternate techniques from your Dharma." #NT!
+ alternate_techniques_lifestyle_highlight_desc:0 "Because of your Dharma, you gain #P [GetPlayer.Custom('GetDharmaLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_alternate_techniques_lifestyle_xp_gain_mult:0 "Monthly Alternate Techniques [lifestyle|E] [experience|E]" #NT!
+
+
+ alternate_techniques_combination_focus:0 "Combination Techniques Focus" #NT!
+ alternate_techniques_combination_focus_modifier:1 "[GetFocus('alternate_techniques_combination_focus').GetName]" #NT!
+ alternate_techniques_combination_focus_desc:0 "Discipline combination powers." #NT!
+ alternate_techniques_combination_focus_effect_desc:0 "Focusing on Combination Techniques grants:" #NT!
+
+ alternate_techniques_yin_focus:0 "Yin Techniques Focus" #NT!
+ alternate_techniques_yin_focus_modifier:1 "[GetFocus('alternate_techniques_yin_focus').GetName]" #NT!
+ alternate_techniques_yin_focus_desc:0 "Alternate techniques of Bone Flowers." #NT!
+ alternate_techniques_yin_focus_effect_desc:0 "Focusing on Yin Techniques grants:" #NT!
+
+ alternate_techniques_yang_focus:0 "Yang Techniques Focus" #NT!
+ alternate_techniques_yang_focus_modifier:1 "[GetFocus('alternate_techniques_yang_focus').GetName]" #NT!
+ alternate_techniques_yang_focus_desc:0 "Alternate techniques of Thrashing Dragons." #NT!
+ alternate_techniques_yang_focus_effect_desc:0 "Focusing on Yang Techniques grants:" #NT!
+
+ alternate_techniques_prayer_eating_focus:0 "Prayer-Eating Focus" #NT!
+ alternate_techniques_prayer_eating_focus_modifier:1 "[GetFocus('alternate_techniques_prayer_eating_focus').GetName]" #NT!
+ alternate_techniques_prayer_eating_focus_desc:0 "Discipline commonly associated with the heretical Face of the Gods Dharma." #NT!
+ alternate_techniques_prayer_eating_focus_effect_desc:0 "Focusing on Prayer-Eating grants:" #NT!
+
+ alternate_techniques_inward_way_focus:0 "Inward Way Focus" #NT!
+ alternate_techniques_inward_way_focus_modifier:1 "[GetFocus('alternate_techniques_inward_way_focus').GetName]" #NT!
+ alternate_techniques_inward_way_focus_desc:0 "Special Discipline developed by the followers of Tempest of Inward Focus Dharma." #NT!
+ alternate_techniques_inward_way_focus_effect_desc:0 "Focusing on Inward Way grants:" #NT!
+
+ alternate_techniques_tempest_of_inward_focus_focus:0 "Tempest of Inward Focus Focus" #NT!
+ alternate_techniques_tempest_of_inward_focus_focus_modifier:1 "[GetFocus('alternate_techniques_tempest_of_inward_focus_focus').GetName]" #NT!
+ alternate_techniques_tempest_of_inward_focus_focus_desc:0 "Martial art form developed by the heretical Dharma of the Seekers of the Inward Way." #NT!
+ alternate_techniques_tempest_of_inward_focus_focus_effect_desc:0 "Focusing on Tempest of Inward Focus grants:" #NT!
+
+ combination_techniques_name:1 "Combination Techniques" #NT!
+ yin_techniques_name:1 "Yin Techniques" #NT!
+ yang_techniques_name:1 "Yang Techniques" #NT!
+ prayer_eating_name:1 "Prayer-Eating" #NT!
+ inward_way_name:1 "Inward Way" #NT!
+ tempest_of_inward_focus_name:1 "Tempest of Inward Focus" #NT!
+
+ #Qiao #NT!
+ qiao_lifestyle_name:0 "Qiao" #NT!
+ qiao_lifestyle_desc:0 "Each Qiao, or Bridge, affects a different aspect of the person's life-force and uses either Yin or Yang Chi." #NT!
+ qiao_lifestyle_highlight_desc:0 "Because of your [GetModifier('gifts_from_heaven_modifier').GetNameWithTooltip], you gain #P 50%#! more [experience|E] in this Lifestyle." #NT!
+ monthly_qiao_lifestyle_xp_gain_mult:0 "Monthly Qiao [lifestyle|E] [experience|E]" #NT!
+
+ qiao_i_shen_focus:0 "Celestial Gods Focus" #NT!
+ qiao_i_shen_focus_modifier:1 "[GetFocus('qiao_i_shen_focus').GetName]" #NT!
+ qiao_i_shen_focus_desc:0 "The spiritual belief of the [GetTrait('shih').GetName( GetPlayer )] works as a powerful tool in the fight against the shen." #NT!
+ qiao_i_shen_focus_effect_desc:0 "Focusing on Celestial Gods grants:" #NT!
+
+ qiao_mo_kung_focus:0 "Devil Fighter Focus" #NT!
+ qiao_mo_kung_focus_modifier:1 "[GetFocus('qiao_mo_kung_focus').GetName]" #NT!
+ qiao_mo_kung_focus_desc:0 "The physical prowess of the [GetTrait('shih').GetName( GetPlayer )] is increased with this special mental discipline." #NT!
+ qiao_mo_kung_focus_effect_desc:0 "Focusing on Devil Fighter grants:" #NT!
+
+ qiao_yu_an_focus:0 "Jade Harmony Focus" #NT!
+ qiao_yu_an_focus_modifier:1 "[GetFocus('qiao_yu_an_focus').GetName]" #NT!
+ qiao_yu_an_focus_desc:0 "The mind of the [GetTrait('shih').GetName( GetPlayer )] is given special protection against the mind-tricks of the shen." #NT!
+ qiao_yu_an_focus_effect_desc:0 "Focusing on Jade Harmony grants:" #NT!
+
+ qiao_feng_focus:0 "Phoenix Focus" #NT!
+ qiao_feng_focus_modifier:1 "[GetFocus('qiao_feng_focus').GetName]" #NT!
+ qiao_feng_focus_desc:0 "The body of the [GetTrait('shih').GetName( GetPlayer )] recovers swiftly from wounds and disease." #NT!
+ qiao_feng_focus_effect_desc:0 "Focusing on Phoenix grants:" #NT!
+
+ qiao_shi_focus:0 "Serpent Focus" #NT!
+ qiao_shi_focus_modifier:1 "[GetFocus('qiao_shi_focus').GetName]" #NT!
+ qiao_shi_focus_desc:0 "The body of the [GetTrait('shih').GetName( GetPlayer )] becomes a powerful weapon." #NT!
+ qiao_shi_focus_effect_desc:0 "Focusing on Serpent grants:" #NT!
+
+ qiao_chien_focus:0 "Mirror Focus" #NT!
+ qiao_chien_focus_modifier:1 "[GetFocus('qiao_chien_focus').GetName]" #NT!
+ qiao_chien_focus_desc:0 "A very traditional method of hunting demons,the Qiao of the Chien specializes in fighting fire with fire." #NT!
+ qiao_chien_focus_effect_desc:0 "Focusing on Mirror grants:" #NT!
+
+ qiao_long_ling_focus:0 "Dragon Ruler Focus" #NT!
+ qiao_long_ling_focus_modifier:1 "[GetFocus('qiao_long_ling_focus').GetName]" #NT!
+ qiao_long_ling_focus_desc:0 "A powerful psychological tool, this bridge lets the [GetTrait('shih').GetName( GetPlayer )] use force of will in a mental battle with the shen." #NT!
+ qiao_long_ling_focus_effect_desc:0 "Focusing on Dragon Ruler grants:" #NT!
+
+ qiao_meng_focus:0 "Dream Focus" #NT!
+ qiao_meng_focus_modifier:1 "[GetFocus('qiao_meng_focus').GetName]" #NT!
+ qiao_meng_focus_desc:0 "Through the use of these steps, [GetTrait('shih').GetName( GetPlayer )] can recover from the mental tortures they endure." #NT!
+ qiao_meng_focus_effect_desc:0 "Focusing on Dream grants:" #NT!
+
+ qiao_zhu_mao_focus:0 "Resilient Cat Focus" #NT!
+ qiao_zhu_mao_focus_modifier:1 "[GetFocus('qiao_zhu_mao_focus').GetName]" #NT!
+ qiao_zhu_mao_focus_desc:0 "Employing the steps of this bridge, the [GetTrait('shih').GetName( GetPlayer )] perform miracles of mind over matter." #NT!
+ qiao_zhu_mao_focus_effect_desc:0 "Focusing on Resilient Cat grants:" #NT!
+
+ ishen_visible:1 "I Shen" #NT!
+ mokung_visible:1 "Mo Kung" #NT!
+ yuan_visible:1 "Yu An" #NT!
+ feng_visible:1 "Feng" #NT!
+ shi_visible:1 "Shi" #NT!
+ chien_visible:1 "Chien" #NT!
+ longling_visible:1 "Long Ling" #NT!
+ meng_visible:1 "Meng" #NT!
+ zhumao_visible:1 "Zhu Mao" #NT!
+
+ #Hekau #NT!
+ hekau_alchemy_lifestyle_name:0 "Alchemy" #NT!
+ hekau_alchemy_lifestyle_desc:0 "Focus on the powers that come from Alchemy." #NT!
+ hekau_alchemy_lifestyle_highlight_desc:0 "Because of your Sekhem, you gain #P [GetPlayer.Custom('GetHekauLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_hekau_alchemy_lifestyle_xp_gain_mult:0 "Monthly Alchemy [lifestyle|E] [experience|E]" #NT!
+ hekau_amulets_lifestyle_name:0 "Amulets" #NT!
+ hekau_amulets_lifestyle_desc:0 "Focus on the powers that come from Amulets." #NT!
+ hekau_amulets_lifestyle_highlight_desc:0 "Because of your Sekhem, you gain #P [GetPlayer.Custom('GetHekauLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_hekau_amulets_lifestyle_xp_gain_mult:0 "Monthly Amulets [lifestyle|E] [experience|E]" #NT!
+ hekau_celestial_lifestyle_name:0 "Celestial" #NT!
+ hekau_celestial_lifestyle_desc:0 "Focus on the powers that come from Celestial." #NT!
+ hekau_celestial_lifestyle_highlight_desc:0 "Because of your Sekhem, you gain #P [GetPlayer.Custom('GetHekauLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_hekau_celestial_lifestyle_xp_gain_mult:0 "Monthly Celestial [lifestyle|E] [experience|E]" #NT!
+ hekau_effigy_lifestyle_name:0 "Effigy" #NT!
+ hekau_effigy_lifestyle_desc:0 "Focus on the powers that come from Effigy." #NT!
+ hekau_effigy_lifestyle_highlight_desc:0 "Because of your Sekhem, you gain #P [GetPlayer.Custom('GetHekauLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_hekau_effigy_lifestyle_xp_gain_mult:0 "Monthly Effigy [lifestyle|E] [experience|E]" #NT!
+ hekau_necromancy_lifestyle_name:0 "Necromancy" #NT!
+ hekau_necromancy_lifestyle_desc:0 "Focus on the powers that come from Necromancy." #NT!
+ hekau_necromancy_lifestyle_highlight_desc:0 "Because of your Sekhem, you gain #P [GetPlayer.Custom('GetHekauLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_hekau_necromancy_lifestyle_xp_gain_mult:0 "Monthly Necromancy [lifestyle|E] [experience|E]" #NT!
+ hekau_nomenclature_lifestyle_name:0 "Nomenclature" #NT!
+ hekau_nomenclature_lifestyle_desc:0 "Focus on the powers that come from True Name." #NT!
+ hekau_nomenclature_lifestyle_highlight_desc:0 "Because of your Sekhem, you gain #P [GetPlayer.Custom('GetHekauLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_hekau_nomenclature_lifestyle_xp_gain_mult:0 "Monthly Nomenclature [lifestyle|E] [experience|E]" #NT!
+
+ hekau_alchemy_focus:0 "Alchemy Focus" #NT!
+ hekau_alchemy_focus_modifier:1 "[GetFocus('hekau_alchemy_focus').GetName]" #NT!
+ hekau_alchemy_focus_desc:0 "That which is above is like to that which is below, and that which is below is like to that which is above, to accomplish the miracles of one thing." #NT!
+ hekau_alchemy_focus_effect_desc:0 "Focusing on Alchemy grants:" #NT!
+ hekau_amulets_focus:0 "Amulets Focus" #NT!
+ hekau_amulets_focus_modifier:1 "[GetFocus('hekau_amulets_focus').GetName]" #NT!
+ hekau_amulets_focus_desc:0 "Amulets, also referred to as Meket in Egyptian, are charms that focus magical power, most often for protection against evil, sickness or sorcery." #NT!
+ hekau_amulets_focus_effect_desc:0 "Focusing on Amulets grants:" #NT!
+ hekau_celestial_focus:0 "Celestial Focus" #NT!
+ hekau_celestial_focus_modifier:1 "[GetFocus('hekau_celestial_focus').GetName]" #NT!
+ hekau_celestial_focus_desc:0 "The Celestial Hekau are the magic arts of ancient Egypt focusing on fate, weather and astrology." #NT!
+ hekau_celestial_focus_effect_desc:0 "Focusing on Celestial grants:" #NT!
+ hekau_effigy_focus:0 "Effigy Focus" #NT!
+ hekau_effigy_focus_modifier:1 "[GetFocus('hekau_effigy_focus').GetName]" #NT!
+ hekau_effigy_focus_desc:0 "Effigy is the Hekau art of symbolic connections, usually expressed in small figures known as Ushabti." #NT!
+ hekau_effigy_focus_effect_desc:0 "Focusing on Effigy grants:" #NT!
+ hekau_necromancy_focus:0 "Necromancy Focus" #NT!
+ hekau_necromancy_focus_modifier:1 "[GetFocus('hekau_necromancy_focus').GetName]" #NT!
+ hekau_necromancy_focus_desc:0 "Necromancy is the Hekau art of shaping the [underworld|E] and commanding the souls that inhabit it." #NT!
+ hekau_necromancy_focus_effect_desc:0 "Focusing on Necromancy grants:" #NT!
+ hekau_nomenclature_focus:0 "Nomenclature Focus" #NT!
+ hekau_nomenclature_focus_modifier:1 "[GetFocus('hekau_nomenclature_focus').GetName]" #NT!
+ hekau_nomenclature_focus_desc:0 "Nomenclature is the Hekau art of utilizing True Names, called ren in Egypt, for arcane purposes." #NT!
+ hekau_nomenclature_focus_effect_desc:0 "Focusing on Nomenclature grants:" #NT!
+ amulets_visible:1 "Amulets" #NT!
+ alchemy_visible:1 "Alchemy" #NT!
+ celestial_visible:1 "Celestial" #NT!
+ effigy_visible:1 "Effigy" #NT!
+ necromancy_visible:1 "Necromancy" #NT!
+ nomenclature_visible:1 "Nomenclature" #NT!
+
+ #Tan #NT!
+ tan_lifestyle_name:0 "Tan" #NT!
+ tan_lifestyle_desc:0 "Focus on the powers that come from Phoenix and Dragon Alchemy " #NT!
+ tan_lifestyle_highlight_desc:0 "Because of your Sekhem, you gain #P [GetPlayer.Custom('GetHekauLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_tan_lifestyle_xp_gain_mult:0 "Monthly Tan [lifestyle|E] [experience|E]" #NT!
+
+ tan_feng_focus:0 "Feng Tan Focus" #NT!
+ tan_feng_focus_modifier:1 "[GetFocus('tan_feng_focus').GetName]" #NT!
+ tan_feng_focus_desc:0 "Grants the mastery over Yang to those who embrace and submit to it." #NT!
+ tan_feng_focus_effect_desc:0 "Focusing on Feng Tan grants:" #NT!
+
+ tan_lung_focus:0 "Lung Tan Focus" #NT!
+ tan_lung_focus_modifier:1 "[GetFocus('tan_lung_focus').GetName]" #NT!
+ tan_lung_focus_desc:0 "Invokes the aspects of Yin in all its manifolded forms." #NT!
+ tan_lung_focus_effect_desc:0 "Focusing on Lung Tan grants:" #NT!
+
+ fengtan_visible:1 "Feng Tan" #NT!
+ lungtan_visible:1 "Lung Tan" #NT!
+
+ #Gifts #NT!
+
+ breedgifts_lifestyle_name:0 "Breed Gifts" #NT!
+ breedgifts_lifestyle_desc:0 "Focus on the gifts that come with my natural breed form." #NT!
+ breedgifts_lifestyle_highlight_desc:0 "Because of your Gnosis, you gain #P [GetPlayer.Custom('GetGnosisLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_breedgifts_lifestyle_xp_gain_mult:0 "Monthly Breed Gifts [lifestyle|E] [experience|E]" #NT!
+ breedgifts_focus:0 "Breed Gifts Focus" #NT!
+ breedgifts_focus_modifier:1 "[GetFocus('breedgifts_focus').GetName]" #NT!
+ breedgifts_focus_desc:0 "The Homid, Lupus and Metis Gifts" #NT!
+ breedgifts_focus_effect_desc:0 "Focusing on Gifts grants:" #NT!
+
+ auspicegifts_lifestyle_name:0 "Auspice Gifts" #NT!
+ auspicegifts_lifestyle_desc:0 "Focus on the gifts that come with my Auspice." #NT!
+ auspicegifts_lifestyle_highlight_desc:0 "Because of your Gnosis, you gain #P [GetPlayer.Custom('GetGnosisLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_auspicegifts_lifestyle_xp_gain_mult:0 "Monthly Auspice Gifts [lifestyle|E] [experience|E]" #NT!
+ auspicegifts_focus:0 "Auspice Gifts Focus" #NT!
+ auspicegifts_focus_modifier:1 "[GetFocus('auspicegifts_focus').GetName]" #NT!
+ auspicegifts_focus_desc:0 "The five moon phases Gifts." #NT!
+ auspicegifts_focus_effect_desc:0 "Focusing on Auspice Gifts grants:" #NT!
+ ahroungifts_visible:1 "Ahroun Gifts" #NT!
+ galliardgifts_visible:1 "Galliard Gifts" #NT!
+ ragabashgifts_visible:1 "Ragabash Gifts" #NT!
+ philodoxgifts_visible:1 "Philodox Gifts" #NT!
+ theurgegifts_visible:1 "Theurge Gifts" #NT!
+ homidgifts_visible:1 "Homid Gifts" #NT!
+ lupusgifts_visible:1 "Lupus Gifts" #NT!
+
+
+ #Spheres #NT!
+ NEEDS_SPHERE_TEXT:0 "#N You must have the sphere trait#!" #NT!
+ pattern_spheres_lifestyle_name:0 "Pattern Spheres" #NT!
+ pattern_spheres_lifestyle_desc:0 "Focus on the Spheres that compose the physical world - Forces, Life and Matter." #NT!
+ pattern_spheres_lifestyle_highlight_desc:0 "Because of your Arete, you gain #P [GetPlayer.Custom('GetMagickLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_pattern_spheres_lifestyle_xp_gain_mult:0 "Monthly Pattern Spheres [lifestyle|E] [experience|E]" #NT!
+
+ forces_visible:0 "Forces" #NT!
+ pattern_spheres_forces_focus:0 "Forces Focus" #NT!
+ pattern_spheres_forces_focus_modifier:1 "[GetFocus('forces_focus').GetName]" #NT!
+ pattern_spheres_forces_focus_desc:0 "Fire, Force and Storms" #NT!
+ pattern_spheres_forces_focus_effect_desc:0 "Focusing on Forces grants:" #NT!
+
+ life_visible:0 "Life" #NT!
+ pattern_spheres_life_focus:0 "Life Focus" #NT!
+ pattern_spheres_life_focus_modifier:1 "[GetFocus('life_focus').GetName]" #NT!
+ pattern_spheres_life_focus_desc:0 "All that's alive" #NT!
+ pattern_spheres_life_focus_effect_desc:0 "Focusing on Life grants:" #NT!
+
+ foundational_spheres_lifestyle_name:0 "Foundational Spheres" #NT!
+ foundational_spheres_lifestyle_desc:0 "Focus on the Spheres that make up the foundation of existence - Correspondence, Time and Prime." #NT!
+ foundational_spheres_lifestyle_highlight_desc:0 "Because of your Arete, you gain #P [GetPlayer.Custom('GetMagickLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_foundational_spheres_lifestyle_xp_gain_mult:0 "Monthly Foundational Spheres [lifestyle|E] [experience|E]" #NT!
+
+ spiritual_spheres_lifestyle_name:0 "Spiritual Spheres" #NT!
+ spiritual_spheres_lifestyle_desc:0 "Focus on the Spheres that make up the realms of fate, mind and soul - Spirit, Entropy and Mind." #NT!
+ spiritual_spheres_lifestyle_highlight_desc:0 "Because of your Arete, you gain #P [GetPlayer.Custom('GetMagickLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_spiritual_spheres_lifestyle_xp_gain_mult:0 "Monthly Spiritual Spheres [lifestyle|E] [experience|E]" #NT!
+
+ matter_visible:0 "Matter" #NT!
+ mind_visible:0 "Mind" #NT!
+ entropy_visible:0 "Entropy" #NT!
+ prime_visible:0 "Prime" #NT!
+ time_visible:0 "Time" #NT!
+ correspondence_visible:0 "Correspondence" #NT!
+
+ pattern_spheres_focus:0 "Pattern Spheres Focus" #NT!
+ pattern_spheres_focus_modifier:1 "[GetFocus('pattern_spheres_focus').GetName]" #NT!
+ pattern_spheres_focus_desc:0 "Life, Forces and Matter" #NT!
+ pattern_spheres_focus_effect_desc:0 "Focusing on Pattern grants:" #NT!
+
+ foundational_spheres_focus:0 "Foundational Spheres Focus" #NT!
+ foundational_spheres_focus_modifier:1 "[GetFocus('foundational_spheres_focus').GetName]" #NT!
+ foundational_spheres_focus_desc:0 "Prime, Time and Correspondence" #NT!
+ foundational_spheres_focus_effect_desc:0 "Focusing on Foundational grants:" #NT!
+
+ spiritual_spheres_focus:0 "Spiritual Spheres Focus" #NT!
+ spiritual_spheres_focus_modifier:1 "[GetFocus('spiritual_spheres_focus').GetName]" #NT!
+ spiritual_spheres_focus_desc:0 "Entropy, Mind and Spirit" #NT!
+ spiritual_spheres_focus_effect_desc:0 "Focusing on Spiritual grants:" #NT!

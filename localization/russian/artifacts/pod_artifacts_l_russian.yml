@@ -1,0 +1,799 @@
+﻿l_russian:
+ mount:0 "Mount" #NT!
+ artifact_slot_mount:0 "Mount" #NT!
+ artifact_ship:0 "Ship" #NT!
+ artifact_animal:0 "Animal" #NT!
+
+ ############################ #NT!
+ # Non-procedural artifacts # #NT!
+ ############################ #NT!
+
+ artifact_sword_of_nul_name:0 "Sword of Nul" #NT!
+ artifact_sword_of_nul_description:0 "#bold Unlock [single_combat_duel|E] moves. Unlocks content.#! \nIt looks innocent enough. A short, straight sword made of bronze. The entire weapon is slightly green with age. It is still sharp, extremely sharp; sharper than the finest steel.\nIts story is one of blood, and owners meeting their unsuspected demise. The Sword of Nul will be reunited with its true owner, come what may." #NT!
+ artifact_tablet_of_destiny_name:0 "Скрижаль Судьбы" #NT!
+ artifact_tablet_of_destiny_description:0 "#bold Unlocks content.#! \nAccording to the Enûma Elish, the Tablet of Destiny were the laws for mankind, set down by Enoch himself. What those clay tablets actually contained is a matter of much speculation. The most agreed upon theory is that it was a chronicle of blood powers, explaining all of Enoch's magics. In any event, it is said that Ishtar tried to take this item from Ennoia, which led to a bitter feud between the two [antediluvian|E]s, nearly causing the Toreador destruction twice." #NT!
+ artifact_eye_of_hazimel_name:0 "Eye of Hazimel" #NT!
+ artifact_eye_of_hazimel_description:0 "#bold Unlocks content.#! \nThe tales following this relic are all of madness, blood and despair. Seemingly the last active piece of a powerful Ravnos Methuselah, the Eye of Hazimel can grand incredible powers to his wielder at an enormous cost. Replacing your eye with it is only the first, and easiest, thing you will have to do in order to learn its secrets..." #NT!
+ artifact_ankaran_sarcophagus_name:0 "Ankaran Sarcophagus" #NT!
+ artifact_ankaran_sarcophagus_description:0 "#bold Unlocks content.#! \nDon't open it." #NT!
+ artifact_kristrbani_name:0 "Kristrbani" #NT!
+ artifact_kristrbani_description:0 "#bold Unlock [single_combat_duel|E] moves.#! \nChristslayer is the weapon of choice of Queen Valborg. A massive hammer, too heavy for mortal hands, it has been bloodied times and times again. Something that its ruthless [einherjar|E] owner is keen on continuing." #NT!
+ artifact_euagetaematikon_name:0 "Euagetaematikon" #NT!
+ artifact_euagetaematikon_description:0 "The book of the Shining Blood is the Bible of the Church of Cain. Written by a mad monk in Constantinople, this barely coherent text proclaims the destiny of the Cainite race to walk besides the last Messiah and rule the world in a unending orgy of blood." #NT!
+ artifact_ainkurn_name:0 "Ainkurn" #NT!
+ artifact_ainkurn_description:0 "#bold Unlock [single_combat_duel|E] moves.#! \nTales attribute the Ainkurn sword with the destruction of Methuselahs, single-handed victories over ravenous Lupines and even travel into the realms of the dead. Either fanciful or true, this powerful sword was created by Durga Syn as a blueprint for an even more powerful weapon that will be needed in the troubled times ahead. It was most famously used by Christof Romuald during his rampage on Prague's vampires, clearly proving its effectiveness." #NT!
+ artifact_lamp_of_constantine_name:0 "Lamp of Constantine" #NT!
+ artifact_lamp_of_constantine_description:0 "#bold Allow the use of Penance even without True Faith.#! \nSupposedly, Jesus granted Constantine the Great a piece of the sun itself as a reward for his conversion. Constantine placed this holy relic in a lamp bearing the intertwined Greek letters 'Chi' and 'Rho' in memory of his vision and in honor of Christ. The Lamp is said to possess the power to destroy demons and other creatures of the night with its holy light." #NT!
+ artifact_magic_lantern_name:0 "Magic Lantern" #NT!
+ artifact_magic_lantern_description:0 "A large but plain clay urn, this lantern once belonged to Lazarus before being lost to the intrigue of the Fire Court. Once exposed to the light, it reveals strange patterns and intriguing puzzles." #NT!
+ artifact_japhet_cloak_name:0 "Плащ Яфета" #NT!
+ artifact_japhet_cloak_description:0 "A strange, translucent, cloak that protects against wraiths. Japhet himself hardly needs it, but he quietly answers that the time of this relic will come soon enough." #NT!
+ artifact_scarlet_rose_name:0 "Alexander's Scarlet Rose" #NT!
+ artifact_scarlet_rose_description:0 "When Lorraine, his beloved, betrayed him, Alexander abducted her and slowly drained her blood in this flower. When she finally succumbed, Lorraine forgave him, and the Methuselah was driven to madness. This bloody rose is now hungering for even more vampire's blood, and is a constant reminder of Alexander's failure." #NT!
+ artifact_infernal_tome_name:0 "Инфернальный Том" #NT!
+ artifact_infernal_tome_description:0 "One of the six infernal tomes used by demons to lure weak mortals, and Cainites, into worshiping them. It contains few useful information and no 'True Name' as it is mainly a tool of the demons themselves." #NT!
+ artifact_flagrum_passion_name:0 "Flagrum of the Passion" #NT!
+ artifact_flagrum_passion_description:0 "#bold Unlock [single_combat_duel|E] moves. Gives Beatific. #! \nThe weapon which pierced the Christ's flesh time and time again during the Passion. The relic has been somewhat corrupted by Eleazar's use, mixing his blood with the Christ's, but is still a powerful beacon of faith." #NT!
+ artifact_night_lantern_name:0 "Lantern of the Night Father" #NT!
+ artifact_night_lantern_description:0 "Crafted by a Nosferatu Methuselah, this lantern allows the use of powers similar to the Obfuscate [discipline|EL]. It is also rumored to hold more sinister secrets, but so far, no one was able to confirm it." #NT!
+ artifact_corona_ferrata_name:0 "Corona Ferrata" #NT!
+ artifact_corona_ferrata_description:0 "A relic from Saint Ferreol and Saint Ferjeux, this powerful crown has a soothing effect on true believers. And a much more lethal effect on unbelievers. Its owner is wounded by it one time every day, making holy blood spill from his forehead to his chin in an eerie display of self flagellation." #NT!
+ artifact_caecus_rose_name:0 "Caecus Rose" #NT!
+ artifact_caecus_rose_description:0 "Created by the skilled gardener Caecus for the beautiful Helene, this rose can listen to any conversation close by, imitating a subtle power of the Auspex [discipline|EL]." #NT!
+ artifact_makeda_crown_name:0 "Crown of Makeda" #NT!
+ artifact_makeda_crown_description:0 "The gold crown of the great queen of Saba has the power to repel vampires who have fallen to the worship of demons. Gifted to Helene by the prince of Reims, Nicodemus, she has chosen to only wear it in private, by respect for the departed queen." #NT!
+ artifact_goratrix_mirror_name:0 "Goratrix Mirror" #NT!
+ artifact_goratrix_mirror_description:0 "A mirror enchanted by Goratrix to go from place to place easily. It allows its user to seriously reduce travel times if the mirror is prepared beforehand." #NT!
+ artifact_shemaziel_sarcophagus_name:0 "Shemiazel's Sarcophagus" #NT!
+ artifact_shemaziel_sarcophagus_description:0 "#bold Unlock content.#! \nA heavy sarcophagus made of an unknown black rock, this dreadful item is protected by strong chains. You have the impression that you really really shouldn't open it." #NT!
+ artifact_codex_mortis_name:0 "Codex Mortis" #NT!
+ artifact_codex_mortis_description:0 "#bold Give Giovanni Necromancy.#! \nThis Codex hold many necromantic rituals... and the damned soul of Titia Sabina, a wraith. Her husband, Aurelius Flavius Iovanus, has willingly become a vampire to protect the book, and her soul, from anyone who would meant them harm." #NT!
+ artifact_slay_death_name:0 "Slay Death" #NT!
+ artifact_slay_death_description:0 "#bold Unlock [single_combat_duel|E] moves.#! \nThis gigantic axe is the weapon of choice of Petrus, executioner of Prince Colombe. It is also his only true love." #NT!
+ artifact_michaelis_rosary_name:0 "Michaelis' Rosary" #NT!
+ artifact_michaelis_rosary_description:0 "106 ivory pearls containing the memories of Michaelis, a powerful Methuselah of the Toreador clan. The only one not tarnished yet is the memory of his embrace of Esclarmonde, his beloved childe." #NT!
+ artifact_abraxas_sarcophagus_name:0 "Abraxas' Sarcophagus" #NT!
+ artifact_abraxas_sarcophagus_description:0 "Made of gold and precious gems, this sarcophagus is the resting place of Basilide, a forgotten holy man of Christianity's beginnings. His theory and examination of the Liturgy are very interesting for any would be theologian." #NT!
+ artifact_ermentrude_cross_name:0 "St Ermentrude's Cross" #NT!
+ artifact_ermentrude_cross_description:0 "This Breton martyr left behind a cross, now mounted as a necklace, that can repel any wolves. It also resonates with True Faith." #NT!
+ artifact_odin_stone_name:0 "Odin's Runic Stone" #NT!
+ artifact_odin_stone_description:0 "The stone where a dying Odin carved the first runes. It also contains the spirit of three volvas, who guarded the relic before getting slaughtered by a viking warlord." #NT!
+ artifact_holy_flask_name:0 "Holy Flask" #NT!
+ artifact_holy_flask_description:0 "Saint Remi used this flask to oil Clovis I, first king of the French, during his coronation. Since then, its holy content seems to always be regenerating itself." #NT!
+ artifact_uraeus_osiris_name:0 "Uraeus of Osiris" #NT!
+ artifact_uraeus_osiris_description:0 "This statuette of a golden snake was on the nemes (the crown) of Osiris himself. It has the power of opening a door to the Amenti, one of the Egyptian realm of the dead. It was stolen by Goratrix after Horus raided the Setite temple of Marseilles where it was located." #NT!
+ artifact_ayr_sword_name:0 "Ayr's Sword" #NT!
+ artifact_ayr_sword_description:0 "#bold Unlock [single_combat_duel|E] moves.#! \nOne of the seven swords created by the legendary blacksmith Ayr l'Enclume. Tailor made for its owner, almost indestructible, and enchanted with powerful magics." #NT!
+ artifact_ayr_armor_name:0 "Ayr's Armor" #NT!
+ artifact_ayr_armor_description:0 "#bold Unlock [single_combat_duel|E] moves.#! \nOne of the five armors created by the legendary blacksmith Ayr l'Enclume. Tailor made for its owner, almost indestructible, and enchanted with powerful magics." #NT!
+ artifact_sofia_finger_name:0 "Sofia's Finger Bone" #NT!
+ artifact_sofia_finger_description:0 "Deep down, Sofia always knew the truth about the evils of the night. Targeted by a conflicted vampire, she was ready when he came and sacrificed herself to stop him. Her relic grants you knowledge about the weaknesses of evildoers in your surroundings." #NT!
+ artifact_water_meriba_name:0 "Water of Meriba" #NT!
+ artifact_water_meriba_description:0 "#bold Your blood hunger is less likely to rise.#! \nThe water of Meriba provided salvation to the parched Hebrews out of Egypt, but damnation for Moses himself. Moses’ hubris corrupted the miracle of Meriba in the eyes of the mortal church, but a brisk trade for it still exists amongst Cainites. Moses, after all, is akin to Caine cursed by God to never find his way home." #NT!
+ artifact_hand_nikolas_name:0 "Hand of Nikolas" #NT!
+ artifact_hand_nikolas_description:0 "#bold You will never frenzy again.#! \nA saintly, peaceful, Nosferatu, Nikolas had a small cult to his name before being killed by an overzealous fanatic. His hand still hasn't rotted away to ashes though, and has the uncanny capacity of soothing even the most raging Beast." #NT!
+ artifact_caul_jos_name:0 "Caul of Jos" #NT!
+ artifact_caul_jos_description:0 "Jos was born with a caul — a sign that he would be lucky in life. His mother carefully dried the skin and sewed it into a small bag for Jos to carry. And indeed, Jos had uncommonly good fortune. Despite being inept and lazy, he had a good job, plenty of lovers, friends and was spared by hardships. Even a vampire attacking him miraculously fumbled his strike. Jos then took arms and struck the foe back instead of running, secure in his luck. But everything has limits..." #NT!
+ artifact_labrys_name:0 "Baali Labrys" #NT!
+ artifact_labrys_description:0 "The symbol of the Labyrinth. The symbol of Ba'al's horned head. The symbol of the victor over the victim, of the wolf over the sheep. The symbol of evil." #NT!
+ artifact_guarded_rubrics_name:0 "Guarded Rubrics" #NT!
+ artifact_guarded_rubrics_description:0 "The lich Inauhaten gave this book to the first members of the Tal'mahe'Ra. It contains excerpts from the Books of Nod and the distillation of necromantic praxis over the course of millennia. It also shaped the beliefs of the nascent sect as caretakers of the Apocalypse." #NT!
+ artifact_jurgen_broadsword_name:0 "Jurgen's Broadsword" #NT!
+ artifact_jurgen_broadsword_description:0 "#bold Unlock [single_combat_duel|E] moves.#! \nA shining broadsword inlaid with precious gems and covered in decorative crests. It was offered to Jurgen as a token of friendship from the Courts of Love." #NT!
+ artifact_true_cross_name:0 "Fragment of the True Cross" #NT!
+ artifact_true_cross_description:0 "#bold Give Beatific. Your find lair scheme (prowess version) is enhanced.#! \nA three-foot piece of dark wood marked by a dark stain of the Savior's own blood. This relic protected Acre for centuries before being taken by Gauthier de Dampierre as the founding stone of the Inquisitor order of the Knights of Acre." #NT!
+ artifact_rowan_ring_name:0 "Rowan Ring" #NT!
+ artifact_rowan_ring_description:0 "#bold Unlocks [single_combat_duel|E] moves.#! \nRowan Rings are feared tools of assassination employed by elder members of the Banu Haqim or their trusted neonates. The ring can mystically sharpens and elongates into a wooden stake that can be used as a weapon." #NT!
+ artifact_tapestry_blood_name:0 "Tapestry of Blood" #NT!
+ artifact_tapestry_blood_description:0 "A massive tapestry enchanted with the power of prophecy for those who look upon it long enough. This vision can take almost any form, from glimpses of ancient civilizations to glimpses of the future. The only certainty is that the subject of each vision will directly relate to the fate of the user." #NT!
+ artifact_michaelis_crown_name:0 "Michaelis' Crown" #NT!
+ artifact_michaelis_crown_description:0 "The crown of the first true ruler of vampiric Occitania. A powerful symbol to rally for his heirs in their fight against the French." #NT!
+ artifact_ignace_notes_name:0 "Notes of Ignace of Antioch" #NT!
+ artifact_ignace_notes_description:0 "#bold Give Auspex.#! \nThe founder of the thought behind the Cathar Heresy left behind this text. Correctly interpreted, it forms a map of the Pleroma, the spiritual world. Merely possessing this map is enough to stir the latent powers of the blood in a Cainite." #NT!
+ artifact_consolation_philosophy_name:0 "Consolation of Philosophy" #NT!
+ artifact_consolation_philosophy_description:0 "An exemplary of the philosophical book by Boethius, this one is annotated by an unknown Cainite sharing his view on the vampiric condition and God's curse. It is a very enlightening read in many ways." #NT!
+ artifact_sword_arthur_name:0 "Sword of Arthur" #NT!
+ artifact_sword_arthur_description:0 "#bold Unlock [single_combat_duel|E] moves. #!\nThe legendary warlord Artorius brought Christianity to the Isles despite the dogged resistance of the cult of Mithras. His sword is still a powerful artifact used by vampire hunters to this night." #NT!
+ artifact_skull_saulot_name:0 "Skull of Saulot" #NT!
+ artifact_skull_saulot_description:0 "The preserved skull of the [antediluvian|E] killed by the Tremere. Lost after the deed, it was recovered by the Cappadocians for studying. It would be a powerful symbol in the hands of a resurgent Salubri leader." #NT!
+ artifact_scrolls_carthage_name:0 "Scrolls of Carthage" #NT!
+ artifact_scrolls_carthage_description:0 "The truth is laid bare in those writings. The truth of an utopia, and of a nightmare." #NT!
+ artifact_great_book_name:0 "The Great Book" #NT!
+ artifact_great_book_description:0 "Everything the Methuselah Sarmis learned about during his travels is written here. A useful, if poorly organized, source of knowledge." #NT!
+ artifact_vassago_earring_name:0 "Vassago's Earring" #NT!
+ artifact_vassago_earring_description:0 "#bold Unlock Blood Sorcery Advanced. #!\nSummoned 2000 years ago by a mad cult in India, Vassago, the 'Prophet of Spite' is using this small piece of jewelry as a ferret for his soul. It confers a corrupted version of Thaumaturgy to its owner." #NT!
+ artifact_marguerite_ring_name:0 "Marguerite's Ring" #NT!
+ artifact_marguerite_ring_description:0 "#bold Unlock Dominate and Auspex. #!\nA well crafted Merovingian ring, enchanted by the Messianic Voices. Prince Marguerite put a piece of her soul in it, making sure that she will survive through her childe if anything happens to her." #NT!
+ artifact_raquel_band_name:0 "Raquel's Wedding Band" #NT!
+ artifact_raquel_band_description:0 "A simple wedding band made of wood. When a vampire asked Saint Raquel to renounce her vows and marry him, she burned the whole vampiric population of Brittany to dust, before being herself burned as a witch." #NT!
+ artifact_pacifist_ji_name:0 "The Pacifist's Ji" #NT!
+ artifact_pacifist_ji_description:0 "#bold Unlock [single_combat_duel|E] moves. #!\nA spear once carried by a pious Buddhist man, who protected pilgrims and merchants on the Silk Road. It is said that this weapon will always spare the pure of heart and soul." #NT!
+ artifact_lost_yoni_name:0 "The Lost Yoni" #NT!
+ artifact_lost_yoni_description:0 "A magical statue of an fertility goddess, brought back during Alexander's conquests. It offers glimpses into cultures and religions long gone." #NT!
+ artifact_phrygian_codex_name:0 "The Phrygian Codex" #NT!
+ artifact_phrygian_codex_description:0 "A book written along millennia by successive generations of Kolduns. As much lab notes as scripture, the first chapters were written before Roman times but the newest ones are the cutting edge of fleshcrafting theories." #NT!
+ artifact_severed_head_name:0 "The Severed Head" #NT!
+ artifact_severed_head_description:0 "The severed head of John the Baptist, Akhenaten, Jesus or Pontius Pilate (no one knows for sure) is talking (cryptically) once fed some blood. There might be some wisdom in it." #NT!
+ artifact_holy_grail_name:0 "Holy Grail" #NT!
+ artifact_holy_grail_description:0 "#bold Unlock content. #! \nFound by the order of the Gatherers in the eight century, this cup radiates a holy power like no other. Although they were unable to trace its exact history, the Gatherers are certain that it is the mythical Grail, no small thanks due to its miraculous properties on the vampiric curse when used as a receptacle for blood." #NT!
+ artifact_orb_shadows_name:0 "Orb of Dominion over the Shadows" #NT!
+ artifact_orb_shadows_description:0 "#bold Unlock Obtenebration. #!\nA small focus used by practitioners of Obtenebration to help them mastering this unnatural [discipline|EL]. It is barely useful to masters of this art, but they often keep it as a memento anyway." #NT!
+ artifact_bone_osiris_name:0 "Bone of Osiris" #NT!
+ artifact_bone_osiris_description:0 "#bold Could be of great help in a quest targeting Set.#!\nOne of the last relic of Set's rival brother, Osiris. The power of the God of the dead can still be felt through it, and could be key in thwarting Set's defenses." #NT!
+ artifact_bloodroot_name:0 "Bloodroot" #NT!
+ artifact_bloodroot_description:0 "A rare plant found only in North Africa, this is one of the few herbs known to be poisonous even to Cainites. Mostly used with melee weapons, it rapidly turns the victim's blood to a fine black dust, similar to volcanic ashes." #NT!
+ artifact_gauthier_sword_name:0 "Gauthier's Damascene Sword" #NT!
+ artifact_gauthier_sword_description:0 "#bold Unlock [single_combat_duel|E] moves. #!\nThe first vampire Gauthier ever killed rewarded him with this finely crafted blade, a weapon he still uses to this day. The Knights of Acre are quietly whispering that it is slowly becoming a relic, fueled by Gauthier's unrelenting faith." #NT!
+ artifact_alashrad_eye_name:0 "Al-Ashrad's Eye" #NT!
+ artifact_alashrad_eye_description:0 "#bold Unlock Auspex Advanced. #!\nA diamond replacement used by the Amr of the Assamites as his left eye. It is rumored to give him sight beyond sight, but Al-Ashrad himself does not tell." #NT!
+ artifact_book_patriarch_name:0 "Book of the Patriarch" #NT!
+ artifact_book_patriarch_description:0 "The deep insights, or mad ramblings, of Michael, the Patriarch of the Dream. This book is an holy scripture to his surviving followers, although none of them really understands it." #NT!
+ artifact_librum_terrum_name:0 "Librum Terrum" #NT!
+ artifact_librum_terrum_description:0 "#bold Could be of great help in a quest targeting Tzimisce.#!\nThis 'Book of the Land' points to an old church in the Carpathians, near a fortress now abandoned and gone to ruin. A cryptic passage refers to the 'great beast who lies in slumber beneath the unholy altar surrounded by his native soil'." #NT!
+ artifact_gaffari_scrolls_name:0 "Gaffari's Scrolls" #NT!
+ artifact_gaffari_scrolls_description:0 "#bold Unlock content. #!\nThe hidden conspiracy inside clan Assamite is laid bare in these scrolls. Elders were killed to suppress this truth, and many more blood will be shed before the end." #NT!
+ artifact_ashes_allhigh_name:0 "Ashes of the All-High" #NT!
+ artifact_ashes_allhigh_description:0 "Arguably the ashes of Odin himself, slain by the Ventrue Sundafyllir. As he is known as a liar and a braggart, few give credit to this claim though." #NT!
+ artifact_karalavanisha_vrana_name:0 "Karalavanisha Vrana" #NT!
+ artifact_karalavanisha_vrana_description:0 "The creation myth of the Ravnos is very extensively written in this poem. It explains their divine ordained place as wardens against the hated Asuratizayya." #NT!
+ artifact_corpus_hermeticum_name:0 "Corpus Hermeticum" #NT!
+ artifact_corpus_hermeticum_description:0 "Written by the mythical Hermes Trismegistus, forefather of the Hermetic Order, this work is composed of 42 books containing the sum of all ancient knowledge. The most complete version of it is in the possession of the council of seven itself, deep inside Ceoris." #NT!
+ artifact_bernardo_ashes_name:0 "Fra' Bernardo's Ashes" #NT!
+ artifact_bernardo_ashes_description:0 "The ashes of the pacifist founder of the Lupetti di Gubbio, killed for his convictions. A soothing aura can still be felt coming from this urn." #NT!
+ artifact_hunger_satisfaction_name:0 "On Hunger and its Satisfaction" #NT!
+ artifact_hunger_satisfaction_description:0 "First authored by the founder of Via Peccati, Tanitbaal-Sahar, this book has served as the (un)holy text of Sinners for centuries. It has been expanded upon by Camilla after his mentor's disappearance, and many lesser Sinners have their own interpretation of it." #NT!
+ artifact_mithras_goblet_name:0 "Mithraic Ceramic Goblet" #NT!
+ artifact_mithras_goblet_description:0 "An antique goblet adorned with symbols of the Mysteries, it has been used in countless rituals over the years. Mithras himself shed his vitae in this cup, and passed it to his loyal followers to drink from it." #NT!
+ artifact_mithras_cap_name:0 "Mithras' Phrygian Cap" #NT!
+ artifact_mithras_cap_description:0 "This head piece, made of finely stitched red fabric in the late Roman era, was gifted to Mithras by the Ventrue scholar Bindusara on their first meeting in Alexandria. Mithras wears it only for special occasions at his Temple, which accounts for its preservation and good condition." #NT!
+ artifact_mithras_ring_name:0 "Ruby Ring" #NT!
+ artifact_mithras_ring_description:0 "The ring was given to Mithras by the Setite Kemintiri during the period when they were lovers, before the Ventrue settled in Britannia. On the inner surface of the ring there is a fine inscription in Egyptian Hieratic script, which roughly translates to 'From Goddess to God, cursed and blessed forever.'" #NT!
+ artifact_mithras_dagger_name:0 "Egyptian Dagger" #NT!
+ artifact_mithras_dagger_description:0 "A gift from the mighty warrior Horus the Avenger after their battle in the 13th century, Mithras uses the dagger in Cult ceremonies since several centuries, such as the ritual slaying of bulls." #NT!
+ artifact_mithras_seal_name:0 "Mithras' Seal" #NT!
+ artifact_mithras_seal_description:0 "The first of several made for Mithras to mark official documents relating to the Domain of Avalon and the Court of London, this seal is the symbol of his authority, and can be entrusted to loyal agents if need be." #NT!
+ artifact_ring_chrysostom_name:0 "Ring of Chrysostom" #NT!
+ artifact_ring_chrysostom_description:0 "#bold You can use Bless even if you don't have the perk unlocked.#! \nThis ring, a silver band with a rough cross engraved in it, is rumored to have been worn by St John Chrysostom." #NT!
+ artifact_franciscan_aspergill_name:0 "Franciscan Aspergill" #NT!
+ artifact_franciscan_aspergill_description:0 "Containing a splinter of bone of St Francis, this aspergill can create an aura of tranquility across a room." #NT!
+ artifact_martyr_fire_name:0 "The Martyr's Fire" #NT!
+ artifact_martyr_fire_description:0 "This lantern was forged with the ashes of martyr's bones. Those with Faith that are in the radius of this lantern can ignore all but the most debilitating wounds." #NT!
+ artifact_eunuch_scapular_name:0 "The Eunuch's Scapular" #NT!
+ artifact_eunuch_scapular_description:0 "#bold You can use Intercession even without the perk. #!\nAlleged to have been worm during the life of a devout Cypriot Saint who castrated himself to avoid the temptations of the flesh, this scapular carries the impressive mental fortitude of his creator with it." #NT!
+ artifact_dagger_thorns_name:0 "Dagger of Thorns" #NT!
+ artifact_dagger_thorns_description:0 "#bold Unlock [single_combat_duel|E] moves. Unlock True Faith. #! \nForged with a thorn from the crown of Thorns worn by Christ during the Crucifixion, this dagger radiates faith and is especially deadly against supernaturals." #NT!
+ artifact_spear_destiny_name:0 "Spear of Destiny" #NT!
+ artifact_spear_destiny_description:0 "#bold Unlock [single_combat_duel|E] moves. Unlock True Faith. #! \nThe Spear of Longinus, who pierced the side of Jesus as he hung on the cross during his crucifixion. A powerful symbol of faith, known to bring visions to anyone who wield it." #NT!
+ artifact_code_samiel_name:0 "Code of Samiel" #NT!
+ artifact_code_samiel_description:0 "The greatest of Saulot's warrior line, the martyred founder Samiel is believed to have penned this text with his own hand. According to legend, Samiel received a visitation from Michael, commander of the Heavenly Hosts, while Saulot was away. The archangel directed the warrior king to scribe the Code and to include within it the proper rituals necessary for the strength and blooding of new warriors." #NT!
+ artifact_valencia_chalice_name:0 "Valencia Chalice" #NT!
+ artifact_valencia_chalice_description:0 "Church scholars disagree on the provenance of the Chalice and what it was used for. Some claim that it was the cup used to serve the Apostles at the Last Supper. Others say that it was used to collect the blood of Christ at the Crucifixion. Both sides, however, will agree that the Chalice did hold the blood of Christ, which makes it nearly priceless, both as a religious relic and as a historical artifact." #NT!
+ artifact_erciyes_fragments_name:0 "Erciyes Fragments" #NT!
+ artifact_erciyes_fragments_description:0 "A known collection of apocrypha from the Book of Nod, detailing the Cainite creation myth, annotated by some of the most prestigious Cainite scholars." #NT!
+ artifact_erciyes_broken_fragments_name:0 "Erciyes Broken Fragments" #NT!
+ artifact_erciyes_broken_fragments_description:0 "A lacking copy of the prestigious Erciyes Fragments, a collection of apocrypha from the Book of Nod detailing the Cainite creation myth." #NT!
+ artifact_correspondence_rodrigo_name:0 "Correspondence of Rodrigo" #NT!
+ artifact_correspondence_rodrigo_description:0 "One of the most foremost scholars of the Road of the Beast, Rodrigo has been compiling all his findings and debates about it in a great manuscript, to the annoyance of the more traditional members of the road." #NT!
+ artifact_grey_book_name:0 "The Grey Book" #NT!
+ artifact_grey_book_description:0 "From primers to courtly intrigue to explicit instructions on how to stalk and kill a prey. Written by Charisse de Grey herself, the prestigious paragon of the Venator Umbra." #NT!
+ artifact_gabriel_trumpet_name:0 "Gabriel's Trumpet" #NT!
+ artifact_gabriel_trumpet_description:0 "The end times will be signaled by the blowing of a great and thunderous horn, the one of the Archangel Gabriel. Left behind on purpose after Gabriel appeared to Muhammad, it will be the mortals themselves that will signal the call to Apocalypse, if the stories are to be believed." #NT!
+ artifact_the_stone_name:0 "The Stone" #NT!
+ artifact_the_stone_description:0 "Apparently the stone that Caine used to murder Abel. Rumored to be able to kill any Cainite instantly, find Caine himself or lift the curse of vampirism. But it looks like just an ordinary stone honestly." #NT!
+ artifact_warding_iron_name:0 "Warding Iron" #NT!
+ artifact_warding_iron_description:0 "A crudely fashioned loop made of iron, this object is a minor talisman used by the Faithful to prevent baleful entities, including vampires, from approaching." #NT!
+ artifact_gospel_laodice_name:0 "Gospel of Laodice" #NT!
+ artifact_gospel_laodice_description:0 "A rambling theosophical collection of visions, insights and prophecies about the Cainite relationship to and with God; and by extension an essential record of the history of Via Caeli." #NT!
+ artifact_the_bone_name:0 "The Bone" #NT!
+ artifact_the_bone_description:0 "Apparently the jawbone that Caine used to murder Abel. Rumored to be able to kill any Cainite instantly, find Caine himself or lift the curse of vampirism. But it looks like just an ordinary jawbone honestly." #NT!
+ artifact_horns_hunter_name:0 "Horns of the Hunter" #NT!
+ artifact_horns_hunter_description:0 "Made from the horns of a beast killed by Ennoia, the powers of this artifact are mysterious. They seem to enhance any worthy warlord's natural leadership abilities." #NT!
+ artifact_flesh_hunted_name:0 "Flesh of the Hunted" #NT!
+ artifact_flesh_hunted_description:0 "Eating a portion of this magical flesh will allow any Cainite to shapeshift into the animal from which the flesh was prepared." #NT!
+ artifact_book_sun_name:0 "Book of the Sun" #NT!
+ artifact_book_sun_description:0 "The central text of Humanitatis' beliefs is held to be a semi accurate accounting of an ancient Cainite search for Golconda. Filled with allegory and strange symbolism, the Book of the Sun is equal parts riddles and mythology." #NT!
+ artifact_dialogues_troile_arikel_name:0 "The Dialogues of Troile and Arikel" #NT!
+ artifact_dialogues_troile_arikel_description:0 "Apparently written during the time of Plato, this is an accounting of alleged conversations between the two [antediluvian|E]s. Despite the debated veracity of the text, its insights into the world and the kine are the elaborate versions of the tenets adopted by the Via Prometheus." #NT!
+ artifact_blade_of_enoch_name:0 "Blade of Enoch" #NT!
+ artifact_blade_of_enoch_description:0 "#bold Unlock [single_combat_duel|E] moves. You can't frenzy anymore.#! \nThis crude looking bronze blade was given by Brujah to Enoch as a gift. It is believed to retain some fragment of its creator's memory, specifically his cold logic and total control of his emotions." #NT!
+ artifact_well_ashes_name:0 "Well of Ashes" #NT!
+ artifact_well_ashes_description:0 "A very deep cauldron, apparently created by Saulot or a powerful Baali (or perhaps by the both of them), it is rumored of being capable of restoring a vampire to full mortality. Depending on the tales, the cost can be as high as the incineration of a hundred mortals in it." #NT!
+ artifact_martyr_icon_name:0 "Martyr's Icon" #NT!
+ artifact_martyr_icon_description:0 "A small painting of Abel, empowered by the blood of its crafter. A small remainder of humanity long lost." #NT!
+ artifact_veddartha_chalice_name:0 "Veddartha's Chalice" #NT!
+ artifact_veddartha_chalice_description:0 "Supposedly, the Ventrue clan's founder drank from his Sire's blood in this cup, rather than feasting directly from his veins during the Embrace. Clan Ventrue holds this item as a symbol of the determination and the courage of their founder, who had the willpower to raise a cup and drink, even while being drained of his blood." #NT!
+ artifact_tyrant_lash_name:0 "Tyrant's Lash" #NT!
+ artifact_tyrant_lash_description:0 "A simple horsewhip with a small barb at the tip, the Tyrant's Lash was created by a Tzimisce Koldun shortly after the rise of the Tremere. The lash magnifies the pain of its strokes and engenders a feeling of weakness and helplessness whenever it strikes a target." #NT!
+ artifact_wax_seal_name:0 "Wax Seal" #NT!
+ artifact_wax_seal_description:0 "With a few drops of blood, a vampire on the Road of Kings can enchant a common wax seal to be especially resistant to prying hands, and eyes." #NT!
+ artifact_empowerment_justicars_name:0 "The Empowerment of the Justicars" #NT!
+ artifact_empowerment_justicars_description:0 "A mysterious document, signed by some of the most powerful Princes in Europe, that speaks of the rights of rulers to be judged by their equals. It creates the function of 'Justicars', who serves as judges and executioners, as the only authority above the Princes themselves." #NT!
+ artifact_letters_acindynus_name:0 "The Letters of Acindynus" #NT!
+ artifact_letters_acindynus_description:0 "Acindynus has been compiling information on Cainite princes and the rights of kings since Roman times. As the Via Regalis solidified, these letters became more focused on the road's history and philosophy, serving as the primer for the Road of Kings to this night." #NT!
+ artifact_lyrics_aconia_name:0 "Lyrics of Aconia Messalina" #NT!
+ artifact_lyrics_aconia_description:0 "Frankly erotic in character, the Lyrics are lushly sensual in their imagery and by turns teasing and insolent, wistful and filled with longing, and brazenly sensuous. Adherents of the Path of Pleasure consider recreation of the precise image of a poem to be an holy art." #NT!
+ artifact_satires_name:0 "The Satires" #NT!
+ artifact_satires_description:0 "A collection of scathing pieces of social and religious commentary in various forms, from viciously sarcastic poetry to troubadour songs." #NT!
+ artifact_pilgrim_badge_name:0 "Pilgrim's Badge" #NT!
+ artifact_pilgrim_badge_description:0 "Mirroring, and mocking, the trend among mortal pilgrimages, Sinners have taken on gathering pretty baubles of their latest travel, from tiny replicas of Punic stelae to Byzantine style jewels." #NT!
+ artifact_sigil_misrule_name:0 "Sigil of the Lord of Misrule" #NT!
+ artifact_sigil_misrule_description:0 "The traditional Saturnalia symbol of the Lord of Misrule is made every new year by each Sinner coterie celebrating the dark solstice." #NT!
+ artifact_water_venus_name:0 "Water of Venus" #NT!
+ artifact_water_venus_description:0 "A potent mixture that heightens the senses of a mortal to extreme degrees, making their blood all the more sweeter to drink." #NT!
+ artifact_enchanted_scimitar_name:0 "Enchanted Scimitar" #NT!
+ artifact_enchanted_scimitar_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nThe master sorcerer, Al Ashrad, doesn't often have to use this weapon. But when a foe proves especially resilient to blood magic, he is ready nonetheless." #NT!
+ artifact_code_chivalry_name:0 "Code of Chivalry" #NT!
+ artifact_code_chivalry_description:0 "A transcription of something much older and quite mysterious, the Code of Chivalry is a guideline, often debated but still respected, for any aspiring Cainite Knight." #NT!
+ artifact_chronicles_heartblood_name:0 "Chronicle of the Heartblood" #NT!
+ artifact_chronicles_heartblood_description:0 "A complete history of the Banu Haqim since their founding by Haqim himself. Sadly, the first chapters are written in a legendary form, leaving them open to much debate and interpretation." #NT!
+ artifact_laws_haqim_name:0 "Laws of Haqim" #NT!
+ artifact_laws_haqim_description:0 "The centerpiece of the Library of Alamut, they are engraved in Enochian on a series of clay tablets, kept in near perfect state of preservation. As Enochian is a lost language, there are quite a few different translations." #NT!
+ artifact_book_going_night_name:0 "Book of Going Forth by Night" #NT!
+ artifact_book_going_night_description:0 "A tome handed down by Set and containing all the necessary rituals to allow a Setite to make the transition into the afterlife." #NT!
+ artifact_apostate_auguries_name:0 "Apostate Auguries" #NT!
+ artifact_apostate_auguries_description:0 "A collection of prophecies from Tryphosa, the Auguries detail the rise of a great Shadow from the Abyss and of the escape of a great beast imprisoned there. This beast will then attack something, researchers believe that it means either Son or Sun. Some of this points to Gehenna and the rise of the Lasombra [antediluvian|E]." #NT!
+ artifact_louhi_staff_name:0 "Louhi's Staff" #NT!
+ artifact_louhi_staff_description:0 "A black staff inscribed with various runes used by the powerful witch Louhi, whose powers are said to rival even the most accomplished blood sorcerer." #NT!
+ artifact_shroud_kaymakli_name:0 "Shroud of Kaymakli" #NT!
+ artifact_shroud_kaymakli_description:0 "A blood soaked disk with inscriptions in Enochian. Barely readable, and not making much sense when translated, it is still an impressive relic that seems to have a deeper story to tell." #NT!
+ artifact_spear_bathel_name:0 "Spear of Bathel" #NT!
+ artifact_spear_bathel_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nA spear said to shield the wielder from damage, while slaying any foe it even scratches. While probably fanciful tales, it has earned quite a reputation at Siegfried's, the renegade Ventrue, side." #NT!
+ artifact_biblia_negra_name:0 "Biblia Negra" #NT!
+ artifact_biblia_negra_description:0 "The Biblia speaks of 67 ancient entities trapped within earthen prisons dreaming of the time that they will be free and take over the world. Of those 67, 13 are named the [antediluvian|E]s. A sense of dread emanates from every page of this book, making it harder and harder to read." #NT!
+ artifact_wooden_coffin_name:0 "Wooden Coffin" #NT!
+ artifact_wooden_coffin_description:0 "A long box made of pine wood, used for laying a corpse to rest. Better than being tossed in a mass grave, but just barely." #NT!
+ artifact_lupine_hide_name:0 "Lupine Hide" #NT!
+ artifact_lupine_hide_description:0 "The preserved skin of one of the changing ones--a lupine. Or maybe it is just the hide of a very large wolf.\n\n'Of the Moon-Beasts\nThe Moon-Beasts, the ones-who-change,\nthey are the Oldest of all,\nbefore my Father\nthey roamed the lands.\n\nTarry not in the path of them,\nAvoid them, they are set upon us\nlike wolves in the sheepfold.\nFor we are of one kind,\nand they another.\nBeware their sacred ground,\nwalk softly through their wilderness.\nTheir bite is as our bite,\nTheir claws are as our claws\n\nTarry not in the path of them,\nthey are of one kind,\nand we are another.'" #NT!
+ artifact_lupine_skull_name:0 "Lupine Skull" #NT!
+ artifact_lupine_skull_description:0 "The preserved skull of one of the changing ones--a lupine. Or maybe it is just the skull of a very large wolf.\n\n'Of the Moon-Beasts\nThe Moon-Beasts, the ones-who-change,\nthey are the Oldest of all,\nbefore my Father\nthey roamed the lands.\n\nTarry not in the path of them,\nAvoid them, they are set upon us\nlike wolves in the sheepfold.\nFor we are of one kind,\nand they another.\nBeware their sacred ground,\nwalk softly through their wilderness.\nTheir bite is as our bite,\nTheir claws are as our claws\n\nTarry not in the path of them,\nthey are of one kind,\nand we are another.'" #NT!
+ artifact_skull_vampire_name:0 "Vampire Skull" #NT!
+ artifact_skull_vampire_description:0 "The preserved skull of a vampire. Without special preparation, when very old vampires are destroyed they typically crumble to dust.\n\n'Thou art forbidden to destroy another of thy kind. The right of destruction belongeth only to thine Elder. Only the Eldest among thee shall call the Blood Hunt.'" #NT!
+ artifact_banner_carthage_name:0 "Banner of Carthage" #NT!
+ artifact_banner_carthage_description:0 "This tattered flag is said to be the banner of the Carthaginian Brujah captured by the Ventrue of Rome during the Third Punic War.\n\nThe Brujah still draw inspiration from legends of the great scholars and philosophers that flourished in Carthage, a culture where Kindred and kine were closer to one another than any point before or since. For others however, it was a city of horror and madness, where children were sacrificed to the infernalist Baali while the Brujah looked the other way.\nCarthage's fall at the hands of the broader coalition of vampires ever seen is still felt to this night as a pivotal event of Cainite history." #NT!
+ artifact_blood_horn_name:0 "Blood Horn" #NT!
+ artifact_blood_horn_description:0 "#bold You can replenish your blood at will via a [decision|E]. #! \nThe famous Blood Horn of Odin, an artifact that can create blood from any liquid. When the All-High disappeared, so did the Blood Horn until your recent victory over the invaders. Clearly a sign of favor by the Gods." #NT!
+ artifact_sword_of_troile_name:0 "Sword of Troile" #NT!
+ artifact_sword_of_troile_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nOne of the most powerful weapons of Cainite history, this crystal sword was wielded by Troile herself during her numerous battles for the defense of Carthage." #NT!
+ artifact_sword_of_dracula_name:0 "Sword of Dracula" #NT!
+ artifact_sword_of_dracula_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nThe sword of Dracula is a broadsword of the finest quality, with a shining blade set into an ornate hilt. Many Eastern and koldunic symbols are etched along the length of the blade, and multicolored jewels are inset into the guard and hilt. It was forged by Vlad Dracul, Dracula's father, with the help of the Ravnos Durga Syn and her knowledge of the demon Kupala. Vlad Dracul made the sword specifically to slay Kupala and the malevolent servants of the greater demon." #NT!
+ artifact_tapestry_jawbone_name:0 "Tapestry of the Bone" #NT!
+ artifact_tapestry_jawbone_description:0 "Tapestry by an anonymous Toreador that was then copied into an illuminated Psalter manuscript in 1190 somewhere in France." #NT!
+ artifact_tapestry_noir_name:0 "Tapestry of Nod" #NT!
+ artifact_tapestry_noir_description:0 "Supposedly created the the Malkavian seer Jacob while under a fugue state, this tapestry depicts the Chronicle of Caine from the Book of Nod. In the first panel, Caine slays Abel. In the second, Caine is cursed by God. In the third, Caine meets Lilith. In the final panel, Caine Spurns Lilith. Jacob's rival, Esau, has spent many boons and much gold hiring various neverdowells to destroy the tapestries. Each attempt has so far failed, often with the final death of the would be iconoclast. It has become highly desired by the Courts of Love where they have taken to referring to it as the 'Tapisserie de Noir' from the many deaths associated with thieves and vandals who have sought it." #NT!
+ artifact_sculpture_of_ishtar_name:0 "Sculpture of Ishtar" #NT!
+ artifact_sculpture_of_ishtar_description:0 "A magnificent sculpture, believed to be made by Arikel herself as a self portrait. A perfect glimpse into the talent, pride and oftentimes arrogance of the Rose of Enoch." #NT!
+ artifact_iulus_sword_name:0 "Iulus' Sword" #NT!
+ artifact_iulus_sword_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nA gladius forged by the immortal swordmaker, Iulus Rufus Naso. A perfectly crafted reminder of Rome's glory, as intended by Iulus himself." #NT!
+ artifact_iulus_armor_name:0 "Iulus' Armor" #NT!
+ artifact_iulus_armor_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nA classical Roman armor forged by the immortal swordmaker, Iulus Rufus Naso. A perfectly crafted reminder of Rome's glory, as intended by Iulus himself." #NT!
+ artifact_esoara_ax_name:0 "Esoara's Ax" #NT!
+ artifact_esoara_ax_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nA massive ax carried by the warmaster of the Tremere, Esoara. This impossibly big weapon is way too heavy for common men, and even most vampires find it unwieldy." #NT!
+ artifact_house_tremere_name:0 "House of Tremere" #NT!
+ artifact_house_tremere_description:0 "After his death during the gruesome early nights of the Tremere, Ponticulus remained as a wraith and used Biturges as a proxy to write the full, terrible, story of his once noble House, now corrupted into darkness." #NT!
+ artifact_tremere_chronicles_name:0 "Tremere Chronicles" #NT!
+ artifact_tremere_chronicles_description:0 "A grandiose and wildly slanted history of House Tremere's early days. It is traditionally read by Ceoris' castellan before any council meeting." #NT!
+ artifact_robe_nessus_name:0 "Robe of Nessus" #NT!
+ artifact_robe_nessus_description:0 "Apparently the poisoned robe that killed Herakles in the famous myth. A symbol of dread and misfortune for everyone except the Malkavians, who seem to find the sense of foreboding permeating this artifact to be soothing." #NT!
+ artifact_fingerbone_hannah_name:0 "Fingerbone of St Hannah" #NT!
+ artifact_fingerbone_hannah_description:0 "#bold You can use Bless even if you don't have the perk unlocked.#! \nA small relic permeated with True Faith. It seems to have been found, then lost, by the coterie of neonates claiming to have found Malkav's soul under Jerusalem in 1197." #NT!
+ artifact_plait_lucrezia_name:0 "Plait of St Lucrezia" #NT!
+ artifact_plait_lucrezia_description:0 "A noble pagan lady who cut her hair as a sign of submission to God after her conversion, Lucrezia was sent to die by her vengeful father into a pit inhabited by a monster.\nThe next morning, Lucrezia had braided her hair into a rope and subdued the monster. Her hair seems as strong and lustrous as ever, and can be used to bind any evil creature." #NT!
+ artifact_rayzeel_song_name:0 "Rayzeel's Song" #NT!
+ artifact_rayzeel_song_description:0 "'No Light but Thine', a fragment of Rayzeel's most famous song. So beautiful that it is said that the birds stopped to listen when the quiet childe of Saulot started to sing. Saulot himself was only able to rouse himself from the loss of Samiel's grief after hearing Rayzeel's soul healing voice." #NT!
+ artifact_portrait_saulot_name:0 "Portrait of Saulot" #NT!
+ artifact_portrait_saulot_description:0 "The only known surviving portrait of the Salubri [antediluvian|E]. A short man, well built with black hair and blue eyes is represented in this painting of unremarkable quality. Most Salubri Methuselah having seeing it agree that it looks 'passingly' like Saulot." #NT!
+ artifact_vitus_heel_name:0 "St Vitus' Heel" #NT!
+ artifact_vitus_heel_description:0 "A relic of the patron Saint of nervous disorders. While not capable of completely curing the Malkavian's Curse, it has a soothing effect on them nonetheless." #NT!
+ artifact_dweomered_scimitar_name:0 "Dweomered Damascene Scimitar" #NT!
+ artifact_dweomered_scimitar_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nA powerful Damascene scimitar enchanted with Djinni magics, such blades cannot be returned to their sheath without having first tasted blood." #NT!
+ artifact_weyland_wyrcan_name:0 "Weyland's Wyrcan" #NT!
+ artifact_weyland_wyrcan_description:0 "#bold Unlock [single_combat_duel|E] moves.\nYou must have more than 35 prowess to equip this weapon. #! \nNobody knows who or what Weyland is, but his blades are more than famous. Almost lifelike, they will refuse to be held by someone of low skill, even trying to kill the unworthy. If held by a worthy swordsman however, they will sing into battle and spread fear into their enemies' ranks." #NT!
+ artifact_black_stake_name:0 "The Black Stake" #NT!
+ artifact_black_stake_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nThe piece of ironwood supposed to have been used by Troile to incapacitate her Sire Brujah before diablerizing him. It has suffered a lot during Brujah's trashing to free himself, but still retain a palpable aura of mythical intensity." #NT!
+ artifact_roll_damned_name:0 "Roll of the Damned" #NT!
+ artifact_roll_damned_description:0 "Inspired by the Domesday Book, this project contains a list of all Cainite feudal obligations, ties and the coteries of the vampires of England. While not exhaustive, this is already a very impressive tool for blackmail... and a clear breach of the Masquerade." #NT!
+ artifact_toomler_femur_name:0 "Femur of Toomler" #NT!
+ artifact_toomler_femur_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nToomler was a Tzimisce Methuselah renowned for his ability to disassemble parts of his body and then reconnect them. Somehow, his femur is still intact after his death, and makes for a surprisingly effective, if crude, weapon." #NT!
+ artifact_cycle_lilith_name:0 "Cycle of Lilith" #NT!
+ artifact_cycle_lilith_description:0 "The Cycle of Lilith is a purported vampiric scripture told from the perspective of Lilith. It is mostly a collection of Bahari songs (mostly collected orally) fashioned into a cycle. It has a more symbolic tone than really being a telling of Lilith's story itself." #NT!
+ artifact_veil_night_name:0 "Veil of Night" #NT!
+ artifact_veil_night_description:0 "A comprehensive history of the Muslim world and its Cainites, written in the forms of a travel journey of Abu Fahim Kateb, a vizir of the Banu Haqim." #NT!
+ artifact_tawiz_name:0 "Ta'wiz" #NT!
+ artifact_tawiz_description:0 "A small silver amulet, worn on the neck, containing quotations from the Qur'an. It is used to ward of evil spirits or as a good luck charm." #NT!
+ artifact_albuduh_name:0 "Al-Buduh" #NT!
+ artifact_albuduh_description:0 "A mystic square containing a selection of numbers that add up to a propitious value and whose significance confers a wide range of protective powers." #NT!
+ artifact_khoumsa_name:0 "Khoumsa" #NT!
+ artifact_khoumsa_description:0 "A banner with Fatima's hand, the five-fingered hand representing Muhammad, his daughter Fatima, her husband Ali and his sons. It is used in many circumstances, from a good luck charm to a war banner." #NT!
+ artifact_inscrutable_eye_name:0 "Inscrutable Eye" #NT!
+ artifact_inscrutable_eye_description:0 "A ring with an Egyptian motif scarab on it, there is a gem in the shape of an eye in the midst of the beetle's carapace. The workmanship of the ring is incredibly ancient, and the ring will feel cold to even a vampire's flesh.\nWhen concentrating on a specific vampire, there is a chance that his location and activities can be determined." #NT!
+ artifact_waxen_poetica_name:0 "Waxen Poetica" #NT!
+ artifact_waxen_poetica_description:0 "A little wax tablet that, when a drop of blood fall into it, can be thrown at an opponent. If it hits, the wax latches on the victim and starts to spread. Extremely hot, even to Cainites, it can quickly spiral into being deadly." #NT!
+ artifact_writings_cabirus_name:0 "Secret Writings of Cabirus" #NT!
+ artifact_writings_cabirus_description:0 "A complete, but badly translated version, of Cabirus' book, where the young mummy describes the inner workings of Osiris' spell of life. Horus' mummies are hard at work trying to locate and destroy it, afraid that it might be used for evil if fully understood by someone other than them." #NT!
+ artifact_shattered_spear_name:0 "Shattered Spear of Orthia" #NT!
+ artifact_shattered_spear_description:0 "#bold Can be repaired by vampires using a minor decision.\nUnlock [single_combat_duel|E] moves. #! \nThe damaged remnant of the spear of Artemis Orthia, bravest of the Ventrue. This weapon was of legendary power, but was broken when Artemis herself fell during Carthage's final hours. It is still a powerful relic however, and will simply refuse to be held by someone less courageous than the Spartan goddess herself." #NT!
+
+ artifact_fans_of_ma_yi_yuan_name:0 "Fans of Ma Yi Yuan" #NT!
+ artifact_fans_of_ma_yi_yuan_description:0 "#Bold Gain access to the [dreaming|E].#!\nThe fans are deceptively lethal weapons. These thin metallic folding fans are razor sharp and as strong as the finest sword blade. Beneath the elaborate decorations of the fans lies a great deal of mystic power, as well as a hunger for the blood of the hirayanu. The user can deflect any spells cast by the fae, and is able to step into their realm." #NT!
+ artifact_soulforged_artifact_name:0 "[killed.GetFirstNameNoTooltip]" #NT!
+ artifact_soulforged_artifact_description:0 "A soulforged artifact that was [killed.GetTitledFirstNameNoTooltip], killed by [owner.GetTitledFirstNameNoTooltip]. It mutters and moans, but everyone hopes that this simply means that they can vocalize and nothing else." #NT!
+ artifact_artifact_pieces_name:0 "Artifact Pieces" #NT!
+ artifact_artifact_pieces_description:0 "A piece of Relics or Artifacts from the Maelstrom. Maybe some [GetTrait('wraith').GetName( GetPlayer )] could reweave it into a single artifact." #NT!
+
+ artifact_antler_crown_name:0 "The Antler Crown" #NT!
+ artifact_antler_crown_description:0 "The symbol of the Fianna Kings since the early nights of the tribe. This powerful crown is only given to the worthy, and all children of the Stag are duty bound to follow it." #NT!
+ artifact_yuri_klaive_name:0 "Yuri's Klaive" #NT!
+ artifact_yuri_klaive_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nA well forged, if somewhat nondescript, klaive. For those willing to look beyond though, the sense of a great destiny tied to this weapon can be felt." #NT!
+ artifact_head_hardrule_name:0 "Head of Hardrule" #NT!
+ artifact_head_hardrule_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nTarjei Hardrule was one of the greatest warriors the Get of Fenris ever saw. But also one of the most tyrannical rulers which, in the end, cost him his life when the entire tribe turned against him. His head is a remainder to always praise the great warrior but to also be wary of the cost of hubris." #NT!
+ artifact_bronze_labrys_name:0 "Bronze Labrys of Leukippes" #NT!
+ artifact_bronze_labrys_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nA perfectly preserved Bronze Labrys from the Golden Age, perhaps once belonging to Leukippes herself. This massive two handed axe is by far the most terrifying weapon, and venerated relic, of the Black Furies." #NT!
+ artifact_gaia_big_thumb_name:0 "Gaia's Big Thumb" #NT!
+ artifact_gaia_big_thumb_description:0 "This oversized, mummified, human thumb has the strange property to make sure that adequate transportation is always close by... but not an insurance of where this transportation actually goes. Puzzling for any self respecting Theurge, it is a beloved artifact of the Bone Gnawer, and the start of many pranks." #NT!
+ artifact_chalice_renewal_name:0 "Chalice of Renewal" #NT!
+ artifact_chalice_renewal_description:0 "A mystic chalice of gold that fills itself with seawater. Anyone drinking from it will experience a memory from Gaia herself, then be cured of any ailment or wound. This prized artifact has appeared at several keys moments of the Children of Gaia's history." #NT!
+ artifact_watcher_shield_name:0 "Watcher's Shield" #NT!
+ artifact_watcher_shield_description:0 "A small wooden token in the form a shield, worn around the neck. This fetish protects the wearer against any kind of cowardly attacks, making sure that the Get of Fenris always fight on their terms." #NT!
+ artifact_crescent_moon_waterskin_name:0 "Crescent Moon Waterskin" #NT!
+ artifact_crescent_moon_waterskin_description:0 "A very versatile artifact, prized by the Warder of Men. It can be used to disguise yourself, grow powerful claws or even immediately frenzy if drunk from." #NT!
+ artifact_threefold_axe_name:0 "The Threefold Axe" #NT!
+ artifact_threefold_axe_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nThe culmination of Fianna smithing skill, the Threefold Axe is a weapon crafted to be optimal against any foe. The spirits inside it will actually change the metal's composition during a battle as needed, making sure that fae face gold, werewolves face silver etc. Such a weapon is exceedingly rare, as making so many spirits cohabit in one host is truly an epic feat." #NT!
+ artifact_bramble_branch_name:0 "Bramble Branch" #NT!
+ artifact_bramble_branch_description:0 "A powerful spirit is bound to this dead branch. Once activated, all manners of poisonous plants spring up from the ground and block the area to any interloper." #NT!
+ artifact_assassin_klaive_name:0 "Assassin's Klaive" #NT!
+ artifact_assassin_klaive_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nSleek and deadly like a true Shadow Lord, this klaive infused with the spirit of a snake is easily hidden, and capable of masking its owner presence even in the most public of places." #NT!
+ artifact_firebird_feather_name:0 "Firebird Feather" #NT!
+ artifact_firebird_feather_description:0 "The exact proprieties of the Firebird Feather are not known. It merely looks like a beautiful and luminous feather but when it was brought into the Silver Fang king's chambers, the room was lit like by a thousand candles. It also seems surprisingly sturdy, while being as sharp as the most polished klaive." #NT!
+ artifact_owl_talon_name:0 "Owl Talon" #NT!
+ artifact_owl_talon_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nThis curved blade, resembling the talons of an owl, is the most powerful klaive held by the Silent Striders. With two spirits bound inside it, it is said to especially hunger for the blood of Egyptian vampires, anticipating the day where the tribe will finally have revenge." #NT!
+ artifact_yellow_veil_name:0 "Yellow Veil of Karapatri" #NT!
+ artifact_yellow_veil_description:0 "The Lady of the Endless Dark wore this veil when passing judgment on unworthy Stargazers. This artifact forces the wielder to always strive for justice, and anyone close to it to say the truth and confess any shameful secrets they could have." #NT!
+ artifact_djangalbi_name:0 "Djangalbi" #NT!
+ artifact_djangalbi_description:0 "\nThis non-canon artifact was commissioned by a Patron.\n The Djangalbi is a massive codex of the collected expenditures of the Cainite forces of the Eternal War. The text is byzantine and dense, and through reading it, it can enhance ones understanding of finances and realm management, on a tremendous scale. It has changed hands numerous times, and regardless of who is reading it, the insights within are universal in potential application." #NT!
+ artifact_sets_emasculation_name:0 "Set's Emasculation" #NT!
+ artifact_sets_emasculation_description:0 "#bold Unlocks permanent castration.#! \nThis meteor iron and bronze shortblade is a humble looking weapon, but the red tinge across the blade shows its incredible legacy. This was the very blade that was used to castrate Set by Horus in time immemorial, and between the radiant energy of its first wielder, and the residual vitae of its first victim, the blade radiates with power, no matter who wields it. Conviction and a sense of right itself powers this legendary weapon." #NT!
+
+ artifact_pomegranate_name:0 "The Pomegranate" #NT!
+ artifact_pomegranate_description:0 "#Bold Allow converting a [GetTrait('wraith').GetName( GetPlayer )] to a [GetTrait('risen').GetName( GetPlayer )].#!\nA powerful relic created by the mage Demeter, mother of Persephone, to create a portal between the land of the living and the land of the dead." #NT!
+
+ #Fetishes #NT!
+ artifact_klaive_name:0 "Klaive" #NT!
+ artifact_klaive_description:0 "The most famed weapons of all Garou, this blade is a silver lined and wicked weapon, a holy weapon wielded by Garou, stronger than any sword and bound with a spirit inside, a weapon so all non-garou who wield it are hunted endlessly for the blasphemous transgression." #NT!
+ artifact_eternal_waterskin_name:0 "Eternal Waterskin" #NT!
+ artifact_eternal_waterskin_description:0 "Benign but useful, this cowhide bag, when filled with water, never runs out no matter how much is drank from it. Sadly for many tribes, this only works with fresh water, either taken from rain or boiled, and does not work for things like mead or wine." #NT!
+ artifact_beff_of_ice_name:0 "Beff of Ice" #NT!
+ artifact_beff_of_ice_description:0 "A small needle made of blue ice encasing silver, this uniquely valuable fetish lets one burn out illness, as the user is able to literally shiver out infection, as the ice spirit within purges the user's system of illness, or more valuably, poison." #NT!
+ artifact_spirit_astrolabe_name:0 "Spirit Astrolabe" #NT!
+ artifact_spirit_astrolabe_description:0 "This wonderfully made astrolabe, bound with wave spirits, is a source of incredible guidance to any elder who uses this relic, allowing one to pierce the veils of distance with utter ease." #NT!
+ artifact_truth_earring_name:0 "Truth Earring" #NT!
+ artifact_truth_earring_description:0 "The bane of all unfaithful spouses, these fetishes, bound with spirits of honor, allow the wearers to more accurately pierce the veils of lies, and better pluck the kernels of truth from the oceans of lies." #NT!
+ artifact_blanket_of_peaceful_past_name:0 "Blanket of Peaceful Past" #NT!
+ artifact_blanket_of_peaceful_past_description:0 "A fetish of peace, when worn, the mother spirit within embraces the user, letting them, even if for a brief moment, return to being a small child or pup, when the world made sense, and nothing else mattered, a blessed escape from the horrors of the world of darkness, to be held again by a loving mother or sleep at her side." #NT!
+ artifact_dark_mask_name:0 "Dark Mask" #NT!
+ artifact_dark_mask_description:0 "The subject of much debate, the origin of this strange fetish is unknown, buts its power is clear. Shadows bend and contort to aid the wearer, distorting light and blurring the wearer, inspiring a terrible dread in all who see them." #NT!
+ artifact_eyes_of_the_night_name:0 "Eyes of the Night" #NT!
+ artifact_eyes_of_the_night_description:0 "An utterly bizarre fetish, this iron basin, when spun into the air, allows the local areas day and night to be reversed in terms of light, an invaluably useful escape tool to cause brightness or darkness shock to any attacker, as their eyes adjust, letting the potential victim escape unharmed, or rather, exact vengeance on another poor victim..." #NT!
+ artifact_kinship_doll_name:0 "Kinship Doll" #NT!
+ artifact_kinship_doll_description:0 "Taking the form of a small child's toy doll, this fetish is meant to act a liaison for the kinfolk to speak to a fera, letting them communicate and keep contact over long distances, so that they may never be far from their mate." #NT!
+ artifact_law_skull_name:0 "Law Skull" #NT!
+ artifact_law_skull_description:0 "One of the more macabre fetishes, this skull of a traitorous garou, when activated, can recite the litany, and demand oaths from those present. The fact one would even use this fetish is frightening enough..." #NT!
+ artifact_moongleam_name:0 "Moongleam" #NT!
+ artifact_moongleam_description:0 "This small pebble can be activated at any point during the night, and when done so, shines like a candle without the risk of fire, granting on the gift of variable light in the night without exposing oneself to the burning grasp of flames." #NT!
+ artifact_air_foot_greaves_name:0 "Air Foot Greaves" #NT!
+ artifact_air_foot_greaves_description:0 "A simple pair of shin guards emblazoned with wings, this fetish, bound with wind spirits, when clicked together by the wearer, lets them move with blinding speed, able to carry them to nigh any field the wearer desires." #NT!
+ artifact_sun_axe_name:0 "Sun Axe" #NT!
+ artifact_sun_axe_description:0 "An axe lined with golden beads, this cruel weapon, while bearing the potential to rend the children of Helios, when activated, can burn with sunlight, giving the fera wielder a precious weapon against the dreaded leeches, to end their tyranny of the night." #NT!
+ artifact_whistle_caff_name:0 "Whistle Caff" #NT!
+ artifact_whistle_caff_description:0 "A small wooden and bone whistle carved with glyphs, bound with the spirit of a newborn mammal, when blown, it emits a silent cry for help, alerting the family and friends of the user, so they may rush to their aid." #NT!
+ artifact_book_of_the_spirits_secrets_name:0 "Book of the Spirit's Secrets" #NT!
+ artifact_book_of_the_spirits_secrets_description:0 "This vellum tome, bound with spirits of wisdom, when read through, reveals many secrets about the umbra and world of the spirits. A textbook for any theurge, this valuable text is essential for any legendary spirit caller." #NT!
+ artifact_feathered_cloak_name:0 "Feathered Cloak" #NT!
+ artifact_feathered_cloak_description:0 "One of the most heavily sought out fetishes for a simple reason. The holders of this precious fetish, bound with wind spirits, gain the ability to fly with the same skill as a bat, the ability to soar into the skies a dream the wearer may finally achieve." #NT!
+ artifact_tangling_lance_name:0 "Tangling Lance" #NT!
+ artifact_tangling_lance_description:0 "This weathered, bramble lance resembles that of a large lizard tail, one that merely looks like a jousting lance of poor make, but when activated, the lance splits apart, and becomes like that of a giant lizard's tail, lashing out and grasping out at the wielder's now terrified foes." #NT!
+ artifact_time_piece_name:0 "Time Piece" #NT!
+ artifact_time_piece_description:0 "This curious fetish takes the form of a means of counting time, usually an hour glass or sun dial, that when activated, subtly twists the flow of time to hamper all those not close to the time piece at activation." #NT!
+ artifact_wind_hammer_name:0 "Wind Hammer" #NT!
+ artifact_wind_hammer_description:0 "This large, heavy warhammer, when activated, causes the fetish to dissolve into a storm of winds, letting the user strike like a raging twister, an untold beacon of carnage." #NT!
+ artifact_bindrune_amulet_name:0 "Bindrune Amulet" #NT!
+ artifact_bindrune_amulet_description:0 "This silver amulet has glyphs on it, carved into silver and written in the language of the garou, this precious fetish allows one to channel the power of language and harness the words, offering insight into the mystique of language itself." #NT!
+ artifact_cloud_string_name:0 "Cloud String" #NT!
+ artifact_cloud_string_description:0 "This string of twine and beads, when unfurled, soars into the air, and then guides the heavens, allowing one to control rain and the weather. This powerful ability lets one bring wealth and prosperity to a region, an incredibly useful trait for tribes like the Warders of Men, less so to other tribes." #NT!
+ artifact_horn_of_the_white_stag_name:0 "Horn of the White Stag" #NT!
+ artifact_horn_of_the_white_stag_description:0 "One of the three lost sacred relics of the Hill of Tara, this massive hunting horn, when bellowed into, causes soldiers to flock to the side of the blower as the army marches with blinding speed." #NT!
+ artifact_golden_torc_name:0 "Golden Torc" #NT!
+ artifact_golden_torc_description:0 "One of the three lost sacred relics of the Hill of Tara, this immaculate crown was once the badge of office for the Fianna High Kings of Eiru, this treasured relic a potent symbol of a most ancient nobility." #NT!
+ artifact_crones_tongue_name:0 "Crone's Tongue" #NT!
+ artifact_crones_tongue_description:0 "One of the three lost sacred relics of the Hill of Tara, the Crone's Tongue is a surprisingly simple longsword, but in the presence of wyrmthralls, it shines with burning light, and the blade bites far worse than even the talons of a Garou." #NT!
+ artifact_lepers_rags_name:0 "Leper's Rags" #NT!
+ artifact_lepers_rags_description:0 "This ratty, mangy cloak, when worn, allows the wearer to assume the form of an unassuming beggar, no matter what they were before, allowing for a massive slew of options for intrigue." #NT!
+ artifact_trail_branch_name:0 "Trail Branch" #NT!
+ artifact_trail_branch_description:0 "A small twig taken from the underbrush, bonded with a spirit of the wilds, this twig covers ones tracks and makes traversing the wilderness far more easy, as the spirit within guides its holder." #NT!
+ artifact_feather_of_the_waters_name:0 "Feather of the Waters" #NT!
+ artifact_feather_of_the_waters_description:0 "A cloak of the feathers made from unusual flightless birds from the far south, this warming cloak allows anything with Gnosis to swim with the same degree of ease as a fish, letting them extend the places they can go with tremendous ability." #NT!
+ artifact_heart_of_fire_name:0 "Heart of Fire" #NT!
+ artifact_heart_of_fire_description:0 "A surprisingly dangerous fetish, this tiny red crystal allows its owner to set objects on fire, a small but amazingly deadly thing to have on hand." #NT!
+ artifact_sun_crystal_name:0 "Sun Crystal" #NT!
+ artifact_sun_crystal_description:0 "This yellow gem contains a light spirit within, that upon the user's activation, causes this little bauble to shine like a small drop of sunlight, illuminating areas of the holder's desire." #NT!
+ artifact_beast_mask_name:0 "Beast Mask" #NT!
+ artifact_beast_mask_description:0 "A mask of shapeshifting who when worn, causes the user to shapeshift into the animal it is designed as, giving them the added mobility of the animal, and the innocuous nature of said animal, for whatever the user desires." #NT!
+ artifact_belt_of_the_giants_name:0 "Belt of the Giants" #NT!
+ artifact_belt_of_the_giants_description:0 "This very rare fetish, when driven to action by the wearer, causes them to double in size increasing their strength tremendously, and letting them wreck havoc. On the downside however, is the heart not growing in size, making it horribly stressful for the user's body." #NT!
+ artifact_cloak_of_woven_mists_name:0 "Cloak of Woven Mists" #NT!
+ artifact_cloak_of_woven_mists_description:0 "The Cloak of Woven Mists appears as a chain rope necklace with an intricate brooch. When activated by the wearer, shadows and vapors creep into the air, making the wearer hazy and indistinct, making them incredibly stealthy, as quite as the whisper of a draft." #NT!
+ artifact_staff_of_life_name:0 "Staff of Life" #NT!
+ artifact_staff_of_life_description:0 "A large walking stick that can double as a bonking stick, this useful fetish can fortify the health of the wearer and protect them from harm through the bolstering of their health." #NT!
+ artifact_bone_flute_name:0 "Bone Flute" #NT!
+ artifact_bone_flute_description:0 "A clever relic that inspires pain against the undead, it soothes the living, and those that hear it can't help but respect their lord further." #NT!
+ artifact_forest_crown_name:0 "Forest Crown" #NT!
+ artifact_forest_crown_description:0 "A fetish in the shape of a bramble crown that fits to the wearer's head, becoming an icon of rulership, of the spirit of the wilds inspiring them to be a sovereign lord of the wilds." #NT!
+ artifact_iron_crown_name:0 "Iron Crown" #NT!
+ artifact_iron_crown_description:0 "A fetish in the shape of an iron crown that fits to the wearer's head, becomes an icon of rulership, as the spirit of nobility within inspires them to epic heights of leadership, and as such was favored in older eras by the Warders of Men." #NT!
+ artifact_keystone_name:0 "Keystone" #NT!
+ artifact_keystone_description:0 "This runestone whenever pressed to a stone material, allows it to open like a door, letting the user pass through nearly any stone obstacle." #NT!
+ artifact_dreamcaller_name:0 "Dreamcaller" #NT!
+ artifact_dreamcaller_description:0 "This incredibly valuable flute lets one open rifts into dreams, letting one dance and learn within them, and explore the depths of the thinking mind, for any insights they may provide." #NT!
+ artifact_harp_of_enchantment_name:0 "Harp of Enchantment" #NT!
+ artifact_harp_of_enchantment_description:0 "This harp, when strum, lets loose a beautiful concordant melody, a truly breathtaking sonnata that can drive even the most war hardened Garou in harano to tears." #NT!
+ artifact_iceblade_name:0 "Iceblade" #NT!
+ artifact_iceblade_description:0 "A precious blade made from the unmelting blue ice of the arctic north, this pallid weapon strikes with the same chill of the biting north, while also letting one cleave through the elements as if it was summer." #NT!
+ artifact_lionfang_name:0 "Lionfang" #NT!
+ artifact_lionfang_description:0 "This potent fetish is carved from the fangs of a terrible beast, rumored to have been even stolen from the bastet, making this incredibly dangerous weapon strike with the same force of one of the garou nation's oldest rivals." #NT!
+ artifact_ring_of_the_elements_name:0 "Ring of the Elements" #NT!
+ artifact_ring_of_the_elements_description:0 "One of the most potent of fetishes, a Ring of the Elements gives a Garou power over all four of the elements, earth, air, fire and water. When activated, a Garou may not be harmed by attacks involving these forces. For example, torches would refuse to burn a Garou, stones or even a metal sword would bounce harmlessly off her skin, and she would not drown underwater." #NT!
+ artifact_grand_klaive_name:0 "Grand Klaive" #NT!
+ artifact_grand_klaive_description:0 "The klaives of the mightiest heroes, these legendary weapons are better than klaives in all respects, the bound war spirit within howling with rage for the death of the wielder's foes." #NT!
+ artifact_forge_crusher_name:0 "Forge-Crusher" #NT!
+ artifact_forge_crusher_description:0 "One of the Jarl Hammers, these mighty two-handed hammers are the pinnacle of craftsmanship. Like lesser klaives, these hammers are forged with silver, cooled in the blood of enemies of Gaia. Forge-Crusher, when used, burns with a roaring flame, capable of inflicting horrible pain." #NT!
+ artifact_grinding_tooth_name:0 "Grinding-Tooth" #NT!
+ artifact_grinding_tooth_description:0 "One of the Jarl Hammers, these mighty two-handed hammers are the pinnacle of craftsmanship. Like lesser klaives, these hammers are forged with silver, cooled in the blood of enemies of Gaia. Grinding-Tooth can grind any stone to powder, laying low all of the earth before it." #NT!
+ artifact_spear_chaser_name:0 "Spear-Chaser" #NT!
+ artifact_spear_chaser_description:0 "One of the Jarl Hammers, these mighty two-handed hammers are the pinnacle of craftsmanship. Like lesser klaives, these hammers are forged with silver, cooled in the blood of enemies of Gaia. This impressive hammer soars when thrown, hurling to incredible distances, impossible to be broken in a throw." #NT!
+ artifact_troll_eater_name:0 "Troll-Eater" #NT!
+ artifact_troll_eater_description:0 "One of the Jarl Hammers, these mighty two-handed hammers are the pinnacle of craftsmanship. Like lesser klaives, these hammers are forged with silver, cooled in the blood of enemies of Gaia. Troll-Eater, more than any other Jarl Hammer, obliterates armor, rending it like birch bark." #NT!
+ artifact_bright_arm_name:0 "Bright-Arm" #NT!
+ artifact_bright_arm_description:0 "One of the Jarl Hammers, these mighty two-handed hammers are the pinnacle of craftsmanship. Like lesser klaives, these hammers are forged with silver, cooled in the blood of enemies of Gaia. Bright-Arm, when wielded, shines like the sun, humming with light and blinding opponents." #NT!
+ artifact_hag_talon_name:0 "Hag-Talon" #NT!
+ artifact_hag_talon_description:0 "One of the Jarl Hammers, these mighty two-handed hammers are the pinnacle of craftsmanship. Like lesser klaives, these hammers are forged with silver, cooled in the blood of enemies of Gaia. Hag-Talon shields its wearer's mind, giving them unparalleled mental defenses." #NT!
+ artifact_pain_eagle_name:0 "Pain-Eagle" #NT!
+ artifact_pain_eagle_description:0 "One of the Jarl Hammers, these mighty two-handed hammers are the pinnacle of craftsmanship. Like lesser klaives, these hammers are forged with silver, cooled in the blood of enemies of Gaia. Pain-Eagle is the most ruinous of the Jarl Hammers, leaving throbbing, agony wracking wounds." #NT!
+ artifact_runestone_of_gab_name:0 "Runestone of Gab" #NT!
+ artifact_runestone_of_gab_description:0 "A collection of precious prophetic stones, these heavily enchanted reading stones offer the user valuable insights into the future. These runestones offer key insights into the art of conversation craft, allowing the user to be a master of speechcraft." #NT!
+ artifact_runestone_of_war_name:0 "Runestone of War" #NT!
+ artifact_runestone_of_war_description:0 "A collection of precious prophetic stones, these heavily enchanted reading stones offer the user valuable insights into the future. These runestones in particular are inhabited by a war spirit, giving the user utterly total knowledge of the battlefield before any troops even set foot on the fields of war." #NT!
+ artifact_runestone_of_control_name:0 "Runestone of Control" #NT!
+ artifact_runestone_of_control_description:0 "A collection of precious prophetic stones, these heavily enchanted reading stones offer the user valuable insights into the future. These stones can predict the flow of commerce and population, giving the user an unparalleled insight into matters of stewardship." #NT!
+ artifact_runestone_of_cunning_name:0 "Runestone of Cunning" #NT!
+ artifact_runestone_of_cunning_description:0 "A collection of precious prophetic stones, these heavily enchanted reading stones offer the user valuable insights into the future. These stones allow one to maintain and control schemes of byzantine and dizzying complexity, allowing othe user to become a spymaster without peer." #NT!
+ artifact_runestone_of_wisdom_name:0 "Runestone of Wisdom" #NT!
+ artifact_runestone_of_wisdom_description:0 "A collection of precious prophetic stones, these heavily enchanted reading stones offer the user valuable insights into the future. These stones read of powerful visions of theology and medicine, giving the user powerful insights into the mystic traditions." #NT!
+ artifact_shining_klaive_of_sokhta_name:0 "Shining Klaive of Sohkta" #NT!
+ artifact_shining_klaive_of_sokhta_description:0 "A klaive made of gold and quicksilver, unlike other Klaives, this weapon is perfectly safe for all Fera to use, and in fact bolsters them even further. This warping, terrifying weapon inspires dread in all who hear of it, a Fera that may act unbowed of their legendary weakness." #NT!
+ artifact_radiant_blade_of_katanka_sonnak_name:0 "Radiant Blade of Katanka-Sonnak" #NT!
+ artifact_radiant_blade_of_katanka_sonnak_description:0 "This terrifying blade made of a mix of silver and gold, this terrifying weapon burns with the light of the Incarna Avatar of the Helios, Katanka-Sonnak, patron of the Corax and Mokole. This blazing weapon inspires the same swiftness of which Helios traverses the sky, moving with his same breath of grace and deftness." #NT!
+ artifact_mercurial_mask_of_mitanu_name:0 "Mercurial Mask of Mitanu" #NT!
+ artifact_mercurial_mask_of_mitanu_description:0 "The mask of the trickster, a gift from the Incarna of Mercury, Mitanu, this wonder dress mask allows one to totally hide their presence, becoming just as its maker, a lord of intrigue." #NT!
+ artifact_burning_mask_of_hakahe_name:0 "Burning Mask of Hakahe" #NT!
+ artifact_burning_mask_of_hakahe_description:0 "Once the forge-mask of the Incarna of Vulcan, Hakahe, Lord of the Shadowed Planet, this black iron mask imparts a piece of the forge master into the wearer, protecting them and giving them his own wisdom, both in the manners of gold and wisdom." #NT!
+ artifact_radiant_dress_of_tambiyah_name:0 "Radiant Dress of Tambiyah" #NT!
+ artifact_radiant_dress_of_tambiyah_description:0 "A beautiful tapestry made of the strongest iron, this dress, the masterpiece of the Tambiyah, the Incarna of Venus, does credit to anyone who wears it. This immaculate dress shapes with the wearer, and becomes many fine jewelry pieces and baubles in other forms, but even across it, the dress guards the wearer, against all affronts." #NT!
+ artifact_eternal_grace_of_eshtarras_might_name:0 "Eternal Grace of Eshtarra's Might" #NT!
+ artifact_eternal_grace_of_eshtarras_might_description:0 "Within this amulet is the blessing of Eshtarra, the Incarna of Earth, the Avatar of Gaia. This incredible relic gives the wearer the vitality of 8 mortal men, unbound ferility, and her own wisdom of leadership, the mother of all. This precious relic is of the finest materials of Gaia's bounty, and her touch even on anyone is a sign of her unfailing blessing and warmth, made from a piece of her radiant throne." #NT!
+ artifact_burning_horns_of_nerigal_name:0 "Burning Horns of Nerigal" #NT!
+ artifact_burning_horns_of_nerigal_description:0 "These red clay hunting horns were made from the Dust of the Red Planet, by the Incarna of Mars, Nerigal. When held and blown, these horns shake Gaia herself, calling all loyal to the blower to war, as the might and cunning of the War Incarna flow into them, calling all to win in his name." #NT!
+ artifact_ruinous_talons_of_rorg_name:0 "Ruinous Talons of Rorg" #NT!
+ artifact_ruinous_talons_of_rorg_description:0 "These meteor metal gauntlets made of the broken remains of the Turog, the consort of Gaia, these talons are a gift from Rorg, the Incarna of the Asteroids between Mars and Jupiter, and of vengeance and of rage. With these, his will is made manifest, as the wielders who branish them become his living rage, unleashing carnage against all before them." #NT!
+ artifact_imperious_crown_of_zarok_name:0 "Imperious Crown of Zarok" #NT!
+ artifact_imperious_crown_of_zarok_description:0 "The crown of the King of Kings, this immaculate, gem encrusted crown was hand tooled by the Incarna of Kings and Jupiter, Zarok, the one time suitor of Gaia, the Greatest of the Incarna after Luna and Helios. When worn, one becomes a living visage of the greatest of kings, as the wealth of magnificence flows into them." #NT!
+ artifact_eternal_wings_of_lu_bat_name:0 "Eternal Wings of Lu-Bat" #NT!
+ artifact_eternal_wings_of_lu_bat_description:0 "This feathered cloak is a gift from the Incarna of Saturn, the Incarna of Jupiter, the Great Owl. With these, the wielder may take to the skies, and soar through both the Umbra and the Skinlands, and carry within them his own nature and wisdom." #NT!
+ artifact_shadowed_stave_of_ruatma_name:0 "Shadowed Stave of Ruatma" #NT!
+ artifact_shadowed_stave_of_ruatma_description:0 "This small, handhelf staff is said to have a small sliver of Ruatma's voice, the Incarna Uranus, within it. Through it, the Incarna speaks to its holder, whispering many critical secrets and lores. However, perhaps some of these were not meant to be learned..." #NT!
+ artifact_dancing_loom_of_shantar_name:0 "Dancing Loom of Shantar" #NT!
+ artifact_dancing_loom_of_shantar_description:0 "This luminous harp is of immaculate creation, woven by the hands of Shantar, the Incarna of Neptune. unlike all her other Looms, this one was made with her regular focus, a gift to her champion, and in it, the waves of her beautiful songs flow through them, easing the nerves like nothing else." #NT!
+ artifact_whispering_ankh_of_meros_name:0 "Whispering Ankh of Meros" #NT!
+ artifact_whispering_ankh_of_meros_description:0 "This weathered, silver ankh seems to bear much of the wears of age, and is the most precious gift from the Incarna Meros, the Incarna of Pluto. This precious hand held symbol allows the user to move with mystifying speeds, and when speaking, the holder has a fragment of the voice of the Eternal Wanderer." #NT!
+ eternal_love_artifact_name:0 "Eternal Love" #NT!
+ eternal_love_artifact_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nWhile it is not exactly magical, it cannot be denied that this sword has a certain mystical dweomer. Made of silver, it creates wounds that cannot be healed by vampires. Only by mixing another Vampire's blood with their own and then pressing it to the wound can they heal it. This weapon was crafted for Prias by the Cainite craftsmen of Carthage for use in his vampire-hunting expeditions." #NT!
+ sword_samiel_artifact_name:0 "Sword of Samiel" #NT!
+ sword_samiel_artifact_description:0 "#bold Unlock [single_combat_duel|E] moves. #! \nThe legendary first Warrior Salubri was a peerless fighter, and willing to go above and beyond his duty against the forces of darkness. His weapon was powerful enough to slay an [antediluvian|E] and still radiates this aura of vengeful righteousness to this night." #NT!
+
+ artifact_vassagos_reliquary_name:0 "Vassago's Reliquarie" #NT!
+ artifact_vassagos_reliquary_description:0 "A massive diamond of unparalleled value. A glittering prison from which Vassago plans his cult's expansion. \n $artifact_reliquarie_description$" #NT!
+ artifact_bezariel_dagger_name:0 "Ritual Dagger" #NT!
+ artifact_bezariel_dagger_description:0 "An inconsequential ritual dagger before being infused with a small part of Baba Yaga's power, this weapon was used by Bezariel to bind him to the Earth upon his escape from the Abyssal Prison.\n $artifact_reliquarie_description$" #NT!
+ artifact_orobas_statue_name:0 "Orobas Statue" #NT!
+ artifact_orobas_statue_description:0 "A statue of wet, slimy sandstone that was used to bound Orobas millennia ago. It has since shifted to look more like its grotesque host.\n $artifact_reliquarie_description$" #NT!
+ artifact_heart_lamashtu_name:0 "Heart of Lamashtu" #NT!
+ artifact_heart_lamashtu_description:0 "Never finished, this box, very similar to the Judaic Ark of the Covenant, hosts Lamashtu's link to the mortal plane. To the demon's frustration, she could never find a talented enough craftsman to finish it after its original creator's demise.\n $artifact_reliquarie_description$" #NT!
+
+ artifact_caliburn_name:0 "Caliburn" #NT!
+ artifact_caliburn_description:0 "#bold Give ally knights in war as a commander or yourself in [single_combat_duel|E] [GetModifier('caliburn_light_modifier').GetNameWithTooltip].#!\nThe “sword of light,” Caliburn is an extremely powerful treasure. The name translates roughly to "thunderbolt". There is some argument that Caliburn isn’t actually a treasure but a unique item that defies all expectations and explanations as the usual rules governing treasures don't seem to hold as far as Caliburn is concerned." #NT!
+ artifact_caliburns_sheath_name:0 "Caliburn's Sheath" #NT!
+ artifact_caliburns_sheath_description:0 "#bold Give ally knights in war as a commander or yourself in [single_combat_duel|E] [GetModifier('caliburn_shield_modifier').GetNameWithTooltip].\nAs a [character_interaction|E], allows you to heal target's wounds.#!\nThe sheath of Caliburn is made of simple black leather, though some fae claim they can make out the world “Caliburn” worked into the leather." #NT!
+ artifact_caladbolg_name:0 "Caladbolg" #NT!
+ artifact_caladbolg_description:0 "#bold As a [character_interaction|E], allow you to call down lightning from the skies to hurt every knight of the target.#!\nThe sword has been attributed all manner of powers and abilities. It is said that the bearer of the sword is unbeatable in battle, that the sword offers its bearer powers of regeneration, and that it strikes of its own accord. If that is not enough, tales also say that the sword gives its bearer the ability to detect lies or falsehoods, to inspire men more than the tales of the greatest bard, and to call down lightning from the skies." #NT!
+ artifact_red_apple_of_avalon_name:0 "Red Apple of Avalon" #NT!
+ artifact_red_apple_of_avalon_description:0 "#bold As a [character_interaction|E], allow you to make the target gain a negative mental trait or murder a friend/lover.#!\nThe red-skinned apples, having grown from the waters of the Red Spring, are poisonous. They are certainly beautiful to look upon, being a bright and glistening red in color, but one bite causes intense pain and hallucinations. Although the apples are not deadly of themselves, many who have taken a bite of the red apples have perished, running off of cliffs or mistaking friend for foe and forcing their loved ones to fight them or die." #NT!
+ artifact_white_apple_of_avalon_name:0 "White Apple of Avalon" #NT!
+ artifact_white_apple_of_avalon_description:0 "#bold As a [character_interaction|E], allow you to heal all negative mental traits of the target.#!\nThe white apples, on the other hand, have the power to heal the mind. They can remove night ter-rors, cure insanity, or restore the power of speech to the mute. Note that they cannot remedy physical ailments, only those illnesses that take root in the mind." #NT!
+ artifact_chalice_of_rain_name:0 "Chalice of Rain" #NT!
+ artifact_chalice_of_rain_description:0 "The Cabal of the Chalice, a group of mages belonging to the Old Faith who reside in Cornwall ,made an ancient pact with the Fae to help guard the legendary islands of Lyonesse from those who sought to plunder its legendary wealth. In exchange for their assistance, the Fae entrusted the mages with the Chalice. It is said to be wondrous to behold, cast in a bluish silver with ancient runes encircling the lip of the cup.If the cup is filled, and the water spilled on the ground as offering to the fair folk, the chalice will bring rain before the next moon rises. This helps the mages and their kin to eke out a living on the rugged land, and insures their prosperity." #NT!
+ artifact_broach_of_scrying_name:0 "Broach of Scrying" #NT!
+ artifact_broach_of_scrying_description:0 "The broach is designed to assist its bearer in making simple decisions. The bearer asks a simple yes-or-no question about a problem he is facing or task he wishes to undertake. Then, he breaks the broach open by smashing it upon a stone or crushing it underfoot. The stone that tumbles out will remain white or will turn black as night. The white stone indicates that the answer to the question is affirmative, whereas the black stone indicates that the answer is negative." #NT!
+ artifact_singing_sword_of_madog_cynydd_name:0 "Singing Sword of Madog Cynydd" #NT!
+ artifact_singing_sword_of_madog_cynydd_description:0 "#bold As a [character_interaction|E], allow you to start a [single_combat_duel|E] to give [GetModifier('artifact_life_expectancy_40_modifier').GetNameWithTooltip] modifier to the sword.#!\nThe Singing Sword of Madog Cynydd is, by all accounts,a weapon of exquisite craftsmanship and lethal power. When swung in battle, the sword sings a dirge for the enemies of its wielder. Every enemy felled in battle by the Sword of Madog Cynydd renders up to his slayer whatever remained of his natural life span. Thus, slaying one young man with the Sword of Madog Cynydd could extend the sword-wielder's life by a good forty years. The sword's wielder also reaps whatever good fortune the fallen may have had in his future, and the victim's bad luck dies with him." #NT!
+ artifact_black_torc_of_carniog_name:0 "Black Torc of Carniog" #NT!
+ artifact_black_torc_of_carniog_description:0 "#bold Unlock [marked_for_return_interaction|E].\nUnlock [bind_wraith_interaction|E].\nUnlock $POD_command_wraith_interaction$ [character_interaction|E].\nMax number of bound wraith: #P +2#!.#!\nThe Black Torc of Carniog is rumored to be able to steal souls and cause whole armies of mortals to fall into a near permanent (though peaceful) sleep. Some have suggested that it grants the ability to command the Fae themselves, but on that issue the Fae themselves grow quiet." #NT!
+ artifact_blazing_silver_torc_of_myfanwy_du_name:0 "Blazing Silver Torc of Myfanwy Du" #NT!
+ artifact_blazing_silver_torc_of_myfanwy_du_description:0 "The Blazing Silver Torc of Myfanwy Du causes those who look upon the wearer to be filled with deep respect and affection. They will do anything in their power to help him, even if they were bitterest enemies before the wearer donned the torc. If the torc's wearer gives the proper cues, that affection turns to passionate love in the heart of the one so signaled (regardless of the gender of the wearer)." #NT!
+ artifact_cauldron_of_gruffydd_name:0 "Cauldron of Gruffydd" #NT!
+ artifact_cauldron_of_gruffydd_description:0 "#bold Can recruit [GetMaA('animated_tree').GetName], [GetMaA('golems').GetName], [GetMaA('guardians').GetName] and [GetMaA('homunculus').GetName] as [men_at_arms|E].#!\nThe Cauldron of Gruffydd creates twisted warriors out of whatever its master puts in it. If a mage fills the cauldron with rocks, a stone elemental will emerge to fight for him. Likewise, filling the Cauldron of Gruffydd with daggers and clay will result in a horrible (and deadly) servitor something like a barbed golem. Obviously, certain combinations are more effective than others, but even an army of willow branch soldiers is better than no army at all." #NT!
+ artifact_cauldron_of_annwn_name:0 "Cauldron of Annwn" #NT!
+ artifact_cauldron_of_annwn_description:0 "#bold As a [character_interaction|E], allows you to heal target's wounds.#!\nOne of the most coveted faerie treasures is the Cauldron of Annwn. Once located in the Underworld beneath Glastonbury Tor, the Fae king Avallach hid it from mortal sight after Morgan le Fey went against his wishes and attempted to use the Cauldron on King Arthur. According to rumor amongst the mages, the Cauldron has the power to heal the sickness of any mortal submerged in water within it." #NT!
+ artifact_faerie_dust_name:0 "Faerie Dust" #NT!
+ artifact_faerie_dust_description:0 "Most often carried in small pouches, faerie dust must make direct contact with its target to take effect. Other methods include sprinkling dust on a target from above; filling a target's gloves or clothes with dust; sprinkling it on food; mixing the dust with liquids to make potions and draughts; or even throwing entire pouches, which explode on impact, to achieve greater distance." #NT!
+ artifact_cabinet_stick_name:0 "Cabinet Stick" #NT!
+ artifact_cabinet_stick_description:0 "Appearing as an ordinary walking stick or staff, the stick grants magical access to a cabinet or closet secreted in some faraway faerie realm. By tapping the stick against any cabinet, door, trunk or even the loose bark of a tree, its owner activates the link to a magical storage space." #NT!
+ artifact_cap_of_neglect_name:0 "Cap of Neglect" #NT!
+ artifact_cap_of_neglect_description:0 "Though these caps don't provide true invisibility, such magic is rarely needed. Those not actively looking for the wearer of this cap simply ignore the fact that she is in the room. As long as she doesn't draw any attention upon herself, such as by speaking or making sudden movements, the wearer of this cap can move about unnoticed." #NT!
+ artifact_ring_of_linked_sight_name:0 "Ring of Linked Sight" #NT!
+ artifact_ring_of_linked_sight_description:0 "These rings are forged with special enchantments to create a magical bond between them. If the keeper of one ring holds it to her right eye, she sees the keeper of the second as though he were standing only a few feet away. Mists and shadow obscure the environment around the keeper of the second ring, but his form and actions are visible. If the ring's keeper holds it to her left eye, she sees what the keeper of the second sees, as though she were looking through his left eye." #NT!
+ artifact_sealing_needle_name:0 "Sealing Needle" #NT!
+ artifact_sealing_needle_description:0 "#bold As a [character_interaction|E], allows you to heal target's wounds.#!\nSimple treasures designed as gifts to housemaids and seamstresses in return for oaths, these enchanted needles, when threaded, magically sew any tear or opening they are set to. Depending on the type of thread used, the needle will repair torn clothing, seal the openings on bags of grain or even close open wounds. The charm used to create these treasures is simple, and the needles work just as well on leather, silk or skin. While most uses for these treasures are innocent enough, Winter-kin have been known to use these treasures to seal the mouths, noses and eyes of their victims, or to cut them open and stitch them back together with rough hemp." #NT!
+ artifact_active_arrow_of_midnight_sun_name:0 "Arrow of Midnight Sun #Weak (Activated)#!" #NT!
+ artifact_arrow_of_midnight_sun_name:0 "Arrow of Midnight Sun #Weak (Deactivated)#!" #NT!
+ artifact_arrow_of_midnight_sun_description:0 "#bold If activated, wound enemy knights and commanders in war as a commander or [single_combat_duel|E] foe, if they are vampires (or other supernaturals that fear the sun).#!\nThese enchanted arrows are favorites of the Summer Court. When fired into the night sky, these arrows burst into radiant light, illuminating a battlefield with the light of the noonday sun. This light can be used to drive back creatures of darkness, or simply to create light where there was none." #NT!
+ artifact_arrow_of_inky_noon_name:0 "Arrow of Inky Noon" #NT!
+ artifact_arrow_of_inky_noon_description:0 "Counterparts to the Arrows of Midnight Sun, these arrows are favored by the Winter Court. When fired in to the air during the daytime, these arrows darken the sky to the inky blackness of a moonless night." #NT!
+ artifact_vulcans_hammer_name:0 "Vulcan's Hammer" #NT!
+ artifact_vulcans_hammer_description:0 "Sometimes called a Dwarf's Hammer by those in northern cultures, this hammer is enchanted for the purposes of weapon- and armor-smithing. The tool magically increases the strength of the metal used in creating such items, allowing them to deal and withstand more damage. Any weapons forged with the use of this hammer never need sharpening and deal an additional level of damage during combat." #NT!
+ artifact_pegasus_bridle_name:0 "Pegasus Bridle" #NT!
+ artifact_pegasus_bridle_description:0 "Whether the mortal stories of winged horses inspired this treasure, or vice versa, is a subject of debate for Humanist scholars. When placed on any animal, normally a horse, the bridle grants the ability of flight until removed." #NT!
+ artifact_rooting_amulet_name:0 "Rooting Amulet" #NT!
+ artifact_rooting_amulet_description:0 "This treasure was originally created by a wood inanimae to punish a queen who violated an oath and entered his grove. The fae crafted a beautiful amulet and gave it to one of the queen's courtesans as a gift for his mistress. The queen loved the intricately woven silver necklace and clasped it around her neck. When next she placed a foot on the ground outside her home, her legs rooted themselves into the soil and her body and arms became the trunk and branches of a tree. Revealing himself as a faerie of the wood, the inanimae reclaimed the amulet and spoke words of warning to the queen's court about venturing too far into the nearby woods." #NT!
+ artifact_twin_glass_name:0 "Twin Glass" #NT!
+ artifact_twin_glass_description:0 "One mirror magically split in two, the Twin Glass offers the ability to communicate over large distances. The two mirrors function much like a window, with their owners able to look or speak through one and be seen or heard through the other." #NT!
+ artifact_gale_flute_name:0 "Gale Flute" #NT!
+ artifact_gale_flute_description:0 "This small instrument is infused with the powers of the Dawn, capable of summoning everything from small breezes to violent storms. A single, soft note from the flute calls a gentle wind to the flutist. Playing for any longer increases the power of the wind, resulting in a gale after only a few minutes of playing. Continued fluting will bring the full fury of the wind and rain, creating a tempest of incredible power —— enough to flatten villages." #NT!
+ artifact_excaliburs_scabbard_name:0 "Excalibur's Scabbard" #NT!
+ artifact_excaliburs_scabbard_description:0 "#bold As a [character_interaction|E], allows you to heal target's wounds.#!\nThough not truly the scabbard of the legendary Caliburn, or Excalibur, this rare treasure is so ancient and has such mystical properties that it has become associated with that powerful weapon. Any sword drawn from the scabbard is said to be unbreakable in combat, but the true power of this treasure stems from its healing powers." #NT!
+ artifact_shatterhammer_name:0 "Shatterhammer" #NT!
+ artifact_shatterhammer_description:0 "These formidable weapons were crafted during the height of the War of Seasons, and precious few are known to exist today. Sprites born of earthquakes or landslides are most often oathbound into these treasures, or even cursed rock or dirt inanimae. The essence of these earthen beings lends power to ordinary weapons, causing a ripple of concussive force to radiate through a target when hit. Such hammers have been known to shatter armor and bones, rupture internal organs, splinter large oaken doors, and even bring down stone towers." #NT!
+ artifact_sword_of_drowning_name:0 "Sword of Drowning" #NT!
+ artifact_sword_of_drowning_description:0 "Crafted during the War of Seasons, these weapons contain water sprites or inanimae who either gave up their freedom for the cause or were bound forcibly against their wills. The watery nature of their bound essences manifests when used in com-bat, causing water to pour into a target's lungs when hit.These attacks cause panic and paranoia as the target chokes and sputters on sea water." #NT!
+ artifact_cauldron_of_nightmares_name:0 "Cauldron of Nightmares" #NT!
+ artifact_cauldron_of_nightmares_description:0 "Created to cause panic and despair in the enemies of the Winter Court, these cauldrons could make their targets' darkest fears manifest for a short time in the real world. For the magic to work, some piece of the target — a lock of hair, a lost tooth or even a severed finger — must be combined with a mixture of potions within the cauldron. Complex rituals are then performed that make flesh the images of the target's worst nightmares." #NT!
+ artifact_castors_star_name:0 "Castor's Star" #NT!
+ artifact_castors_star_description:0 "Fallen from the heavens during a lightning storm, trailing a crackling tail of light and fire, Castor's Star hums with a chaotic energy that desperately seeks release. When first recovered, the huge metallic rock was so charged with energy from the lightning that it glowed blue in the night and caused those who approached it to drop their metal weapons after a sharp jolt pained their arms." #NT!
+ artifact_friars_cross_name:0 "Friar's Cross" #NT!
+ artifact_friars_cross_description:0 "Dating from the dark medieval period, the Friar’s Cross is a large, ornate golden cross that hangs from a woven cord. Though once used as a symbol of faith and protection, the Friar’s Cross has a history steeped in the destruction of changelings and the dissolution of faerie magic. Imbued with the Banality of repeated Undoings, the Friar’s Cross has become a corruptive device that eats the Glamour of whomever is unfortunate enough to wear it." #NT!
+ artifact_gray_sword_name:0 "Gray Sword" #NT!
+ artifact_gray_sword_description:0 "The Gray Sword, though obviously chimerical, has no personality or adornment and appears as a mundane broadsword with a simple hilt and a flat, unmarked blade. Its history is murky at best. It is suspected that it was created by an Unseelie lord who sought to Undo a Seelie rival, but no name can be definitively linked to the sword’s creation." #NT!
+ artifact_achen_name:0 "Achen" #NT!
+ artifact_achen_description:0 "#bold Give enemy side war participant [GetModifier('achen_modifier').GetNameWithTooltip] modifier when in war as a war participant.#!\nAchen is Dougal's double-headed hammer, whose shape graces the device of House Dougal. In combat, Achen enchants automatically any weapon or armor it strikes so that it cannot be used against a member of House Dougal. Tales are told of whole armies stopped by the hammer's power; suits of mail and swords frozen in place. Their owners and wearers had to leave them on the battlefield and retreat naked by the power of Achen." #NT!
+ artifact_anweyth_name:0 "Anweyth" #NT!
+ artifact_anweyth_description:0 "Anweyth, Mother of Steel, The Blade of Invention, is a beautiful short sword, inlayed in silver knot-work, with a handle of jet. It holds a mystical place in the lore of House Dougal; it was Dougal's last work: his nonpareil. Anweyth has two known powers: it tells any smith the secret of making steel; secondly, it cannot be coveted." #NT!
+ artifact_caliper_of_aife_name:0 "Calipers of Aife" #NT!
+ artifact_caliper_of_aife_description:0 "Dougal's wife, Aife crafted a fine set of calipers from the tusks of some forgotten beast... each arm of the caliper is about as long as a troll's arm. The calipers can "measure" anything that can be placed between them: distance, weight, length, purity, honesty, love, hate, etc." #NT!
+ artifact_mooncrystal_name:0 "Mooncrystal" #NT!
+ artifact_mooncrystal_description:0 "Ranging from marbles to basketballs in size, mooncrystals look like the stereotypical "crystal balls" one would expect to see among fortune tellers — spherical, with a milky white color that seems to shift and refract colors as you look into it. A mooncrystal allows its user to gain insight into things happening in the present or the recent past between one and three times per week, depending on its potency and size." #NT!
+ artifact_elenas_mirror_name:0 "Elena's Mirror" #NT!
+ artifact_elenas_mirror_description:0 "One of the few remaining treasures from the mythic age, no one knows for certain who possesses this extremely powerful one. It is said that Elena's mirror lets the bearer see clearly to anywhere else in the world for a period of up to one hour, once per day. In addition, it allows the bearer to cast cantrips on those pictured in the mirror. It is believed that the mirror aids especially in casting Sovereign, for there are tales from ages long past of sorcerers using the mirror to influence the decisions of kings and princes halfway across the world." #NT!
+ artifact_balors_crystal_eye_name:0 "Balor's Crystal Eye" #NT!
+ artifact_balors_crystal_eye_description:0 "When the great Balor of the Evil Eye finally fell in battle, one of the warrior-priests of the Fomorians took out his shattered eye and encased it in a crystal where the healing waters of a well were also stored. He hoped to save and restore it so that it could again be used as a weapon against the Tuatha de Danaan and their get. The eye has been dormant for centuries, however, but with the coming of the Red Star visible in the [dreaming|E] that the fae call the Eye of Balor, the Royal Guardians have bathed the eye in its light in a protected spot. The Crystal Eye has begun to glow a dull red since and great heat is held at bay by the encasing crystal." #NT!
+ artifact_blood_dross_name:0 "Blood Dross" #NT!
+ artifact_blood_dross_description:0 "The Masters of the Dance have discovered a way that the Children of Lilith with whom they associate can provide them with an unusual type of Dark Glamour. By taking a few drops of blood from the types of vampires known as madmen when they evidence their full-blown madness or Toreadors while they are engaged in some artistic pursuit, the Masters create what is called Blood Dross. The blood is stored in tiny rounded vials made of crystallized sugar, which are then coated with as lightly harder shell to hold in the resulting liquid. Several beads can be stored together in a protective box for up to a month without losing their potency." #NT!
+ artifact_steaming_spear_of_vengeance_name:0 "Steaming Spear of Vengeance" #NT!
+ artifact_steaming_spear_of_vengeance_description:0 "Long ago, Lugh Long-Arm used a magical spear to put out Balor's eye. In response, the craftsmen of House Balor have been constructing a return blow for whomever rules the Seelie when war comes. Known as the Steaming Spear of Vengeance, it uses a spearhead similar to Balor's bane. Wound up with powerful enchantments, the spear is filled with anger that makes it a blood-seeker. "Vengeance" is so powerful that its head must be constantly immersed in water because it melts whatever it touches and its shaft must be kept chained to a manacle sunk deep in stone to prevent it from flying off in search of prey." #NT!
+ artifact_cauldron_of_fear_name:0 "Cauldron of Fear" #NT!
+ artifact_cauldron_of_fear_description:0 "#bold Give [GetModifier('cauldron_of_fear_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E].#!\nIt is a large, black cauldron that looks vaguely rusty but when filled with stagnant water and placed over a fire it produces a fine, almost invisible mist that spreads over a great hall or battlefield with the winds. Those caught in the mist experience terror in their hearts and even the bravest knights and honorable opponents flee in a panic, often dropping their weapons or anything else they are carrying in their haste to get away. The drawback is that if the wind changes, the ones using the cauldron could be caught in the backlash." #NT!
+ artifact_rose_of_leanhaun_name:0 "Rose of Leanhaun" #NT!
+ artifact_rose_of_leanhaun_description:0 "#bold You can replenish your Glamour at will via a [decision|E].#!\nThis treasure is a white rose that was laid on Leanhaun's breast at her death. It is the only flower that failed to turn black when in contact with her after Finellia's curse was laid and it has remained incorruptible since. House members consider it a sign of hope as it has remained pure and vibrant while sustaining its holder without the need to Rhapsodize. The fae who holds the Rose draws Glamour directly from it." #NT!
+ artifact_edanns_harp_name:0 "Edann's Harp" #NT!
+ artifact_edanns_harp_description:0 "#bold You can auto replenish an extra Glamour every month.#!\nThis ancient wooden harp has a large crack running through it, strings that look like little more than frayed threads, and is in such poor repair that it would only bring a few dollars to someone interested in Celtic history. To enchanted eyes, however, the harp, though ancient and cracked, is inlaid with gold and has silvered strings that appear as fine and fragile as shining hair. No one of the House knows if this is really the harp of Edann, the bard who stole Leanhaun's heart, or a lovingly made copy, but the strong enchantments on it make it a treasure of the house." #NT!
+ artifact_crown_of_dreams_name:0 "Crown of Dreams" #NT!
+ artifact_crown_of_dreams_description:0 "#bold You don't need target have max stress level to use Rhapsody [character_interaction|E] anymore.#!\nThis treasure is not actually a crown but an oaken pin covered with jewels shaped like a stylized crown. The one who wears it: the head of the Finders called the Crown, gains an awareness of all the Dreamers in the immediate area (about a square mile) and the ways to unlock their potential. Discerning that potential allows the wearer to know who might best benefit from that Dreamer's creations." #NT!
+ artifact_masquers_eyes_name:0 "Masquer's Eyes" #NT!
+ artifact_masquers_eyes_description:0 "This Treasure is actually a pair of normal, if very exquisitely decorated, domino masks. When activated, they create a connection between the wearers, allowing the two to share senses and even emotions at range. The user dons the mask and the other Kithain may see and hear everything her counterpart does as long as the mask is worn. She may even borrow her friend's voice, as long as her friend consents to the message." #NT!
+ artifact_passion_braceler_name:0 "Passion Braceler" #NT!
+ artifact_passion_braceler_description:0 "#bold Allow to, when needing to spend Glamour, first spend the Glamour stored in a Glamour Vessel.#!\nThey appear as simple cloth or silver bracelets but in reality act as Glamour or Willpower "batteries," storing magic or resolve for their owners until it is needed. Given the great stresses we face, these bracelets are a godsend. Cloth bracelets are always woven with a changeling's favorite colors and hold Glamour, while silver ones are inscribed with the wearer's name and hold Willpower." #NT!
+ artifact_eilaf_name:0 "Eilaf" #NT!
+ artifact_eilaf_description:0 "This long bow once belonged to the Ivalde, a great warrior who died during the ninth and final battle against the Jotunns. The Volvas guard this bow until the day when a new warrior whose skills match Ivalde's comes to them. An arrow fired from this bow never misses its target and inflicts aggravated damage." #NT!
+ artifact_tapestry_of_fate_name:0 "Tapestry of Fate" #NT!
+ artifact_tapestry_of_fate_description:0 "Whether it truly exists or not is unknown to the fae. According to stories, the tapestry contains every true name that there is, as well as the fate of the [dreaming|E]. The power and knowledge it holds are invaluable. Lost long ago, it is rumored to be everywhere from a sluagh freehold to under the Silvered Sea. Many have left in search of it, but none have returned. On thing is for certain: the finder will probably draw the wrath of the Norns upon them." #NT!
+ artifact_berserker_armor_name:0 "Berserker Armor" #NT!
+ artifact_berserker_armor_description:0 "This ornate armor shields those who wear it from all attacks with weapons and allows them to fight beyond their regular capacity. The greatest house secret is that the armor is vulnerable to magical attacks or attacks made with the bare hand. Though powerful, the armor exacts a price:Once those wearing berserker armor are unleashed, they are impossible to stop until they are dead or their side has won the battle." #NT!
+ artifact_cudgel_of_conchobhair_name:0 "Cudgel of Conchobhair" #NT!
+ artifact_cudgel_of_conchobhair_description:0 "Conchobhair's cudgel is an unassuming oaken staff about 8 feet tall. It grants its bearer (and will only function for a member of House Daireann) several wonderful powers. The foot of the staff is shod in cold iron as a warning and, under the direst circumstances, as a possible weapon." #NT!
+ artifact_cauldron_of_sceanbh_name:0 "Cauldron of Sceanbh" #NT!
+ artifact_cauldron_of_sceanbh_description:0 "The cauldron has two functions, depending on the desire of the brewer. Its first power is to brew a potion that inspires warriors to great deeds. The second power is more insidious, making a powerful sleeping draught." #NT!
+ artifact_amber_wyrm_name:0 "Amber Wyrm" #NT!
+ artifact_amber_wyrm_description:0 "Deep within a dark red amber egg lies a miniature dragon coiled in sleep. Suspended on a golden chain, surrounded by a patterned web of gold, the egg is translucent, allowing all details of the dragon to be seen. On occasion the dragon turns in its slumber, as though the amber were merely water." #NT!
+ artifact_eyes_of_the_snow_maiden_name:0 "Eyes of the Snow Maiden" #NT!
+ artifact_eyes_of_the_snow_maiden_description:0 "In ancient times, the sorceress Charodei used pieces of golden amber, clear as sunshine, to make the eyes of the Snow Maiden she presented to Varich. When the heat of his passion destroyed her, the amber eyes were discovered submerged in a pool of a strangely salty water. Varich never wished to see them again, but other members of the house have kept them, for it is rumored that they may truly see the shapes of the enemies of the fae: the Fomorians." #NT!
+ artifact_firebird_name:0 "Firebird" #NT!
+ artifact_firebird_description:0 "This nocker-built Treasure is an intricate mechanical firebird made of ruby and gold. When exposed to both the light of the sun and the rays of the moon, the firebird soars and sings into the sky when commanded to do so. When it has risen to a height of 100 feet, it bursts into glorious flame, lighting the area around it for miles with a golden, flickering light and pointing the way to the nearest trod or to a specific location designated by its master." #NT!
+ artifact_havens_compass_name:0 "Haven's Compass" #NT!
+ artifact_havens_compass_description:0 "This treasure usually comes in the form of an antique compass. Rather than pointing northward, it homes in on the closest active freehold or glade. Useful for explorers and wanderers in need of "any port in a storm," the compass doesn't distinguish between the hold of a Seelie motley and that of an Unseelie commoner-hating lord. Since some freeholders keep their homes hidden, they may not look too kindly on the owner of this treasure." #NT!
+ artifact_bakers_stone_name:0 "Bakers' Stone" #NT!
+ artifact_bakers_stone_description:0 "Bakers' Stones can come in any shape, color, or size, though most are round and made from brown clay. When any kind of organic material is placed on the stone (yes, any kind of matter), it magically transforms into plain but edible cakes. In the [dreaming|E] or near places rich in Glamour, the cakes become richer and fancier, with icing, currants, and fruit toppings. " #NT!
+ artifact_bane_dagger_name:0 "Bane Dagger" #NT!
+ artifact_bane_dagger_description:0 "This nasty weapon is designed for assassination, and as such has been officially proscribed. The dagger has a small compartment in the hilt. When a part of the intended victim is placed in the compartment (a strand of hair, an eyelash, or a drop of blood), the blade becomes attuned to that person, and can never be reattuned. Once the target has been killed, the blade begins to corrode, disappearing in less than an hour." #NT!
+ artifact_dreamstone_of_madoc_name:0 "Dreamstone of Madoc" #NT!
+ artifact_dreamstone_of_madoc_description:0 "#bold As a [character_interaction|E], allows you to teleport to target location.\nGain access to the [dreaming|E].#!\nThere are many dreamstones out there but none of the little Glamour batteries can compare with the Dreamstone of Madoc. The Glamour it focuses may "leak," causing the one closest to it to have vivid dreams they always remember on waking. Its greatest ability, though, is the power to shape dreamstuff. A skilled Dreamcrafter can create chimerical creatures of immense power, fold the Dreaming in on itself to create pocket realms, or build a trod or gateway where there was none before. The untested rumor is that it could even find and open the way to Arcadia." #NT!
+ artifact_durable_sandals_name:0 "Durable Sandals" #NT!
+ artifact_durable_sandals_description:0 "You scoff but these are a highly prized treasure among the Elegbara. They never wear out or require repair. They are comfortable and keep your feet warm and dry regardless of climate, and offer a small boost of energy while walking or running." #NT!
+ artifact_trail_dust_name:0 "Trail Dust" #NT!
+ artifact_trail_dust_description:0 "A useful treasure, Trail Dust always comes in a small, weathered-looking leather pouch adorned with an ancient symbol meaning "trail." Inside is a small quantity of dirt or sand appropriate to the are the Elegbara is traveling in. When activated with a point of Glamour and sprinkled across the owner's bare feet, he or she immediately gains a detailed geographic map and directional knowledge of the surrounding area roughly the same as a native twice their age would know." #NT!
+ artifact_blessed_opa_name:0 "Blessed Opa" #NT!
+ artifact_blessed_opa_description:0 "The opa is the traditional weapon of the Elegbara. Similar to a quarterstaff, it is usually intricately carved and adorned with luck charms and souvenirs their owners have picked up on their journeys. Most are hardened by firing or by Cantrips and are as durable as metal and so able to be used in combat against edged weapons without fear of breaking. They are valued for both their beauty and utility." #NT!
+ artifact_basilisk_stone_name:0 "Basilisk Stone" #NT!
+ artifact_basilisk_stone_description:0 "Unfortunately, most people don't appreciate Nocker speech habits and while the nockers may rail against such harsh judgements, even they understand there are times when they need to shut up and that can be difficult to do. A Basilisk Stone is, therefore, invaluable while at court or when trying to hold down a job in the mundane world. Although Blistertongue Jill shattered the first and greatest of these treasures, the shards of the original still hold some of Byzamedas' old magic." #NT!
+ artifact_goblin_lantern_name:0 "Goblin Lantern" #NT!
+ artifact_goblin_lantern_description:0 "This kind of lantern is common in nocker mines. It casts two types of light. The first is visible to all Kithain but with the turn of a knob, a nocker can make it visible only to other nockers." #NT!
+ artifact_goblin_parchment_name:0 "Goblin Parchment" #NT!
+ artifact_goblin_parchment_description:0 "Goblin Parchment is the preferred medium of nobles and nockers for sending secret messages, especially threats. Writing on Goblin Parchment is only visible to the intended recipient and the paper burns up immediately after it is read. It also resists all attempts to copy the information on it, even by other nockers or Sluagh Wordspiders." #NT!
+ artifact_goblin_shoes_name:0 "Goblin Shoes" #NT!
+ artifact_goblin_shoes_description:0 "Nockers make these shoes from the skin of a white, subterranean worm chimera. They can stretch over almost any size foot and render the wearer's footsteps almost completely inaudible." #NT!
+ artifact_razor_claws_name:0 "Razor Claws" #NT!
+ artifact_razor_claws_description:0 "Razor Claws are a regular best-seller among Redcaps. These special gloves hide small, cruelly carved blades that extend beyond the knuckles that can be extended by pressing a stud hidden in the palm of the glove." #NT!
+ artifact_goblin_bow_name:0 "Goblin Bow" #NT!
+ artifact_goblin_bow_description:0 "This is a multi-shot crossbow that carries six bolts in a metal clip. The bow advances the clip with each shot and so allows the user to make multiple shots without having to stop and reload." #NT!
+ artifact_goblin_cloak_name:0 "Goblin Cloak" #NT!
+ artifact_goblin_cloak_description:0 "Black crystals are woven into goblin cloaks to bend light around the wearer." #NT!
+ artifact_pendulum_name:0 "Pendulum" #NT!
+ artifact_pendulum_description:0 "This treasure is a small, hollow metal ball connected to a silver chain. By putting any kind of metal inside the ball, the pendulum will lead the user to the nearest deposit of that material. If none is in the area, the user can dowse over a map and the pendulum will circle over the nearest deposit's general area." #NT!
+ artifact_universal_solvent_name:0 "Universal Solvent" #NT!
+ artifact_universal_solvent_description:0 "Universal Solvent is a result of Nocker investigation into chimerical alchemy and is the greatest (and among the rarest) products of this science. The solvent is a binary compound; the alchemist must keep its parts in two separate bottles (one Black, one White, usually). When the nocker mixes the two components, a dense cloud of pure Banality pours forth, dissolving every chimerical object in its path, including changelings in their fae mien." #NT!
+ artifact_magical_crumbs_name:0 "Magical Crumbs" #NT!
+ artifact_magical_crumbs_description:0 "A common treasure among pooka, Magical Crumbs reportedly come from the Black Forest in Germany. Gathered up off the ground along a special path, they have the ability to lead a pooka back home if they should stray. Most pooka own two of them: one to leave at the point of departure and one carried with the pooka to serve as the scent. So long as the pooka remembers to leave one at home and doesn’t lose the one they're carrying, they can eventually sniff their way back. Obviously, they could also be shared between friends so the pooka could find the other person in case they were separated. " #NT!
+ artifact_cat_boots_name:0 "Cat Boots" #NT!
+ artifact_cat_boots_description:0 "Many lifetimes ago, or so the story goes, a shoemaker in London saved the life of a cat after it had run afoul of a large dog. The shoemaker nursed the cat back to health and in exchange, the cat, who was a pooka, helped the shoemaker. For a year and a day, every set of boots that the shoemaker created had the special quality that they made other people ignore the wearer’s presence. Changelings came from around the world to purchase the boots and the shoemaker prospered, retired rich and happy, and eventually the pooka went on his way." #NT!
+ artifact_balthazars_bracelets_name:0 "Balthazar's Bracelets" #NT!
+ artifact_balthazars_bracelets_description:0 "If nothing else, these matching bracelets have a delicate beauty that makes them a special addition to the stash of any pooka who likes pretty, shiny things. However, they also have a very unique benefit when worn. When placed on the wrists, they tighten of their own accord to fit smoothly over the changeling’s forearms, swirling up from wrist to elbow. If the faerie knocks once on the bracelets, they meld to the skin and become ebony tattoos that will shape-shift with the pooka when he changes to his animal mien. In that form, the tattoos simply resemble markings on the animal’s skin." #NT!
+ artifact_cleopatras_wings_name:0 "Cleopatra's Wings" #NT!
+ artifact_cleopatras_wings_description:0 "This handsome, one-of-a-kind choker has a butterfly pendant hanging from a wide gold band that fits around the neck. Made of amber, the butterfly’s wings blush scarlet near the golden body and lighten to a warm orange near the tips. The changeling that wears the necklace gains the ability to fly in a manner similar to that of the Wind Runner cantrip. A pair of shimmery, intangible wings appear at the faerie’s back. The wings themselves have no substance and cannot be damaged. They disappear as soon as the changeling removes the choker." #NT!
+ artifact_osiris_flail_name:0 "Osiris' Flail" #NT!
+ artifact_osiris_flail_description:0 "The first pharaoh of ancient Egypt, Osiris, kept two symbols of power. One of these, his flail, is depicted on the sarcophagi of many of the pharaohs that followed in his footsteps. It is usually shown crossed with a crook over the chest of the dead king. The flail is a short-handled rod from which hangs a group of three leather strips decorated with wooden beads and bone. Reportedly, it recorded all of history in the chimerical carvings upon its bone and wood beads. To tap its extensive wisdom, a person simply asked a question, then touched the flail to her brow. The answer came immediately." #NT!
+ artifact_gauntlets_name:0 "Gauntlets" #NT!
+ artifact_gauntlets_description:0 "Gauntlets are, on the simplest level, a pair of gloves. If that were all they were, however, redcaps wouldn't be quite so fond of them. However, each redcap who makes himself a pair of gauntlets makes sure to stud them with fishhooks, razor blades, broken glass, rusty nails and splinters. No two pairs of gauntlets are alike, and most redcaps swear they can't wear any but their own." #NT!
+ artifact_dry_dust_name:0 "Dry Dust" #NT!
+ artifact_dry_dust_description:0 "What dry dust does is simple. It makes whoever ingests it (though it always must be ingested in conjunction with food or drink, never by itself) ravenously hungry and unquenchably thirsty for a period of an hour. During that time, the victim will attempt to eat anything — and in some cases anyone — he can get his hands on. Dry dust has a variety of uses, ranging from assisting in poisonings to crude practical jokes. Only redcaps seem to know the secret of its manufacture, and the few who have been questioned about it hint darkly at having ground up human bone to make the stuff. They may be telling the truth, or they may just be trying to make their interviewers uncomfortable. Either way, it speaks volumes." #NT!
+ artifact_blooded_gauntlets_name:0 "Blooded Gauntlets" #NT!
+ artifact_blooded_gauntlets_description:0 "Whereas the spikes, protrusions, blades and hooks of a regular pair of gauntlets are merely sharp and dangerous, the ones on a pair of Blooded Gauntlets are actively hungry. When they tear into an opponent, they want to stay there, and they'll do as much damage as they can. Witnesses (and the very occasional survivor) swear that the blades and whatnot actually move to rend the flesh of a target once a punch connects. The hooks snag the Blooded Gauntlet in place while the rest of the equipment goes to work, ripping its way down to bone and beyond. The poor fool who takes a stomach punch from a redcap wearing these is doomed to a few very brief moments of agony, and nothing more." #NT!
+ artifact_grinder_name:0 "The Grinder" #NT!
+ artifact_grinder_description:0 "It cannot be stressed enough that the Grinder can swallow just about anything. Metal? No problem. Dead bodies? Easy as pie. An elephant? It might take a while, but down it goes. And no matter what goes it, the same filling-but-not-very-tasty paste comes out. Of course, the size of the object being tossed in and the raw materials it's made from impact how long it takes for the Grinder to chew it up once and for all, but in the end, if the redcap with the crank is willing to work at it, the device can dispose of pretty much anything imaginable." #NT!
+ artifact_logis_ashes_name:0 "Logi's Ashes" #NT!
+ artifact_logis_ashes_description:0 "#bold As a [character_interaction|E], allows you unleash [GetModifier('POD_county_great_famine_modifier').GetNameWithTooltip] in target's realm.\nGive enemy commanders [GetModifier('logis_ashes_modifier').GetNameWithTooltip] modifier in a war as a commander.#!\nEven a tiny sprinkle of Logi's Ashes has an egregious effect. Once some of the Ashes are scattered, all of the food and drink in the vicinity becomes as dust in the mouths of those who would partake. The effect spreads fast as wildfire, and generally extends for miles. Entire duchies have been laid waste in this manner, as any food that's brought in for up to a year and a day withers in just this fashion." #NT!
+ artifact_winterblade_name:0 "Winterblade" #NT!
+ artifact_winterblade_description:0 "Some say that winter blade is the scythe that will cut away the Summer of the world and plunge all into Winter. It will chill the earth where it touches and render permanently sterile any ground it rests on. A single nick from its blade is enough to wither a tree of centuries' growth, and the merest scratch will drain the life from a victim. Even those whom Winterblade misses feel the chill of its passage in their very bones and they're lucky if they can find the strength to crawl away before the blade returns." #NT!
+ artifact_grapes_of_wrath_name:0 "Grapes of Wrath" #NT!
+ artifact_grapes_of_wrath_description:0 "The Grapes are perfect and a deep, rich purple. They gleam invitingly and flicker with Glamour to any who look closely enough. Those who eat a Grape feel slightly intoxicated and start to lose their inhibitions. The more they eat, the more uninhibited they become. They Grapes contain no actual alcohol, though, so motor skills are not impaired." #NT!
+ artifact_horn_of_hermes_name:0 "Horn of Hermes" #NT!
+ artifact_horn_of_hermes_description:0 "Made of brass, this tarnished treasure looks like a helicon, or a large tuba. Its surface has pock-marks and the insignia of winged boots, Hermes' sigil. Hermes served as messenger of the Unseelie fae of Olympus and was known among mortals as the patron of travelers. He and Dionysus developed a friendship and after Hera's second attempt on Dionysus' life, Hermes gave him the horn." #NT!
+ artifact_halcyon_halter_name:0 "Halcyon Halter" #NT!
+ artifact_halcyon_halter_description:0 "The halcyon was a bird, identified with the kingfisher, that had the ability to soothe the winds and waves when it nested upon the sea during the winter solstice. The bird's legend originated in Greece where sailors threw sweet biscuits into the Mediterranean Sea to draw it and then, in the calmer seas, near their ports. Decorated with the bird's feathers, this halter makes an X across the chest of its wearer, crossing right over the heart where the brightest feathers stand out." #NT!
+ artifact_minoan_mosaic_name:0 "Minoan Mosaic" #NT!
+ artifact_minoan_mosaic_description:0 "The ancient art of mosaics was developed in ancient Greece. It involves setting pieces of colored tile in mortar to form a picture or decorative design. The Minoan Mosaic originated on Crete during the reign of King Minos. According to legend, this treasure shows the image of a faceless person until a changeling gazes into it for an extended period of time. Spending one point of Glamour, the faerie begins to see the face of their one true love appearing amidst the tiles. Narcissus peered into the Minoan Mosaic and was disappointed when the only image he found there was his own. He proclaimed the Mosaic to be a fake. He was apparently proven wrong." #NT!
+ artifact_sands_of_time_name:0 "Sands of Time" #NT!
+ artifact_sands_of_time_description:0 "#bold As a [character_interaction|E], allows you to heal target's wounds.#!\nGathered one grain at a time from the shores of the Cyclades, a band of 200 Greek islands in the Aegean Sea, this sand holds special healing powers. Some satyr scholars postulate that it is actually tiny pieces of Atlantis that have washed up on the shore. As the centuries go by, the Sands become more and more rare." #NT!
+ artifact_syrinx_name:0 "Syrinx" #NT!
+ artifact_syrinx_description:0 "The one and only Syrinx was the first pipe made. Many Kithain have heard of this treasure and fear its appearance because it has the ability to inspire incredible passion in those who hear its song. Because it was born of true love, though, it doesn't trigger generic passions as the Gift of Pan does. Instead it makes those who mourn lost love feel the bittersweet pain more acutely and it urges those who do love to act on their emotions with the target of their affection. The music intensifies all of these feelings and solidifies them forevermore. The one who loves, when they hear the music of Syrinx, will love that person forever and maybe beyond." #NT!
+ artifact_inner_spinners_name:0 "Inner Spinners" #NT!
+ artifact_inner_spinners_description:0 "Creepy, crawly, dark, and dank, the Inner Spinners are instruments of revenge and torture. In essence they are tiny, chimerical arachnids done up in black lacquer and clockwork. When placed in the house or sleeping quarters of their intended victim, they go to work. Once the target is safely dozing, the Spinners scuttle over them and proceed to crawl into their ears, nose, and nostrils. There they spin chimerical webs so thick and sticky that the target may suffocate, choke, or go temporarily deaf." #NT!
+ artifact_gray_vines_name:0 "Gray Vines" #NT!
+ artifact_gray_vines_description:0 "#Bold More likely to [imprison|E] [characters|E] after a successful [siege|E] or [raid|E].#!\nAppearing as a vest the color of fog, the Gray Vines look to be woven in a clever pattern mimicking the growth of wild plants. On closer examination, one can tell that the waistcoat is actually made from twining, thorny vines which, thankfully, remain still." #NT!
+ artifact_gloves_of_night_name:0 "Gloves of Night" #NT!
+ artifact_gloves_of_night_description:0 "While the underfolk can twist their bodies to fit into nearly any crevice or opening, there are times when even the most flexible will find themself stopped by a locked door. For those moments, the Gloves of Night come in handy. By spending a point of Glamour, the flesh within the Gloves can be liquified or solidified at the whim of the wearer. This allows the crawler wearing them to remodel their digits into claws, suction cups, or even lock-picks. The user can also choose the consistency of the mutated fingers, allowing enough rigidity for a fleshy lock-pick to turn tumblers without lacerations." #NT!
+ artifact_wordspider_name:0 "Wordspider" #NT!
+ artifact_wordspider_description:0 "A chimerical, mechanical, methodical breaker of codes and discoverer of secrets. Small enough to fit into the average crawler's palm, a Wordspider looks like it was spun from green and gold glass. Its mandibles are unusually long and careful observation discovers wiry protrusions from each "foot."" #NT!
+ artifact_cold_light_name:0 "Cold Light" #NT!
+ artifact_cold_light_description:0 "#bold Give [GetModifier('cold_light_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E].\nAppearing as a dagger carved from a single, titan icicle, Cold Light shines an eerie blue at all times. It radiates intense cold, causing a bitter chill to strike down all in the vicinity, save its wielder and their allies (who feel a pleasant briskness in the air). Upon command, Cold Light can also increase the intensity of its blaze, blinding all who stand before it." #NT!
+ artifact_brooch_of_the_true_suitor_name:0 "Brooch of the True Suitor" #NT!
+ artifact_brooch_of_the_true_suitor_description:0 "These are simple metal brooches that draw no attention to themselves save for the simplicity and quality of their craftsmanship. To those who know their powers, however, they are invaluable aids in the pursuit of true love. Should a true suitor wear one while confronting the object of their affection, they will seem more relaxed and at ease than they might otherwise." #NT!
+ artifact_highland_blade_name:0 "Highland Blade" #NT!
+ artifact_highland_blade_description:0 "These enchanted blades are growing increasingly rare, for the means of their construction are either lost, or the nockers aren't talking. Most common among them are claymores, though other edged variants exist. So long as the wielder possesses even one point of Glamour, they will not suffer any ill effect on account of terrain." #NT!
+ artifact_rorys_bag_name:0 "Rory's Bag" #NT!
+ artifact_rorys_bag_description:0 "Named for Red Rory, these are all large bags of sturdy construction, though individual models may vary on color and construction. Nevertheless, each is large enough to contain enough food and drink to sustain one adult troll for one day. If a changeling spends one point of Glamour, a full meal of travel rations will appear. Note that these are real rations and not chimerical and as such will offer real sustenance." #NT!
+ artifact_shield_of_virtue_name:0 "Shield of Virtue" #NT!
+ artifact_shield_of_virtue_description:0 "These large, round shields are legendary treasures and no more than two are known to exist. Said to have been the shields of the twin brothers Torvald and Bohr, each has the power to strengthen the will of an honorable troll and offer extraordinary protection in battle. So long as the troll is true to their oaths and their given word, the shield will be weightless in battle and offer extra defense." #NT!
+ artifact_maul_of_thunder_name:0 "Maul of Thunder" #NT!
+ artifact_maul_of_thunder_description:0 "#Bold Can recruit [GetMaA('elemental').GetName] as [men_at_arms|E].#!\nThis mighty maul is said to have been one crafted by trolls under the direct instructions of Thor, to be used should he ever lose Mjolner. It is said to be the mightiest of all troll weapons, and perhaps even the equal to Caliburn, the sword of High King David. Among its rumored powers include the abilities to leap any body of water in a single bound, to level any wall with a single blow, to command the elements, and it is said to emit a shocking boom of thunder whenever it strikes." #NT!
+ artifact_eye_of_opening_name:0 "Keystone" #NT!
+ artifact_eye_of_opening_description:0 "#bold Allow to, when needing to spend Glamour, first spend the Glamour stored in a Glamour Vessel.\nAuto-refill every month.#!\nThe Keystone, also known as the Eye of Opening, is an emerald. Given to the guardianship of the nockers, it opens anything it touches, regardless of whether the object is simply closed or securely locked and warded. It is powerful enough to open portals that lead to other realms, so long as they are not barred from the other side as well. Its true power, though, lies in its ability to open up the hearts of people and as a means of uncovering information that has been locked away or forgotten. It is a stimulator of memories." #NT!
+ artifact_waystone_name:0 "Waystone" #NT!
+ artifact_waystone_description:0 "#bold Allow to, when needing to spend Glamour, first spend the Glamour stored in a Glamour Vessel.\nAuto-refill every month.#!\nThe Waystone, a deep blue sapphire, was given to the Clurichaun. It is both a pathfinder and a locator, leading its holder to the place they need to be or the object to person they need to find. It also has a deeper use in that it will often lead people to their destinies." #NT!
+ artifact_changestone_name:0 "Changestone" #NT!
+ artifact_changestone_description:0 "#bold Allow to, when needing to spend Glamour, first spend the Glamour stored in a Glamour Vessel.\nAuto-refill every month.#!\nThe Changestone, a fiery ruby, was given to the satyrs to guard. It confers the power to change its holder's appearance in the mortal world and tends to alter circumstances in their favor, at times to the detriment of those around them. Its real magic, though, lies in its ability to transform someone into their true self; restoring such a one to their faerie nature. Some believe the gem can even reverse the process of mortal aging." #NT!
+ artifact_shadowstone_name:0 "Shadowstone" #NT!
+ artifact_shadowstone_description:0 "#bold Allow to, when needing to spend Glamour, first spend the Glamour stored in a Glamour Vessel.\nAuto-refill every month.#!\nThe Shadowstone, a black opal, was entrusted to the Menehune of Hawai'i. It has the power to absorb and transform Banality and increases the holder's ability to act "in the shadows," for example by stealth or in darkness. When used by those who understand the true interplay between Banality and Glamour, the gem can purify a changeling, cleansing them of all Banality without the unfortunate side effect of causing Bedlam. In some ways it is the most powerful and dangerous of the four stones, inevitably corrupting all but the strongest of personalities through inuring them to Banality's harshness. It sends dark dreams as well." #NT!
+ artifact_ship_of_the_four_quarters_name:0 "Ship of the Four Quarters" #NT!
+ artifact_ship_of_the_four_quarters_description:0 "#bold Umbra Escaping Time: #P -20%#!\nUmbra Exploration Cost: [piety_i]#P -20%#!#!\nOne of the great treasures of the fae of old, the Ship of the Four Quarters was shaped much like a viking longship and was invested by the Inanimae with the power to control the five elements. It was Conar of House Dougal who oversaw the ship's construction but it was Kyria Vowseeker of House Gwydion who journeyed to the lords of the Great Slow Empires, sealing pacts of assistance with each one. The ship moved freely on the waters; for a short while it could also travel on the land, through rock and tree, through the air or even across fire. Only one person was required to steer the ship, so long as the captain was of noble blood." #NT!
+
+ artifact_warhorse_name:0 "[owner.Custom('WarhorseStoryName')]" #NT!
+ artifact_warhorse_description:0 "A well-trained warhorse that follows every command." #NT!
+ artifact_wolf_name:0 "Wolf" #NT!
+ artifact_wolf_description:0 "Few sounds in nature are more chilling than a wolf's howl. Somehow it encompasses everything humanity fears about the wilderness, as well as everything we ache for." #NT!
+ artifact_bear_name:0 "Bear" #NT!
+ artifact_bear_description:0 "Rearing like a man on her stout legs, the bear dwells in cold, lonely places — heavily forested kingdoms with water (and fish) nearby." #NT!
+ artifact_lion_name:0 "Lion" #NT!
+ artifact_lion_description:0 "With their golden coats and the long, full manes of the males, lions are magnificent creatures." #NT!
+ artifact_tiger_name:0 "Tiger" #NT!
+ artifact_tiger_description:0 "Huge, sleek and lithe, these beautiful animals move swiftly through the jungle shadows, camouflaged by their striped coats." #NT!
+
+ artifact_blood_blade_name:0 "Blood Blade" #NT!
+ artifact_blood_blade_description:0 "A weapon made of blood that causes aggravated damage." #NT!
+ artifact_goblin_sword_name:0 "Goblin Sword" #NT!
+ artifact_goblin_sword_description:0 "A fiery sword that can harm both physical as well as spiritual objects." #NT!
+ artifact_blade_of_stone_name:0 "Blade of Stone" #NT!
+ artifact_blade_of_stone_description:0 "A stone weapon." #NT!
+
+ artifact_kohl_of_the_hawk_lord_name:0 "Kohl of the Hawk Lord" #NT!
+ artifact_kohl_of_the_hawk_lord_description:0 "This never-fading jar of kohl, a sensuous eye makeup, draws on the power of a longdead relic headcloth. The wearer cannot be dazzled or overheated by the sun or fire, and he gains extra Social advantage." #NT!
+ artifact_screens_of_the_harem_name:0 "Screens of the Harem" #NT!
+ artifact_screens_of_the_harem_description:0 "These printed wall hangings draw on relic curtains that covered the beautiful souls in A’aru who composed the harems of dead pharaohs. They are hung where they will be visible: near a campsite, on a laundry line or over a window. Anyone seeing them will immediately look at something else and forget that they came to the place or what they are there for. Mummies use these powerful phylacteries to hide." #NT!
+ artifact_khopesh_of_balance_name:0 "Khopesh of Balance" #NT!
+ artifact_khopesh_of_balance_description:0 "#bold As a [character_interaction|E], allows you to heal target's wounds.#!\nThis phylactery is a powerful weapon of healing. A mummy made it when she performed the Nefesh on a sword and an ancient box of healing ointment that lay in the underworld. When swung at someone while the mummy spends Lifeforce, the sword heals any wounds that they suffer." #NT!
+
+ artifact_ideograph_charm_description:0 "These charms, bearing pictographs of the ancient kaja script, may be made of silk, jade or even paper; jade, however, tends to keep the best." #NT!
+ artifact_fire_watch_charm_name:0 "Fire Watch Charm" #NT!
+ artifact_fire_watch_charm_description:0 "$artifact_ideograph_charm_description$\nThis charm, placed on an item or within a room (no more than about 25 feet by 25 feet), wards flame. While the fire watch charm is in use, normal fires refuse to light here, and the difficulty to soak magical or superhot (propane torch, etc.) fires is reduced. This talisman works only on inanimate objects." #NT!
+ artifact_harmony_charm_name:0 "Harmony Charm" #NT!
+ artifact_harmony_charm_description:0 "$artifact_ideograph_charm_description$\nSo long as the vampire remains calm and makes no threatening or offensive statements or actions, all in the vicinity must use Willpower or P'o to act aggressively toward the vampire." #NT!
+ artifact_joss_charm_name:0 "Joss Charm" #NT!
+ artifact_joss_charm_description:0 "$artifact_ideograph_charm_description$\nThe joss charm may change a failure into a success." #NT!
+ artifact_golden_talons_name:0 "Golden Talons" #NT!
+ artifact_golden_talons_description:0 "These 10 spikes of gold bear kaja characters and fit on most fingers. Upon activation, the spikes stiffen into diamond like claws. The claws aggravated damage and reduce the difficulties of climbing." #NT!
+ artifact_mandarin_mask_name:0 "Mandarin Mask" #NT!
+ artifact_mandarin_mask_description:0 "Kuei-jin mandarins used this featureless jade mask to check on their herds. Upon activation, the Kuei-jin may designate a particular "caste" of mortal he wishes to disguise himself as. Success causes the wearer to appear as a fairly nondescript mortal of the "caste" (businessperson, beggar, tong soldier, etc.) desired. During use, the vampire's aura appears to be that of a mortal; to detect the Kuei-jin's true nature, an onlooker must use an appropriate power (Chi Sight, Aura Perception, etc.). The mask does not allow duplication of a specific individual." #NT!
+ artifact_wayang_sash_name:0 "Wayang Sash" #NT!
+ artifact_wayang_sash_description:0 "This sash is woven in the style of Indonesian garments. By investing the sash with two points of Yin Chi, the vampire can cause the garment to animate, resembling a shadowy, dragonlike creature from the wayang puppet theatre. This creature is sentient, can communicate with its owner (in a sibilant whisper) and makes an excellent spy. It is absolutely silent and can blend, chameleonlike, with any shadow." #NT!
+ artifact_star_shower_blade_name:0 "Star Shower Blade" #NT!
+ artifact_star_shower_blade_description:0 "This wondrous weapon appears in many tales of Japan's Kuei-jin. Only a few heroes among the Bishamon are known to possess one, though. The Star Shower Blade appears as a triplebladed weapon; a user grips it in the middle and whirls it at victims. By spending a point of Chi, the weapon may be "charged". When charged, the weapon may be thrown to a range of 25 yards per point of its wielder's Strength. When thrown, the weapon automatically homes in on its target. Alternatively, while the weapon is in flight, the wielder can utter a command word to split the weapon into three edged shards. Each of these shards may strike separately at the same or different targets. Best of all, once thrown (hit or miss), the weapon (or its pieces) boomerangs back to the wielder's hand, instantly re-forming into the Star Shower Blade." #NT!
+
+ artifact_soultaker_name:0 "Soultaker" #NT!
+ artifact_soultaker_description:0 "#bold Unlock $EXECUTION_SOULTAKER$ [executions|E].#!\nForged at the bloody height of the war, Soultaker is an obscene and terrible weapon. The willing soul of a demon — his name long since forgotten — was bound into the black metal, where he could use this power upon anyone touched by the blade. The sword’s touch drained the energy and life from anyone it wounded — and if it killed a victim, his soul would be pulled from his corpse and imprisoned within the blade, there to be tortured and devoured by the original demon. Mortals and angels alike fell before Soultaker, their Faith torn apart for his sustenance.\nThen the sword’s bearer used it to slay another demon, and the sword changed. The two demonic souls fought for dominance within the blade, neither able to gain an advantage. Over time, their souls began to bleed into each other, creating a single fractured personality. As demonic infighting grew more serious in the war, more demons fell to Soultaker, and their souls became absorbed into a single insane entity — a being that called itself Legion. Soultaker was lost during the final days of the war, hidden deep in a forgotten weapons cache, and without new victims to devour for Faith, Legion grew weak and thin. Now it can think of nothing but food — Faith — and it will do anything to devour fresh souls once more." #NT!
+ artifact_the_black_throne_of_genhinnom_name:0 "The Black Throne of Genhinnom" #NT!
+ artifact_the_black_throne_of_genhinnom_description:0 "Created by Lucifer, this throne of black obsidian and siyr sat at the center of the Black Cathedral, the rebel city of Genhinnom, in the time of the war. From this throne, Lucifer commanded his legions, consulted with his generals and wept for the fate of humanity and the fall of the Elohim. Genhinnom was destroyed by the angels after the rebels were sent to Hell, but a city of this power, this beauty, can never be completely destroyed. Parts of the Black Cathedral still exist in different levels of reality, and the black throne, the 20- foot-tall chair of commanders, can still be found.\nThe throne is a massive chair, made of stone and metal. It’s incredibly uncomfortable to sit in, but that’s the price you have to pay for power — and the throne is powerful. It allows the demon sitting in the chair to command legions of followers — hundreds or thousands of loyal mortals that will do almost anything in your service." #NT!
+ artifact_soulforge_name:0 "The Soulforge" #NT!
+ artifact_soulforge_description:0 "#bold As a [character_interaction|E], allows you to sacrifice a [GetTrait('truefallen').GetName( GetPlayer )] to kill every one in target's realm.#!\nThe Soulforge is a large, ornately angular cage of copper and other metals, engraved on every surface with runes and sigils that can no longer be translated. Hooks and spikes line the inner part of the cage, while four wide, coiled flanges radiate from the top.\nThis terrible device was crafted by Schatenkoji the Ghostsmith, master of death and invention, one of the great relic-makers of the Ebon Legion during the Age of Wrath. It allows for the slaughter of hundreds of mortals at the user’s whim. The souls of those dead can then be collected and enslaved in demonic relics." #NT!
+
+ artifact_yin_artifact_name:0 "Yin [newly_created_artifact.GetNameNoTooltip]" #NT!
+
+ artifact_javaniel_key_name:0 "Javaniel's Key" #NT!
+ artifact_javaniel_key_description:0 "#bold It's a key, it probably unlocks something...#!\nThis appears to be a small, antique, translation disk. What it is supposed to translate though is unclear since only the name "Javaniel" can be read on it." #NT!
+ artifact_javaniel_journal_name:0 "Javaniel's Journal" #NT!
+ artifact_javaniel_journal_description:0 "#bold If unlocked, opens unique content.#!\nA rounded tome, its cover appears to be made of two thin sheets of amber with multiple inclusions, giving it a mottled look. They enclose pages of beaten gold. The only easily readable part is on the first page :#X "I am the key. Within the heart of my twin shall I reveal the truth. No more shall our father’s lies entrap us. All shall now know the black rot that lies behind his fair face. Read of his betrayal and weep for us all." #! " #NT!
+ artifact_ivory_tablets_name:0 "Ivory Tablets" #NT!
+ artifact_ivory_tablets_description:0 "#bold Alone, they serve no purpose but, if combined with their counterpart, they might be the key to something...#!\nA set of old Ivory Tablets that seem almost impervious to damage. There is a story written in a proto Chinese dialect engraved on them but it doesn't make much sense on its own, as if lacking a key to truly understand it." #NT!
+ artifact_dawn_amulet_name:0 "Dawn Amulet" #NT!
+ artifact_dawn_amulet_description:0 "A small jade amulet used by a lineage of Wan Kuei dedicated to bring Zao-Lat to justice. It can shield an undead from the sun for a couple of minutes." #NT!
+ artifact_accursed_dust_name:0 "Accursed Dust" #NT!
+ artifact_accursed_dust_description:0 "An alchemical poison manufactured by the Banu Haqim. When ingested, the victim quickly ends up paralyzed." #NT!
+ artifact_ancestor_talisman_name:0 "Ancestor's Talisman" #NT!
+ artifact_ancestor_talisman_description:0 "#bold Grants immunity to most mental powers.#!\nA gold pendant cast into the form of Haqim's name in Arabic. There are only four of those existing and they are said to embolden their wearer to live up to Haqim's name while shielding them against foul magic that could make them stray from their path." #NT!
+ artifact_arrows_vengeance_name:0 "Arrows of Vengeance" #NT!
+ artifact_arrows_vengeance_description:0 "Made of hawthorn wood with fire hardened points, these five arrows are enchanted to always seek out the heart of their foe." #NT!
+ artifact_book_grave_war_name:0 "Book of the Grave-War" #NT!
+ artifact_book_grave_war_description:0 "A strange book alternating between German, ancient Greek and Minoan, this book is physically unremarkable, appearing to be an illuminated manuscript of poor quality.\nThe book is divided into seven cantos. Each canto varies wildly in length and structure, and some are entirely in verse form. Other cantos are part poem and part prose, while others are entirely prose. Each canto covers an age in the history of the world and describes the jyhad during that period." #NT!
+ artifact_khazar_diary_name:0 "Khazar's Diary" #NT!
+ artifact_khazar_diary_description:0 "Apparently authored by a Jew around the start of the current era, the Khazar's Diary is rumored to contain a ritual that will allow the boundaries of the physical world and the underworld to be erased." #NT!
+ artifact_camilla_crown_name:0 "Camilla's Laurel Crown" #NT!
+ artifact_camilla_crown_description:0 "The crown of the most politically powerful vampire since Caine, Camilla's laurel crown has withered with time but is still a powerful reminder of an era of true Ventrue leadership." #NT!
+ artifact_final_day_name:0 "Chronicle of the Final Day" #NT!
+ artifact_final_day_description:0 "A chronicle of the Pharaoh Akhenaton and his attempt of abolishing the night. Helped by a cabal of powerful wizards, he nearly suceeded until an unlikely alliance between the Followers of Set and the Children of Osiris stopped him." #NT!
+ artifact_testament_seterpenre_name:0 "Testament of Seterpenre" #NT!
+ artifact_testament_seterpenre_description:0 "A chronicle describing the Setites' version of Alexander the Great's story. Claiming him to be the mythical Son of Set, his conquests ushered an age of glory for the Followers of Set the likes they never saw since." #NT!
+ artifact_travels_fedoso_name:0 "Travels of Fedoso" #NT!
+ artifact_travels_fedoso_description:0 "Written by a magus of the Order of Hermes, this book tells of a long and arduous, but ultimately rewarding, climb to a mystical mountaintop. Taken as allegory by many Tremere, they see this book as a reflection of their own place within the pyramidal hierarchy of their clan." #NT!
+ artifact_coin_muhammad_name:0 "Golden Coin of Muhammad" #NT!
+ artifact_coin_muhammad_description:0 "Gifted by Salah al-Din to the only worthy one, a beggar boy that would became Ibn Ja'far, this coin shines with an otherworldly luster. It is known to reinforce the true faith of those possessing it, but can not grant it itself, perhaps as a test to always be wielded only by a worthy one." #NT!
+ artifact_baizetu_fragment_name:0 "Fragment of the Bai Ze Tu" #NT!
+ artifact_baizetu_fragment_description:0 "#bold Five fragments are needed to reconstruct the book.#!\nA legendary grimoire authored by none other than the god-like Yellow Emperor that is said to contain the secrets of all 11 520 types of supernatural creatures.\nWith the full tome in their hands, one would know their foes’ every strength and weakness, and with that wisdom would be unstoppable." #NT!
+
+
+
+
+
+

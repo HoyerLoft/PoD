@@ -1,0 +1,24 @@
+﻿l_russian:
+
+ POD_mummy_command_effigy.100.t:0 "Your Creature Effigies Return" #NT!
+ POD_mummy_command_effigy.100.desc:0 "Your effigies have returned from their task with a chest full of gold." #NT!
+ POD_mummy_command_effigy.100.option.a:0 "Profit" #NT!
+
+ POD_mummy_command_effigy.200.t:0 "Your Creature Effigies Return" #NT!
+ POD_mummy_command_effigy.200.desc:0 "Your effigies have returned from their task, having spread your name far and wide." #NT!
+ POD_mummy_command_effigy.200.option.a:0 "The world will know who I am." #NT!
+
+ POD_mummy_command_effigy.300.t:0 "Your Creature Effigies Return" #NT!
+ POD_mummy_command_effigy.300.desc:0 "Your effigies have returned from their task, having lent their strength to your cause." #NT!
+ POD_mummy_command_effigy.300.option.a:0 "They will serve me." #NT!
+
+ POD_mummy_command_effigy.400.t:0 "Your Creature Effigies Return" #NT!
+ POD_mummy_command_effigy.400.desc:0 "Your effigies have returned from their task, having helped your family grow stronger." #NT!
+ POD_mummy_command_effigy.400.option.a:0 "My line grows stronger with each generation." #NT!
+
+ POD_mummy_command_effigy.500.t:0 "Your Creature Effigies Return" #NT!
+ POD_mummy_command_effigy.500.desc:0 "Your creature effigies return from observing [target.GetFirstName]. They will share what knowledge they have learned." #NT!
+ POD_mummy_command_effigy.500.option.a:0 "Knowledge is Power" #NT!
+
+ POD_mummy_command_effigy.510.desc:0 "Your creature effigies return from observing [target.GetFirstName], having learned nothing of use." #NT!
+ POD_mummy_command_effigy.510.option.b:0 "Return to [target.GetFirstName] for further observation" #NT!

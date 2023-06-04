@@ -1,0 +1,1340 @@
+﻿l_russian:
+ #Choleric: Potence #NT!
+ lethal_body_perk_name:0 "Смертносное Тело" #NT!
+ soaring_leap_perk_name:0 "Стремительный прыжок" #NT!
+ prowess_perk_name:0 "Доблесть" #NT!
+ brutal_feed_perk_name:0 "Брутальное Кормление" #NT!
+ spark_of_rage_perk_name:0 "Искра Ярости" #NT!
+ uncanny_grip_perk_name:0 "Сверхъестественная Хватка" #NT!
+ draught_of_might_perk_name:0 "Глоток Мощи" #NT!
+ earthshock_perk_name:0 "Землетрясение" #NT!
+ fist_of_caine_perk_name:0 "Кулак Каина" #NT!
+ potenceadvanced_perk_name:0 "Мастерство Могущества" #NT!
+
+ #Choleric: Celerity #NT!
+ cats_grace_perk_name:0 "Кошачья Ловкость" #NT!
+ rapid_reflexes_perk_name:0 "Быстрые рефлексы" #NT!
+ fleetness_perk_name:0 "Быстрота" #NT!
+ blink_perk_name:0 "Блик" #NT!
+ traversal_perk_name:0 "Обход" #NT!
+ draught_of_elegance_perk_name:0 "Глоток элегантности" #NT!
+ unerring_aim_perk_name:0 "Безошибочная цель" #NT!
+ lightning_strike_perk_name:0 "Молниеностный Удар" #NT!
+ split_second_perk_name:0 "Доля Секунды" #NT!
+ celerityadvanced_perk_name:0 "Мастерство Стремильности" #NT!
+
+ #Choleric: Vicissitude #NT!
+ malleable_visage_perk_name:0 "Податливый облик" #NT!
+ transmogrify_the_mortal_clay_perk_name:0 "Преобразование смертной глины" #NT!
+ rend_the_osseous_frame_perk_name:0 "Разрыв Костного Каркаса" #NT!
+ awaken_the_zulo_shape_perk_name:0 "Пробуждение Формы Зуло" #NT!
+ protean_flesh_perk_name:0 "Превращение Плоти" #NT!
+ bloodform_perk_name:0 "Форма Крови" #NT!
+ the_body_impolitic_perk_name:0 "Тело Неразумно" #NT!
+ vicissitudeadvanced_perk_name:0 "Мастерство Изменчивости" #NT!
+
+ #Melancholy: Fortitude #NT!
+ resilence_perk_name:0 "Стойкость" #NT!
+ unswayable_mind_perk_name:0 "Непоколебимый разум" #NT!
+ toughness_perk_name:0 "Крепость" #NT!
+ enduring_beasts_perk_name:0 "Выносливые звери" #NT!
+ defy_bane_perk_name:0 "Игнорируя Проклятие" #NT!
+ fortify_the_inner_facade_perk_name:0 "Укрепить Внутренний Фасад" #NT!
+ draught_of_endurance_perk_name:0 "Глоток Выносливости" #NT!
+ spiritual_reservoir_perk_name:0 "Духовный Резервуар" #NT!
+ flesh_of_marble_perk_name:0 "Мраморная Плоть" #NT!
+ prowess_from_pain_perk_name:0 "Доблесть от Боли" #NT!
+ fortitudeadvanced_perk_name:0 "Мастерство Стойкости" #NT!
+ blessing_of_vitality_perk_name:0 "Благословение Живучести" #NT!
+ knights_bane_perk_name:0 "Проклятие Рыцаря" #NT!
+ curse_the_laurel_perk_name:0 "Проклятие Лавра" #NT!
+ wrath_of_the_martyr_perk_name:0 "Гнев Мученика" #NT!
+ armoured_flesh_perk_name:0 "Бронированная плоть" #NT!
+ resilient_mind_perk_name:0 "Стойкий Разум" #NT!
+
+ #Melancholicy: Obfuscate #NT!
+ cloak_of_shadows_perk_name:0 "Покров Тени" #NT!
+ silence_of_death_perk_name:0 "Молчание Смерти" #NT!
+ unseen_passage_perk_name:0 "Незримое Присутствие" #NT!
+ mask_of_a_thousand_faces_perk_name:0 "Маска Тысячи Лиц" #NT!
+ ghost_in_the_machine_perk_name:0 "Призрак Механизма" #NT!
+ conceal_perk_name:0 "Сокрытие" #NT!
+ vanish_perk_name:0 "Исчезновение" #NT!
+ cloak_the_gathering_perk_name:0 "Cloak the Gathering" #NT!
+ impostors_guise_perk_name:0 "Личина Cамозванца" #NT!
+ obfuscateadvanced_perk_name:0 "Мастерство Затемнения" #NT!
+
+ #Melancholy: Oblivion #NT!
+ shadow_cloak_perk_name:0 "Теневой Плащ" #NT!
+ oblivions_sight_perk_name:0 "Взгляд забвения" #NT!
+ ashes_to_ashes_perk_name:0 "Прах к Праху" #NT!
+ shadow_cast_perk_name:0 "Отбрасываемая Тень" #NT!
+ shadow_perspective_perk_name:0 "Теневая Перспектива" #NT!
+ touch_of_oblivion_perk_name:0 "Касание Забвения" #NT!
+ stygian_shroud_perk_name:0 "Завеса Стигии" #NT!
+ shadow_step_perk_name:0 "Шаг Тени" #NT!
+ tenebrous_avatar_perk_name:0 "Теневой Аватар" #NT!
+ oblivionadvanced_perk_name:0 "Мастерство Забвения" #NT!
+
+ #Melancholy: Visceratika #NT!
+ skinofchameleon_perk_name:0 "Кожа Хамелеона" #NT!
+ scrythehearthstone_perk_name:0 "Наблюдение за Домашним Очагом" #NT!
+ bondwiththemountain_perk_name:0 "Связь с Горой" #NT!
+ armorofterra_perk_name:0 "Броня Терры" #NT!
+ flowwiththemountain_perk_name:0 "Движение в Горе" #NT!
+ visceratikaadvanced_perk_name:0 "Мастерство Висцератики" #NT!
+ darkstatue_perk_name:0 "Темная Статуя" #NT!
+ rockheart_perk_name:0 "Каменное Сердце" #NT!
+ crawlingchamber_perk_name:0 "Ходячий Замок" #NT!
+
+ #Melancholy: Chimerstry #NT!
+ ignis_fatuus_perk_name:0 "Игнис Фатуус" #NT!
+ fata_morgana_perk_name:0 "Фата Моргана" #NT!
+ dweomer_perk_name:0 "Двеомер" #NT!
+ apparition_perk_name:0 "Явление" #NT!
+ permanency_perk_name:0 "Постоянство" #NT!
+ horrid_reality_perk_name:0 "Ужасная Реальность" #NT!
+ chimerstryadvanced_perk_name:0 "Мастерство Химерии" #NT!
+
+ #Melancholy: Necromancy #NT!
+ cappadociannecromancyadvanced_perk_name:0 "Мастерство Некромантии Каппадокийцев" #NT!
+ giovanninecromancyadvanced_perk_name:0 "Мастерство Некромантии Джованни" #NT!
+ harbingernecromancyadvanced_perk_name:0 "Мастерство Некромантии Собирателей" #NT!
+ lamianecromancyadvanced_perk_name:0 "Мастерство Некромантии Ламий" #NT!
+ impundulunecromancyadvanced_perk_name:0 "Мастерство Некромантии Импудулу" #NT!
+ nagarajanecromancyadvanced_perk_name:0 "Мастерство Некромантии Нагараджа" #NT!
+ insight_perk_name:0 "Вглядываясь сквозь Завесу" #NT!
+ summon_soul_perk_name:0 "Призыв Души" #NT!
+ compel_soul_perk_name:0 "Принуждение Души" #NT!
+ haunting_perk_name:0 "Привязывание" #NT!
+ torment_perk_name:0 "Мучение" #NT!
+ seal_of_abamixtra_perk_name:0 "Печать Абамикстры" #NT!
+ awaken_the_homoncular_servant_perk_name:0 "Пробуждение Гомункулярного Приспешника" #NT!
+ shambling_hordes_perk_name:0 "Ковыляющие Орды" #NT!
+ soul_stealing_perk_name:0 "Зловещий Экзорцизм" #NT!
+ necromancy_possession_perk_name:0 "Одержимость Демоном" #NT!
+ shroudsight_perk_name:0 "Взгляд Завесы" #NT!
+ lifeless_tongues_perk_name:"Наречие Темных Королевств" #NT!
+ touch_the_nether_perk_name:0 "Прикоснись к Преисподней" #NT!
+ ex_nihilo_perk_name:"Экс Нигило" #NT!
+ shroud_mastery_perk_name:"Мастерство Завесы" #NT!
+ necromancy_ashes_to_ashes_perk_name:0 "Пепел к Пеплу" #NT!
+ rigor_mortis_perk_name:0 "Трупное Окоченение" #NT!
+ ashen_ladys_embrace_perk_name:0 "Объятие Леди Пепла" #NT!
+ gift_of_melancholia_perk_name:0 "Дар Меланхолии" #NT!
+ necromancy_dust_to_dust_perk_name:0 "Прах к Праху" #NT!
+ mortuus_in_vultus_perk_name:0 "Мертвый на Вид" #NT!
+ algor_mortis_perk_name:0 "Алгоритм Смерти" #NT!
+ intimations_of_mortality_perk_name:0 "Признаки Смертности" #NT!
+ benedictio_mortem_perk_name:0 "Благословение Смерти" #NT!
+ benedictio_vitae_perk_name:0 "Благословение Жизни" #NT!
+ calvaria_emissius_perk_name:0 "Выброшенный Череп" #NT!
+ consilium_mortuus_perk_name:0 "Консилиум Смерти" #NT!
+ ammorsus_vicarius_perk_name:0 "Бессмертный Викарий" #NT!
+ exedo_animus_perk_name:0 "Подтверждение Жизни" #NT!
+ degulo_perk_name:0 "Поглощение" #NT!
+ whispers_of_the_soul_perk_name:0 "Шептания Души" #NT!
+ kiss_of_the_dark_mother_perk_name:0 "Поцелуй Темной Матери" #NT!
+ dark_humours_perk_name:0 "Темные Гуморы" #NT!
+ caul_of_the_neverborn_perk_name:0 "Сальник Нерожденного" #NT!
+ lament_of_dhainu_perk_name:0 "Плач Д'хайну" #NT!
+ tend_the_body_garden_perk_name:0 "Забота о Саде Тела" #NT!
+ witchs_fruit_perk_name:0 "Плод Ведьмы" #NT!
+ raise_the_green_one_perk_name:0 "Взращивание Зеленя" #NT!
+ wails_and_whispers_perk_name:0 "Вопли и Шепот" #NT!
+ cthonic_womb_perk_name:0 "Хтоническое Чрево" #NT!
+ eyes_of_the_wraith_perk_name:0 "Глаза Призрака" #NT!
+ aura_of_decay_perk_name:0 "Аура Гниения" #NT!
+ soul_feasting_perk_name:0 "Празднество Души" #NT!
+ curse_of_the_maelstrom_perk_name:0 "Проклятие Омута" #NT!
+ nightcry_perk_name:0 "Ночной Вопль" #NT!
+ song_of_the_dead_perk_name:0 "Песня Мертвых" #NT!
+ summon_wisp_perk_name:0 "Призвать Пучок" #NT!
+ harrowing_perk_name:0 "Терзание" #NT!
+ phantasms_perk_name:0 "Фантазмы" #NT!
+ spectral_menacing_perk_name:0 "Спектральная Угроза" #NT!
+ touch_of_death_perk_name:0 "Касание Смерти" #NT!
+ reveal_the_catene_perk_name:0 "Раскрытие Катены" #NT!
+ tread_upon_the_grave_perk_name:0 "Ступить в Могилу" #NT!
+ death_knell_perk_name:0 "Похоронный звон" #NT!
+ ephemeral_binding_perk_name:0 "Эфемерная Связь" #NT!
+
+ #Phlegmatic: Auspex #NT!
+ heightened_senses_perk_name:0 "Повышенное Восприятие" #NT!
+ sense_the_unseen_perk_name:0 "Видя Невидимое" #NT!
+ premonition_perk_name:0 "Предчувствие" #NT!
+ scry_the_soul_perk_name:0 "Взгляд в Душу" #NT!
+ share_the_senses_perk_name:0 "Разделение Чувств" #NT!
+ spirits_touch_perk_name:0 "Прикосновение Духа" #NT!
+ clairvoyance_perk_name:0 "Ясновидение" #NT!
+ possession_perk_name:0 "Одержимость" #NT!
+ telepathy_perk_name:0 "Телепатия" #NT!
+ psychic_projection_perk_name:0 "Психическая Защита" #NT!
+ auspexadvanced_perk_name:0 "Мастерство Прорицания" #NT!
+
+ #Phlegmatic: Dominate #NT!
+ cloud_memory_perk_name:0 "Ненадежная Память" #NT!
+ compel_perk_name:0 "Побуждение" #NT!
+ mesmerize_perk_name:0 "Гипноз" #NT!
+ dementation_perk_name:0 "Помешательство" #NT!
+ the_forgetful_mind_perk_name:0 "Забывчивый Разум" #NT!
+ submerged_directive_perk_name:0 "Глубинная Директива" #NT!
+ SCHEME_SUBMERGED_DIRECTIVE:1 "[GetPerk('submerged_directive_perk').GetName(GetPlayer)]: $VALUE|+0=$" #NT!
+ rationalize_perk_name:0 "Обоснование" #NT!
+ mass_manipulation_perk_name:0 "Массовая Манипуляция" #NT!
+ terminal_decree_perk_name:0 "Окончательный Указ" #NT!
+ deep_memories_perk_name:0 "Глубинные Воспоминания" #NT!
+ conditioning_perk_name:0 "Обусловливание" #NT!
+ dominateadvanced_perk_name:0 "Мастерство Доминирования" #NT!
+ will_conquers_perk_name:0 "Обуздание Воли" #NT!
+ rewrite_personality_perk_name:0 "Переписывание Личности" #NT!
+ concord_of_submission_perk_name:0 "Добровольное Подчинение" #NT!
+ mold_humours_perk_name:0 "Формирование Гумора" #NT!
+ speak_through_the_blood_perk_name:0 "Зов Через Поколения" #NT!
+
+ #Phlegmatic: Temporis #NT!
+ time_sense_perk_name:0 "Чувство Времени" #NT!
+ internal_recursion_perk_name:0 "Внутренняя Рекурсия" #NT!
+ ramble_on_perk_name:0 "Временное Запутывание" #NT!
+ lapse_perk_name:0 "Замедление" #NT!
+ cowalker_perk_name:0 "Напарник" #NT!
+ subjective_suspension_perk_name:0 "Субъективная Приостановка" #NT!
+ clothos_gift_perk_name:0 "Дар Клото" #NT!
+ frozen_object_perk_name:0 "Замороженный Объект" #NT!
+ temporisadvanced_perk_name:0 "Мастерство Темпориса" #NT!
+ temporis_insight_perk_name:0 "Постижение Времени" #NT!
+ kiss_of_lachesis_perk_name:0 "Поцелуй Лахесис" #NT!
+ hall_of_hades_court_perk_name:0 "Зал Суда Аида" #NT!
+ clios_kiss_perk_name:0 "Поцелуй Клото" #NT!
+ temporal_understanding_perk_name:0 "Темпоральное Понимание" #NT!
+ summon_history_perk_name:0 "Призыв Истории" #NT!
+
+ #Phlegmatic: Dementation #NT!
+ incubus_passion_perk_name:0 "Страсть Инкуба" #NT!
+ passion_perk_name:0 "Страсть" #NT!
+ the_haunting_perk_name:0 "Преследование" #NT!
+ eyes_of_chaos_perk_name:0 "Глаза Хаоса" #NT!
+ silence_the_sane_mind_perk_name:0 "Молчание Здравого Разума" #NT!
+ fire_voice_perk_name:0 "Огненный Голос" #NT!
+ total_insanity_perk_name:0 "Полное Безумие" #NT!
+ dementationadvanced_perk_name:0 "Мастерство Помешательства" #NT!
+ stain_the_soul_perk_name:0 "Запятнать Душу" #NT!
+ childmind_perk_name:0 "Детский Разум" #NT!
+ cobble_the_road_perk_name:0 "Булыжная Дорога" #NT!
+ prison_of_the_mind_perk_name:0 "Тюрьма Рассудка" #NT!
+ lunatic_eruption_perk_name:0 "Безумное Извержение" #NT!
+ touch_of_the_saints_perk_name:0 "Касание Святых" #NT!
+
+ #Phlegmatic: Dementation #NT!
+ the_missing_voice_perk_name:0 "Пропавший Голос" #NT!
+ phantom_speaker_perk_name:0 "Фантомный Оратор" #NT!
+ toreadors_bane_perk_name:0 "Проклятие Тореадора" #NT!
+ madrigal_perk_name:0 "Мадригал" #NT!
+ sirens_beckoning_perk_name:0 "Призыв Сирены" #NT!
+ mosh_pit_perk_name:0 "Мош Пит" #NT!
+ primal_scream_perk_name:0 "Первобытный Крик" #NT!
+ melpomineeadvanced_perk_name:0 "Мастерство Мельпомении" #NT!
+ blessed_audience_perk_name:0 "Благословенная Публика" #NT!
+ shattering_crescendo_perk_name:0 "Сокрушительное Крещендо" #NT!
+ persistent_echo_perk_name:0 "Постоянное Эхо" #NT!
+ haunting_melody_perk_name:0 "Навязчивая Мелодия" #NT!
+ calling_song_perk_name:0 "Зовущая Песня" #NT!
+
+ #Sanguine: Blood Sorcery #NT!
+ corrosive_vitae_perk_name:0 "Едкое Витэ" #NT!
+ a_taste_of_blood_perk_name:0 "Вкус Крови" #NT!
+ extinguish_vitae_perk_name:0 "Увядание Витэ" #NT!
+ blood_of_potency_perk_name:0 "Blood of Potency" #NT!
+ scorpions_touch_perk_name:0 "Касание Скорпиона" #NT!
+ theft_of_vitae_perk_name:0 "Кража Витэ" #NT!
+ baals_curse_perk_name:0 "Проклятие Баала" #NT!
+ cauldron_of_blood_perk_name:0 "Котел Крови" #NT!
+ bloodsorceryadvanced_perk_name:0 "Мастерство Магии Крови" #NT!
+
+ #Sanguine: Presence #NT!
+ awe_perk_name:0 "Благоговение" #NT!
+ daunt_perk_name:0 "Устрашение" #NT!
+ eyes_of_the_serpent_perk_name:0 "Глаза змеи" #NT!
+ lingering_kiss_perk_name:0 "Долгий Поцелуй" #NT!
+ dread_gaze_perk_name:0 "Ужасающий Взгляд" #NT!
+ entrancement_perk_name:0 "Восторг" #NT!
+ irresistable_voice_perk_name:0 "Неотразимый голос" #NT!
+ summon_perk_name:0 "Призыв" #NT!
+ majesty_perk_name:0 "Величие" #NT!
+ presenceadvanced_perk_name:0 "Мастерство Присутствия" #NT!
+ ironclad_command_perk_name:0 "Непререкаемая Команда" #NT!
+ cooperation_perk_name:0 "Сотрудничество" #NT!
+ phobia_perk_name:0 "Фобия" #NT!
+ mask_of_empathy_perk_name:0 "Маска Эмпатии" #NT!
+ bloodlust_perk_name:0 "Жажда Крови" #NT!
+ perfect_world_perk_name:0 "Идеальный Мир" #NT!
+
+ #Animal: Protean #NT!
+ eyes_of_the_beast_perk_name:0 "Глаза Зверя" #NT!
+ weight_of_the_feather_perk_name:0 "Вес пера" #NT!
+ feral_weapons_perk_name:0 "Звериное Оружие" #NT!
+ earth_meld_perk_name:0 "Заземление" #NT!
+ shapechange_perk_name:0 "Смена Формы" #NT!
+ metamorphosis_perk_name:0 "Метаморфоза" #NT!
+ mist_form_perk_name:0 "Форма Тумана" #NT!
+ the_unfettered_heart_perk_name:0 "Раскованное сердце" #NT!
+ proteanadvanced_perk_name:0 "Мастерство Превращения" #NT!
+
+ #Animal: Animalism #NT!
+ bond_famulus_perk_name:0 "Привязать Фамильяра" #NT!
+ sense_the_beast_perk_name:0 "Чувство Зверя" #NT!
+ feral_whispers_perk_name:0 "Дикий Шепот" #NT!
+ animal_succulence_perk_name:0 "Животная Сытность" #NT!
+ quell_the_beast_perk_name:0 "Усмирение Зверя" #NT!
+ call_of_the_wild_perk_name:0 "Зов Природы" #NT!
+ subsume_the_spirit_perk_name:0 "Подчинение Духа" #NT!
+ unliving_hive_perk_name:0 "Неживой Рой" #NT!
+ tongue_of_beasts_perk_name:0 "Язык Зверей" #NT!
+ drawing_out_the_beast_perk_name:0 "Извлекая Зверя" #NT!
+ animal_dominion_perk_name:0 "Царство Зверей" #NT!
+ send_the_eighth_plague_perk_name:0 "Наслать Восьмую чуму" #NT!
+ crimson_fury_perk_name:0 "Багровая Ярость" #NT!
+ eyes_of_the_forest_perk_name:0 "Очи Леса" #NT!
+ plague_of_beasts_perk_name:0 "Чума Зверей" #NT!
+ animalismadvanced_perk_name:0 "Мастерство Анимализма" #NT!
+
+ #Melancholy: Obtenebration #NT!
+ eyes_of_the_abyss_perk_name:0 "Глаза бездны" #NT!
+ shadow_play_perk_name:0 "Игра Теней" #NT!
+ nocturne_perk_name:0 "Ноктюрн" #NT!
+ night_shades_perk_name:0 "Ночные Тени" #NT!
+ arms_of_ahriman_perk_name:0 "Объятия Аримана" #NT!
+ tenebrous_avatar_obtenebration_perk_name:0 "Теневой Аватар" #NT!
+ the_darkness_within_perk_name:0 "Тьма внутри" #NT!
+ oubliette_perk_name:0 "Ублиет" #NT!
+ walk_the_abyss_perk_name:0 "Гуляя по Бездне" #NT!
+ dark_whispers_perk_name:0 "Темные Шептания" #NT!
+ drain_the_life_perk_name:0 "Оттенение Жизни" #NT!
+ god_in_darkness_perk_name:0 "Бог во Тьме" #NT!
+ obtenebrationadvanced_perk_name:0 "Мастерство Оттенения" #NT!
+ shadowstep_perk_name:0 "Шаг в Тень" #NT!
+ aegis_of_shadows_perk_name:0 "Ловкость Теней" #NT!
+ shadow_twin_perk_name:0 "Теневой Двойник" #NT!
+ darksight_perk_name:0 "Темное Зрение" #NT!
+ devour_all_hope_perk_name:0 "Поглощение Всей Надежды" #NT!
+ ahrimans_demesne_perk_name:0 "Царство Ахримана" #NT!
+
+ #Animal: Spiritus #NT!
+
+ speak_with_spirits_perk_name:0 "Беседа с Духами" #NT!
+ aid_from_spirits_perk_name:0 "Помощь Духов" #NT!
+ summon_spirit_beasts_perk_name:0 "Призвать Духов Зверей" #NT!
+ aspect_of_the_beast_perk_name:0 "Аспект Зверя" #NT!
+ engling_fury_perk_name:0 "Всепоглощающая Ярость" #NT!
+ beastly_hunger_perk_name:0 "Животный Голод" #NT!
+ the_wild_beast_perk_name:0 "Дикий Зверь" #NT!
+ spiritusadvanced_perk_name:0 "Мастерство Шаманизма" #NT!
+ the_spirit_beast_perk_name:0 "Духовный Зверь" #NT!
+
+ #Animal: Abombwe #NT!
+
+ predators_communion_perk_name:0 "Общение Хищника" #NT!
+ invoking_the_predator_perk_name:0 "Призывая хищника" #NT!
+ taming_the_beast_perk_name:0 "Урощая Зверя" #NT!
+ unseen_hibernation_perk_name:0 "Невидимая Спячка" #NT!
+ whistling_up_the_beast_perk_name:0 "Манок для Зверя" #NT!
+ power_from_darkness_perk_name:0 "Сила из Тьмы" #NT!
+ predators_transformation_perk_name:0 "Трансформация Хищника" #NT!
+ stalking_darkness_perk_name:0 "Крадущаяся тьма" #NT!
+ predators_mastery_perk_name:0 "Мастерство Хищника" #NT!
+ incarnate_darkness_perk_name:0 "Воплощенная тьма" #NT!
+ abombweadvanced_perk_name:0 "Мастерство Абомбве" #NT!
+
+ #Choleric: Valeren #NT!
+
+ obeah_panacea_perk_name:0 "Панацея" #NT!
+ sense_death_perk_name:0 "Чувство Смерти" #NT!
+ sense_cycle_perk_name:0 "Чувство Цикла" #NT!
+ auguring_the_sickness_perk_name:0 "Предвещающий Хворь" #NT!
+ gift_of_sleep_perk_name:0 "Дар Сновидения" #NT!
+ peaceful_touch_perk_name:0 "Умиротворяюще касание" #NT!
+ healers_touch_perk_name:0 "Касание Лекаря" #NT!
+ neutral_guard_perk_name:0 "Нейтральная Стойка" #NT!
+ burning_touch_perk_name:0 "Обжигающее Касание" #NT!
+ pariahs_caress_perk_name:0 "Ласка Изгоя" #NT!
+ king_davids_blessing_perk_name:0 "Благословление Короля Давида" #NT!
+ shepherds_watch_perk_name:0 "Пастушья Стража" #NT!
+ armor_of_caines_fury_perk_name:0 "Броня Ярости Каина" #NT!
+ watcher_peacemaker_perk_name:0 "Миротворец" #NT!
+ unburden_the_bestial_soul_perk_name:0 "Покаяние Звериной Души" #NT!
+ ending_the_watch_perk_name:0 "Окончание Дозора" #NT!
+ vengeance_of_samiel_perk_name:0 "Месть Самиэля" #NT!
+ souls_breath_perk_name:0 "Дыхание Духа" #NT!
+ healervalerenadvanced_perk_name:0 "Мастерство Валерена Лекарей" #NT!
+ warriorvalerenadvanced_perk_name:0 "Мастерство Валерена Воинов" #NT!
+ watchervalerenadvanced_perk_name:0 "Мастерство Валерена Наблюдателей" #NT!
+ fathers_judgement_perk_name:0 "Суд Отца" #NT!
+ repulsion_perk_name:0 "Неприязнь" #NT!
+ rayzeels_song_perk_name:0 "Песнь Рэизель" #NT!
+ heavens_gate_perk_name:0 "Врата Небес" #NT!
+ blissful_agony_perk_name:0 "Блаженная Агония" #NT!
+ sword_of_the_righteous_perk_name:0 "Меч Праведника" #NT!
+ song_of_the_blooded_perk_name:0 "Песнь Окровавленных" #NT!
+ safe_passage_perk_name:0 "Безопасный Проход" #NT!
+ aversion_perk_name:0 "Отвращение" #NT!
+ watcher_purification_perk_name:0 "Очищение" #NT!
+ watcher_soul_exchange_perk_name:0 "Обмен Душами" #NT!
+
+ #Sanguine: Quietus #NT!
+
+ sorcerer_silence_of_death_perk_name:0 "Молчание Смерти" #NT!
+ scorpions_curse_perk_name:0 "Проклятие Скорпиона" #NT!
+ sorcerer_dagons_call_perk_name:0 "Зов Дагона" #NT!
+ sorcerer_baals_caress_perk_name:0 "Ласка Баала" #NT!
+ taste_of_death_perk_name:0 "Вкус Погибели" #NT!
+ warrior_silence_of_death_perk_name:0 "Молчание Смерти" #NT!
+ blood_essence_perk_name:0 "Эссенция Крови" #NT!
+ warrior_scorpions_touch_perk_name:0 "Касание Скорпиона" #NT!
+ warrior_dagons_call_perk_name:0 "Зов Дагона" #NT!
+ warrior_baals_caress_perk_name:0 "Ласка Баала" #NT!
+ quicken_the_mortals_blood_perk_name:0 "Усиление Крови Смертных" #NT!
+ blood_tempering_perk_name:0 "Кровавое Закаливание" #NT!
+ truth_of_blood_perk_name:0 "Правда Крови" #NT!
+ ishtars_touch_perk_name:0 "Прикосновение Иштар" #NT!
+ cleansed_in_blood_perk_name:0 "Очищенный в Крови" #NT!
+ ripples_of_the_heart_perk_name:0 "Пульсация сердца" #NT!
+ blood_sweat_perk_name:0 "Кровавый Пот" #NT!
+ taste_of_bliss_perk_name:0 "Вкус Блаженства" #NT!
+ sorcererquietusadvanced_perk_name:0 "Мастерство Смертоносности Колудуна" #NT!
+ warriorquietusadvanced_perk_name:0 "Мастерство Смертоносности Воина" #NT!
+ vizierquietusadvanced_perk_name:0 "Мастерство Смертоносности Визиря" #NT!
+
+ #Sanguine: Mytherceria #NT!
+
+ fey_sight_perk_name:0 "Взгляд Феи" #NT!
+ folderol_perk_name:0 "Мишура" #NT!
+ fae_sight_perk_name:0 "Взгляд Феи" #NT!
+ darkling_trickery_perk_name:0 "Темный Обман" #NT!
+ goblinism_perk_name:0 "Гоблинизм" #NT!
+ aura_absorption_perk_name:0 "Поглощение Ауры" #NT!
+ chanjelin_ward_perk_name:0 "Оберег Подменыша" #NT!
+ riddle_phantastique_perk_name:0 "Невероятная Загадка" #NT!
+ mytherceriaadvanced_perk_name:0 "Мастерство Мистерии" #NT!
+ stone_travel_perk_name:0 "Каменный Путь" #NT!
+ steal_the_mind_perk_name:0 "Кража Разума" #NT!
+ earth_sword_perk_name:0 "Земляной Меч" #NT!
+ absorb_the_mind_perk_name:0 "Поглощение Разума" #NT!
+ basilisks_touch_perk_name:0 "Касание Василиска" #NT!
+
+ #Faith: True Faith #NT!
+ dominus_vobiscum_perk_name:0 "Dominus Vobiscum" #NT!
+ intercession_perk_name:0 "Intercession" #NT!
+ holy_bulwark_perk_name:0 "Holy Bulwark" #NT!
+ lay_of_hands_perk_name:0 "Lay on Hands" #NT!
+ penance_perk_name:0 "Penance" #NT!
+ conversion_perk_name:0 "Conversion" #NT!
+ shield_of_faith_perk_name:0 "Shield of Faith" #NT!
+ beatific_perk_name:0 "Beatific" #NT!
+
+ #Holy Arts: Sophia Patris #NT!
+
+ pry_open_perk_name:0 "Pry Open the Mind's Eye" #NT!
+ unwavering_vision_perk_name:0 "Unwavering Vision" #NT!
+ unearth_perk_name:0 "Unearth" #NT!
+ lifting_the_veil_perk_name:0 "Lifting the Veil of Lies" #NT!
+ revelation_perk_name:0 "Revelation" #NT!
+
+ #Holy Arts: Sedulitas Filius #NT!
+
+ sunder_perk_name:0 "Sunder" #NT!
+ censure_perk_name:0 "Censure" #NT!
+ gods_armour_perk_name:0 "God's Armour" #NT!
+ rod_and_staff_perk_name:0 "Rod and Staff" #NT!
+ wrath_of_god_perk_name:0 "Wrath of God" #NT!
+
+ #Holy Arts: Boni Spiritus #NT!
+
+ tears_of_the_martyr_perk_name:0 "Tears of the Martyr" #NT!
+ touch_of_peace_perk_name:0 "Touch of Peace" #NT!
+ aura_of_sanctity_perk_name:0 "Aura of Sanctity" #NT!
+ restoration_perk_name:0 "Restoration" #NT!
+ judgement_of_heaven_perk_name:0 "Judgement of Heaven" #NT!
+
+ #Endowments: Oculi Dei #NT!
+ oculi_shepherd_perk_name:0 "Heavenly Shepherd" #NT!
+ oculi_sight_perk_name:0 "Second Sight" #NT!
+ oculi_liturgy_perk_name:0 "Divine Liturgy" #NT!
+ oculi_trust_perk_name:0 "I Trust in Thee" #NT!
+ oculi_wine_perk_name:0 "Water to Wine" #NT!
+
+ #Endowments: Knights of Acre #NT!
+ acre_catechumen_perk_name:0 "Catechumen" #NT!
+ acre_flesh_perk_name:0 "Transfiguration of the Flesh" #NT!
+ acre_flight_perk_name:0 "Flight of Angels" #NT!
+ acre_resurrection_perk_name:0 "Spirit of the Resurrection" #NT!
+ acre_auto_perk_name:0 "Auto da Fé" #NT!
+
+ #Endowments: House Murnau #NT!
+ murnau_knowledge_perk_name:0 "Forbidden Knowledge" #NT!
+ murnau_oblige_perk_name:0 "Noblesse Oblige" #NT!
+ murnau_wreathed_perk_name:0 "Wreathed in Shadows" #NT!
+ murnau_mirror_perk_name:0 "Mirror of Evil" #NT!
+ murnau_arcana_perk_name:0 "Arcana" #NT!
+
+ #Endowments: Sisters of St John #NT!
+ sisters_gospel_perk_name:0 "Gospel" #NT!
+ sisters_lux_perk_name:0 "Fiat Lux" #NT!
+ sisters_chorale_perk_name:0 "Chorale" #NT!
+ sisters_hosanna_perk_name:0 "Hosanna" #NT!
+ sisters_oratorio_perk_name:0 "Oratorio" #NT!
+
+ #Endowments: Red Order #NT!
+ red_vigil_perk_name:0 "Blessed Vigilance" #NT!
+ red_sunstone_perk_name:0 "Sunstone" #NT!
+ red_march_perk_name:0 "Forced March" #NT!
+ red_fortunes_perk_name:0 "Fortunes of War" #NT!
+ red_forge_perk_name:0 "Forge of God" #NT!
+
+ #Godbody: Metal #NT!
+ the_bright_metal_sheet_perk_name:0 "The Bright Metal Sheet" #NT!
+ metal_within_perk_name:0 "Metal Within" #NT!
+ dark_metal_self_perk_name:0 "Dark Metal Self" #NT!
+ metal_rain_perk_name:0 "Metal Rain" #NT!
+ yin_metal_soul_perk_name:0 "Yin Metal Soul" #NT!
+
+ #Godbody: Wood #NT!
+ pruning_the_self_perk_name:0 "Pruning the Self" #NT!
+ transplanting_the_self_perk_name:0 "Transplanting the Self" #NT!
+ the_world_garden_perk_name:0 "The World Garden" #NT!
+ the_vital_command_perk_name:0 "The Vital Command" #NT!
+ the_spark_of_life_perk_name:0 "The Spark of Life" #NT!
+
+ #Godbody: Water #NT!
+ command_the_flow_in_self_perk_name:0 "Command the Flow in Self" #NT!
+ command_the_flow_in_others_perk_name:0 "Command the Flow in Others" #NT!
+ the_self_of_water_perk_name:0 "The Self of Water" #NT!
+ the_water_lash_perk_name:0 "The Water Lash" #NT!
+ the_soul_tide_perk_name:0 "The Soul Tide" #NT!
+
+ #Godbody: Fire #NT!
+ fire_in_the_eye_perk_name:0 "Fire in the Eye" #NT!
+ fire_in_the_hand_perk_name:0 "Fire in the Hand" #NT!
+ self_in_the_fire_perk_name:0 "Self in the Fire" #NT!
+ draining_the_fire_perk_name:0 "Draining the Fire" #NT!
+ the_tempered_soul_perk_name:0 "The Tempered Soul" #NT!
+
+ #Godbody: Earth #NT!
+ understanding_with_the_earth_perk_name:0 "Understanding With the Earth" #NT!
+ harmony_with_the_earth_perk_name:0 "Harmony With the Earth" #NT!
+ unity_with_the_earth_perk_name:0 "Unity With the Earth" #NT!
+ moving_with_the_earth_perk_name:0 "Moving With the Earth" #NT!
+ the_elemental_self_perk_name:0 "The Elemental Self" #NT!
+
+ #Shintai: Bone #NT!
+ corpse_skin_perk_name:0 "Corpse Skin" #NT!
+ white_tiger_corpse_perk_name:0 "White Tiger Corpse" #NT!
+ bone_obedience_perk_name:0 "Bone Obedience" #NT!
+ five_poison_cloud_perk_name:0 "Five Poison Cloud" #NT!
+ ching_shih_perk_name:0 "Ch'ing Shih" #NT!
+ ikehone_perk_name:0 "Ikehone" #NT!
+ skeletal_sculpting_perk_name:0 "Skeletal Sculpting" #NT!
+ corpse_awakening_perk_name:0 "Corpse Awakening" #NT!
+ form_of_infernal_favor_perk_name:0 "Form of Infernal Favor" #NT!
+
+ #Shintai: Flesh #NT!
+ long_neck_perk_name:0 "Long Neck" #NT!
+ detach_limb_perk_name:0 "Detach Limb" #NT!
+ lotus_breath_perk_name:0 "Lotus Breath" #NT!
+ pelesit_perk_name:0 "Pelesit" #NT!
+ ten_thousand_forms_perk_name:0 "Ten Thousand Forms" #NT!
+ body_of_the_mouse_perk_name:0 "Body of the Mouse" #NT!
+ body_of_the_serpent_perk_name:0 "Body of the Serpent" #NT!
+ bloat_perk_name:0 "Bloat" #NT!
+ unchaining_the_form_perk_name:0 "Unchaining the Form" #NT!
+
+ #Shintai: Blood #NT!
+ permeate_perk_name:0 "Permeate" #NT!
+ blood_atemi_perk_name:0 "Blood Atemi/Spit Blood" #NT!
+ flow_like_blood_perk_name:0 "Flow Like Blood" #NT!
+ bloodlash_perk_name:0 "Bloodlash" #NT!
+ blood_awakening_perk_name:0 "Blood Awakening" #NT!
+ blood_blade_perk_name:0 "Blood Blade" #NT!
+ blood_of_the_scorpion_perk_name:0 "Blood of the Scorpion" #NT!
+ corruption_of_the_blood_perk_name:0 "Corruption of the Blood" #NT!
+ blood_leeching_perk_name:0 "Blood Leeching" #NT!
+
+ #Shintai: Ghost-Flame #NT!
+ goblin_face_perk_name:0 "Goblin Face" #NT!
+ goblin_spark_perk_name:0 "Goblin Spark" #NT!
+ goblin_shapes_perk_name:0 "Goblin Shapes" #NT!
+ goblin_scorch_perk_name:0 "Goblin Scorch" #NT!
+ goblin_lantern_perk_name:0 "Goblin Lantern" #NT!
+ goblin_sword_perk_name:0 "Goblin Sword" #NT!
+ goblin_portal_perk_name:0 "Goblin Portal" #NT!
+ goblin_call_perk_name:0 "Goblin Call" #NT!
+ mantle_of_the_flame_emperor_perk_name:0 "Mantle of the Flame Emperor" #NT!
+
+ #Shintai: Jade #NT!
+ stand_upon_the_dragons_back_perk_name:0 "Stand Upon the Dragon's Back" #NT!
+ tread_the_thrashing_dragons_tail_perk_name:0 "Tread the Thrashing Dragon's Tail" #NT!
+ placate_the_earth_dragon_perk_name:0 "Placate the Earth Dragon" #NT!
+ harnessing_the_dragons_breath_perk_name:0 "Harnessing the Dragon's Breath" #NT!
+ jade_servant_of_the_august_personage_perk_name:0 "Jade Servant of the August Personage" #NT!
+ stone_fish_perk_name:0 "Stone Fish" #NT!
+ blade_of_stone_perk_name:0 "Blade of Stone" #NT!
+ taste_of_jade_perk_name:0 "Taste of Jade" #NT!
+ augment_perk_name:0 "Augment" #NT!
+
+ #Chi arts: Yin prana #NT!
+ shrouded_moon_perk_name:0 "Shrouded Moon" #NT!
+ yin_mantle_perk_name:0 "Yin Mantle" #NT!
+ bone_dance_perk_name:0 "Bone Dance" #NT!
+ eightfold_yin_mantle_perk_name:0 "Eightfold Yin Mantle" #NT!
+ semblance_of_the_ebon_dragon_perk_name:0 "Semblance of the Ebon Dragon" #NT!
+ yin_shield_perk_name:0 "Yin Shield" #NT!
+ yin_nihilus_perk_name:0 "Yin Nihilus" #NT!
+ touch_of_rust_perk_name:0 "Touch of Rust" #NT!
+ iron_corpse_perk_name:0 "Iron Corpse" #NT!
+
+ #Chi arts: Yang prana #NT!
+ principle_of_motion_perk_name:0 "Principle of Motion" #NT!
+ yang_mantle_perk_name:0 "Yang Mantle" #NT!
+ dragon_dance_perk_name:0 "Dragon Dance" #NT!
+ eightfold_yang_mantle_perk_name:0 "Eightfold Yang Mantle" #NT!
+ semblance_of_the_scalet_queen_perk_name:0 "Semblance of the Scarlet Queen" #NT!
+ yang_shield_perk_name:0 "Yang Shield" #NT!
+ yang_phoenix_perk_name:0 "Yang Phoenix" #NT!
+ touch_of_corruption_perk_name:0 "Touch of Corruption" #NT!
+ oaken_corpse_perk_name:0 "Oaken Corpse" #NT!
+
+ #Chi arts: Equilibrium #NT!
+ master_flow_perk_name:0 "Master Flow" #NT!
+ adjust_balance_perk_name:0 "Adjust Balance" #NT!
+ shift_the_balance_perk_name:0 "Shift the Balance" #NT!
+ chi_interrupt_perk_name:0 "Chi Interrupt" #NT!
+ chi_mastery_perk_name:0 "Chi Mastery" #NT!
+ soothing_the_soul_perk_name:0 "Soothing the Soul" #NT!
+ accentuate_chi_perk_name:0 "Accentuate Chi" #NT!
+ opening_the_gates_perk_name:0 "Opening the Gates" #NT!
+ adjust_the_true_balance_perk_name:0 "Adjust the True Balance" #NT!
+
+ #Chi arts: Tapestry #NT!
+ spirit_call_perk_name:0 "Spirit Call" #NT!
+ chi_ward_perk_name:0 "Chi Ward" #NT!
+ chi_shaping_perk_name:0 "Chi-Shaping" #NT!
+ ride_the_dragon_perk_name:0 "Ride the Dragon" #NT!
+ chi_rift_perk_name:0 "Chi Rift" #NT!
+ celestial_needle_perk_name:0 "Celestial Needle" #NT!
+ dragon_chariot_perk_name:0 "Dragon Chariot" #NT!
+ chi_castle_perk_name:0 "Chi Castle" #NT!
+ the_dragons_rapine_perk_name:0 "The Dragon's Rapine" #NT!
+
+ #Chi arts: Feng Shui #NT!
+ wind_water_eye_perk_name:0 "Wind Water Eye" #NT!
+ broom_of_heaven_perk_name:0 "Broom of Heaven" #NT!
+ hand_of_darkness_perk_name:0 "Hand of Darkness" #NT!
+ inharmonious_aligment_perk_name:0 "Inharmonious Aligment" #NT!
+ fengshui_chi_ward_perk_name:0 "Chi Ward" #NT!
+ beneficent_celestial_mirror_perk_name:0 "Beneficent Celestial Mirror" #NT!
+ dancing_spirits_perk_name:0 "Dancing Spirits" #NT!
+ veil_of_defilement_perk_name:0 "Veil of Defilement" #NT!
+ transcendend_portal_perk_name:0 "Transcendend Portal" #NT!
+
+ #Soul arts: Chi'iu Muh #NT!
+ rasa_perk_name:0 "Rasa" #NT!
+ chi_sight_perk_name:0 "Chi Sight" #NT!
+ dragon_ward_perk_name:0 "Dragon Ward" #NT!
+ purification_perk_name:0 "Purification" #NT!
+ spirit_eating_perk_name:0 "Spirit-Eating" #NT!
+ shield_of_the_soul_perk_name:0 "Shield of the Soul" #NT!
+ banking_the_fire_calming_the_waves_perk_name:0 "Banking the Fire, Calming the Waves" #NT!
+ soul_taint_perk_name:0 "Soul Taint" #NT!
+ soul_exchange_perk_name:0 "Soul Exchange" #NT!
+
+ #Soul arts: Cultivation #NT!
+ scrutinize_perk_name:0 "Scrutinize" #NT!
+ cleave_the_demon_perk_name:0 "Cleave the Demon" #NT!
+ lash_the_demon_perk_name:0 "Lash the Demon" #NT!
+ yoke_the_demon_perk_name:0 "Yoke the Demon" #NT!
+ two_become_one_perk_name:0 "Two Become One" #NT!
+ evocation_of_madness_perk_name:0 "Evocation of Madness" #NT!
+ degradation_perk_name:0 "Degradation" #NT!
+ strengthening_the_demon_perk_name:0 "Strengthening the Demon" #NT!
+ darkling_mirror_perk_name:0 "Darkling Mirror" #NT!
+
+ #Soul arts: Internalize #NT!
+ no_mind_perk_name:0 "No Mind" #NT!
+ blood_yoga_perk_name:0 "Blood Yoga" #NT!
+ distant_death_kata_perk_name:0 "Distant Death Kata" #NT!
+ iron_soul_perk_name:0 "Iron Soul" #NT!
+ harmony_with_the_all_perk_name:0 "Harmony with the All" #NT!
+ reaping_the_dragons_road_perk_name:0 "Reaping the Dragon's Road" #NT!
+ steel_soul_perk_name:0 "Steel Soul" #NT!
+ armor_of_enlightenment_perk_name:0 "Armor of Enlightenment" #NT!
+ holding_the_green_demon_at_bay_perk_name:0 "Holding the Green Demon at Bay" #NT!
+
+ #Soul arts: Obligation #NT!
+ evaluate_perk_name:0 "Evaluate" #NT!
+ soul_bridge_perk_name:0 "Soul Bridge" #NT!
+ authority_perk_name:0 "Authority" #NT!
+ thousand_hell_stare_perk_name:0 "Thousand Hell Stare" #NT!
+ soul_shackles_perk_name:0 "Soul Shackles" #NT!
+ taming_the_fire_perk_name:0 "Taming the Fire" #NT!
+ corrupt_the_will_perk_name:0 "Corrupt the Will" #NT!
+ voice_of_the_emperor_perk_name:0 "Voice of the Emperor" #NT!
+ divine_fetters_perk_name:0 "Divine Fetters" #NT!
+
+ #Soul arts: Mibasham #NT!
+ the_lens_of_the_self_perk_name:0 "The Lens of the Self" #NT!
+ porsdan_perk_name:0 "Pors'dan" #NT!
+ stepping_stones_perk_name:0 "Stepping Stones" #NT!
+ a_stumble_on_the_path_perk_name:0 "A Stumble on the Path" #NT!
+ riddle_of_maya_perk_name:0 "Riddle of Maya" #NT!
+ veil_of_maya_perk_name:0 "Veil of Maya" #NT!
+ bakus_quandary_perk_name:0 "Baku's Quandary" #NT!
+ beyond_the_door_perk_name:0 "Beyond the Door" #NT!
+ revisionist_reality_perk_name:0 "Revisionist Reality" #NT!
+
+ #Soul arts: Tzu Wei #NT!
+ fate_of_the_one_perk_name:0 "Fate of the One" #NT!
+ joss_weaving_perk_name:0 "Joss Weaving" #NT!
+ fate_of_the_wu_perk_name:0 "Fate of the Wu" #NT!
+ grand_dukes_theorem_perk_name:0 "Grand Duke's Theorem" #NT!
+ realigning_the_stars_perk_name:0 "Realigning the Stars" #NT!
+ pantheon_of_ancestors_perk_name:0 "Pantheon of Ancestors" #NT!
+ fate_of_the_court_perk_name:0 "Fate of the Court" #NT!
+ celestial_curse_perk_name:0 "Celestial Curse" #NT!
+ substitution_of_the_twelve_perk_name:0 "Substitution of the Twelve" #NT!
+
+ #Demon arts: Black Wind #NT!
+ black_wind_1_perk_name:0 "Black Wind 1" #NT!
+ black_wind_2_perk_name:0 "Black Wind 2" #NT!
+ black_wind_3_perk_name:0 "Black Wind 3" #NT!
+ black_wind_4_perk_name:0 "Black Wind 4" #NT!
+ black_wind_5_perk_name:0 "Black Wind 5" #NT!
+ a_thousand_cuts_perk_name:0 "A Thousand Cuts" #NT!
+ treading_the_tide_dragons_back_perk_name:0 "Treading the Tide Dragon's Back" #NT!
+ divine_whirlwind_perk_name:0 "Divine Whirlwind" #NT!
+ transcending_po_perk_name:0 "Transcending P'o" #NT!
+
+ #Demon arts: Demon Shintai #NT!
+ demon_shintai_1_perk_name:0 "Demon Shintai 1" #NT!
+ demon_shintai_2_perk_name:0 "Demon Shintai 2" #NT!
+ demon_shintai_3_perk_name:0 "Demon Shintai 3" #NT!
+ demon_shintai_4_perk_name:0 "Demon Shintai 4" #NT!
+ demon_shintai_5_perk_name:0 "Demon Shintai 5" #NT!
+ flesh_mastery_of_the_demon_form_perk_name:0 "Flesh Mastery of the Demon Form" #NT!
+ bone_mastery_of_the_demon_form_perk_name:0 "Bone Mastery of the Demon Form" #NT!
+ blood_mastery_of_the_demon_form_perk_name:0 "Blood Mastery of the Demon Form" #NT!
+ jade_mastery_of_the_demon_form_perk_name:0 "Jade Mastery of the Demon Form" #NT!
+
+ #Demon arts: Iron Mountain #NT!
+ iron_mountain_1_perk_name:0 "Iron Mountain 1" #NT!
+ iron_mountain_2_perk_name:0 "Iron Mountain 2" #NT!
+ iron_mountain_3_perk_name:0 "Iron Mountain 3" #NT!
+ iron_mountain_4_perk_name:0 "Iron Mountain 4" #NT!
+ iron_mountain_5_perk_name:0 "Iron Mountain 5" #NT!
+ flaying_the_demon_perk_name:0 "Flaying the Demon" #NT!
+ torturous_transcendence_perk_name:0 "Torturous Transcendence" #NT!
+ striking_the_fire_perk_name:0 "Striking the Fire" #NT!
+ exalted_resilience_of_the_heavenly_perk_name:0 "Exalted Resilience of the Heavenly" #NT!
+
+ #Demon arts: Kiai #NT!
+ focusing_shout_perk_name:0 "Focusing Shout" #NT!
+ aspect_of_the_timid_sparrow_perk_name:0 "Aspect of the Timid Sparrow" #NT!
+ ngilai_perk_name:0 "Ngilai" #NT!
+ the_song_of_the_tormented_soul_perk_name:0 "The Song of the Tormented Soul" #NT!
+ greater_ngilai_perk_name:0 "Greater Ngilai" #NT!
+ cry_of_blood_perk_name:0 "Cry of Blood" #NT!
+ tigers_roar_perk_name:0 "Tiger's Roar" #NT!
+ cry_of_the_phantasm_perk_name:0 "Cry of the Phantasm" #NT!
+ shout_opening_the_way_to_heaven_perk_name:0 "Shout Opening the Way to Heaven" #NT!
+
+ #Demon arts: Hellweaving #NT!
+ glimpse_of_yomi_perk_name:0 "Glimpse of Yomi" #NT!
+ razor_winds_perk_name:0 "Razor Winds" #NT!
+ favour_of_the_yama_kings_perk_name:0 "Favour of the Yama Kings" #NT!
+ remembrance_of_yomi_perk_name:0 "Remembrance of Yomi" #NT!
+ weaving_the_yomi_world_perk_name:0 "Weaving the Yomi World" #NT!
+
+ #Alternate Techniques: Combo #NT!
+ taking_the_face_perk_name:0 "Taking the Face" #NT!
+ blush_of_life_restored_perk_name:0 "Blush of Life Restored" #NT!
+ the_fire_which_illuminates_perk_name:0 "The Fire Which Illuminates" #NT!
+ clothed_in_life_perk_name:0 "Clothed in Life" #NT!
+
+ #Alternate Techniques: Boneflowers #NT!
+ gentle_yielding_perk_name:0 "Gentle Yielding" #NT!
+ taking_what_is_given_perk_name:0 "Taking What Is Given" #NT!
+ spiders_blessing_perk_name:0 "Spider's Blessing" #NT!
+ bitter_yin_caress_perk_name:0 "Bitter Yin Caress" #NT!
+ bitter_yin_cloud_perk_name:0 "Bitter Yin Cloud" #NT!
+ dance_of_shiva_perk_name:0 "Dance of Shiva" #NT!
+
+ #Alternate Techniques: Thrashing Dragons #NT!
+ gender_change_perk_name:0 "Gender Change" #NT!
+ fur_and_fangs_perk_name:0 "Fur and Fangs" #NT!
+ thousand_lice_spies_perk_name:0 "Thousand Lice Spies" #NT!
+ polong_perk_name:0 "Polong" #NT!
+ animal_form_dragon_dance_perk_name:0 "Animal Form Dragon Dance" #NT!
+ eightfold_yang_barrier_perk_name:0 "Eightfold Yang Barrier" #NT!
+
+ #Alternate Techniques: Prayer-Eating #NT!
+ hear_prayer_perk_name:0 "Hear Prayer" #NT!
+ prayer_appraisal_perk_name:0 "Prayer Appraisal" #NT!
+ fulfill_prayer_perk_name:0 "Fulfill Prayer" #NT!
+ prayer_eating_perk_name:0 "Prayer-Eating" #NT!
+ unbreakable_soul_bonds_perk_name:0 "Unbreakable Soul Bonds" #NT!
+
+ #Alternate Techniques: Inward Way #NT!
+ inner_balance_perk_name:0 "Inner Balance" #NT!
+ rest_upon_the_blade_perk_name:0 "Rest Upon the Blade" #NT!
+ scales_of_need_perk_name:0 "Scales of Need" #NT!
+ feed_the_soul_perk_name:0 "Feed the Soul" #NT!
+ flowing_with_the_down_perk_name:0 "Flowing With the Down" #NT!
+
+ #Alternate Techniques: Tempest of Inward Focus #NT!
+ swirling_winds_style_perk_name:0 "Swirling Winds Style" #NT!
+ meditations_of_metal_perk_name:0 "Meditations of Metal" #NT!
+ kata_of_mountain_fury_perk_name:0 "Kata of Mountain Fury" #NT!
+ fighting_cloud_style_perk_name:0 "Fighting Cloud Style" #NT!
+ illusion_shattering_strike_perk_name:0 "Illusion-Shattering Strike" #NT!
+
+ #Sanguine: Daimonion #NT!
+ sense_the_sin_perk_name:0 "Почувствуй Грех" #NT!
+ fear_of_the_void_perk_name:0 "Страх Бездны" #NT!
+ whispers_from_the_dark_perk_name:0 "Шепот из Темноты" #NT!
+ tormented_essence_perk_name:0 "Измученная Сущность" #NT!
+ blood_of_a_demon_perk_name:0 "Кровь Демона" #NT!
+ devilish_charm_perk_name:0 "Дьявольское Очарование" #NT!
+ as_below_so_above_perk_name:0 "Как Внизу, Так и Вверху" #NT!
+ psychomachia_perk_name:0 "Психомахия" #NT!
+ poisoned_virtue_perk_name:0 "Отравленная Добродетель" #NT!
+ kneel_before_my_throne_perk_name:0 "Преклонись Передо Мной" #NT!
+ face_hell_perk_name:0 "Встреча с Адом" #NT!
+ dark_allure_perk_name:0 "Темное Очарование" #NT!
+ advanceddaimoinon_perk_name:0 "Мастерство Демонизма" #NT!
+ adramelechs_wrath_perk_name:0 "Гнев Адрамелеха" #NT!
+ master_of_subversion_perk_name:0 "Мастер Низвержения" #NT!
+ lure_diabolik_perk_name:0 "Приманка Дьяволика" #NT!
+ devils_hide_perk_name:0 "Шкура Дьявола" #NT!
+
+ hell_lord_perk_name:0 "Повелитель Ада" #NT!
+ investure_perk_name:0 "Вручение" #NT!
+ bring_the_plague_perk_name:0 "Наслать Чуму" #NT!
+
+ #Animal: Serpentis #NT!
+ enchanting_gaze_perk_name:0 "Чарующий Взгляд" #NT!
+ serpents_flesh_perk_name:0 "Змеиная Плоть" #NT!
+ typhonic_maw_perk_name:0 "Тифоническая Пасть" #NT!
+ master_of_snakes_perk_name:0 "Владыка Змей" #NT!
+ form_of_the_snake_perk_name:0 "Форма Змеи" #NT!
+ typhonic_avatar_perk_name:0 "Аватар Тифона" #NT!
+ smooth_scales_perk_name:0 "Гладкие Чешуйки" #NT!
+ serpent_eyes_perk_name:0 "Глаза Змеи" #NT!
+ mother_of_monsters_perk_name:0 "Мать Чудовищ" #NT!
+ form_of_the_storm_perk_name:0 "Форма Шторма" #NT!
+ echidnas_venom_perk_name:0 "Яд Ехидны" #NT!
+ the_heart_of_darkness_perk_name:0 "Сердце Тьмы" #NT!
+ serpentisadvanced_perk_name:0 "Мастерство Серпентиса" #NT!
+ cobra_fangs_perk_name:0 "Клыки КОбры" #NT!
+ apophis_perk_name:0 "Апофис" #NT!
+ heart_thief_perk_name:0 "Похититель Сердец" #NT!
+ temptation_perk_name:0 "Искушение" #NT!
+ breath_of_the_basilisk_perk_name:0 "Дыхание Василиска" #NT!
+ godhead_perk_name:0 "Глава Бога" #NT!
+
+ # Qiao #NT!
+
+ celestial_punishment_perk_name:0 "Celestial Punishment" #NT!
+ divine_bindings_perk_name:0 "Divine Bindings" #NT!
+ heavenly_flames_perk_name:0 "Heavenly Flames" #NT!
+ celestial_fires_perk_name:0 "Celestial Fires" #NT!
+ heavens_thunder_perk_name:0 "Heaven's Thunder" #NT!
+ steel_skin_perk_name:0 "Steel Skin" #NT!
+ dragons_speed_perk_name:0 "Dragon's Speed" #NT!
+ tigers_strength_perk_name:0 "Tiger's Strength" #NT!
+ celestial_eyes_perk_name:0 "Celestial Eyes" #NT!
+ body_of_the_dragon_perk_name:0 "Body of the Dragon" #NT!
+ opened_eyes_perk_name:0 "Opened Eyes" #NT!
+ divine_perceptions_perk_name:0 "Divine Perceptions" #NT!
+ wind_talk_perk_name:0 "Wind Talk" #NT!
+ celestial_window_perk_name:0 "Celestial Window" #NT!
+ celestial_doorway_perk_name:0 "Celestial Doorway" #NT!
+ barrier_of_pain_perk_name:0 "Barrier of Pain" #NT!
+ the_closing_wound_perk_name:0 "The Closing Wound" #NT!
+ spiritual_healing_perk_name:0 "Spiritual Healing" #NT!
+ escape_from_death_perk_name:0 "Escape from Death" #NT!
+ flames_of_the_phoenix_perk_name:0 "Flames of the Phoenix" #NT!
+ thousand_fists_perk_name:0 "Thousand Fists" #NT!
+ spear_hand_perk_name:0 "Spear Hand" #NT!
+ burning_ghosts_perk_name:0 "Burning Ghosts" #NT!
+ steel_body_perk_name:0 "Steel Body" #NT!
+ thousand_swords_perk_name:0 "Thousand Swords" #NT!
+ frozen_river_perk_name:0 "Frozen River" #NT!
+ stolen_serpent_perk_name:0 "Stolen Serpent" #NT!
+ celestial_barrier_perk_name:0 "Celestial Barrier" #NT!
+ clutch_of_the_wan_kuei_perk_name:0 "Clutch of the Wan Kuei" #NT!
+ bite_of_the_mu_perk_name:0 "Bite of the Mu" #NT!
+ eyes_of_the_dragon_perk_name:0 "Eyes of the Dragon" #NT!
+ dark_reflection_perk_name:0 "Dark Reflection" #NT!
+ hunted_eyes_perk_name:0 "Hunted Eyes" #NT!
+ voice_of_the_yama_kings_perk_name:0 "Voice of the Yama Kings" #NT!
+ divine_ordinance_perk_name:0 "Divine Ordinance" #NT!
+ balance_of_the_spirit_perk_name:0 "Balance of the Spirit" #NT!
+ focus_of_the_mind_perk_name:0 "Focus of the Mind" #NT!
+ nightmare_exorcism_perk_name:0 "Nightmare Exorcism" #NT!
+ self_exorcism_perk_name:0 "Self-Exorcism" #NT!
+ mental_dominion_perk_name:0 "Mental Dominion" #NT!
+ cloud_walking_perk_name:0 "Cloud Walking" #NT!
+ water_treading_perk_name:0 "Water Treading" #NT!
+ wind_strike_perk_name:0 "Wind Strike" #NT!
+ mountain_stance_perk_name:0 "Mountain Stance" #NT!
+ celestial_wind_perk_name:0 "Celestial Wind" #NT!
+ heavens_judgment_perk_name:0 "Heaven's Judgment" #NT!
+ divine_prohibition_perk_name:0 "Divine Prohibition" #NT!
+ ten_ox_strength_perk_name:0 "Ten-Ox Strength" #NT!
+ diamond_body_perk_name:0 "Diamond Body" #NT!
+ sight_without_eyes_perk_name:0 "Sight Without Eyes" #NT!
+ the_eye_of_heaven_perk_name:0 "The Eye of Heaven" #NT!
+ the_lizards_tail_perk_name:0 "The Lizard's Tail" #NT!
+ ashes_of_the_phoenix_perk_name:0 "Ashes of the Phoenix" #NT!
+ hundred_warriors_strike_perk_name:0 "Hundred Warriors Strike" #NT!
+ heaven_thunder_strike_perk_name:0 "Heaven Thunder Strike" #NT!
+ righteous_hungry_spirit_perk_name:0 "Righteous Hungry Spirit" #NT!
+ demon_eating_techniquet_perk_name:0 "Demon Eating Techniquet" #NT!
+ mantle_of_heaven_perk_name:0 "Mantle of Heaven" #NT!
+ divine_mandate_perk_name:0 "Divine Mandate" #NT!
+ mountain_meditation_perk_name:0 "Mountain Meditation" #NT!
+ walking_in_balance_perk_name:0 "Walking in Balance" #NT!
+ arrow_cutting_perk_name:0 "Arrow-Cutting" #NT!
+ wind_racing_prana_perk_name:0 "Wind-Racing Prana" #NT!
+
+ # Alchemy #NT!
+
+ analyze_material_perk_name:0 "Analyze Material" #NT!
+ cloud_of_smoke_perk_name:0 "Cloud of Smoke" #NT!
+ drink_of_seven_days_rest_perk_name:0 "Drink Of Seven Days' Rest" #NT!
+ mild_poison_perk_name:0 "Mild Poison" #NT!
+ potion_of_resilience_perk_name:0 "Potion of Resilience" #NT!
+ simple_elixir_perk_name:0 "Simple Elixir" #NT!
+ simple_philtre_perk_name:0 "Simple Philtre" #NT!
+ simple_tonic_perk_name:0 "Simple Tonic" #NT!
+ stasis_perk_name:0 "Stasis" #NT!
+ blood_of_the_snake_perk_name:0 "Blood of the Snake" #NT!
+ cobra_spit_perk_name:0 "Cobra Spit" #NT!
+ essence_longing_perk_name:0 "Essence Longing" #NT!
+ eyes_of_the_ka_perk_name:0 "Eyes of the Ka" #NT!
+ ice_of_the_desert_perk_name:0 "Ice of the Desert" #NT!
+ lesser_quiddity_perk_name:0 "Lesser Quiddity" #NT!
+ reed_of_hidden_currents_perk_name:0 "Reed of Hidden Currents" #NT!
+ spark_of_ra_perk_name:0 "Spark of Ra" #NT!
+ complex_elixir_perk_name:0 "Complex Elixir" #NT!
+ complex_philtre_perk_name:0 "Complex Philtre" #NT!
+ complex_tonic_perk_name:0 "Complex Tonic" #NT!
+ dangerous_poison_perk_name:0 "Dangerous Poison" #NT!
+ one_hundred_thousand_tongues_perk_name:0 "One Hundred Thousand Tongues" #NT!
+ potion_of_valor_perk_name:0 "Potion of Valor" #NT!
+ salts_of_the_dead_perk_name:0 "Salts of the Dead" #NT!
+ tears_of_isis_perk_name:0 "Tears of Isis" #NT!
+ alchemy_ashes_to_ashes_perk_name:0 "Ashes to Ashes" #NT!
+ greater_quiddity_perk_name:0 "Greater Quiddity" #NT!
+ panacea_perk_name:0 "Panacea" #NT!
+ philosophers_stone_perk_name:0 "Philosopher's Stone" #NT!
+ potion_of_separable_ka_perk_name:0 "Potion of Separable Ka" #NT!
+ catalyst_crucible_perk_name:0 "Catalyst Crucible" #NT!
+ deadly_poison_perk_name:0 "Deadly Poison" #NT!
+ dust_to_dust_perk_name:0 "Dust to Dust" #NT!
+ flesh_of_the_gods_perk_name:0 "Flesh of the Gods" #NT!
+ potent_elixir_perk_name:0 "Potent Elixir" #NT!
+ potent_philtre_perk_name:0 "Potent Philtre" #NT!
+ potent_tonic_perk_name:0 "Potent Tonic" #NT!
+ potion_of_the_divine_perk_name:0 "Potion of the Divine" #NT!
+ potion_of_the_vile_body_perk_name:0 "Potion of the Vile Body" #NT!
+ distill_the_wisdom_of_maat_perk_name:0 "Distill The Wisdom Of Ma'at" #NT!
+ draught_of_perfect_memory_perk_name:0 "Draught of Perfect Memory" #NT!
+ personal_poison_perk_name:0 "Personal Poison" #NT!
+ princely_elixir_perk_name:0 "Princely Elixir" #NT!
+ princely_tonic_perk_name:0 "Princely Tonic" #NT!
+ princely_quiddity_perk_name:0 "Princely Quiddity" #NT!
+ renewal_of_the_horus_perk_name:0 "Renewal of the Horus" #NT!
+ water_of_life_perk_name:0 "Water of Life" #NT!
+ elixir_of_thoths_aptitude_perk_name:0 "Elixir of Thoth's Aptitude" #NT!
+ kingly_elixir_perk_name:0 "Kingly Elixir" #NT!
+ kingly_tonic_perk_name:0 "Kingly Tonic" #NT!
+ kingly_quiddity_perk_name:0 "Kingly Quiddity" #NT!
+ philtre_of_the_blackened_sands_perk_name:0 "Philtre of the Blackened Sands" #NT!
+ divine_elixir_perk_name:0 "Divine Elixir" #NT!
+ divine_tonic_perk_name:0 "Divine Tonic" #NT!
+ divine_quiddity_perk_name:0 "Divine Quiddity" #NT!
+ draught_of_the_stalwart_ab_perk_name:0 "Draught of the Stalwart Ab" #NT!
+
+ # Amulets #NT!
+
+ ashen_shroud_perk_name:0 "Ashen Shroud" #NT!
+ #bundle_perk_name:0 "Bundle" #NT!
+ eye_of_the_horizon_perk_name:0 "Eye of the Horizon" #NT!
+ simple_ward_perk_name:0 "Simple Ward" #NT!
+ warding_sign_perk_name:0 "Warding Sign" #NT!
+ wood_ward_perk_name:0 "Wood Ward" #NT!
+ amulet_of_cloud_walking_perk_name:0 "Amulet of Cloud Walking" #NT!
+ lesser_talisman_perk_name:0 "Lesser Talisman" #NT!
+ lesser_ward_perk_name:0 "Lesser Ward" #NT!
+ #mask_perk_name:0 "Mask" #NT!
+ prayer_of_the_aken_perk_name:0 "Prayer of the Aken" #NT!
+ scarab_of_life_perk_name:0 "Scarab of Life" #NT!
+ metal_ward_perk_name:0 "Metal Ward" #NT!
+ major_ward_perk_name:0 "Major Ward" #NT!
+ sign_of_luck_perk_name:0 "Sign of Luck" #NT!
+ veil_of_amaunet_perk_name:0 "Veil of Amaunet" #NT!
+ wrapping_of_imhotep_perk_name:0 "Wrapping of Imhotep" #NT!
+ ebon_binding_perk_name:0 "Ebon Binding" #NT!
+ eye_of_sakhmet_perk_name:0 "Eye of Sakhmet" #NT!
+ gebs_blessing_perk_name:0 "Geb's Blessing" #NT!
+ greater_veil_of_amaunet_perk_name:0 "Greater Veil of Amaunet" #NT!
+ greater_talisman_perk_name:0 "Greater Talisman" #NT!
+ greater_ward_perk_name:0 "Greater Ward" #NT!
+ buckle_of_isis_perk_name:0 "Buckle of Isis" #NT!
+ princely_talisman_perk_name:0 "Princely Talisman" #NT!
+ princely_ward_perk_name:0 "Princely Ward" #NT!
+ scarab_of_death_perk_name:0 "Scarab of Death" #NT!
+ ward_of_permanence_perk_name:0 "Ward of Permanence" #NT!
+ wrappings_of_osiris_perk_name:0 "Wrappings of Osiris" #NT!
+ kingly_ward_perk_name:0 "Kingly Ward" #NT!
+ lesser_seal_of_maat_perk_name:0 "Lesser Seal of Ma'at" #NT!
+ nyarashahims_banishing_sign_perk_name:0 "Nyarashahim's Banishing Sign" #NT!
+ nyarashahims_screaming_scarab_perk_name:0 "Nyarashahim's Screaming Scarab" #NT!
+ piercing_eye_of_thoth_perk_name:0 "Piercing Eye of Thoth" #NT!
+ serqets_sting_perk_name:0 "Serqet's Sting" #NT!
+ shatter_the_glyph_perk_name:0 "Shatter the Glyph" #NT!
+ talisman_of_the_vulture_perk_name:0 "Talisman of the Vulture" #NT!
+ viziers_talisman_perk_name:0 "Vizier's Talisman" #NT!
+ whisper_between_two_hearts_perk_name:0 "Whisper between Two Hearts" #NT!
+ ramoses_armor_perk_name:0 "Ramose's Armor" #NT!
+ conduit_of_shadow_perk_name:0 "Conduit of Shadow" #NT!
+ kingly_talisman_perk_name:0 "Kingly Talisman" #NT!
+ seal_of_maat_perk_name:0 "Seal of Ma'at" #NT!
+ shatter_the_greater_glyph_perk_name:0 "Shatter the Greater Glyph" #NT!
+ shield_of_the_pharaohs_perk_name:0 "Shield of the Pharaohs" #NT!
+ vault_of_inner_strength_perk_name:0 "Vault of Inner Strength" #NT!
+ divine_talisman_perk_name:0 "Divine Talisman" #NT!
+ greater_seal_of_maat_perk_name:0 "Greater Seal of Ma'at" #NT!
+ hardening_sign_of_geb_perk_name:0 "Hardening Sign of Geb" #NT!
+ heart_of_maat_perk_name:0 "Heart of Ma'at" #NT!
+ inscribe_the_flesh_perk_name:0 "Inscribe the Flesh" #NT!
+ shatter_the_princely_glyph_perk_name:0 "Shatter the Princely Glyph" #NT!
+ talisman_of_the_asp_perk_name:0 "Talisman of the Asp" #NT!
+ voracious_scarab_of_nyarashahim_perk_name:0 "Voracious Scarab of Nyarashahim" #NT!
+
+ # Celestial #NT!
+
+ becalm_perk_name:0 "Becalm" #NT!
+ grip_the_water_perk_name:0 "Grip the Water" #NT!
+ hanging_the_stars_perk_name:0 "Hanging the Stars" #NT!
+ hiding_the_stars_perk_name:0 "Hiding the Stars" #NT!
+ simple_weather_magic_perk_name:0 "Simple Weather Magic" #NT!
+ weather_sight_perk_name:0 "Weather Sight" #NT!
+ book_of_thoth_perk_name:0 "Book of Thoth" #NT!
+ lesser_weather_magic_perk_name:0 "Lesser Weather Magic" #NT!
+ read_the_stars_perk_name:0 "Read the Stars" #NT!
+ sahu_ra_perk_name:0 "Sahu-Ra" #NT!
+ weather_whispers_perk_name:0 "Weather Whispers" #NT!
+ call_the_stars_perk_name:0 "Call the Stars" #NT!
+ divine_forms_perk_name:0 "Divine Forms" #NT!
+ major_weather_magic_perk_name:0 "Major Weather Magic" #NT!
+ greater_weather_magic_perk_name:0 "Greater Weather Magic" #NT!
+ ras_awakening_perk_name:0 "Ra's Awakening" #NT!
+ read_the_tree_of_life_perk_name:0 "Read the Tree of Life" #NT!
+ sandstorm_perk_name:0 "Sandstorm" #NT!
+ wisdom_of_isis_perk_name:0 "Wisdom of Isis" #NT!
+ divine_greatness_perk_name:0 "Divine Greatness" #NT!
+ plague_of_maat_perk_name:0 "Plague of Ma'at" #NT!
+ potent_weather_magic_perk_name:0 "Potent Weather Magic" #NT!
+ rousing_apophis_perk_name:0 "Rousing Apophis" #NT!
+ call_of_the_north_star_perk_name:0 "Call of the North Star" #NT!
+ gebs_grasp_perk_name:0 "Geb’s Grasp" #NT!
+ festival_of_maat_perk_name:0 "Festival of Ma’at" #NT!
+ inundation_of_the_nile_perk_name:0 "Inundation of the Nile" #NT!
+ arch_of_nuit_perk_name:0 "Arch of Nuit" #NT!
+ cycle_of_ra_perk_name:0 "Cycle of Ra" #NT!
+ star_of_the_messiah_perk_name:0 "Star of the Messiah" #NT!
+ crossed_by_the_stars_perk_name:0 "Crossed by the Stars" #NT!
+ whispers_of_the_tree_of_life_perk_name:0 "Whispers of the Tree of Life" #NT!
+
+ # Effigy #NT!
+
+ command_simple_implement_perk_name:0 "Command Simple Implement" #NT!
+ simple_inertion_perk_name:0 "Simple Inertion" #NT!
+ simple_creature_perk_name:0 "Simple Creature" #NT!
+ simple_servitor_perk_name:0 "Simple Servitor" #NT!
+ simple_wrest_perk_name:0 "Simple Wrest" #NT!
+ command_lesser_implement_perk_name:0 "Command Lesser Implement" #NT!
+ false_door_perk_name:0 "False Door" #NT!
+ lesser_inertion_perk_name:0 "Lesser Inertion" #NT!
+ lesser_chattel_perk_name:0 "Lesser Chattel" #NT!
+ lesser_creature_perk_name:0 "Lesser Creature" #NT!
+ lesser_wrest_perk_name:0 "Lesser Wrest" #NT!
+ command_complex_implement_perk_name:0 "Command Complex Implement" #NT!
+ major_inertion_perk_name:0 "Major Inertion" #NT!
+ complex_chattel_perk_name:0 "Complex Chattel" #NT!
+ sekhem_vessel_perk_name:0 "Sekhem Vessel" #NT!
+ major_bond_of_fate_perk_name:0 "Major Bond of Fate" #NT!
+ effigy_overseer_perk_name:0 "Overseer" #NT!
+ major_creature_perk_name:0 "Major Creature" #NT!
+ modest_reflection_perk_name:0 "Modest Reflection" #NT!
+ major_relic_perk_name:0 "Major Relic" #NT!
+ major_wrest_perk_name:0 "Major Wrest" #NT!
+ majestic_reflection_perk_name:0 "Majestic Reflection" #NT!
+ superior_chattel_perk_name:0 "Superior Chattel" #NT!
+ greater_relic_perk_name:0 "Greater Relic" #NT!
+ superior_creature_perk_name:0 "Superior Creature" #NT!
+ guard_perk_name:0 "Guard" #NT!
+ superior_inertion_perk_name:0 "Superior Inertion" #NT!
+ superior_bond_of_fate_perk_name:0 "Superior Bond of Fate" #NT!
+ superior_wrest_perk_name:0 "Superior Wrest" #NT!
+ ka_vessel_perk_name:0 "Ka Vessel" #NT!
+ princely_chattel_perk_name:0 "Princely Chattel" #NT!
+ princely_inertion_perk_name:0 "Princely Inertion" #NT!
+ princely_reflection_perk_name:0 "Princely Reflection" #NT!
+ princely_creature_perk_name:0 "Princely Creature" #NT!
+ princely_relic_perk_name:0 "Princely Relic" #NT!
+ living_bond_of_fate_perk_name:0 "Living Bond of Fate" #NT!
+ princely_wrest_perk_name:0 "Princely Wrest" #NT!
+ the_crawling_eye_perk_name:0 "The Crawling Eye" #NT!
+ major_restoration_perk_name:0 "Major Restoration" #NT!
+ greater_sekhem_vessel_perk_name:0 "Greater Sekhem Vessel" #NT!
+ viziers_beast_perk_name:0 "Vizier's Beast" #NT!
+ sanctify_chattel_perk_name:0 "Sanctify Chattel" #NT!
+ scepter_of_the_vizier_perk_name:0 "Scepter of the Vizier" #NT!
+ viziers_wrest_perk_name:0 "Vizier's Wrest" #NT!
+ greater_restoration_perk_name:0 "Greater Restoration" #NT!
+ spirit_scepter_perk_name:0 "Spirit Scepter" #NT!
+ kingly_beast_perk_name:0 "Kingly Beast" #NT!
+ greater_scepter_of_the_vizier_perk_name:0 "Greater Scepter of the Vizier" #NT!
+ stalking_hound_of_typhon_perk_name:0 "Stalking Hound of Typhon" #NT!
+ kingly_wrest_perk_name:0 "Kingly Wrest" #NT!
+ effigy_of_sin_perk_name:0 "Effigy of Sin" #NT!
+ princely_restoration_perk_name:0 "Princely Restoration" #NT!
+ divine_beast_perk_name:0 "Divine Beast" #NT!
+ princely_scepter_of_the_vizier_perk_name:0 "Princely Scepter of the Vizier" #NT!
+ divine_wrest_perk_name:0 "Divine Wrest" #NT!
+
+ # Necromancy #NT!
+
+ body_preservation_perk_name:0 "Body Preservation" #NT!
+ deaths_shroud_perk_name:0 "Death's Shroud" #NT!
+ ghost_lantern_perk_name:0 "Ghost Lantern" #NT!
+ judge_the_soul_perk_name:0 "Judge The Soul" #NT!
+ separate_ka_perk_name:0 "Separate Ka" #NT!
+ stormwalk_perk_name:0 "Stormwalk" #NT!
+ summon_the_dead_perk_name:0 "Summon the Dead" #NT!
+ banish_the_dead_perk_name:0 "Banish the Dead" #NT!
+ bind_the_dead_perk_name:0 "Bind the Dead" #NT!
+ fertility_of_osiris_perk_name:0 "Fertility of Osiris" #NT!
+ revisit_death_perk_name:0 "Revisit Death" #NT!
+ sense_the_dead_perk_name:0 "Sense the Dead" #NT!
+ storm_shield_perk_name:0 "Storm Shield" #NT!
+ bind_the_living_perk_name:0 "Bind the Living" #NT!
+ deaths_hand_perk_name:0 "Death's Hand" #NT!
+ manifestation_perk_name:0 "Manifestation" #NT!
+ separate_ba_perk_name:0 "Separate Ba" #NT!
+ shadow_portal_perk_name:0 "Shadow Portal" #NT!
+ amentis_grace_perk_name:0 "Amenti's Grace" #NT!
+ khaibits_embrace_perk_name:0 "Khaibit's Embrace" #NT!
+ sever_soul_perk_name:0 "Sever Soul" #NT!
+ sin_eating_perk_name:0 "Sin-Eating" #NT!
+ call_the_khaibit_perk_name:0 "Call The Khaibit" #NT!
+ entrap_the_ba_perk_name:0 "Entrap the Ba" #NT!
+ heart_of_life_perk_name:0 "Heart of Life" #NT!
+ panoply_of_shadow_perk_name:0 "Panoply of Shadow" #NT!
+ reshape_the_lost_soul_perk_name:0 "Reshape the Lost Soul" #NT!
+ scouring_oblivion_perk_name:0 "Scouring Oblivion" #NT!
+ aspect_of_duat_perk_name:0 "Aspect of Duat" #NT!
+ call_forth_the_reavers_of_ur_perk_name:0 "Call Forth The Reavers Of Ur" #NT!
+ eating_the_heart_perk_name:0 "Eating the Heart" #NT!
+ gift_of_purpose_perk_name:0 "Gift Of Purpose" #NT!
+ khu_of_two_lands_perk_name:0 "Khu of Two Lands" #NT!
+ lighten_the_shadow_perk_name:0 "Lighten The Shadow" #NT!
+ loyal_companion_perk_name:0 "Loyal Companion" #NT!
+ open_the_sebkhet_perk_name:0 "Open The Sebkhet" #NT!
+ shadow_talisman_perk_name:0 "Shadow Talisman" #NT!
+ spear_of_anubis_perk_name:0 "Spear of Anubis" #NT!
+ walking_in_the_shadow_of_anubis_perk_name:0 "Walking in the Shadow of Anubis" #NT!
+ casting_away_perk_name:0 "Casting Away" #NT!
+ dark_wall_of_hatshepsut_perk_name:0 "Dark Wall of Hatshepsut" #NT!
+ empower_ba_perk_name:0 "Empower Ba" #NT!
+ empower_ka_perk_name:0 "Empower Ka" #NT!
+ heart_of_reincarnation_perk_name:0 "Heart of Reincarnation" #NT!
+ separate_khaibit_perk_name:0 "Separate Khaibit" #NT!
+ spirit_the_body_away_perk_name:0 "Spirit The Body Away" #NT!
+ transfixing_gaze_perk_name:0 "Transfixing Gaze" #NT!
+ barring_the_gates_perk_name:0 "Barring the Gates" #NT!
+ call_of_oblivion_perk_name:0 "Call of Oblivion" #NT!
+ promise_made_before_ammuts_scales_perk_name:0 "Promise Made Before Ammut's Scales" #NT!
+ unmaking_perk_name:0 "Unmaking" #NT!
+
+ # Nomenclature #NT!
+
+ asking_the_trees_perk_name:0 "Asking the Trees" #NT!
+ forgetting_the_stone_perk_name:0 "Forgetting the Stone" #NT!
+ forgetting_the_tree_perk_name:0 "Forgetting the Tree" #NT!
+ name_the_secret_perk_name:0 "Name the Secret" #NT!
+ naming_the_warning_perk_name:0 "Naming the Warning" #NT!
+ becoming_the_stone_perk_name:0 "Becoming the Stone" #NT!
+ becoming_the_tree_perk_name:0 "Becoming the Tree" #NT!
+ cloud_the_name_perk_name:0 "Cloud the Name" #NT!
+ command_the_beast_perk_name:0 "Command the Beast" #NT!
+ mend_flesh_perk_name:0 "Mend Flesh" #NT!
+ become_animal_perk_name:0 "Become Animal" #NT!
+ command_thought_perk_name:0 "Command Thought" #NT!
+ name_the_hekau_perk_name:0 "Name the Hekau" #NT!
+ whispers_to_the_heart_perk_name:0 "Whispers to the Heart" #NT!
+ hekau_enslave_perk_name:0 "Enslave" #NT!
+ fortify_flesh_perk_name:0 "Fortify Flesh" #NT!
+ naming_the_bodys_destruction_perk_name:0 "Naming The Body's Destruction" #NT!
+ speaking_all_names_perk_name:0 "Speaking All Names" #NT!
+ forgetting_the_name_perk_name:0 "Forgetting the Name" #NT!
+ ptahs_word_perk_name:0 "Ptah's Word" #NT!
+ whispers_to_the_body_perk_name:0 "Whispers to the Body" #NT!
+ words_of_authority_perk_name:0 "Words of Authority" #NT!
+ echo_the_lesser_name_perk_name:0 "Echo the Lesser Name" #NT!
+ name_of_sekhem_perk_name:0 "Name of Sekhem" #NT!
+ name_of_skill_perk_name:0 "Name of Skill" #NT!
+ riddle_of_the_sphinx_perk_name:0 "Riddle of the Sphinx" #NT!
+ becoming_the_person_perk_name:0 "Becoming the Person" #NT!
+ echo_the_greater_name_perk_name:0 "Echo the Greater Name" #NT!
+ name_of_the_attribute_perk_name:0 "Name of the Attribute" #NT!
+ names_of_the_forgotten_perk_name:0 "Names of the Forgotten" #NT!
+ name_of_the_will_perk_name:0 "Name of the Will" #NT!
+ renaming_the_hekau_perk_name:0 "Renaming the Hekau" #NT!
+
+ # Tan #NT!
+
+ feng_tan_1_perk_name:0 "Level One Feng Tan" #NT!
+ feng_tan_2_perk_name:0 "Level Two Feng Tan" #NT!
+ feng_tan_3_perk_name:0 "Level Three Feng Tan" #NT!
+ feng_tan_4_perk_name:0 "Level Four Feng Tan" #NT!
+ feng_tan_5_perk_name:0 "Level Five Feng Tan" #NT!
+ lung_tan_1_perk_name:0 "Level One Lung Tan" #NT!
+ lung_tan_2_perk_name:0 "Level Two Lung Tan" #NT!
+ lung_tan_3_perk_name:0 "Level Three Lung Tan" #NT!
+ lung_tan_4_perk_name:0 "Level Four Lung Tan" #NT!
+ lung_tan_5_perk_name:0 "Level Five Lung Tan" #NT!
+ body_mending_technique_perk_name:0 "Body-Mending Technique" #NT!
+ lingering_aid_of_the_caregiver_perk_name:0 "Lingering Aid of the Caregiver" #NT!
+ see_the_lands_of_the_spirit_perk_name:0 "See the Lands of the Spirits" #NT!
+ sense_lucks_flow_perk_name:0 "Sense Luck's Flow" #NT!
+ snake_fist_strike_perk_name:0 "Snake-Fist strike" #NT!
+ sweet_dreamss_caress_perk_name:0 "Sweet Dream's Caress" #NT!
+ call_the_spirits_perk_name:0 "Call the Spirits" #NT!
+ drunken_monkey_dance_perk_name:0 "Drunken Monkey Dance" #NT!
+ leaping_tiger_pounce_perk_name:0 "Leaping Tiger Pounce" #NT!
+ spirit_lantern_perk_name:0 "Spirit Lantern" #NT!
+ stormwind_prana_perk_name:0 "Stormwind Prana" #NT!
+ bind_the_demons_servant_perk_name:0 "Bind the Demon's Servant" #NT!
+ elegant_crane_deftness_perk_name:0 "Elegant Crane Deftness" #NT!
+ the_clearing_of_the_way_perk_name:0 "The Clearing of the Way" #NT!
+ opening_the_thied_eye_perk_name:0 "Opening the Third Eye" #NT!
+ flame_hand_strike_perk_name:0 "Flame-Hand Strike" #NT!
+ mantle_of_divine_authority_perk_name:0 "Mantle of Divine Authority" #NT!
+ plague_curing_method_perk_name:0 "Plague Curing Method" #NT!
+ ten_paces_strike_perk_name:0 "Ten Paces Strike" #NT!
+ walk_the_barriers_perk_name:0 "Walk the Barriers" #NT!
+ gentle_typhoons_passing_perk_name:0 "Gentle Typhoon's Passing" #NT!
+ restoration_of_youths_vigor_perk_name:0 "Restoration of Youth's Vigor" #NT!
+ transcendant_living_flame_perk_name:0 "Transcendent Living Flame" #NT!
+ hundred_shadow_cloud_perk_name:0 "Hundred Shadow Cloud" #NT!
+ iron_body_meditation_perk_name:0 "Iron Body Meditation" #NT!
+ lesser_spirit_projection_perk_name:0 "Lesser Spirit Projection" #NT!
+ still_the_fluttering_wing_perk_name:0 "Still the Fluttering Wind" #NT!
+ lungtan_unseen_passage_perk_name:0 "Unseen Passage" #NT!
+ the_way_of_the_calm_soul_perk_name:0 "The Way of the Calm Soul" #NT!
+ ebon_bonds_perk_name:0 "Ebon Bonds" #NT!
+ ice_hand_strike_perk_name:0 "Ice-Hand Strike" #NT!
+ know_the_wandering_soul_perk_name:0 "Know the Wandering Soul" #NT!
+ no_mind_kata_perk_name:0 "No Mind Kata" #NT!
+ brambles_on_the_road_perk_name:0 "Brambles on the Road" #NT!
+ ghost_walking_method_perk_name:0 "Ghost Walking Method" #NT!
+ projection_of_inward_being_perk_name:0 "Projection of Inward Being" #NT!
+ shield_of_fortune_perk_name:0 "Shield of Fortune" #NT!
+ blur_the_mind_perk_name:0 "Blur the Mind" #NT!
+ protect_against_the_demon_perk_name:0 "Protect against the Demon" #NT!
+ scroll_of_the_minds_eye_perk_name:0 "Scroll of the Mind's Eye" #NT!
+ whispering_stones_perk_name:0 "Whispering Stones" #NT!
+ death_touch_perk_name:0 "Death Touch" #NT!
+ eye_of_the_tempest_perk_name:0 "Eye of the Tempest" #NT!
+ tread_the_dragon_tracks_perk_name:0 "Tread the Dragon Tracks" #NT!
+ advanced_lung_tan_perk_name:0 "Godbody of the Celestial Emperor" #NT!
+ advanced_feng_tan_perk_name:0 "Godbody of the Celestial Emperor" #NT!
+
+ #Gifts : Homid #NT!
+ persuasion_perk_name:0 "Persuasion" #NT!
+ apecraftsblessings_perk_name:0 "Apecraft's Blessings" #NT!
+ divide_perk_name:0 "Divide" #NT!
+ speech_of_the_world_perk_name:0 "Speech of the World" #NT!
+ staredown_perk_name:0 "Staredown" #NT!
+ reshape_objects_perk_name:0 "Reshape Objects" #NT!
+ assimilation_perk_name:0 "Assimilation" #NT!
+ beyond_human_perk_name:0 "Beyond Human" #NT!
+
+ #Gifts : Lupus #NT!
+ predators_arsenal_perk_name:0 "Predator's Arsenal" #NT!
+ axis_mundi_perk_name:0 "Axis Mundi" #NT!
+ wyld_ferocity_perk_name:0 "Wyld Ferocity" #NT!
+ catfeet_perk_name:0 "Catfeet" #NT!
+ beast_life_perk_name:0 "Beast Life" #NT!
+ terror_direwolf_perk_name:0 "Terror of the Dire Wolf" #NT!
+ boon_fathers_perk_name:0 "Boon of the Animal Fathers" #NT!
+ elemental_gift_perk_name:0 "Elemental Gift" #NT!
+
+ #Gifts : Ahroun #NT!
+ battlesense_perk_name:0 "Battlesense" #NT!
+ inspiration_perk_name:0 "Inspiration" #NT!
+ pack_tactics_perk_name:0 "Pack Tactics" #NT!
+ true_fear_perk_name:0 "True Fear" #NT!
+ shake_earth_perk_name:0 "Shake the Earth" #NT!
+ challenge_combat_perk_name:0 "Challenge of Single Combat" #NT!
+ strenght_will_perk_name:0 "Strength of Will" #NT!
+ shared_strength_perk_name:0 "Shared Strength" #NT!
+ unstoppable_warrior_perk_name:0 "Unstoppable Warrior" #NT!
+
+ #Gifts : Galliard #NT!
+ primal_song_perk_name:0 "Primal Song" #NT!
+ howls_night_perk_name:0 "Howls in the Night" #NT!
+ mimic_perk_name:0 "Mimic" #NT!
+ song_heroes_perk_name:0 "Song of Heroes" #NT!
+ veil_mother_perk_name:0 "Veil of the Mother" #NT!
+ song_rage_perk_name:0 "Song of Rage" #NT!
+ bridge_walker_perk_name:0 "Bridge Walker" #NT!
+ song_siren_perk_name:0 "Song of the Siren" #NT!
+ storyteller_perk_name:0 "Storyteller" #NT!
+
+ #Gifts : Philodox #NT!
+ truth_gaia_perk_name:0 "Truth of Gaia" #NT!
+ aura_leadership_perk_name:0 "Aura of Leadership" #NT!
+ fangs_judgment_perk_name:0 "Fangs of Judgment" #NT!
+ command_gathering_perk_name:0 "Command the Gathering" #NT!
+ bonds_us_perk_name:0 "Bonds that Tie Us" #NT!
+ undisputed_ruler_perk_name:0 "Undisputed Ruler" #NT!
+ scent_beyond_perk_name:0 "Scent of Beyond" #NT!
+ roll_over_perk_name:0 "Roll Over" #NT!
+ release_from_bondage_perk_name:0 "Release from Bondage" #NT!
+
+ #Gifts : Ragabash #NT!
+ liar_face_perk_name:0 "Liar's Face" #NT!
+ snow_running_perk_name:0 "Snow Running" #NT!
+ obscure_truth_perk_name:0 "Obscure the Truth" #NT!
+ peace_counselor_perk_name:0 "Peace of the Counselor" #NT!
+ sticky_fingers_perk_name:0 "Sticky Fingers" #NT!
+ deliberate_misinformation_perk_name:0 "Deliberate Misinformation" #NT!
+ reynard_lie_perk_name:0 "Reynard's Lie" #NT!
+ fool_luck_perk_name:0 "Fool's Luck" #NT!
+ firebringer_perk_name:0 "Firebringer" #NT!
+
+ #Gifts : Theurge #NT!
+ spirit_speech_perk_name:0 "Spirit Speech" #NT!
+ sense_wyrm_perk_name:0 "Sense Wyrm" #NT!
+ hear_silence_perk_name:0 "Hear the Silence" #NT!
+ sense_chiminage_perk_name:0 "Sense Chiminage" #NT!
+ spirit_skin_perk_name:0 "Spirit Skin" #NT!
+ name_spirit_perk_name:0 "Name the Spirit" #NT!
+ prophetic_vision_perk_name:0 "Prophetic Vision" #NT!
+ spirit_vessel_perk_name:0 "Spirit Vessel" #NT!
+ rebirthing_perk_name:0 "Rebirthing" #NT!
+
+

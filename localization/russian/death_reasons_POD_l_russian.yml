@@ -1,0 +1,49 @@
+﻿l_russian:
+ death_diablerie:0 "был поглощен" #NT!
+ death_diablerie_killer:0 "был поглощен [TARGET_CHARACTER.GetUIName]" #NT!
+ death_unknown_diablerie:0 "был поглощен неизвестным Сородичем" #NT!
+ death_antediluvian:0 "исчез, предположительно погиб от руки своих Детей" #NT!
+ death_certamen:0 "был сражен на Certámen - магической дуэли от руки [TARGET_CHARACTER.GetUIName]" #NT!
+ death_final_death:0 "встретил свою Окончательную Смерть" #NT!
+ death_hundred_clouds:0 "вознесся в Сто Облаков" #NT!
+ death_sun:0 "был погублен солнечным светом" #NT!
+ death_reitred:0 "не может больше исполнять активную роль в ваших делах" #NT!
+ death_lost_all_life_force:0 "утратил все жизненные силы" #NT!
+ death_hunted_diplomacy:0 "был побежден охотником" #NT!
+ death_hunted_diplomacy_killer:0 "был побежден яростным охотником [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunted_martial:0 "был повержен охотниками" #NT!
+ death_hunted_martial_killer:0 "был уничтожен охотниками во главе с благородным [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunted_intrigue:0 "был вытащен охотником на солнечный свет" #NT!
+ death_hunted_intrigue_killer:0 "был вытащен на солнечный свет хитрым [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunted_stewardship:0 "был загнан в угол и истреблен охотником" #NT!
+ death_hunted_stewardship_killer:0 "был загнан в угол и уничтожен мудрым [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunted_learning:0 "был отправлен охотником прямо в ад" #NT!
+ death_hunted_learning_killer:0 "был отправлен прямо в ад благочестивым [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunted_prowess:0 "встретил Окончательную Смерть от рук охотника" #NT!
+ death_hunted_prowess_killer:0 "встретил Окончательную Смерть от рук бесстрашного [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunt_backfired_dip:0 "увидел подлинное лицо человечества в руках манипулирующего вампира" #NT!
+ death_hunt_backfired_dip_killer:0 "[TARGET_CHARACTER.GetUIName] увидел подлинное лицо человечества" #NT!
+ death_hunt_backfired_mar:0 "Безрассудно привел [CHARACTER.GetHerHis] людей в убежище вампира" #NT!
+ death_hunt_backfired_mar_killer:0 "Безрассудно привел [CHARACTER.GetHerHis] людей в [TARGET_CHARACTER.GetUINamePossessive] убежище" #NT!
+ death_hunt_backfired_ste:0 "погиб в результате дурацкой попытки выследить вампира" #NT!
+ death_hunt_backfired_ste_killer:0 "погиб при неразумной попытке выследить [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunt_backfired_int:0 "получил горький урок по уловкам, охотясь на вампира" #NT!
+ death_hunt_backfired_int_killer:0 "усвоил горький урок об уловках, любезно предоставленными [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunt_backfired_lea:0 "думал, что [CHARACTER.GetSheHe] сможет противостоять вампиру, вооруженному книгой" #NT!
+ death_hunt_backfired_lea_killer:0 "подумал, что  [CHARACTER.GetSheHe] может противостоять [TARGET_CHARACTER.GetUIName] вооруженному книгой" #NT!
+ death_hunt_backfired_pro:0 "поплатился за то, что столкнулся с вампиром" #NT!
+ death_hunt_backfired_pro_killer:0 "поплатился за встречу с [TARGET_CHARACTER.GetUIName]" #NT!
+ death_wrath_of_god:0 "был сражен Всемогущим Богом" #NT!
+ death_wrath_of_god_killer:0 "был сражен Всемогущим Богом по приказу [TARGET_CHARACTER.GetUIName]" #NT!
+ death_soulforging:0 "был заточен в артефакт." #NT!
+ death_soulforging_killer:0 "был задушен [TARGET_CHARACTER.GetUIName]" #NT!
+ death_existence_erased:0 "был стерт с лица земли." #NT!
+ death_existence_erased_killer:0 "был стерт с лица земли [TARGET_CHARACTER.GetUIName]" #NT!
+ death_failed_embrace:0 "был убит во время неудачного объятия." #NT!
+ death_failed_embrace_killer:0 "был убит во время неудачного объятия [TARGET_CHARACTER.GetUIName]" #NT!
+ death_wok_duel:0 "был убит ассасином из Паутины Кинжалов." #NT!
+ death_wok_duel_killer:0 "был убит [TARGET_CHARACTER.GetUIName], ассасином из Паутины Кинжалов." #NT!
+ death_lightning:0 "погиб от удара молнии." #NT!
+ death_lightning_killer:0 "умер от удара молнии, вызванного [TARGET_CHARACTER.GetUIName]" #NT!
+ death_soultaker:0 "был поглощен в душегуба." #NT!
+ death_soultaker_killer:0 "был поглощен в душегуба [TARGET_CHARACTER.GetUIName]" #NT!

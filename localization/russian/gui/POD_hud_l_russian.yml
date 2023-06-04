@@ -1,0 +1,89 @@
+﻿l_russian:
+ hunger0desc:0 "#bold Кровавый Голод 0:#! \n[GetModifier('bloodhunger0_modifier').GetDesc]" #NT!
+ hunger1desc:0 "#bold Кровавый Голод 1:#! \n[GetModifier('bloodhunger1_modifier').GetDesc]" #NT!
+ hunger2desc:0 "#bold Кровавый Голод 2:#! \n[GetModifier('bloodhunger2_modifier').GetDesc]" #NT!
+ hunger3desc:0 "#bold Кровавый Голод 3:#! \n[GetModifier('bloodhunger3_modifier').GetDesc]" #NT!
+ hunger4desc:0 "#bold Кровавый Голод 4:#! \n[GetModifier('bloodhunger4_modifier').GetDesc]" #NT!
+ hunger5desc:0 "#bold Кровавый Голод 5:#! \n[GetModifier('bloodhunger5_modifier').GetDesc]" #NT!
+ masq0desc:0 "#bold Уровень Маскарада 0:#! \n[GetModifier('masquerade0_modifier').GetDesc]" #NT!
+ masq1desc:0 "#bold Уровень Маскарада 1:#! \n[GetModifier('masquerade1_modifier').GetDesc]" #NT!
+ masq2desc:0 "#bold Уровень Маскарада 2:#! \n[GetModifier('masquerade2_modifier').GetDesc]" #NT!
+ masq3desc:0 "#bold Уровень Маскарада 3:#! \n[GetModifier('masquerade3_modifier').GetDesc]" #NT!
+ masq4desc:0 "#bold Уровень Маскарада 4:#! \n[GetModifier('masquerade4_modifier').GetDesc]" #NT!
+ masq5desc:0 "#bold Уровень Маскарада 5:#! \n[GetModifier('masquerade5_modifier').GetDesc]" #NT!
+ yinchidesc0:0 "#bold [GetModifier('yinchi0_modifier').GetName]#!" #NT!
+ yinchidesc1:0 "#bold [GetModifier('yinchi1_modifier').GetName]#!" #NT!
+ yinchidesc2:0 "#bold [GetModifier('yinchi2_modifier').GetName]#!" #NT!
+ yinchidesc3:0 "#bold [GetModifier('yinchi3_modifier').GetName]#!" #NT!
+ yinchidesc4:0 "#bold [GetModifier('yinchi4_modifier').GetName]#!" #NT!
+ yinchidesc5:0 "#bold [GetModifier('yinchi5_modifier').GetName]#!" #NT!
+ yinchidesc6:0 "#bold [GetModifier('yinchi6_modifier').GetName]#!" #NT!
+ yinchidesc7:0 "#bold [GetModifier('yinchi7_modifier').GetName]#!" #NT!
+ yinchidesc8:0 "#bold [GetModifier('yinchi8_modifier').GetName]#!" #NT!
+ yinchidesc9:0 "#bold [GetModifier('yinchi9_modifier').GetName]#!" #NT!
+ yinchidesc10:0 "#bold [GetModifier('yinchi10_modifier').GetName]#!" #NT!
+ yangchidesc0:0 "#bold [GetModifier('yangchi0_modifier').GetName]#!" #NT!
+ yangchidesc1:0 "#bold [GetModifier('yangchi1_modifier').GetName]#!" #NT!
+ yangchidesc2:0 "#bold [GetModifier('yangchi2_modifier').GetName]#!" #NT!
+ yangchidesc3:0 "#bold [GetModifier('yangchi3_modifier').GetName]#!" #NT!
+ yangchidesc4:0 "#bold [GetModifier('yangchi4_modifier').GetName]#!" #NT!
+ yangchidesc5:0 "#bold [GetModifier('yangchi5_modifier').GetName]#!" #NT!
+ yangchidesc6:0 "#bold [GetModifier('yangchi6_modifier').GetName]#!" #NT!
+ yangchidesc7:0 "#bold [GetModifier('yangchi7_modifier').GetName]#!" #NT!
+ yangchidesc8:0 "#bold [GetModifier('yangchi8_modifier').GetName]#!" #NT!
+ yangchidesc9:0 "#bold [GetModifier('yangchi9_modifier').GetName]#!" #NT!
+ yangchidesc10:0 "#bold [GetModifier('yangchi10_modifier').GetName]#!" #NT!
+ sekhemdesc0:0 "#bold [GetModifier('sekhem0_modifier').GetName]#!" #NT!
+ sekhemdesc1:0 "#bold [GetModifier('sekhem1_modifier').GetName]#!" #NT!
+ sekhemdesc2:0 "#bold [GetModifier('sekhem2_modifier').GetName]#!" #NT!
+ sekhemdesc3:0 "#bold [GetModifier('sekhem3_modifier').GetName]#!" #NT!
+ sekhemdesc4:0 "#bold [GetModifier('sekhem4_modifier').GetName]#!" #NT!
+ sekhemdesc5:0 "#bold [GetModifier('sekhem5_modifier').GetName]#!" #NT!
+ sekhemdesc6:0 "#bold [GetModifier('sekhem6_modifier').GetName]#!" #NT!
+ sekhemdesc7:0 "#bold [GetModifier('sekhem7_modifier').GetName]#!" #NT!
+ sekhemdesc8:0 "#bold [GetModifier('sekhem8_modifier').GetName]#!" #NT!
+ sekhemdesc9:0 "#bold [GetModifier('sekhem9_modifier').GetName]#!" #NT!
+ sekhemdesc10:0 "#bold [GetModifier('sekhem10_modifier').GetName]#!" #NT!
+ pathosdesc0:0 "#bold [GetModifier('pathos0_modifier').GetName]#!" #NT!
+ pathosdesc1:0 "#bold [GetModifier('pathos1_modifier').GetName]#!" #NT!
+ pathosdesc2:0 "#bold [GetModifier('pathos2_modifier').GetName]#!" #NT!
+ pathosdesc3:0 "#bold [GetModifier('pathos3_modifier').GetName]#!" #NT!
+ pathosdesc4:0 "#bold [GetModifier('pathos4_modifier').GetName]#!" #NT!
+ pathosdesc5:0 "#bold [GetModifier('pathos5_modifier').GetName]#!" #NT!
+ resolvedesc0:0 "#bold [GetModifier('resolve0_modifier').GetName]#!" #NT!
+ resolvedesc1:0 "#bold [GetModifier('resolve1_modifier').GetName]#!" #NT!
+ resolvedesc2:0 "#bold [GetModifier('resolve2_modifier').GetName]#!" #NT!
+ resolvedesc3:0 "#bold [GetModifier('resolve3_modifier').GetName]#!" #NT!
+ resolvedesc4:0 "#bold [GetModifier('resolve4_modifier').GetName]#!" #NT!
+ resolvedesc5:0 "#bold [GetModifier('resolve5_modifier').GetName]#!" #NT!
+ glamour0desc:0 "#bold [GetModifier('glamour0_modifier').GetName]#!" #NT!
+ glamour1desc:0 "#bold [GetModifier('glamour1_modifier').GetName]#!" #NT!
+ glamour2desc:0 "#bold [GetModifier('glamour2_modifier').GetName]#!" #NT!
+ glamour3desc:0 "#bold [GetModifier('glamour3_modifier').GetName]#!" #NT!
+ glamour4desc:0 "#bold [GetModifier('glamour4_modifier').GetName]#!" #NT!
+ glamour5desc:0 "#bold [GetModifier('glamour5_modifier').GetName]#!" #NT!
+ rage0desc:0 "#bold [GetModifier('POD_rage_0_modifier').GetName]#!" #NT!
+ rage1desc:0 "#bold [GetModifier('POD_rage_1_modifier').GetName]#!" #NT!
+ rage2desc:0 "#bold [GetModifier('POD_rage_2_modifier').GetName]#!" #NT!
+ rage3desc:0 "#bold [GetModifier('POD_rage_3_modifier').GetName]#!" #NT!
+ rage4desc:0 "#bold [GetModifier('POD_rage_4_modifier').GetName]#!" #NT!
+ rage5desc:0 "#bold [GetModifier('POD_rage_5_modifier').GetName]#!" #NT!
+ gnosis0desc:0 "#bold [GetModifier('POD_gnosis_0_modifier').GetName]#!" #NT!
+ gnosis1desc:0 "#bold [GetModifier('POD_gnosis_1_modifier').GetName]#!" #NT!
+ gnosis2desc:0 "#bold [GetModifier('POD_gnosis_2_modifier').GetName]#!" #NT!
+ gnosis3desc:0 "#bold [GetModifier('POD_gnosis_3_modifier').GetName]#!" #NT!
+ gnosis4desc:0 "#bold [GetModifier('POD_gnosis_4_modifier').GetName]#!" #NT!
+ gnosis5desc:0 "#bold [GetModifier('POD_gnosis_5_modifier').GetName]#!" #NT!
+ gauntletdesc0:0 "#bold [GetModifier('gauntlet0_modifier').GetName]#!\n[GetModifier('gauntlet0_modifier').GetDesc]" #NT!
+ gauntletdesc1:0 "#bold [GetModifier('gauntlet1_modifier').GetName]#!\n[GetModifier('gauntlet1_modifier').GetDesc]" #NT!
+ gauntletdesc2:0 "#bold [GetModifier('gauntlet2_modifier').GetName]#!\n[GetModifier('gauntlet2_modifier').GetDesc]" #NT!
+ gauntletdesc3:0 "#bold [GetModifier('gauntlet3_modifier').GetName]#!\n[GetModifier('gauntlet3_modifier').GetDesc]" #NT!
+ gauntletdesc4:0 "#bold [GetModifier('gauntlet4_modifier').GetName]#!\n[GetModifier('gauntlet4_modifier').GetDesc]" #NT!
+ gauntletdesc5:0 "#bold [GetModifier('gauntlet5_modifier').GetName]#!\n[GetModifier('gauntlet5_modifier').GetDesc]" #NT!
+ gauntletdesc6:0 "#bold [GetModifier('gauntlet6_modifier').GetName]#!\n[GetModifier('gauntlet6_modifier').GetDesc]" #NT!
+ gauntletdesc7:0 "#bold [GetModifier('gauntlet7_modifier').GetName]#!\n[GetModifier('gauntlet7_modifier').GetDesc]" #NT!
+ gauntletdesc8:0 "#bold [GetModifier('gauntlet8_modifier').GetName]#!\n[GetModifier('gauntlet8_modifier').GetDesc]" #NT!
+ gauntletdesc9:0 "#bold [GetModifier('gauntlet9_modifier').GetName]#!\n[GetModifier('gauntlet9_modifier').GetDesc]" #NT!
+ gauntletdesc10:0 "#bold [GetModifier('gauntlet10_modifier').GetName]#!\n[GetModifier('gauntlet10_modifier').GetDesc]" #NT!
+
+ original_music_by_serial_symphony:0 "Original music by Serial Symphony" #NT!

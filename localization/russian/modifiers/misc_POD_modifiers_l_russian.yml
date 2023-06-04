@@ -1,0 +1,231 @@
+﻿l_russian:
+ soul_crushed_modifier:0 "Сокрушенный Дух" #NT!
+ soul_crushed_modifier_desc:0 "Этот вампир с турдом проживает свою нежизнь, механически переходя от одной задачи к другой" #NT!
+ POD_childe_dislike_opinion:0 "Противится Ваши Учениям" #NT!
+ isolated_modifier:0 "Isolated" #NT!
+ isolated_modifier_desc:0 "You have secluded yourself with your childe, to make sure he understands some... core principles." #NT!
+ left_alone_modifier:0 "Осказавшись в одиночестве" #NT!
+ left_alone_modifier_desc:0 "В качестве испытания веры вы покидаете это сообщество - оно работает само по себе без вашего вмешательства, что на самом деле имеет некоторые преимущества." #NT!
+ POD_childe_like_opinion:0 "Нравятся Ваши Наставления" #NT!
+ helpful_diplomat_childe_modifier:0 "Полезное Дипломатичное Чадо" #NT!
+ helpful_diplomat_childe_modifier_desc:0 "Ваше Чадо произвело хорошее впечатление на нескольких графов, обеспечив вам на некоторое время их дружбу." #NT!
+ helpful_childe_modifier:0 "Полезное Чадо" #NT!
+ helpful_childe_modifier_desc:0 "Ваше Чадо оказало большую помощь во всех государственных делах, улучшив положение дел в государстве." #NT!
+ helpful_steward_childe_modifier:0 "Helpful Steward Childe" #NT!
+ helpful_steward_childe_modifier_desc:0 "Your childe has several extension projects for new courts that could be of use." #NT!
+ helpful_intrigue_childe_modifier:0 "Helpful Schemer Childe" #NT!
+ helpful_intrigue_childe_modifier_desc:0 "Your childe is like the second version of you, plotting for your own benefit." #NT!
+ exemplar_childe_modifier:0 "Rule by Fear" #NT!
+ exemplar_childe_modifier_desc:0 "This character has proved that there are very few lines he would not cross for keeping power." #NT!
+ martial_mentor_modifier:0 "Strategy Mentor" #NT!
+ martial_mentor_modifier_desc:0 "An exquisite commander now mentors this character." #NT!
+ not_so_shadowy_modifier:0 "Not So Shadowy" #NT!
+ not_so_shadowy_modifier_desc:0 "This individual jeopardized the secrecy of the mission." #NT!
+ disrespected_subordinates_modifier:0 "Disrespected Subordinates" #NT!
+ disrespected_subordinates_modifier_desc:0 "This individual subjected their subordinates to a degrading task causing their resentment." #NT!
+ profanated_holy_relic_modifier:0 "Profaned Holy Relic" #NT!
+ profanated_holy_relic_modifier_desc:0 "This individual failed to handle a sacred relic entrusted to them with adequate piety." #NT!
+ flawless_presentation_modifier:0 "Flawless Presentation" #NT!
+ flawless_presentation_modifier_desc:0 "Your childe's presentation has impressed even the most jaded of your vassals." #NT!
+ laying_back_modifier:0 "Laying Back" #NT!
+ laying_back_modifier_desc:0 "You are taking it easy for a while. You certainly deserve it!" #NT!
+ byzantine_community_modifier:0 "Byzantine Community" #NT!
+ byzantine_community_modifier_desc:0 "A small group of Byzantine refugees, both [cainites|E], and Kine, have found refuge in your province. They are grateful for the shelter." #NT!
+ shard_hagia_modifier:0 "Shard of Hagia Sophia" #NT!
+ shard_hagia_modifier_desc:0 "A small part of what has been the lair of one of the greatest vampires of this era, Michael. You could almost lose yourself in it..." #NT!
+ roderigo_step1_modifier:0 "Roderigo's Teachings" #NT!
+ roderigo_step1_modifier_desc:0 "The quiet mage has so many things to teach you. You just have to take a leap of faith..." #NT!
+ roderigo_step2_modifier:0 "Roderigo's Wisdom" #NT!
+ roderigo_step2_modifier_desc:0 "You know so much more than before! But there are still some hidden truths close enough for you to feel..." #NT!
+ roderigo_step3_modifier:0 "Roderigo's Truths" #NT!
+ roderigo_step3_modifier_desc:0 "You know the primordial truth about life and death. If only you could remember it..." #NT!
+ hunted_by_wolves_modifier:0 "Hunted" #NT!
+ hunted_by_wolves_modifier_desc:0 "The dreaded Lupines follow your every move, waiting for an opening. You don't have to do anything else but sidetracking them for now." #NT!
+ loose_wolves_modifier:0 "Wolves on the Loose" #NT!
+ loose_wolves_modifier_desc:0 "Werewolves are rampaging in the countryside, sometimes even attacking cities directly." #NT!
+ crisis_of_faith_modifier:0 "Crisis of Faith" #NT!
+ crisis_of_faith_modifier_desc:0 "You've lost your faith, and are unable to use True Faith powers" #NT!
+ fiend_lover_modifier:0 "Fiend Lover" #NT!
+ fiend_lover_modifier_desc:0 "This person inexplicably betrayed the cause by releasing a servant of Hell from captivity." #NT!
+ tracked_down_modifier:0 "Tracked Down" #NT!
+ tracked_down_modifier_desc:0 "The whereabouts of this individual are known to a hostile party" #NT!
+ endo_holyweapon_modifier:0 "Holy Weapon" #NT!
+ endo_holyweapon_modifier_desc:0 "This person is armed with a weapon imbued with divine power." #NT!
+ serpent_garden_modifier:0 "Serpent in the Garden" #NT!
+ serpent_garden_modifier_desc:0 "The Serpent is back in Avalon. The Barons aren't pleased." #NT!
+ truce_of_tuzfold_modifier:0 "Truce of Tuzfold" #NT!
+ truce_of_tuzfold_modifier_desc:0 "The humiliating white peace you had to sign makes you look weak to your ambitious vassals." #NT!
+ cowed_by_trial_modifier:0 "Defeated in Trial by War" #NT!
+ cowed_by_trial_modifier_desc:0 "Vladimir Rustovitch crushed your forces in a succession of daring displays of tactical prowess. You are in no shape to overthrow him." #NT!
+ emboldened_by_trial_modifier:0 "Victorious in Trial by War" #NT!
+ emboldened_by_trial_modifier_desc:0 "You crushed Vladimir Rustovitch's attempts to curb your growing power. Maybe it is the time to strike?" #NT!
+ tremere_politics_modifier:0 "Tremere Politics" #NT!
+ tremere_politics_modifier_desc:0 "There is always someone higher in the Pyramid than you" #NT!
+ spent_from_call_modifier:0 "Spent from Call" #NT!
+ spent_from_call_modifier_desc:0 "Calling back your childe to you took a toll." #NT!
+ confused_by_roque_modifier:0 "Confused" #NT!
+ confused_by_roque_modifier_desc:0 "You have been the target of nonsensical plotting with apparently no start or finish. What the hell is going on?" #NT!
+ restored_autorithy_modifier:0 "Restored Authority" #NT!
+ restored_autorithy_modifier_desc:0 "[Clan|E] Lasombra can't deny your position as its leader any longer." #NT!
+ targeted_by_baali_modifier:0 "Nasty Rumors" #NT!
+ targeted_by_baali_modifier_desc:0 "You are the target of a vicious campaign of misinformation, probably orchestrated by the vengeful Damascenes Baali" #NT!
+ black_spiraled_modifier:0 "Madness of the Spiral" #NT!
+ black_spiraled_modifier_desc:0 "You have seen things that no mortal, or vampire, should ever see." #NT!
+ black_spiraled_good_modifier:0 "Strength of the Spiral" #NT!
+ black_spiraled_good_modifier_desc:0 "You have endured the madness of the Black Spiral and came back stronger from it" #NT!
+
+ wisdom_of_hazimel_modifier:0 "Мудрость Хамизель" #NT!
+ wisdom_of_hazimel_modifier_desc:0 "Этот персонаж пожертвовал частью своего собственного тела, чтобы обрести вечную мудрость" #NT!
+
+ lamia_bodyguard_modifier:0 "Нанял Ламию телохранителя" #NT!
+ lamia_bodyguard_modifier_desc:0 "Этот персонаж нанял представителя грозной родословной Ламий в качестве своего телохранителя" #NT!
+ web_of_knives_membership_modifier:0 "Web Of Knives Fee" #NT!
+
+ attuned_to_yin_modifier:0 "Attuned to Yin" #NT!
+ attuned_to_yin_modifier_desc:0 "A mortal or vampire attuned to Yin becomes lethargic and melancholic." #NT!
+ attuned_to_yang_modifier:0 "Attuned to Yang" #NT!
+ attuned_to_yang_modifier_desc:0 "A mortal or vampire attuned to Yang becomes feverish and manic." #NT!
+ state_of_balance_modifier:0 "State of Balance" #NT!
+ state_of_balance_modifier_desc:0 "A mortal restored to a state of Balance enjoys greatly improved physical and mental health." #NT!
+ temporary_yin_imbalance_modifier:0 "Temporary Yin Imbalance" #NT!
+ temporary_yang_imbalance_modifier:0 "Temporary Yang Imbalance" #NT!
+
+
+ occitan_opinion:0 "Occitan Opinion" #NT!
+
+ prowess_from_pain_1_modifier:0 "Доблесть от Боли" #NT!
+ prowess_from_pain_2_modifier:0 "Доблесть от Боли" #NT!
+ prowess_from_pain_3_modifier:0 "Доблесть от Боли" #NT!
+ prowess_from_pain_1_enhanced_modifier:0 "Доблесть от Боли" #NT!
+ prowess_from_pain_2_enhanced_modifier:0 "Доблесть от Боли" #NT!
+ prowess_from_pain_3_enhanced_modifier:0 "Доблесть от Боли" #NT!
+ seduce_scheme_resistance_mult:0 "Множитель сопротивления Соблазнению" #NT!
+
+ half_point_modifier:0 "Power Remaining" #NT!
+ half_point_modifier_desc:0 "Power from base 5 to base 10." #NT!
+
+ warning_prayer_modifier:0 "Warning Prayer" #NT!
+ glowing_prayer_modifier:0 "Glowing Prayer" #NT!
+ bursing_prayer_modifier:0 "Burning Prayer" #NT!
+ indenfensible_prayer_modifier:0 "Unstoppable Prayer" #NT!
+ explosive_prayer_modifier:0 "Explosive Prayer" #NT!
+ burn_out_prayer_modifier:0 "Burn-Out Prayer" #NT!
+ cut_off_prayer_modifier:0 "Cut-Off Barrier" #NT!
+ celestial_barrier_modifier:0 "Celestial Barrier" #NT!
+
+ shih_peace_modifier:0 "Yi's Teachings" #NT!
+ meng_huo_you_supply_modifier:0 "Meng Huo You Supply" #NT!
+
+ wepauwet_modifier:0 "Second Chance" #NT!
+ wepauwet_modifier_desc:0 "Horus himself couldn't give Wepauwet true immortality, but he still ended up pretty close to it. The memory of the Silent Striders lives on." #NT!
+
+ internal_recursion_perk_modifier:0 "Внутренняя Рекурсия" #NT!
+ ramble_on_perk_modifier:0 "Временное Запутывание" #NT!
+ lapse_perk_modifier:0 "Замедление" #NT!
+ subjective_suspension_perk_modifier:0 "Субъективная Приостановка" #NT!
+
+ incubus_passion_perk_choleric_modifier:0 "Заглушенный Холерик" #NT!
+ incubus_passion_perk_phlegmatic_modifier:0 "Заглушенный Флегматик" #NT!
+ incubus_passion_perk_melancholic_modifier:0 "Заглушенный Меланхолик" #NT!
+ incubus_passion_perk_sanguine_modifier:0 "Заглушенный Сангвиник" #NT!
+ passion_perk_modifier:0 "Притупленные Эмоции" #NT!
+ the_haunting_perk_modifier:0 "Безумные Видения" #NT!
+ silence_the_sane_mind_perk_modifier:0 "Кататония" #NT!
+ prison_of_the_mind:0 "Тюрьма Разума" #NT!
+ prison_of_the_mind_desc:0 "невозможно удалить черту стресса." #NT!
+
+ haunting_melody_perk_modifier:0 "Навязчивая Мелодия" #NT!
+
+ spirit_animal_cat_modifier:0 "Духовное Животное #Weak (Кошка)#!" #NT!
+ spirit_animal_wolf_modifier:0 "Духовное Животное #Weak (Волк)#!" #NT!
+ spirit_animal_horse_modifier:0 "Духовное Животное #Weak (Лошадь)#!" #NT!
+ spirit_animal_bear_modifier:0 "Духовное Животное #Weak (Медведь)#!" #NT!
+ spirit_animal_lion_modifier:0 "Духовное Животное #Weak (Лев)#!" #NT!
+ spirit_animal_tiger_modifier:0 "Духовное Животное #Weak (Тигр)#!" #NT!
+ spirit_animal_rat_modifier:0 "Духовное Животное #Weak (Крыса)#!" #NT!
+ spirit_animal_bat_modifier:0 "Духовное Животное #Weak (Летучая Мышь)#!" #NT!
+ spirit_animal_crow_modifier:0 "Духовное Животное #Weak (Ворон)#!" #NT!
+ spirit_animal_bull_modifier:0 "Духовное Животное #Weak (Бык)#!" #NT!
+ spirit_animal_snake_modifier:0 "Духовное Животное #Weak (Змея)#!" #NT!
+ spirit_animal_rooster_modifier:0 "Духовное Животное #Weak (Петух)#!" #NT!
+ spirit_animal_owl_modifier:0 "Духовное Животное #Weak (Сова)#!" #NT!
+
+ pariahs_caress_perk_modifier:0 "Ласка Изгоя" #NT!
+ aversion_perk_modifier:0 "Отвращение" #NT!
+ unburden_the_bestial_soul_perk_conscience_modifier:0 "Improved Conscience" #NT!
+ unburden_the_bestial_soul_perk_courage_modifier:0 "Improved Courage" #NT!
+ unburden_the_bestial_soul_perk_self_control_modifier:0 "Improved Self-Control" #NT!
+ song_of_the_blooded_perk_commander_positive_modifier:0 "Song of the Blooded" #NT!
+ song_of_the_blooded_perk_knight_positive_modifier:0 "Song of the Blooded" #NT!
+ song_of_the_blooded_perk_commander_negative_modifier:0 "Song of the Blooded" #NT!
+ song_of_the_blooded_perk_knight_negative_modifier:0 "Song of the Blooded" #NT!
+
+ riddle_phantastique_perk_modifier:0 "Фантастическая загадка" #NT!
+ steal_the_mind_diplomacy_loss_modifier:0 "Кража Разума: Потеря Дипломатии" #NT!
+ steal_the_mind_martial_loss_modifier:0 "Кража Разума: Потеря Военного дела" #NT!
+ steal_the_mind_stewardship_loss_modifier:0 "Кража Разума: Потеря Управления" #NT!
+ steal_the_mind_intrigue_loss_modifier:0 "Кража Разума: Потеря Интриги" #NT!
+ steal_the_mind_learning_loss_modifier:0 "Кража Разума: Потеря Ученности" #NT!
+
+ horrid_reality_perk_modifier:0 "Ужасающая Реальность" #NT!
+ horrid_reality_perk_modifier_desc:0 "Под действием Химерии, разум жертвы погружен в мир иллюзий, созданный вампиром." #NT!
+
+ #Forgotten Quietus modifiers #NT!
+
+ scorpions_touch_perk_modifier:0 "Касание Скорпиона" #NT!
+ scorpions_curse_perk_modifier:0 "Проклятие Скорпиона" #NT!
+ baals_caress_perk_modifier:0 "Ласка Баала" #NT!
+
+ artifact_life_expectancy_40_modifier:0 "[life_expectancy|E] #weak (годы):#! #P +40#!" #NT!
+ caliburn_light_modifier:0 "Caliburn's Golden Light" #NT!
+ caliburn_shield_modifier:0 "Caliburn's Protection" #NT!
+ caliburn_shield_modifier_desc:0 "Won't gain wounds or be maimed in combat." #NT!
+
+ red_and_white_springs:0 "Red and White Springs" #NT!
+ red_and_white_springs_desc:0 "Upon the pinnacle of Glastonbury Tor are two springs, the White and the Red, representing the forces of life and death." #NT!
+ albion_pool_of_youth_modifier:0 "Albion Pool #Weak (Youth)#!" #NT!
+ albion_pool_of_heal_modifier:0 "Albion Pool #Weak (Heal)#!" #NT!
+ albion_pool_of_control_modifier:0 "Albion Pool #Weak (Control)#!" #NT!
+
+ doppelganger_modifier:0 "Doppelganger" #NT!
+
+ logis_ashes_modifier:0 "Spreading Hunger" #NT!
+ achen_modifier:0 "Unarmored" #NT!
+ cauldron_of_fear_modifier:0 "Страх" #NT!
+ cold_light_modifier:0 "Ослепление" #NT!
+
+ artifact_prowess_5_modifier:0 "[prowess|E]: #P +5#!" #NT!
+ artifact_prowess_4_modifier:0 "[prowess|E]: #P +4#!" #NT!
+ artifact_prowess_3_modifier:0 "[prowess|E]: #P +3#!" #NT!
+ artifact_prowess_2_modifier:0 "[prowess|E]: #P +2#!" #NT!
+ artifact_prowess_1_modifier:0 "[prowess|E]: #P +1#!" #NT!
+ artifact_diplomacy_4_modifier:0 "[diplomacy|E]: #P +4#!" #NT!
+ artifact_martial_4_modifier:0 "[martial|E]: #P +4#!" #NT!
+ artifact_stewardship_4_modifier:0 "[stewardship|E]: #P +4#!" #NT!
+ artifact_intrigue_4_modifier:0 "[intrigue|E]: #P +4#!" #NT!
+ artifact_learning_4_modifier:0 "[learning|E]: #P +4#!" #NT!
+ artifact_diplomacy_3_modifier:0 "[diplomacy|E]: #P +3#!" #NT!
+ artifact_martial_3_modifier:0 "[martial|E]: #P +3#!" #NT!
+ artifact_stewardship_3_modifier:0 "[stewardship|E]: #P +3#!" #NT!
+ artifact_intrigue_3_modifier:0 "[intrigue|E]: #P +3#!" #NT!
+ artifact_learning_3_modifier:0 "[learning|E]: #P +3#!" #NT!
+ artifact_diplomacy_2_modifier:0 "[diplomacy|E]: #P +2#!" #NT!
+ artifact_martial_2_modifier:0 "[martial|E]: #P +2#!" #NT!
+ artifact_stewardship_2_modifier:0 "[stewardship|E]: #P +2#!" #NT!
+ artifact_intrigue_2_modifier:0 "[intrigue|E]: #P +2#!" #NT!
+ artifact_learning_2_modifier:0 "[learning|E]: #P +2#!" #NT!
+ artifact_diplomacy_1_modifier:0 "[diplomacy|E]: #P +1#!" #NT!
+ artifact_martial_1_modifier:0 "[martial|E]: #P +1#!" #NT!
+ artifact_stewardship_1_modifier:0 "[stewardship|E]: #P +1#!" #NT!
+ artifact_intrigue_1_modifier:0 "[intrigue|E]: #P +1#!" #NT!
+ artifact_learning_1_modifier:0 "[learning|E]: #P +1#!" #NT!
+ artifact_negate_prowess_penalty_add_6_modifier:0 "Injury Resistance ([prowess|E]): #P +6#!" #NT!
+ artifact_negate_prowess_penalty_add_4_modifier:0 "Injury Resistance ([prowess|E]): #P +4#!" #NT!
+ artifact_enemy_hard_casualty_modifier_4_modifier:0 "[command_modifier_i|E]enemy [dead_soldiers|E]: #P +5%#!" #NT!
+ artifact_hard_casualty_modifier_2_modifier:0 "[command_modifier_i|E]friendly [dead_soldiers|E]: #P -3%#!" #NT!
+ artifact_monthly_lifestyle_xp_1_modifier:0 "Monthly [lifestyle|E] experience: #P +10%#!" #NT!
+ artifact_stress_loss_1_penalty_modifier:0 "[stress|E] loss: #N -10%#!" #NT!
+ artifact_stress_gain_1_penalty_modifier:0 "[stress|E] gain: #N +10%#!" #NT!
+
+ life_warden_modifier:0 "Life Warden" #NT!
+ life_warden_modifier_desc:0 "Allow resurrection if this character die by unnatural cause." #NT!

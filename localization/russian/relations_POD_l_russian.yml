@@ -1,0 +1,61 @@
+﻿l_russian:
+
+
+ shadow_twin_master:0 "[shadow_twin_master|E]" #NT!
+ shadow_twin_servant:0 "[shadow_twin_servant|E]" #NT!
+
+ darkling_mirror_master:0 "Remain Body" #NT!
+ darkling_mirror_servant:0 "Split P'o" #NT!
+
+ shadowy_duplicate_master:0 "Original" #NT!
+ shadowy_duplicate_servant:0 "Shadowy Duplicate" #NT!
+
+ phantom_shadow_master:0 "Original" #NT!
+ phantom_shadow_servant:0 "Phantom Shadow" #NT!
+
+ separated_khaibit_master:0 "Creator" #NT!
+ separated_khaibit_servant:0 "Separated Khaibit" #NT!
+
+ separated_shadow_master:0 "Psyche" #NT!
+ separated_shadow_servant:0 "Shadow" #NT!
+
+ unspeakable_servitor_master:0 "Possessor " #NT!
+ unspeakable_servitor_servant:0 "Host Body" #NT!
+
+ ghoul_domitor:0 "[domitor|E]" #NT!
+ ghoul_thrall:0 "[Ghoul|E]" #NT!
+
+ herd_owner:0 "Owner" #NT!
+ herd_member:0 "Herd" #NT!
+
+ worshipped_reborn:0 "Idol" #NT!
+ worshipping_neteru:0 "[neteru|E]" #NT!
+
+ effigy_creator:0 "Creator" #NT!
+ effigy_character:0 "Effigy" #NT!
+
+ animantis_creator:0 "Creator" #NT!
+ animantis_character:0 "Animantis" #NT!
+
+ possessesing_wraith:0 "Puppeteer" #NT!
+ possessed_target:0 "Puppet" #NT!
+
+ necromancer:0 "Necromancer" #NT!
+ bound_wraith:0 "Bound Wraith" #NT!
+
+ demonic_master:0 "Master" #NT!
+ demonic_thrall:0 "[thrall|E]" #NT!
+
+ diabolist:0 "Diabolist" #NT!
+ bound_demon:0 "Bound Demon" #NT!
+
+ packmember:0 "[packmember|E]" #NT!
+
+ life_warden:0 "Life Warden" #NT!
+ warded_patient:0 "Warded Patient" #NT!
+
+ dreamer_owner:0 "Muse" #NT!
+ dreamer_member:0 "[dreamer|E]" #NT!
+
+ umbra_employer:0 "Employer" #NT!
+ umbra_explorer:0 "Explorer" #NT!

@@ -1,0 +1,121 @@
+﻿l_russian:
+ judge_land_decision:0 "Judge of the Land" #NT!
+ judge_land_decision_tooltip:1 "You have a duty to the people." #NT!
+ judge_land_decision_desc:0 "As a Philodox, you are supposed to represent the ancient laws. As such, you are the bulwark of tradition and respectability for werewolves and mortals alike." #NT!
+ judge_land_decision_confirm:0 "I will listen and consider." #NT!
+
+ judge_land_modifier:0 "Judge of the Land" #NT!
+ judge_land_modifier_desc:0 "A Philodox has recently deal with any legal issues in this area, ensuring a fair trial to the innocent and a swift execution to the guilty." #NT!
+
+ prospering_populace_modifier:0 "Prospering Populace" #NT!
+ prospering_populace_modifier_desc:0 "A Philodox is ensuring that everyone gets his due and works as a community in this area." #NT!
+
+ pack_training_decision:0 "Pack Training" #NT!
+ pack_training_decision_tooltip:1 "Your pack is your true family, and family deserves respect." #NT!
+ pack_training_decision_desc:0 "Much more than simple friends, your packmates are the ones that will always have your back in the most dire of situations. You must be prepared for everything as a team." #NT!
+ pack_training_decision_confirm:0 "Training time!" #NT!
+ pack_training_decision_effect:0 "You will review your pack and decide which form of training to focus on." #NT!
+
+ auspice_renunciation_decision:0 "Auspice Renunciation" #NT!
+ auspice_renunciation_decision_tooltip:1 "You will change your auspice." #NT!
+ auspice_renunciation_decision_desc:0 "In this rare rite, a werewolf rejects the auspice under which he was born and chooses a new one. The Garou must perform this rite during the phase of the moon he wishes to adopt. Most commonly, water from a silver basin exposed to Luna’s radiance is poured over the naked supplicant, washing him clean of all he once was, including all rank. He is now free to start anew as a member of his adopted auspice." #NT!
+ auspice_renunciation_decision_confirm:0 "Shifting Moon" #NT!
+
+ force_duel_criminals_interaction.death.tt:0 "This duel is to the death." #NT!
+
+ POD_werewolves_pack.1.t:0 "Your Pack" #NT!
+ POD_werewolves_pack.1.opening:0 "Currently, your Pack is composed of: \n" #NT!
+ POD_werewolves_pack.1.packmember_1:0 "[packmember_1.GetName] \n" #NT!
+ POD_werewolves_pack.1.packmember_2:0 "[packmember_2.GetName] \n" #NT!
+ POD_werewolves_pack.1.packmember_3:0 "[packmember_3.GetName] \n" #NT!
+ POD_werewolves_pack.1.packmember_4:0 "[packmember_4.GetName] \n" #NT!
+ POD_werewolves_pack.1.ending:0 "As the pack leader, you are entitled with choosing how to train for the coming years or which activity to focus on.\nNote that, once your pack is full (five members including yourself), you will be allowed to choose a pack totem to bless your fellowship." #NT!
+ POD_werewolves_pack.1.option.a:0 "Time to spar!" #NT!
+ werewolf_pack_prowess_tt:0 "Your packmembers with a positive opinion of you and in diplomatic range will also gain this reward." #NT!
+ POD_werewolves_pack.1.option.z:0 "Nothing for now" #NT!
+ POD_werewolves_pack.1.option.b:0 "Let's go on a spiritual quest together." #NT!
+ POD_werewolves_pack.1.option.c:0 "We must curtail humanity's growth" #NT!
+
+ ww_pack_rampage_modifier:0 "Rampaging Pack" #NT!
+ ww_pack_rampage_modifier_desc:0 "This pack of werewolves is rampaging around their alpha's capital, bringing fear into the local mortals." #NT!
+ werewolf_pack_rampage_tt:0 "Your pack will gain the same modifier." #NT!
+
+ POD_werewolves_pack.1.option.d:0 "We must prepare for war!" #NT!
+ ww_pack_war_modifier:0 "War Ready Pack" #NT!
+ ww_pack_war_modifier_desc:0 "This pack of werewolves is ready for war." #NT!
+
+ werewolf_pack_totem_tt:0 "You will beseech a Totem for your pack, this is a one time choice for your character." #NT!
+ POD_werewolves_pack.1.option.e:0 "We must ask the Spirits for their blessing." #NT!
+
+ POD_werewolves_pack.2.t:0 "Spiritual Protection" #NT!
+ POD_werewolves_pack.2.desc:0 "Among the Garou and most other Shapeshifters, the totem is one of the fundamental binding aspects of the pack. A totem is a potent spirit that lends its power to a group of mystically inclined individuals in exchange for some token service or tribute. The choice of a totem is of extreme importance to a pack, for this spirit will protect them in times of need and serve as a guiding light for the Garou to follow.\nThis choice functions as a petition to the totem spirit, who then decides whether to adopt the packmembers as his 'children'." #NT!
+ werewolf_pack_totem_choice_tt:0 "Your packmembers that don't already have a totem will also benefit from this modifier." #NT!
+
+ POD_werewolves_pack.2.option.a:0 "The strong and noble Falcon" #NT!
+ falcon_totem_modifier:0 "Pack Totem : Falcon" #NT!
+ falcon_totem_modifier_desc:0 "Falcon hates cowards and will strike them down himself if need be." #NT!
+
+ POD_werewolves_pack.2.option.b:0 "The cunning and vengeful Grandfather Thunder" #NT!
+ grandfatherthunder_totem_modifier:0 "Pack Totem : Grandfather Thunder" #NT!
+ grandfatherthunder_totem_modifier_desc:0 "Grandfather teaches patience and careful scheming, but has no love for weak rulers." #NT!
+
+ POD_werewolves_pack.2.option.c:0 "The love and fury of nature, Stag" #NT!
+ stag_totem_modifier:0 "Pack Totem : Stag" #NT!
+ stag_totem_modifier_desc:0 "Stag is the perfect embodiment of nature, loving and caring to his friend, but terrible and merciless to his foes." #NT!
+
+ POD_werewolves_pack.2.option.d:0 "The bloodthirsty Great Fenris" #NT!
+ fenris_totem_modifier:0 "Pack Totem : Great Fenris" #NT!
+ fenris_totem_modifier_desc:0 "Great Fenris is always covered in blood, and expect his children to be as well." #NT!
+
+ POD_werewolves_pack.2.option.e:0 "The guardian of the Wyld, Pegasus" #NT!
+ pegasus_totem_modifier:0 "Pack Totem : Pegasus" #NT!
+ pegasus_totem_modifier_desc:0 "Pegasus and her daughters protect the sacred rites from the evil of men." #NT!
+
+ POD_werewolves_pack.2.option.f:0 "The survivor, Cockroach" #NT!
+ cockroach_totem_modifier:0 "Pack Totem : Cockroach" #NT!
+ cockroach_totem_modifier_desc:0 "Cockroach has time on his side. In the end, his children will be the last ones standing." #NT!
+
+ POD_werewolves_pack.2.option.g:0 "The silent and enigmatic Owl" #NT!
+ owl_totem_modifier:0 "Pack Totem : Owl" #NT!
+ owl_totem_modifier_desc:0 "Owl's children see much, but they only reveal their secrets to those who truly listen." #NT!
+
+ POD_werewolves_pack.2.option.h:0 "The inquisitive Raven" #NT!
+ raven_totem_modifier:0 "Pack Totem : Raven" #NT!
+ raven_totem_modifier_desc:0 "Raven's unending hunger for food, knowledge and wealth carries his children forward." #NT!
+
+ POD_werewolves_pack.2.option.i:0 "The numberless Rat" #NT!
+ rat_totem_modifier:0 "Pack Totem : Rat" #NT!
+ rat_totem_modifier_desc:0 "Rat has an army as his disposal. Few, if any, can match his numberless foot soldiers." #NT!
+
+ griffin_totem_modifier:0 "Pack Totem : Griffin" #NT!
+ unicorn_totem_modifier:0 "Pack Totem : Unicorn" #NT!
+ chimaera_totem_modifier:0 "Pack Totem : Chimaera" #NT!
+
+ POD_werewolves_pack.1.option.f:0 "The Wyrm surely noticed us!" #NT!
+
+ POD_werewolves_pack.3.option.a:0 "The wise Dark Fungus" #NT!
+ darkfungus_totem_modifier:0 "Pack Totem : Dark Fungus" #NT!
+ darkfungus_totem_modifier_desc:0 "The only plant strong enough to survive in the Black Spiral blesses its children with visions. Not all of them are welcome however." #NT!
+
+ POD_werewolves_pack.3.option.b:0 "G'louogh, the Dance of Corruption" #NT!
+ glouogh_totem_modifier:0 "Pack Totem : G'louogh" #NT!
+ glouogh_totem_modifier_desc:0 "An ever-changing ball of horror, G'louogh spawns some of the most terrible creatures of the Wyrm whenever it appears." #NT!
+
+ POD_werewolves_pack.3.option.c:0 "The fallen one, Green Dragon" #NT!
+ greendragon_totem_modifier:0 "Pack Totem : Green Dragon" #NT!
+ greendragon_totem_modifier_desc:0 "Once the protector of the White Howlers, the Green Dragon felt from grace as hard as they did and still continues to bless its corrupted children to this day." #NT!
+
+ POD_werewolves_pack.3.option.d:0 "Hakaken, the heart of fear" #NT!
+ hakaken_totem_modifier:0 "Pack Totem : Hakaken" #NT!
+ hakaken_totem_modifier_desc:0 "Paranoia and pride are the two attributes of the followers of Hakaken. By these tools, they spread the word of their fallen Incarna." #NT!
+
+ POD_werewolves_pack.3.t:0 "Spiritual Protection" #NT!
+ POD_werewolves_pack.3.desc:0 "Among the Garou and most other Shapeshifters, the totem is one of the fundamental binding aspects of the pack. A totem is a potent spirit that lends its power to a group of mystically inclined individuals in exchange for some token service or tribute. The choice of a totem is of extreme importance to a pack, for this spirit will protect them in times of need and serve as a guiding light for the Garou to follow.\nThis choice functions as a petition to the totem spirit, who then decides whether to adopt the packmembers as his 'children'." #NT!
+
+ werewolf_pack_tribesgifts_tt:0 "The stronger (prowess wise) your pack, the more tribal lifestyle experience you will get." #NT!
+ POD_werewolves_pack.1.option.g:0 "A spiritual quest together maybe?" #NT!
+
+ POD_werewolves_pack.1.option.h:0 "A quest for a simple fetish" #NT!
+
+
+

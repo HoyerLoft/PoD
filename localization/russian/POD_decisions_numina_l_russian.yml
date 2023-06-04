@@ -1,0 +1,14 @@
+﻿l_russian:
+ POD_sorcery_become_immortal_decision:0 "Become Immortal" #NT!
+ POD_sorcery_become_immortal_decision_desc:1 "Your alchemy skill has reached the pinnacle, you can now become truly immortal." #NT!
+ POD_sorcery_become_immortal_decision_custom:1 "You have imprisoned $VALUE|0V$ [GetTrait('mummy').GetName( GetPlayer )]." #NT!
+ POD_sorcery_become_immortal_decision_tooltip:1 "You will become immortal." #NT!
+ POD_sorcery_become_immortal_decision_confirm:1 "Perfection?" #NT!
+
+ POD_sorcery_create_vampire_interaction:0 "Turn into Vampire" #NT!
+ POD_sorcery_create_vampire_interaction_desc:1 "Your alchemy skill has reached the pinnacle, you can now create a concoction capable of turning someone into a vampire." #NT!
+ POD_sorcery_create_vampire_interaction_custom:1 "You have imprisoned $VALUE|0V$ [GetTrait('vampire').GetName( GetPlayer )]." #NT!
+
+ POD_sorcery_create_shapeshifter_interaction:0 "Turn into Shapeshifter" #NT!
+ POD_sorcery_create_shapeshifter_interaction_desc:1 "Your alchemy skill has reached the pinnacle, you can now create a concoction capable of turning someone into a shapeshifter." #NT!
+ POD_sorcery_create_shapeshifter_interaction_custom:1 "You have imprisoned $VALUE|0V$ [GetTraitGroup('shapeshifter').GetName()]." #NT!

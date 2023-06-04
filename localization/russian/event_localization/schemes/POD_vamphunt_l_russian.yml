@@ -1,0 +1,21 @@
+﻿l_russian:
+
+ POD_vamphunt.1.t:0 "Кровь!" #NT!
+ POD_vamphunt.1.desc:0 "Вы выследили свою добычу. Вы делаете первый укус и [target.GetSheHe] поддается поцелую. Сколько крови вы выпьете?" #NT!
+ POD_vamphunt.1.option.a:0 "Нисколько. Позволить [target.GetHerHim] уйти без повреждений." #NT!
+ POD_vamphunt.1.option.b:0 "Выпью немного. Всего лишь глоток." #NT!
+ POD_vamphunt.1.option.c:0 "Несколько глотков. [target.GetSheHe|U] ослабнет, но будет в порядке." #NT!
+ POD_vamphunt.1.option.d:0 "Выпью много, раня [target.GetHerHim]." #NT!
+ POD_vamphunt.1.option.e:0 "Выпью все, убив [target.GetFirstName] и полностью утолив мой голод." #NT!
+ POD_vamphunt.1.option.f:0 "Сделаю жертву [target.GetHerHim] зависимой от блаженного удовольствия моего поцелуя, так что [target.GetSheHe] будет молить меня испить кровь [target.GetHerHim]." #NT!
+
+ POD_vamphunt.11.t:0 "Chi!" #NT!
+ POD_vamphunt.11.desc:0 "You have tracked your prey. What will you devour?" #NT!
+ POD_vamphunt.11.option.a:0 "Devour none. Let [target.GetHerHim] go unharmed." #NT!
+ POD_vamphunt.11.option.b:0 "Devour [target.GetSheHe] Yin Chi." #NT!
+ POD_vamphunt.11.option.c:0 "Devour [target.GetSheHe] Yang Chi." #NT!
+ POD_vamphunt.11.option.d:0 "Devour [target.GetSheHe]'s blood, without kill [target.GetSheHe]." #NT!
+ POD_vamphunt.11.option.e:0 "Devour [target.GetSheHe]'s flesh, killing [target.GetFirstName] and completely sating my hunger." #NT!
+
+ POD_vamphunt.21.t:0 "Blood and Flesh!" #NT!
+ POD_vamphunt.21.desc:0 "You have tracked your prey. How much blood and flesh will you eat?" #NT!

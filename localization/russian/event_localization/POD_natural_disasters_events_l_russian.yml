@@ -1,0 +1,78 @@
+﻿l_russian:
+ POD_natural_disasters.0003.t:0 "Weather Sight" #NT!
+ POD_natural_disasters.0003.desc:0 "Your weather sight has predicted that there will be a dangerous disaster in [target_title.GetNameNoTierNoTooltip], what are you gonna do?" #NT!
+ POD_natural_disasters.0003.a:0 "I must stop it!" #NT!
+ POD_natural_disasters.0003.c:0 "Just ignore it." #NT!
+
+ POD_natural_disasters.0005.t:0 "Weather Magic" #NT!
+ POD_natural_disasters.0005.desc:0 "Your mastery over the elements allow you to either hinder the worst effects of a natural disaster or instead amplify them for even more mayhem." #NT!
+ POD_natural_disasters.0005.a:0 "I must stop it!" #NT!
+ POD_natural_disasters.0005.b:0 "I will make it even more powerful!" #NT!
+
+ POD_natural_disasters.0101.t_602:0 "602 Surb Karapet Monastery earthquake" #NT!
+ POD_natural_disasters.0101.t_632:0 "632 Armenia earthquake" #NT!
+ POD_natural_disasters.0101.t_735:0 "735 Vayots Dzor Province earthquake" #NT!
+ POD_natural_disasters.0101.t_740:0 "740 Constantinople earthquake" #NT!
+ POD_natural_disasters.0101.t_743:0 "743 Caspian Gates earthquake" #NT!
+ POD_natural_disasters.0101.t_749:0 "749 Galilee earthquake" #NT!
+ POD_natural_disasters.0101.t_881:0 "881 Acre earthquake" #NT!
+ POD_natural_disasters.0101.t_893_a:0 "893 Ardabil earthquake" #NT!
+ POD_natural_disasters.0101.t_893_b:0 "893 Dvin earthquake" #NT!
+ POD_natural_disasters.0101.t_906:0 "906 K'argop' earthquake" #NT!
+ POD_natural_disasters.0101.t_957:0 "957 Caspian Sea earthquake" #NT!
+ POD_natural_disasters.0101.t_991:0 "991 Damascus earthquake" #NT!
+ POD_natural_disasters.0101.t_995:0 "995 Balu earthquake" #NT!
+ POD_natural_disasters.0101.t_1068:0 "1068 Near East earthquake" #NT!
+ POD_natural_disasters.0101.t_1088:0 "1088 Tmogvi earthquake" #NT!
+ POD_natural_disasters.0101.t_1091:0 "London tornado of 1091" #NT!
+ POD_natural_disasters.0101.t_1117:0 "1117 Verona earthquake" #NT!
+ POD_natural_disasters.0101.t_1138:0 "1138 Aleppo earthquake" #NT!
+ POD_natural_disasters.0101.t_1139:0 "1139 Ganja earthquake" #NT!
+ POD_natural_disasters.0101.t_1157:0 "1157 Hama earthquake" #NT!
+ POD_natural_disasters.0101.t_1169:0 "1169 Sicily earthquake" #NT!
+ POD_natural_disasters.0101.t_1170_a:0 "1170 Syria earthquake" #NT!
+ POD_natural_disasters.0101.t_1170_b:0 "All Saints' Flood of 1170" #NT!
+ POD_natural_disasters.0101.t_1185:0 "1185 East Midlands earthquake" #NT!
+ POD_natural_disasters.0101.t_1202:0 "1202 Syria earthquake" #NT!
+ POD_natural_disasters.0101.t_1219:0 "Flood of Grenoble" #NT!
+ POD_natural_disasters.0101.t_1222_a:0 "1222 Brescia earthquake" #NT!
+ POD_natural_disasters.0101.t_1222_b:0 "1222 Cyprus earthquake" #NT!
+ POD_natural_disasters.0101.t_1268:0 "1268 Cilicia earthquake" #NT!
+ POD_natural_disasters.0101.t_1275:0 "1275 British earthquake" #NT!
+ POD_natural_disasters.0101.t_1287_a:0 "South England flood of February 1287" #NT!
+ POD_natural_disasters.0101.t_1287_b:0 "St. Lucia's flood" #NT!
+ POD_natural_disasters.0101.t_1303:0 "1303 Crete earthquake" #NT!
+ POD_natural_disasters.0101.t_1304:0 "All Saints' Flood of 1304" #NT!
+ POD_natural_disasters.0101.t_1342:0 "St. Mary Magdalene's flood" #NT!
+ POD_natural_disasters.0101.t_1343:0 "1343 Naples tsunami" #NT!
+ POD_natural_disasters.0101.t_1348:0 "1348 Friuli earthquake" #NT!
+ POD_natural_disasters.0101.t_1349:0 "1349 Apennine earthquakes" #NT!
+ POD_natural_disasters.0101.t_1356:0 "1356 Basel earthquake" #NT!
+ POD_natural_disasters.0101.t_1362:0 "Saint Marcellus's flood" #NT!
+ POD_natural_disasters.0101.t_1382:0 "1382 Dover Straits earthquake" #NT!
+ POD_natural_disasters.0101.t_1404:0 "St. Elizabeth's flood of 1404" #NT!
+ POD_natural_disasters.0101.t_1421:0 "St. Elizabeth's flood of 1421" #NT!
+ POD_natural_disasters.0101.t_1428:0 "1428 Catalonia earthquake" #NT!
+ POD_natural_disasters.0101.t_1436:0 "All Saints' Day Flood of 1436" #NT!
+ POD_natural_disasters.0101.t_1456:0 "1456 Central Italy earthquakes" #NT!
+ POD_natural_disasters.0101.t_1461:0 "1461 L'Aquila earthquake" #NT!
+ POD_natural_disasters.0101.t_1481:0 "1481 Rhodes earthquake" #NT!
+ POD_natural_disasters.0101.t_1505:0 "1505 Lo Mustang earthquake" #NT!
+ POD_natural_disasters.0101.t_1509:0 "1509 Constantinople earthquake" #NT!
+ POD_natural_disasters.0101.t_1511:0 "1511 Idrija earthquake" #NT!
+ POD_natural_disasters.0101.t_1522:0 "1522 Almería earthquake" #NT!
+ POD_natural_disasters.0101.t_1530:0 "St. Felix's flood" #NT!
+ POD_natural_disasters.0101.t_1531:0 "1531 Lisbon earthquake" #NT!
+ POD_natural_disasters.0101.t_1555_a:0 "1555 Kashmir earthquake" #NT!
+ POD_natural_disasters.0101.t_1555_b:0 "Grand Harbour of Malta tornado" #NT!
+ POD_natural_disasters.0101.t_1570_a:0 "All Saints' Flood of 1570" #NT!
+ POD_natural_disasters.0101.t_1570_b:0 "1570 Ferrara earthquake" #NT!
+ POD_natural_disasters.0101.t_1580:0 "1580 Dover Straits earthquake" #NT!
+ POD_natural_disasters.0101.t_1590:0 "1590 Neulengbach earthquake" #NT!
+ POD_natural_disasters.0101.desc_flood:0 "Large parts of [target_title.GetNameNoTierNoTooltip] were washed away." #NT!
+ POD_natural_disasters.0101.desc_earthquake:0 "Large parts of [target_title.GetNameNoTierNoTooltip] were decimated by the earthquake." #NT!
+ POD_natural_disasters.0101.desc_storm:0 "A tornado has hit the [target_title.GetNameNoTierNoTooltip]." #NT!
+ POD_natural_disasters.0101.desc_stopped:0 "Suddenly, the hazard has been stopped before it do more damage. Only a few mortal were killed." #NT!
+ POD_natural_disasters.0101.desc_aggraved:0 "Suddenly, the hazard has become even more powerful than it was before. No one can count how many people have perished." #NT!
+ POD_natural_disasters.0101.desc_default:0 "So many people have been killed in this disaster." #NT!
+ POD_natural_disasters.0101.option.a:0 "Oh nature." #NT!

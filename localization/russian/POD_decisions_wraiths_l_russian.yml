@@ -1,0 +1,139 @@
+﻿l_russian:
+ POD_wraith_passion_gaining_passions_decision:0 "Gaining Passions" #NT!
+ POD_wraith_passion_gaining_passions_decision_desc:1 "Your Passions are the core of your being, and part of what’s kept you hanging on to existence. You never stop searching because of your overpowering love, or the fire of vengeance keeps burning, and won’t stop until you deliver justice. Regardless of the details, they force you to persist." #NT!
+ POD_wraith_passion_gaining_passions_decision_tooltip:1 "You will choose new Passions." #NT!
+ POD_wraith_passion_gaining_passions_decision_confirm:1 "Let me start with……" #NT!
+
+ POD_wraith_passion_find_killer_decision:0 "Passion: Find my Killer" #NT!
+ POD_wraith_passion_find_killer_decision_desc:1 "" #NT!
+ POD_wraith_passion_find_killer_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_find_killer_decision_confirm:1 "Resolved!" #NT!
+ POD_wraith_passion_find_killer_decision_condition:1 "You killer, [TARGET_CHARACTER.GetFirstName], must be dead." #NT!
+
+ POD_wraith_passion_amass_wealth_decision:0 "Passion: Amass Wealth" #NT!
+ POD_wraith_passion_amass_wealth_decision_desc:1 "" #NT!
+ POD_wraith_passion_amass_wealth_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_amass_wealth_decision_confirm:1 "Resolved!" #NT!
+
+ POD_wraith_passion_become_exalted_decision:0 "Passion: Become Exalted among Dead" #NT!
+ POD_wraith_passion_become_exalted_decision_desc:1 "" #NT!
+ POD_wraith_passion_become_exalted_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_become_exalted_decision_confirm:1 "Resolved!" #NT!
+
+ POD_wraith_passion_become_paragon_decision:0 "Passion: Become Paragon of Transcendence" #NT!
+ POD_wraith_passion_become_paragon_decision_desc:1 "" #NT!
+ POD_wraith_passion_become_paragon_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_become_paragon_decision_confirm:1 "Resolved!" #NT!
+
+ POD_wraith_passion_create_a_treasury_decision:0 "Passion: Create a Treasury" #NT!
+ POD_wraith_passion_create_a_treasury_decision_desc:1 "" #NT!
+ POD_wraith_passion_create_a_treasury_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_create_a_treasury_decision_confirm:1 "Resolved!" #NT!
+ POD_wraith_passion_create_a_treasury_decision_conditiona:0 "You must have #V 3#! common or higher rarity artifact in your possession" #NT!
+ POD_wraith_passion_create_a_treasury_decision_conditionb:0 "You must have #V 3#! masterwork or higher rarity artifact in your possession" #NT!
+ POD_wraith_passion_create_a_treasury_decision_conditionc:0 "You must have #V 3#! famed or higher rarity artifact in your possession" #NT!
+ POD_wraith_passion_create_a_treasury_decision_conditiond:0 "You must have #V 3#! illustrious artifact in your possession" #NT!
+
+ POD_wraith_passion_build_a_great_work_decision:0 "Passion: Build a Wonder" #NT!
+ POD_wraith_passion_build_a_great_work_decision_desc:1 "" #NT!
+ POD_wraith_passion_build_a_great_work_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_build_a_great_work_decision_confirm:1 "Resolved!" #NT!
+ POD_wraith_passion_build_a_great_work_decision_condition:1 "The special building, in [TARGET_TITLE.GetNameNoTier], must be built." #NT!
+
+ POD_wraith_passion_make_a_friend_decision:0 "Passion: Make a Best Friend" #NT!
+ POD_wraith_passion_make_a_friend_decision_desc:1 "" #NT!
+ POD_wraith_passion_make_a_friend_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_make_a_friend_decision_confirm:1 "Resolved!" #NT!
+
+ POD_wraith_passion_protect_family_decision:0 "Passion: Protect my Family" #NT!
+ POD_wraith_passion_protect_family_decision_desc:1 "" #NT!
+ POD_wraith_passion_protect_family_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_protect_family_decision_confirm:1 "Resolved!" #NT!
+ POD_wraith_passion_protect_family_decision_condition:1 "No one in your family has died in #V 1#! year." #NT!
+ passion_fail_notification:1 "Passion Destroyed" #NT!
+ passion_fail_protect_family_tooltip:1 "One member of your family has died." #NT!
+
+ POD_wraith_passion_kill_rival_decision:0 "Passion: Kill my Rival" #NT!
+ POD_wraith_passion_kill_rival_decision_desc:1 "" #NT!
+ POD_wraith_passion_kill_rival_decision_tooltip:1 "You will finish this Passion." #NT!
+ POD_wraith_passion_kill_rival_decision_confirm:1 "Resolved!" #NT!
+ POD_wraith_passion_kill_rival_decision_condition:1 "You rival, [TARGET_CHARACTER.GetFirstName], must be dead." #NT!
+
+ POD_wraith_fetter_adquire_fetters_decision:0 "Acquiring [Fetters|E]" #NT!
+ POD_wraith_fetter_adquire_fetters_decision_desc:1 "It is rare that a wraith develops a deep-enough level of attachment to some new person or thing in the Skinlands to create a true [Fetter|E], but it is not impossible." #NT!
+ POD_wraith_fetter_adquire_fetters_decision_tooltip:1 "Purchasing a new [Fetter|E]." #NT!
+ POD_wraith_fetter_adquire_fetters_decision_confirm:1 "Justified!" #NT!
+
+ POD_wraith_dark_passion_start_a_hostile_scheme_decision:0 "Dark Passion: Start a Hostile Scheme" #NT!
+ POD_wraith_dark_passion_start_a_hostile_scheme_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_start_a_hostile_scheme_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_start_a_hostile_scheme_decision_confirm:1 "Are you sure?" #NT!
+
+ POD_wraith_dark_passion_start_a_seduction_decision:0 "Dark Passion: Start a Seduce Scheme" #NT!
+ POD_wraith_dark_passion_start_a_seduction_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_start_a_seduction_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_start_a_seduction_decision_confirm:1 "Are you sure?" #NT!
+
+ POD_wraith_dark_passion_start_a_war_decision:0 "Dark Passion: Start a War" #NT!
+ POD_wraith_dark_passion_start_a_war_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_start_a_war_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_start_a_war_decision_confirm:1 "Are you sure?" #NT!
+
+ POD_wraith_dark_passion_raise_tyranny_decision:0 "Dark Passion: Raise Tyranny" #NT!
+ POD_wraith_dark_passion_raise_tyranny_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_raise_tyranny_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_raise_tyranny_decision_confirm:1 "Are you sure?" #NT!
+
+ POD_wraith_dark_passion_exceeding_the_domain_limit_decision:0 "Dark Passion: Exceeding the Domain Limit" #NT!
+ POD_wraith_dark_passion_exceeding_the_domain_limit_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_exceeding_the_domain_limit_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_exceeding_the_domain_limit_decision_confirm:1 "Are you sure?" #NT!
+
+ POD_wraith_dark_passion_exceeding_the_vassal_limit_decision:0 "Dark Passion: Exceeding the Vassal Limit" #NT!
+ POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_confirm:1 "Are you sure?" #NT!
+
+ POD_wraith_dark_passion_blackmail_decision:0 "Dark Passion: Blackmail" #NT!
+ POD_wraith_dark_passion_blackmail_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_blackmail_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_blackmail_decision_confirm:1 "Are you sure?" #NT!
+ POD_wraith_dark_passion_blackmail_decision_condition:1 "You have used blackmail [character_interaction|E]." #NT!
+
+ POD_wraith_dark_passion_revoke_title_decision:0 "Dark Passion: Revoke Title" #NT!
+ POD_wraith_dark_passion_revoke_title_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_revoke_title_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_revoke_title_decision_confirm:1 "Are you sure?" #NT!
+ POD_wraith_dark_passion_revoke_title_decision_condition:1 "You have used revoke title [character_interaction|E]." #NT!
+
+ POD_wraith_dark_passion_execute_prisoner_decision:0 "Dark Passion: Execute Prisoner" #NT!
+ POD_wraith_dark_passion_execute_prisoner_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_execute_prisoner_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_execute_prisoner_decision_confirm:1 "Are you sure?" #NT!
+ POD_wraith_dark_passion_execute_prisoner_decision_condition:1 "You have used execute prisoner [character_interaction|E]." #NT!
+
+ POD_wraith_dark_passion_banish_prisoner_decision:0 "Dark Passion: Banish Prisoner" #NT!
+ POD_wraith_dark_passion_banish_prisoner_decision_desc:1 "" #NT!
+ POD_wraith_dark_passion_banish_prisoner_decision_tooltip:1 "You will finish this Dark Passion." #NT!
+ POD_wraith_dark_passion_banish_prisoner_decision_confirm:1 "Are you sure?" #NT!
+ POD_wraith_dark_passion_banish_prisoner_decision_condition:1 "You have used banish prisoner [character_interaction|E]." #NT!
+
+ POD_wraith_devils_dare_spend_gold_decision:0 "Devil's Dare: Waste Oboli" #NT!
+ POD_wraith_devils_dare_spend_gold_decision_desc:1 "Your Shadow dares you to waste your Oboli, if you don't accept this challenge, you will gain #N 150#! [stress|E]." #NT!
+ POD_wraith_devils_dare_spend_gold_decision_tooltip:1 "You will accept this Devil's Dare." #NT!
+ POD_wraith_devils_dare_spend_gold_decision_confirm:1 "I Dare!" #NT!
+
+ POD_wraith_devils_dare_spend_piety_decision:0 "Devil's Dare: Stop your Transcendence" #NT!
+ POD_wraith_devils_dare_spend_piety_decision_desc:1 "Your Shadow dares you to stop your transcendence progress, if you don't accept this challenge, you will gain #N 150#! [stress|E]." #NT!
+ POD_wraith_devils_dare_spend_piety_decision_tooltip:1 "You will accept this Devil's Dare." #NT!
+ POD_wraith_devils_dare_spend_piety_decision_confirm:1 "I Dare!" #NT!
+
+ POD_wraith_devils_dare_spend_prestige_decision:0 "Devil's Dare: Ruin your Reputation" #NT!
+ POD_wraith_devils_dare_spend_prestige_decision_desc:1 "Your Shadow dares you to ruin your reputation, if you don't accept this challenge, you will gain #N 150#! [stress|E]." #NT!
+ POD_wraith_devils_dare_spend_prestige_decision_tooltip:1 "You will accept this Devil's Dare." #NT!
+ POD_wraith_devils_dare_spend_prestige_decision_confirm:1 "I Dare!" #NT!
+
+ POD_wraith_find_mortal_lineage_decision:0 "Mortal Lineage" #NT!
+ POD_wraith_find_mortal_lineage_decision_desc:1 "There are rumors of a mortal lineage of your family still existing in world, you didn't believe it at first, but this kid looks just like you!" #NT!
+ POD_wraith_find_mortal_lineage_decision_tooltip:1 "You will acquire a mortal as your child." #NT!
+ POD_wraith_find_mortal_lineage_decision_confirm:1 "Could be..." #NT!

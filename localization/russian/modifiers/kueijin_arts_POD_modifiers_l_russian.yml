@@ -1,0 +1,102 @@
+﻿l_russian:
+
+ chi_rift_power_modifier:0 "Damaged by Chi Tempest" #NT!
+ chi_rift_power_modifier_desc:0 "This area is damaged by a tempest of elemental chi released from the spiritual realms." #NT!
+
+ pod_defiled_modifier:0 "Infected by Corrupted Chi" #NT!
+ pod_defiled_modifier_desc:0 "This victim has corrupted Chi or an equivalent Advantage. This Chi or equivalent cannot be used, and it starts rotting the victim's body from the inside out." #NT!
+
+ pod_negative_ai_boldness_modifier:0 "Boldness Decrease" #NT!
+ pod_negative_ai_compassion_modifier:0 "Compassion Decrease" #NT!
+ pod_negative_ai_energy_modifier:0 "Energy Decrease" #NT!
+ pod_negative_ai_greed_modifier:0 "Greed Decrease" #NT!
+ pod_negative_ai_honor_modifier:0 "Honor Decrease" #NT!
+ pod_negative_ai_rationality_modifier:0 "Rationality Decrease" #NT!
+ pod_negative_ai_sociability_modifier:0 "Sociability Decrease" #NT!
+ pod_negative_ai_vengefulness_modifier:0 "Vengefulness Decrease" #NT!
+ pod_negative_ai_zeal_modifier:0 "Zeal Decrease" #NT!
+
+ pod_positive_ai_boldness_modifier:0 "Boldness Increase" #NT!
+ pod_positive_ai_compassion_modifier:0 "Compassion Increase" #NT!
+ pod_positive_ai_energy_modifier:0 "Energy Increase" #NT!
+ pod_positive_ai_greed_modifier:0 "Greed Increase" #NT!
+ pod_positive_ai_honor_modifier:0 "Honor Increase" #NT!
+ pod_positive_ai_rationality_modifier:0 "Rationality Increase" #NT!
+ pod_positive_ai_sociability_modifier:0 "Sociability Increase" #NT!
+ pod_positive_ai_vengefulness_modifier:0 "Vengefulness Increase" #NT!
+ pod_positive_ai_zeal_modifier:0 "Zeal Increase" #NT!
+
+ pod_negative_ai_boldness_modifier_desc:0 "Boldness determines how much the character is affected by dread." #NT!
+ pod_negative_ai_compassion_modifier_desc:0 "Compassion determines how the character will treat its prisoners." #NT!
+ pod_negative_ai_energy_modifier_desc:0 "Energy determines how often the character will consider a decision." #NT!
+ pod_negative_ai_greed_modifier_desc:0 "Greed determines how easily the character will spend gold." #NT!
+ pod_negative_ai_honor_modifier_desc:0 "Honor determines how often the character will honor relationships and alliances as well as how often they will become agents." #NT!
+ pod_negative_ai_rationality_modifier_desc:0 "Rationality determines how strong a character's army has to be before declaring war." #NT!
+ pod_negative_ai_sociability_modifier_desc:0 "Sociability determines how often the character will consider a [character_interaction|E]." #NT!
+ pod_negative_ai_vengefulness_modifier_desc:0 "Vengefulness determines how much the character will seek to punish transgressions." #NT!
+ pod_negative_ai_zeal_modifier_desc:0 "Zeal determines how often the character will join holy wars." #NT!
+
+ pod_positive_ai_boldness_modifier_desc:0 "Boldness determines how much the character is affected by dread." #NT!
+ pod_positive_ai_compassion_modifier_desc:0 "Compassion determines how the character will treat its prisoners." #NT!
+ pod_positive_ai_energy_modifier_desc:0 "Energy determines how often the character will consider a decision." #NT!
+ pod_positive_ai_greed_modifier_desc:0 "Greed determines how easily the character will spend gold." #NT!
+ pod_positive_ai_honor_modifier_desc:0 "Honor determines how often the character will honor relationships and alliances as well as how often they will become agents." #NT!
+ pod_positive_ai_rationality_modifier_desc:0 "Rationality determines how strong a character's army has to be before declaring war." #NT!
+ pod_positive_ai_sociability_modifier_desc:0 "Sociability determines how often the character will consider a [character_interaction|E]." #NT!
+ pod_positive_ai_vengefulness_modifier_desc:0 "Vengefulness determines how much the character will seek to punish transgressions." #NT!
+ pod_positive_ai_zeal_modifier_desc:0 "Zeal determines how often the character will join holy wars." #NT!
+
+ darkling_mirror_modifier:0 "Split P'o" #NT!
+
+ POD_cleave_the_demon_modifier:0 "Cleaved P'o" #NT!
+ POD_yoke_the_demon_modifier:0 "Yoked P'o" #NT!
+ POD_two_become_one_modifier:0 "Combined Hun and P'o" #NT!
+ POD_strengthening_the_demon_modifier:0 "Burning P'o" #NT!
+ POD_lash_the_demon_modifier:0 "Separated Darker Sides" #NT!
+
+ iron_soul_modifier:0 "Iron Soul" #NT!
+ steel_soul_modifier:0 "Steel Soul" #NT!
+ perfection_of_the_first_age_modifier:0 "Perfection of the First Age" #NT!
+
+ five_poison_cloud_modifier:0 "Five Poison Cloud" #NT!
+ lotus_breath_modifier:0 "Lotus Breath" #NT!
+ bone_dance_modifier:0 "Bone Dance" #NT!
+ yin_shield_modifier:0 "Yin Shield" #NT!
+ yin_nihilus_modifier:0 "Yin Sear" #NT!
+ eightfold_yang_mantle_modifier:0 "Yang Aura" #NT!
+ yang_shield_modifier:0 "Yang Shield" #NT!
+ yang_phoenix_modifier:0 "Yang Sear" #NT!
+ touch_of_corruption_modifier:0 "Supply Decayed" #NT!
+ inharmonious_aligment_modifier:0 "Inharmonious Aligment" #NT!
+ chi_interrupt_modifier:0 "Painful Spasms" #NT!
+ chi_mastery_modifier:0 "Temporary Infected by Corrupted Chi" #NT!
+ soothing_the_soul_modifier:0 " Lethargic in Inner Peace" #NT!
+ accentuate_to_yin_modifier:0 "Accentuate to Yin" #NT!
+ accentuate_to_yang_modifier:0 "Accentuate to Yang" #NT!
+ hand_of_darkness_modifier:0 "Hand of Darkness" #NT!
+ chi_ward_modifier:0 "Chi Ward" #NT!
+ dragon_ward_modifier:0 "Dragon Ward" #NT!
+ soul_taint_modifier:0 "Soul Taint" #NT!
+
+ taming_the_fire_negative_modifier:0 "Taming the Fire" #NT!
+ taming_the_fire_positive_modifier:0 "Taming the Fire" #NT!
+
+ porsdan_modifier:0 "Combat Koan" #NT!
+ bakus_quandary_modifier:0 "Enraptured by the Mystery" #NT!
+
+ joss_modifier:0 "Joss Bless" #NT!
+ destiny_advised_modifier:0 "Destiny Advised" #NT!
+ destiny_exposed_modifier:0 "Destiny Exposed" #NT!
+ celestial_curse_modifier:0 "Celestial Curse" #NT!
+
+ focusing_shout_modifier:0 "Body, mind, and souls into focus as one" #NT!
+ aspect_of_the_timid_sparrow_modifier:0 "Irritated" #NT!
+ ngilai_knight_modifier:0 "Ngilai" #NT!
+ the_song_of_the_tormented_soul_modifier:0 "Tormented" #NT!
+ ngilai_commander_modifier:0 "Ngilai" #NT!
+
+ glimpse_of_yomi_knight_modifier:0 "Glimpse of Yomi" #NT!
+ glimpse_of_yomi_commander_modifier:0 "Glimpse of Yomi" #NT!
+ razor_winds_power_modifier:0 "Razor Winds" #NT!
+
+ kata_of_mountain_fury_modifier:0 "Kata of Mountain Fury" #NT!

@@ -1,0 +1,246 @@
+﻿l_russian:
+ rf_kueijin_desc:0 "A Dharma is a path to enlightenment which allows Wan Xian to transcend their bestial natures and holds out hope for enlightenment and rejoining the Karmic cycle." #NT!
+
+ #Common Road of Humanity Localization #NT!
+ kueijin_high_god_name:0 "the August Personage of Jade" #NT!
+ kueijin_high_god_name_possessive:0 "the August Personage of Jade's" #NT!
+ kueijin_high_god_name_alternate:0 "the Jade Emperor" #NT!
+ kueijin_high_god_name_alternate_possessive:0 "the Jade Emperor's" #NT!
+ kueijin_good_god_jesus:0 "$kueijin_health_god_name$" #NT!
+ kueijin_good_god_christ:0 "the August Personage of Jade" #NT!
+ kueijin_devil_name:0 "the Demon Emperor" #NT!
+ kueijin_devil_name_possessive:0 "the Demon Emperor's" #NT!
+ kueijin_evil_god_lucifer:0 "the Demon Emperor" #NT!
+ kueijin_evil_god_beelzebub:0 "the Demon Emperor" #NT!
+ kueijin_evil_god_mephistopheles:0 "the Demon Emperor" #NT!
+ kueijin_death_deity_name:0 "Yama Kings" #NT!
+ kueijin_death_deity_name_possessive:0 "Yama Kings'" #NT!
+ kueijin_house_of_worship:0 "Temple" #NT!
+ kueijin_house_of_worship_plural:0 "Temple" #NT!
+ kueijin_religious_symbol:0 "jade" #NT!
+ kueijin_religious_text:0 "scriptures" #NT!
+ kueijin_religious_head_title:0 "priest" #NT!
+ kueijin_religious_head_title_name:0 "priest" #NT!
+ kueijin_devotee_male:0 "priest" #NT!
+ kueijin_devotee_male_plural:0 "priests" #NT!
+ kueijin_devotee_female:0 "priest" #NT!
+ kueijin_devotee_female_plural:0 "priests" #NT!
+ kueijin_devotee_neuter:0 "priest" #NT!
+ kueijin_devotee_neuter_plural:0 "priests" #NT!
+ kueijin_priest_male:0 "priest" #NT!
+ kueijin_priest_male_plural:0 "priests" #NT!
+ kueijin_priest_alternate_plural:0 "priests" #NT!
+ kueijin_bishop:0 "priest" #NT!
+ kueijin_bishop_plural:0 "priests" #NT!
+ kueijin_bishop_male:0 "priest" #NT!
+ kueijin_bishop_male_plural:00 "priests" #NT!
+ kueijin_positive_afterlife:0 "Hundred Clouds" #NT!
+ kueijin_negative_afterlife:0 "Thousand Hells" #NT!
+ kueijin_witchgodname_the_horned_god:0 "the Demon Emperor" #NT!
+
+ kueijin_creator_god_name:0 "$kueijin_high_god_name$" #NT!
+ kueijin_creator_god_name_possessive:0 "$kueijin_high_god_name_possessive$" #NT!
+ kueijin_health_god_name:0 "Scarlet Queen" #NT!
+ kueijin_health_god_name_possessive:0 "Scarlet Queen's" #NT!
+ kueijin_fertility_god_name:0 "$kueijin_health_god_name$" #NT!
+ kueijin_fertility_god_name_possessive:0 "$kueijin_health_god_name_possessive$" #NT!
+ kueijin_wealth_god_name:0 "$kueijin_health_god_name$" #NT!
+ kueijin_wealth_god_name_possessive:0 "$kueijin_health_god_name_possessive$" #NT!
+ kueijin_household_god_name:0 "$kueijin_health_god_name$" #NT!
+ kueijin_household_god_name_possessive:0 "$kueijin_health_god_name_possessive$" #NT!
+ kueijin_fate_god_name:0 "$kueijin_high_god_name$" #NT!
+ kueijin_fate_god_name_possessive:0 "$kueijin_high_god_name_possessive$" #NT!
+ kueijin_knowledge_god_name:0 "$kueijin_high_god_name$" #NT!
+ kueijin_knowledge_god_name_possessive:0 "$kueijin_high_god_name_possessive$" #NT!
+ kueijin_war_god_name:0 "$kueijin_night_god_name$" #NT!
+ kueijin_war_god_name_possessive:0 "$kueijin_night_god_name_possessive$" #NT!
+ kueijin_trickster_god_name:0 "Joss" #NT!
+ kueijin_trickster_god_name_possessive:0 "Joss's" #NT!
+ kueijin_night_god_name:0 "Ebon Dragon" #NT!
+ kueijin_night_god_name_possessive:0 "Ebon Dragon's" #NT!
+ kueijin_water_god_name:0 "$kueijin_night_god_name$" #NT!
+ kueijin_water_god_name_possessive:0 "$kueijin_night_god_name_possessive$" #NT!
+
+ #Kuei-jin Group Religios #NT!
+ kueijin_religion:0 "Heretical Dharmas" #NT!
+ kueijin_religion_adj:0 "Heretical" #NT!
+ kueijin_religion_adherent:0 "Heresy" #NT!
+ kueijin_religion_adherent_plural:0 "Heresies" #NT!
+ kueijin_religion_desc:0 "There are a number of vampires who exist without following one of the five Dharmas attributed to Xue. They follow other paths, which the ancestors of the Five August Courts brand as heresies." #NT!
+
+ boneflowers_religion:0 "Song of the Shadow" #NT!
+ boneflowers_religion_adj:0 "Singing" #NT!
+ boneflowers_religion_adherent:0 "Singer" #NT!
+ boneflowers_religion_adherent_plural:0 "Singers" #NT!
+ boneflowers_religion_desc:0 "The yin-aspected Song of the Shadow, also known as Bone Flowers, are coldly logical necromancers who seek dispassionate reasoning and enforcement of dharmic balance. They are also tightly tied to mortal society through their descendants, and often assist their families even centuries afterward." #NT!
+
+ deviltigers_religion:0 "Devil Tiger" #NT!
+ deviltigers_religion_adj:0 "Searing" #NT!
+ deviltigers_religion_adherent:0 "Tiger" #NT!
+ deviltigers_religion_adherent_plural:0 "Tigers" #NT!
+ deviltigers_religion_desc:0 "The Devil-Tigers believe that they are replacements for the incompetent demons of ages past; they punish sinners and seek enlightenment through pain and violence." #NT!
+
+ resplendentcranes_religion:0 "Resplendent Crane" #NT!
+ resplendentcranes_religion_adj:0 "Legalism" #NT!
+ resplendentcranes_religion_adherent:0 "Magistrate" #NT!
+ resplendentcranes_religion_adherent_plural:0 "Magistrates" #NT!
+ resplendentcranes_religion_desc:0 "The Way of the Resplendent Crane is a highly legalistic collection of schools, dedicated to reversing the Wheel of Ages and restoring virtue." #NT!
+
+ thousandwhispers_religion:0 "Thousand Whispers" #NT!
+ thousandwhispers_religion_adj:0 "Whispering" #NT!
+ thousandwhispers_religion_adherent:0 "Whisperer" #NT!
+ thousandwhispers_religion_adherent_plural:0 "Whisperers" #NT!
+ thousandwhispers_religion_desc:0 "The Thousand Whispers live a sequence of masks, new identities they construct after death in order to understand mortal life and hopefully transcend it." #NT!
+
+ thrashingdragons_religion:0 "Thrashing Dragon" #NT!
+ thrashingdragons_religion_adj:0 "Dancing" #NT!
+ thrashingdragons_religion_adherent:0 "Dancer" #NT!
+ thrashingdragons_religion_adherent_plural:0 "Dancers" #NT!
+ thrashingdragons_religion_desc:0 "The often misunderstood Thrashing Dragon dharma recognizes that they are dead, but seeks to achieve enlightenment by imitating and interacting with the living. Despite the stunned disbelief of some Resplendent Cranes, they are a fully recognized Dharma, even if they seem to eat and screw their way through unlife." #NT!
+
+ #Kuei-jin Group Faiths #NT!
+
+ faceofthegods:0 "Face of the Gods" #NT!
+ faceofthegods_adj:0 "Godhood" #NT!
+ faceofthegods_adherent:0 "Godling" #NT!
+ faceofthegods_adherent_plural:0 "Godlings" #NT!
+ faceofthegods_desc:0 "Possibly the most extreme heresy, the Face of the Gods claim that the Wan Kuei are exiled Gods. They set up their own cults with worshippers and extract chi from prayer.." #NT!
+
+ flameoftherisingphoenix:0 "Rising Phoenix" #NT!
+ flameoftherisingphoenix_adj:0 "Rising" #NT!
+ flameoftherisingphoenix_adherent:0 "Phoenix" #NT!
+ flameoftherisingphoenix_adherent_plural:0 "Phoenixes" #NT!
+ flameoftherisingphoenix_desc:0 "The Flame of the Rising Phoenix dharma holds that the purpose of the Second Breath is to make restitution for the crimes of one's life. The dharma is noted for its members failing (or occasionally disappearing) after a short period of time." #NT!
+
+ inwardway:0 "Inward Way" #NT!
+ inwardway_adj:0 "Seeking" #NT!
+ inwardway_adherent:0 "Seeker" #NT!
+ inwardway_adherent_plural:0 "Seekers" #NT!
+ inwardway_desc:0 "An alternative balanced dharma, the Seekers pursue a Taoist path in comparison to the Confucian courts." #NT!
+
+ wayofthetenthousandscreams:0 "Ten Thousand Screams" #NT!
+ wayofthetenthousandscreams_adj:0 "Screaming" #NT!
+ wayofthetenthousandscreams_adherent:0 "Screamer" #NT!
+ wayofthetenthousandscreams_adherent_plural:0 "Screamers" #NT!
+ wayofthetenthousandscreams_desc:0 "A dharma that stands in opposition to the Fivefold Way. Its followers preach union with the Yama Kings and see their new state as a way to serve the August Personage as destroyers." #NT!
+
+ holy_order_fallen_heroes:0 "The Fallen Heroes" #NT!
+ holy_order_jinhai_remembrance:0 "The Jinhai Remembered" #NT!
+ holy_order_cursed_golden_children:0 "The Cursed Golden Children" #NT!
+ holy_order_followers_of_arhat:0 "The Followers of Arhat" #NT!
+ holy_order_second_breath:0 "The Second Breath" #NT!
+ holy_order_masters_high_war:0 "The Masters of High War" #NT!
+
+ empty_hands:0 "Empty Hands" #NT!
+ empty_hands_adj:0 "Hands" #NT!
+ empty_hands_adherent:0 "$boneflowers_religion_adherent$" #NT!
+ empty_hands_adherent_plural:0 "$boneflowers_religion_adherent_plural$" #NT!
+ empty_hands_desc:0 "Its members believe they must keep themselves free of taint but have no right to interfere with another's quest for knowledge, regardless of the cost of that quest." #NT!
+
+ fishhooks:0 "Fishhooks" #NT!
+ fishhooks_adj:0 "Hooks" #NT!
+ fishhooks_adherent:0 "$boneflowers_religion_adherent$" #NT!
+ fishhooks_adherent_plural:0 "$boneflowers_religion_adherent_plural$" #NT!
+ fishhooks_desc:0 "The Hooks study, interrogate, trick and torture akuma. In so doing, they seek to understand the Yama Kings and damnation without risking their own souls. They will do or say anything to get information from an akuma." #NT!
+
+ august_body_of_sagacious_devils:0 "August Body of Sagacious Devils" #NT!
+ august_body_of_sagacious_devils_adj:0 "Bodies" #NT!
+ august_body_of_sagacious_devils_adherent:0 "$deviltigers_religion_adherent$" #NT!
+ august_body_of_sagacious_devils_adherent_plural:0 "$deviltigers_religion_adherent_plural$" #NT!
+ august_body_of_sagacious_devils_desc:0 "By using an extreme competitive system of ranks, the August Body channels the wrathful energy of the P'o into productive work for the greater good of the Kuei-jin." #NT!
+
+ thousand_embers_righteousness_societies:0 "Thousand Embers Righteousness Societies" #NT!
+ thousand_embers_righteousness_societies_adj:0 "Societies" #NT!
+ thousand_embers_righteousness_societies_adherent:0 "$deviltigers_religion_adherent$" #NT!
+ thousand_embers_righteousness_societies_adherent_plural:0 "$deviltigers_religion_adherent_plural$" #NT!
+ thousand_embers_righteousness_societies_desc:0 "The members of a society support each other even across wu-boundaries, and typically study the dharmic texts together. The purpose of each society in the long run, however, is to act as a distraction to the Demon Emperor, as a guerrilla cell that will set mortal society ablaze to stop the Yama Kings from prospering." #NT!
+
+ eight_lotus_blooming:0 "Eight Lotus Blooming" #NT!
+ eight_lotus_blooming_adj:0 "Lotus" #NT!
+ eight_lotus_blooming_adherent:0 "$resplendentcranes_religion_adherent$" #NT!
+ eight_lotus_blooming_adherent_plural:0 "$resplendentcranes_religion_adherent_plural$" #NT!
+ eight_lotus_blooming_desc:0 "A moderate interpretation that focuses more strongly on the teachings of the Eight Lotus Path to the squalor of the other Dharmic tenets." #NT!
+
+ empty_throne:0 "Empty Throne" #NT!
+ empty_throne_adj:0 "Throne" #NT!
+ empty_throne_adherent:0 "$resplendentcranes_religion_adherent$" #NT!
+ empty_throne_adherent_plural:0 "$resplendentcranes_religion_adherent_plural$" #NT!
+ empty_throne_desc:0 "A moderate interpretation that encourages righteous action over specific methods and regulations and that even the most wicked can be encouraged to rejects their ways in the face of virtue." #NT!
+
+ two_li_road:0 "Two-Li Road" #NT!
+ two_li_road_adj:0 "Road" #NT!
+ two_li_road_adherent:0 "$resplendentcranes_religion_adherent$" #NT!
+ two_li_road_adherent_plural:0 "$resplendentcranes_religion_adherent_plural$" #NT!
+ two_li_road_desc:0 "A moderate interpretation who believe that modern civilization is the true cause of wickedness and seek to return to the more simple and traditional ways of living." #NT!
+
+ yellow_moon:0 "Yellow Moon" #NT!
+ yellow_moon_adj:0 "Moon" #NT!
+ yellow_moon_adherent:0 "$resplendentcranes_religion_adherent$" #NT!
+ yellow_moon_adherent_plural:0 "$resplendentcranes_religion_adherent_plural$" #NT!
+ yellow_moon_desc:0 "A moderate interpretation who includes teachings from virtuous mortals, like Confucius, into Crane doctrine." #NT!
+
+ fellowship_of_the_travelers_of_the_great_earth:0 "Fellowship of the Travelers of the Great Earth" #NT!
+ fellowship_of_the_travelers_of_the_great_earth_adj:0 "Fellowship" #NT!
+ fellowship_of_the_travelers_of_the_great_earth_adherent:0 "$resplendentcranes_religion_adherent$" #NT!
+ fellowship_of_the_travelers_of_the_great_earth_adherent_plural:0 "$resplendentcranes_religion_adherent_plural$" #NT!
+ fellowship_of_the_travelers_of_the_great_earth_desc:0 "An extreme interpretation who seek a new Emperor to unite the Middle Kingdom into one state. To this end, they look westward and involve themselves in Western Culture." #NT!
+
+ liberators_of_the_wheel:0 "Liberators of the Wheel" #NT!
+ liberators_of_the_wheel_adj:0 "Liberators" #NT!
+ liberators_of_the_wheel_adherent:0 "$resplendentcranes_religion_adherent$" #NT!
+ liberators_of_the_wheel_adherent_plural:0 "$resplendentcranes_religion_adherent_plural$" #NT!
+ liberators_of_the_wheel_desc:0 "An extreme interpretation that believe that the Wheel of Ages turns because of places beyond the Middle Kingdom who are too stepped in sin to be redeemed. To this end, they employ terrorist attacks against western institutions to destabilize the world beyond the Middle Kingdom and restore order." #NT!
+
+ wise_centipedes:0 "Wise Centipedes" #NT!
+ wise_centipedes_adj:0 "Centipedes" #NT!
+ wise_centipedes_adherent:0 "$thousandwhispers_religion_adherent$" #NT!
+ wise_centipedes_adherent_plural:0 "$thousandwhispers_religion_adherent_plural$" #NT!
+ wise_centipedes_desc:0 "Center-balanced Whispers address themselves simply as Wise Centipedes, and are concerned with the maintenance of balance once it is achieved in a place or person." #NT!
+
+ bunraku:0 "Bunraku" #NT!
+ bunraku_adj:0 "Bunraku" #NT!
+ bunraku_adherent:0 "$thousandwhispers_religion_adherent$" #NT!
+ bunraku_adherent_plural:0 "$thousandwhispers_religion_adherent_plural$" #NT!
+ bunraku_desc:0 "North-orientated, the Bunraku operate from the shadows to enforce Balance within the Middle Kingdom" #NT!
+
+ dancing_peacocks:0 "Dancing Peacocks" #NT!
+ dancing_peacocks_adj:0 "Peacocks" #NT!
+ dancing_peacocks_adherent:0 "$thousandwhispers_religion_adherent$" #NT!
+ dancing_peacocks_adherent_plural:0 "$thousandwhispers_religion_adherent_plural$" #NT!
+ dancing_peacocks_adj_desc:0 "East-orientated, the Peacocks live among mortals and involve themselves the most in mortal affairs" #NT!
+
+ scarlet_centipedes:0 "Scarlet Centipedes" #NT!
+ scarlet_centipedes_adj:0 "Centipedes" #NT!
+ scarlet_centipedes_adherent:0 "$thousandwhispers_religion_adherent$" #NT!
+ scarlet_centipedes_adherent_plural:0 "$thousandwhispers_religion_adherent_plural$" #NT!
+ scarlet_centipedes_desc:0 "South-orientated, the Scarlet Centipedes are troublemakers and warriors that seek to subvert the status quo." #NT!
+
+ exalted_jade_masks:0 "Exalted Jade Masks" #NT!
+ exalted_jade_masks_adj:0 "Masks" #NT!
+ exalted_jade_masks_adherent:0 "$thousandwhispers_religion_adherent$" #NT!
+ exalted_jade_masks_adherent_plural:0 "$thousandwhispers_religion_adherent_plural$" #NT!
+ exalted_jade_masks_desc:0 "West-orientated, the Jade Masks hunt ghosts, seeking to correct their imbalance by allowing them to pass on or slaying them if they refuse" #NT!
+
+ laughing_rainbows:0 "Laughing Rainbows" #NT!
+ laughing_rainbows_adj:0 "Rainbows" #NT!
+ laughing_rainbows_adherent:0 "$thrashingdragons_religion_adherent$" #NT!
+ laughing_rainbows_adherent_plural:0 "$thrashingdragons_religion_adherent_plural$" #NT!
+ laughing_rainbows_desc:0 "Members of the sect seek to learn to love what one truly is, not simply certain things about oneself. This leads to a very unapologetic approach of life that can be taxing on others." #NT!
+
+ the_thousand_faced_thunders:0 "The Thousand-Faced Thunders" #NT!
+ the_thousand_faced_thunders_adj:0 "Thunders" #NT!
+ the_thousand_faced_thunders_adherent:0 "$thrashingdragons_religion_adherent$" #NT!
+ the_thousand_faced_thunders_adherent_plural:0 "$thrashingdragons_religion_adherent_plural$" #NT!
+ the_thousand_faced_thunders_desc:0 "A sect dedicated to the Yang World, particularly the new urban spirits that inhabit the great cities." #NT!
+
+ the_ten_seasons_sect:0 "The Ten Seasons Sect" #NT!
+ the_ten_seasons_sect_adj:0 "Sect" #NT!
+ the_ten_seasons_sect_adherent:0 "$thrashingdragons_religion_adherent$" #NT!
+ the_ten_seasons_sect_adherent_plural:0 "$thrashingdragons_religion_adherent_plural$" #NT!
+ the_ten_seasons_sect_desc:0 "A sect dedicated to the veneration of the natural cycles and careful cultivation of oneself." #NT!
+
+ the_passion_bloodflowers:0 "The Passion Bloodflowers" #NT!
+ the_passion_bloodflowers_adj:0 "Bloodflowers" #NT!
+ the_passion_bloodflowers_adherent:0 "$thrashingdragons_religion_adherent$" #NT!
+ the_passion_bloodflowers_adherent_plural:0 "$thrashingdragons_religion_adherent_plural$" #NT!
+ the_passion_bloodflowers_desc:0 "Bloodflowers take an even more extreme stance on the enjoyment of life than the Laughing Rainbows, sometimes bordering on animalistic." #NT!

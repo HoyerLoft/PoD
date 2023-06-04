@@ -1,0 +1,90 @@
+﻿l_russian:
+
+ POD_transmogrify.100.t:0 "Трансмогрификация" #NT!
+ POD_transmogrify.100.desc:0 "Используя [Concept('discipline', 'дисциплину')|E] изменчивости, я могу трансформировать испытуемого в красавицу или чудовище [transmogrifiee.GetSheHe|U] плоть моя глина, и я скульптор сухожилий, костей и крови. Есть шанс, что [transmogrifiee.GetFirstName] не переживет процедуру." #NT!
+ POD_transmogrify.100.option.a:0 "Изменить [transmogrifiee.GetHerHis] лицо" #NT!
+ POD_transmogrify.100.option.b:0 "Модифицировать [transmogrifiee.GetHerHis] тело" #NT!
+ POD_transmogrify.100.option.c:0 "Улучшить [transmogrifiee.GetHerHis] для боя" #NT!
+ POD_transmogrify.100.option.d:0 "Модифицировать [transmogrifiee.GetHerHis] органы чувств" #NT!
+ POD_transmogrify.100.option.f:0 "Сделать [transmogrifiee.GetHerHim] на вид младше или старше" #NT!
+ POD_transmogrify.100.option.e:0 "Не делать ничего" #NT!
+
+ POD_transmogrify.experiment.desc:0 "Для определения успеха вам выпадет проверка на Ученость" #NT!
+
+ POD_transmogrify.200.t:0 "Трансмогрификация: Податливый Облик" #NT!
+ POD_transmogrify.200.desc:0 "Как мне следует изменить облик [transmogrifiee.GetFirstName]? Есть шанс, что [transmogrifiee.GetFirstName] не переживет процедуру." #NT!
+ POD_transmogrify.200.option.k:0 "Проявить фантазию с Изменчивостью" #NT!
+ POD_transmogrify.200.option.l:0 "Обратить черты, дарованные Изменчиовстью" #NT!
+ POD_transmogrify.200.option.a:0 "Сделать [transmogrifiee.GetHerHis] черты ближе к стандартам красоты" #NT!
+ POD_transmogrify.200.option.b:0 "Исказить [transmogrifiee.GetHerHim] чтобы сделать уродом для смертного сообщества" #NT!
+ POD_transmogrify.200.option.c:0 "Извлечь пигмент из [transmogrifiee.GetHerHis] кожи" #NT!
+ POD_transmogrify.200.option.d:0 "Вернуть пигмент [transmogrifiee.GetHerHis] коже." #NT!
+ POD_transmogrify.200.option.e:0 "Шрамировать [transmogrifiee.GetFirstName]" #NT!
+ POD_transmogrify.200.option.f:0 "Убрать [transmogrifiee.GetHerHis] шрамы" #NT!
+ POD_transmogrify.200.option.g:0 "Убрать [transmogrifiee.GetHerHis] чешую" #NT!
+ POD_transmogrify.200.option.h:0 "Нанести чешую на [transmogrifiee.GetHerHis] кожу" #NT!
+ POD_transmogrify.200.option.i:0 "Сделать так, чтобы жертва походила на меня" #NT!
+ POD_transmogrify.200.option.j:0 "Не делать ничего" #NT!
+
+ POD_transmogrify.300.t:0 "Трансмогрификация Смертной Глины" #NT!
+ POD_transmogrify.300.desc:0 "Как мне следует изменить [transmogrifiee.GetHerHis] облик? Есть шанс, что [transmogrifiee.GetFirstName] не переживет процедуру." #NT!
+ POD_transmogrify.300.option.a:0 "Трансформировать [transmogrifiee.GetHerHim] в гиганта" #NT!
+ POD_transmogrify.300.option.b:0 "Уменьшить [transmogrifiee.GetHerHim] до размеров гнома" #NT!
+ POD_transmogrify.300.option.c:0 "Сделать [transmogrifiee.GetHerHim] нормальный рост." #NT!
+ POD_transmogrify.300.option.d:0 "Искривить [transmogrifiee.GetHerHis] спину горбом" #NT!
+ POD_transmogrify.300.option.e:0 "Распрямить [transmogrifiee.GetHerHis] спину" #NT!
+ POD_transmogrify.300.option.f:0 "Улучшить [transmogrifiee.GetHerHis] стопы" #NT!
+ POD_transmogrify.300.option.g:0 "Свернуть [transmogrifiee.GetHerHis] стопы" #NT!
+ POD_transmogrify.300.option.h:0 "Усилить [transmogrifiee.GetHerHis] конечности" #NT!
+ POD_transmogrify.300.option.i:0 "Ослабить [transmogrifiee.GetHerHis] конечности" #NT!
+ POD_transmogrify.300.option.j:0 "Восстановить [transmogrifiee.GetHerHis] утерянную конечность" #NT!
+ POD_transmogrify.300.option.k:0 "Восстановить [transmogrifiee.GetHerHis] гениталии" #NT!
+ POD_transmogrify.300.option.l:0 "Удалить [transmogrifiee.GetHerHis] гениталии" #NT!
+ #POD_transmogrify.300.option.m:0 "Profane Hieros Gamos" #NT!
+ POD_transmogrify.300.option.n:0 "Не делать ничего" #NT!
+
+ POD_transmogrify.350.t:0 "Трансмогрификация Чувств" #NT!
+ POD_transmogrify.350.desc:0 "Как мне следует изменить органы чувств [transmogrifiee.GetFirstName]? Есть шанс, что [transmogrifiee.GetSheHe] не переживет процедуру." #NT!
+ POD_transmogrify.350.option.a:0 "Дать [transmogrifiee.GetHerHim] новые глаза" #NT!
+ POD_transmogrify.350.option.b:0 "Удалить [transmogrifiee.GetHerHis] eyes" #NT!
+ POD_transmogrify.350.option.c:0 "Добавить третий глаз" #NT!
+ POD_transmogrify.350.option.d:0 "Убрать третий глаз" #NT!
+ POD_transmogrify.350.option.e:0 "Усилить [transmogrifiee.GetHerHis] слух" #NT!
+ POD_transmogrify.350.option.f:0 "Нормальные уши" #NT!
+ POD_transmogrify.350.option.g:0 "Усилить нюх" #NT!
+ POD_transmogrify.350.option.h:0 "Обычный нос" #NT!
+ POD_transmogrify.350.option.i:0 "Не делать ничего" #NT!
+
+ POD_transmogrify.400.t:0 "Трансмогрификация: Разрыв Костного каркаса" #NT!
+ POD_transmogrify.400.desc:0 "Как мне следует изменить облик [transmogrifiee.GetFirstName]? Есть шанс, что [transmogrifiee.GetFirstName] не переживет процедуру." #NT!
+ POD_transmogrify.400.option.a:0 "Наделить [transmogrifiee.GetHerHim] острыми когтями и зубами" #NT!
+ POD_transmogrify.400.option.b:0 "Защитить [transmogrifiee.GetHerHim] броней из костей" #NT!
+ POD_transmogrify.400.option.c:0 "[transmogrifiee.GetHerHim|U] should have horns" #NT!
+ POD_transmogrify.400.option.d:0 "Убрать острые зубы и когти" #NT!
+ POD_transmogrify.400.option.e:0 "Убрать броню из костей" #NT!
+ POD_transmogrify.400.option.f:0 "Убрать рога" #NT!
+ POD_transmogrify.400.option.g:0 "Не делать ничего" #NT!
+
+ POD_transmogrify.greatsuccess:0 "Эксперимент увенчался большим успехом" #NT!
+ POD_transmogrify.moderatesuccess:0 "Эксперимент увенчался умеренным успехом" #NT!
+ POD_transmogrify.smallsuccess:0 "Эксперимент увенчался небольшим успехом" #NT!
+ POD_transmogrify.failure:0 "Эксперимент провалился" #NT!
+
+ POD_transmogrify.500.t:0 "Трансмогрификация" #NT!
+ POD_transmogrify.500.desc:0 "[transmogrifiee.GetFirstName] подвергается трансформации." #NT!
+ POD_transmogrify.500.option.a:0 "Продолжить эксперименты." #NT!
+ POD_transmogrify.500.option.b:0 "Пока что достаточно." #NT!
+
+ POD_transmogrify.600.t:0 "Трансмогрификация" #NT!
+ POD_transmogrify.600.desc:0 "[transmogrifiee.GetFirstName] не удалось пережить метаморфозу." #NT!
+ POD_transmogrify.600.option.a:0 "Таковы риски изменений для смертных" #NT!
+
+ POD_transmogrify.700.t:0 "Избавляя "материал" от влияния времени" #NT!
+ POD_transmogrify.700.desc:0 "Следует ли мне заставить [transmogrifiee.GetFirstName] выглядеть моложе или старше?" #NT!
+ POD_transmogrify.700.option.a:0 "Старше" #NT!
+ POD_transmogrify.700.option.b:0 "Моложе" #NT!
+ POD_transmogrify.700.option.c:0 "Не делать ничего" #NT!
+
+ POD_transmorgify_ghoul.greatsuccess:0 "Эксперимент увенчался большим успехом." #NT!
+
+

@@ -1,0 +1,86 @@
+﻿l_russian:
+
+ #Common Code of Tremere Localization #NT!
+ codeoftremere_religion:0 "Кодекс Тремер" #NT!
+ codeoftremere_religion_adj:0 "Чародеи" #NT!
+ codeoftremere_religion_adherent:0 "Чародей" #NT!
+ codeoftremere_religion_adherent_plural:0 "Чародеи" #NT!
+ codeoftremere_religion_desc:0 "Моральная доктрина [Clan|E]а Тремер. Строгий свод правил и практик, обеспечивающих выполнение воли Старейшин [Clan|E]а." #NT!
+ codeoftremere_high_god_name:0 "Магия" #NT!
+ codeoftremere_high_god_name_possessive:0 "Магическ" #NT!
+ codeoftremere_high_god_name_alternate:0 "Магия" #NT!
+ codeoftremere_high_god_name_alternate_possessive:0 "Магическ" #NT!
+ codeoftremere_good_god_jesus:0 "$codeoftremere_health_god_name$" #NT!
+ codeoftremere_good_god_christ:0 "Тремер" #NT!
+ codeoftremere_devil_name:0 "Зверь" #NT!
+ codeoftremere_devil_name_possessive:0 "Зверск" #NT!
+ codeoftremere_evil_god_lucifer:0 "Зверь" #NT!
+ codeoftremere_evil_god_beelzebub:0 "Зверь" #NT!
+ codeoftremere_evil_god_mephistopheles:0 "Зверь" #NT!
+ codeoftremere_death_deity_name:0 "Разрушение" #NT!
+ codeoftremere_death_deity_name_possessive:0 "Разрушительн" #NT!
+ codeoftremere_house_of_worship:0 "часовня" #NT!
+ codeoftremere_house_of_worship_plural:0 "часовни" #NT!
+ codeoftremere_religious_symbol:0 "пирамида" #NT!
+ codeoftremere_religious_text:0 "Кодекс Тремер" #NT!
+ codeoftremere_religious_head_title:0 "регент" #NT!
+ codeoftremere_religious_head_title_name:0 "регент" #NT!
+ codeoftremere_devotee_male:0 "регент" #NT!
+ codeoftremere_devotee_male_plural:0 "регенты" #NT!
+ codeoftremere_devotee_female:0 "регент" #NT!
+ codeoftremere_devotee_female_plural:0 "регенты" #NT!
+ codeoftremere_devotee_neuter:0 "регент" #NT!
+ codeoftremere_devotee_neuter_plural:0 "регенты" #NT!
+ codeoftremere_priest_male:0 "регент" #NT!
+ codeoftremere_priest_male_plural:0 "регенты" #NT!
+ codeoftremere_priest_alternate_plural:0 "регенты" #NT!
+ codeoftremere_bishop:0 "регент" #NT!
+ codeoftremere_bishop_plural:0 "регентs" #NT!
+ codeoftremere_positive_afterlife:0 "Умбра" #NT!
+ codeoftremere_negative_afterlife:0 "Бездна" #NT!
+ codeoftremere_witchgodname_the_horned_god:0 "Зверь" #NT!
+
+ codeoftremere_creator_god_name:0 "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_creator_god_name_possessive:0 "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_health_god_name:0 "Blood" #NT!
+ codeoftremere_health_god_name_possessive:0 "Blood's" #NT!
+ codeoftremere_fertility_god_name:0 "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_fertility_god_name_possessive:0 "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_wealth_god_name:0 "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_wealth_god_name_possessive:0 "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_household_god_name:0 "$codeoftremere_health_god_name$" #NT!
+ codeoftremere_household_god_name_possessive:0 "$codeoftremere_health_god_name_possessive$" #NT!
+ codeoftremere_fate_god_name:0 "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_fate_god_name_possessive:0 "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_knowledge_god_name:0 "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_knowledge_god_name_possessive:0 "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_war_god_name:0 "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_war_god_name_possessive:0 "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_trickster_god_name:0 "Fortuna" #NT!
+ codeoftremere_trickster_god_name_possessive:0 "Fortuna's" #NT!
+ codeoftremere_night_god_name:0 "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_night_god_name_possessive:0 "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_water_god_name:0 "$codeoftremere_health_god_name$" #NT!
+ codeoftremere_water_god_name_possessive:0 "$codeoftremere_health_god_name_possessive$" #NT!
+
+ #Warlock-Group Faiths #NT!
+ tremerecode:0 "Кодекс Тремер" #NT!
+ tremerecode_adj:0 "Кодекс Тремер" #NT!
+ tremerecode_adherent:0 "Чародей" #NT!
+ tremerecode_adherent_plural:0 "Чародеи" #NT!
+ tremerecode_desc:0 "Кодекс Тремер делает [Clan|E] уникальным [Concept('cainites', 'каинитов')|E]; ни одна другая группа не придерживается единого набора правил, определяющих приемлемое поведение. Никакая непреодолимая магия не привязывает ни одного тремера к клятве, если только какой-нибудь суровый регент активно не решит привести ее в исполнение; вместо этого кодекс де-факто представляет собой перечень того, что представляет собой приемлемое поведение для члена величественного дома Тремер. Кодекс подробно описывает, чего ожидают от Тремера, и какие действия могут вызвать немилость." #NT!
+
+ viaservilis:0 "Via Servilis" #NT!
+ viaservilis_adj:0 "Путь Служения" #NT!
+ viaservilis_adherent:0 "Слуга" #NT!
+ viaservilis_adherent_plural:0 "Слуги" #NT!
+ viaservilis_desc:0 "Обычно ее называют Дорогой служения. Она провозглашает, что восхищения достойны только те действия, которые доставляют удовольствие создателям рода Горгулий и вызывают у них почтение." #NT!
+
+ #Holy Orders #NT!
+ holy_order_guardians_of_traditions:0 "Защитники Традиций" #NT!
+ holy_order_children_of_the_pyramid:0 "Дети Пирамиды" #NT!
+ holy_order_quaesitori:0 "Квазиторий" #NT!
+ holy_order_the_elite:0 "Элита Пирамиды" #NT!
+ holy_order_the_covenant:0 "Чародейский Договор" #NT!
+ holy_order_the_astors:0 "Асторы" #NT!
+

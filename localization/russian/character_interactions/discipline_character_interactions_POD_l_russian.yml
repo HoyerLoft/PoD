@@ -1,0 +1,141 @@
+﻿l_russian:
+
+ POD_nocturne_on_personal_interaction:0 "Ноктюрн" #NT!
+ POD_nocturne_on_personal_interaction_desc:0 "Начать отбрасывать тени, что выкачивают жизнь у ближайших врагов" #NT!
+ POD_nocturne_on_personal_interaction.tt:0 "У вас появится шанс нанести ушерб доблести вражеских рыцарей в бою, если вы командир. Но вы будете тратить очки благочестия за каждого пораженного рыцаря." #NT!
+
+ POD_nocturne_off_personal_interaction:0 "Отключить Ноктрюрн" #NT!
+ POD_nocturne_off_personal_interaction_desc:0 "Прекратить Использовать Ноктюрн в битвах" #NT!
+ POD_nocturne_off_personal_interaction.tt:0 "Вы перестанете использваоть Ноктюрн" #NT!
+
+ POD_drain_the_life_interaction:0 "Оттенение Жизни" #NT!
+ POD_drain_the_life_interaction_desc:0 "Отбрасывает ужасную тьму, которая пожирает все, к чему прикасается" #NT!
+ POD_drain_the_life_interaction.tt:0 "Вы наложите ужасную тьму на земли [recipient.GetFirstName]" #NT!
+
+ POD_shadow_twin_interaction:0 "Теневой Двойник" #NT!
+ POD_shadow_twin_interaction_desc:0 "Создать Теневого Двойника" #NT!
+ POD_shadow_twin_interaction.tt:0 "Вы попробуете использовать Теневого Двойника" #NT!
+ already_has_shadow_twin:0 "У меня уже есть Теневой Двойник" #NT!
+
+ POD_sense_the_sin_interaction:0 "Чувство Греха" #NT!
+ sense_the_sin_interaction_desc:0 "Погрузитесь в разум [recipient.GetFirstName], вытащив худшие части личности, и сделайте их гораздо, гораздо хуже, чем раньше." #NT!
+ sense_the_sin.ct:0 "#R Да начнется веселье!#!" #NT!
+ sense_the_sin.ct.sin:0 "Погрузитесь в разум [recipient.GetFirstName], вытащив худшие части личности, и сделайте их гораздо, гораздо хуже, чем раньше." #NT!
+ sense_the_sin.ct.virtue:0 "Погрузитесь в разум [recipient.GetFirstName], извращая [recipient.GetHerHis] лучшие качества в насмешливые, отвратительные недостатки." #NT!
+ sense_the_sin_interaction_option_sin:0 "Фокус на #R Грехах#!" #NT!
+ sense_the_sin_interaction_option_virtue:0 "Фокус на #G Добродетелях#!" #NT!
+ global_not_need_sins_or_virtues:0 "У цели должен быть неусиленный Демонизмом грех. Если у вас есть перк Отравленная Добродетель, то у жертвы должна быть неизвращенное достоинство." #NT!
+ POD_psychomachia_interaction:0 "Психомахия" #NT!
+ POD_psychomachia_interaction_desc:0 "Начните битву между [recipient.GetFirstName] и воплощением [recipient.GetHerHis] худшей стороны души, ранее усиленный Чувством Греха. Стоит жертве одержать верх, они подчинят свои худшие чертвы и использовать их для своей выгоды. Но стоит им проиграть, Тьма возьмет верх - либо они опустятся до еще большей развращенности, или [recipient.GetHerHis] психика не справится и персонаж отправится в [torpor|E]." #NT!
+ POD_psychomachia_interaction_ct:0 "Если вы приуспеете,[recipient.GetName] будет сражаться на дуэли с проявлением грехов, усиленных Чувством Греха. Чем больше усиливаются грехи, тем сильнее будет проявление греха, но и потенциальный выигрыш также будет расти. Эта сила может быть использована только один раз на каждом персонаже." #NT!
+ POD_psychomachia_interaction_morepower:0 "Усилить Проявление греха" #NT!
+ POD_psychomachia_interaction_lesspower:0 "Ослабить Проявление Греха" #NT!
+ POD_psychomachia_interaction_normal:0 "Обычный уровень силы" #NT!
+
+ POD_non_infernalists_pay:0 "Адские силы Даемонизма сказываются на душе. Только слуги темных сил (с чертой инферналист тайной или явной) освобождаются от ужасной цены." #NT!
+ POD_infernalists_dont_pay:0 "Как инферналист вы защищены повелителями Ада от цены Демонизма." #NT!
+
+ POD_blood_of_a_demon_interaction:0 "Кровь Демона" #NT!
+ POD_blood_of_a_demon_interaction_desc:0 "Используйте [Concept('discipline', 'дисциплину'|E] Демонизма to give in to dark power" #NT!
+ POD_blood_of_a_demon_interaction_option_infernalist:0 "Стать Инферналистом" #NT!
+ POD_blood_of_a_demon_interaction_option_infernalist_ct:0 "Поклянись в верности адским существам, что позволит вам пользоваться силами Демонизма без платы благочестия." #NT!
+ POD_blood_of_a_demon_interaction_option_lustful:0 "Использовать Грех: Похоть" #NT!
+ POD_blood_of_a_demon_interaction_option_gluttonous:0 "Использовать Грех: Обжорство" #NT!
+ POD_blood_of_a_demon_interaction_option_greedy:0 "Использовать Грех: Жадность" #NT!
+ POD_blood_of_a_demon_interaction_option_lazy:0 "Использовать Грех: Лень" #NT!
+ POD_blood_of_a_demon_interaction_option_wrathful:0 "Использовать Грех: Гнев" #NT!
+ POD_blood_of_a_demon_interaction_option_arrogant:0 "Использовать Грех: Высокомерие" #NT!
+ POD_blood_of_a_demon_interaction_option_deceitful:0 "Использовать Грех: Коварство" #NT!
+ POD_blood_of_a_demon_interaction_option_craven:0 "Использовать Грех: Трусость" #NT!
+ POD_blood_of_a_demon_interaction_option_arbitrary:0 "Использовать Грех: Самодурство" #NT!
+ POD_blood_of_a_demon_interaction_sin_ct:0 "Усиливай свой грех, чтобы возвысить себя. Без перков древних(5-е поколение и выше), это может быть сделано только один раз. Тщательно выбирайте свой порок....." #NT!
+
+ POD_blood_of_a_demon_other_interaction:0 "Кровь Демона #weak (Scheme)#!" #NT!
+ POD_blood_of_a_demon_other_interaction_desc:0 "Используй свою зараженную демонами кровь, чтобы манипулировать другими - навязывай свою волю инферналистам, происки,чтобы склонить других к поклонению демону или даже, на самом высоком уровне, даровать ужасные дары тьмы." #NT!
+ POD_blood_of_a_demon_other_interaction_option_infernalist_service:0 "Требование Услуги" #NT!
+ POD_blood_of_a_demon_other_interaction_option_infernalist_scheme:0 "Обратить в инфернализм" #NT!
+ POD_blood_of_a_demon_other_interaction_option_lustful:0 "Даровать темный дар: Похоть" #NT!
+ POD_blood_of_a_demon_other_interaction_option_gluttonous:0 "Даровать темный дар: Обжорство" #NT!
+ POD_blood_of_a_demon_other_interaction_option_greedy:0 "Даровать темный дар: Жадность" #NT!
+ POD_blood_of_a_demon_other_interaction_option_lazy:0 "Даровать темный дар: Лень" #NT!
+ POD_blood_of_a_demon_other_interaction_option_wrathful:0 "Даровать темный дар: Гнев" #NT!
+ POD_blood_of_a_demon_other_interaction_option_arrogant:0 "Даровать темный дар: Высокомерие" #NT!
+ POD_blood_of_a_demon_other_interaction_option_deceitful:0 "Даровать темный дар: Коварство" #NT!
+ POD_blood_of_a_demon_other_interaction_option_craven:0 "Даровать темный дар: Трусость" #NT!
+ POD_blood_of_a_demon_other_interaction_option_arbitrary:0 "Даровать темный дар: Самодурство" #NT!
+
+ POD_bring_the_plague_interaction:0 "Призвать Чуму" #NT!
+ POD_bring_the_plague_interaction_desc:0 "Извергните ужасную, магическую чуму в мир, потенциально способную разрушить вампирское сообщество в том виде, в котором мы его знаем." #NT!
+ demonic_plague_normal_option:0 "Полная мощь, никакой пощады" #NT!
+ demonic_plague_non_lethal_option:0 "Сделать чуму нелетальной для вампиров" #NT!
+ demonic_plague_non_infectious_option:0 "Сделать чуму незаразной" #NT!
+ demonic_plague_non_lethal_and_infectious_option:0 "Сделать чуму незаразнйо и нелетальной" #NT!
+ POD_bring_the_plague_interaction_success:0 "Семя хвори посажено" #NT!
+ POD_bring_the_plague_interaction_success.desc:0 "Итак, началось..." #NT!
+ POD_bring_the_plague_interaction_failure.desc:0 "Може, это к лучшему..." #NT!
+ POD_bring_the_plague_interaction_failure:0 "Ваша цель не заражена" #NT!
+
+
+ POD_heart_of_darkness_interaction:0 "Сердце Тьмы" #NT!
+ POD_heart_of_darkness_interaction_desc:0 "Извлеките свое сердце, взывая к темным дарам Сета" #NT!
+ POD_heart_of_darkness_interaction.tt:0 "Вы удалите свое сердце, став невосприимчивым к диаблерии и менее склонным к безумию." #NT!
+
+ target_removed_their_heart:0 "Этот персонаж извлек свое собственное сердце!" #NT!
+
+ POD_heart_of_darkness_steal_interaction:0 "Украсть Сердце #weak (Scheme)#!" #NT!
+ POD_heart_of_darkness_interaction_steal_heart_desc:0 "Украдите сердце цели, что позволит тебе убить ее, когда захочешь." #NT!
+ POD_steal_heart_action:0 "Украсть сердце" #NT!
+ POD_steal_heart_desc_general:0 "Урасть сердце цели" #NT!
+ POD_steal_heart_SUCCESS_DESC:0 "Вы встречаетесь лицом к лицу с целью и пытаетесь украсть ее сердце с помощью темного ритуала" #NT!
+ POD_steal_heart_my_intrigue:0 "Ваша интрига: $VALUE|=+0$" #NT!
+ POD_steal_heart:0 "Происки Кражи Сердца" #NT!
+ POD_steal_heart_desc:0 "Пришло время добавить новое сердечко в мою коллекцию!" #NT!
+
+ set_relation_heart_of_darkenss_owner:0 "Стал хозяином их сердца" #NT!
+ remove_relation_heart_of_darkenss_owner:0 "Больше не хозяин их сердца" #NT!
+
+ POD_heart_of_darkness_steal_prison_interaction:0 "Украсть Сердце" #NT!
+ POD_heart_of_darkness_steal_prison_interaction_desc:0 "Украдите сердце заключенного, что позволит вам убить его, когда захотите." #NT!
+ POD_heart_of_darkness_personal_return_interaction:0 "Вернуть Сердце" #NT!
+ POD_heart_of_darkness_personal_interaction_return_desc:0 "Верните своё сердце обратно" #NT!
+
+ POD_heart_of_darkness_manage_hearts_interaction:0 "Управлять сердцами" #NT!
+ POD_heart_of_darkness_interaction_manage_hearts_desc:0 "Управляйте своей коллекцией сердец" #NT!
+ recipient_secondary_POD_heart_of_darkness_manage_hearts_interaction:0 "Жертва" #NT!
+ POD_heart_of_darkness_kill_option:0 "Уничтожить Сердце" #NT!
+ POD_heart_of_darkness_forcetorpor_option:0 "Вогнать в [torpor|E]" #NT!
+ POD_heart_of_darkness_release_option:0 "Вернуть Сердце" #NT!
+ POD_heart_of_darkness_kill_option.tt:0 "Вы разрушите сердце [secondary_recipient.GetFirstName], убив [secondary_recipient.GetHerHim]." #NT!
+ POD_heart_of_darkness_forcetorpor_option.tt:0 "Используя силу Серпентиса, вы вгоняете [secondary_recipient.GetFirstName] в торпор." #NT!
+ POD_heart_of_darkness_release_option.tt:0 "Вы возвращаете сердце [secondary_recipient.GetFirstName], позволяя [secondary_recipient.GetHerHim] освободиться от вашего влияния." #NT!
+
+ POD_fortitude_interaction:0 "Стойкость" #NT!
+ POD_fortitude_interaction_desc:0 "Управлять силами, дарованными дисциплиной стойкости." #NT!
+ activate_toughness_loc:0 "Включить Прочность" #NT!
+ deactivate_toughness_loc:0 "Выключить Прочность" #NT!
+ activate_prowess_from_pain_loc:0 "Доблесть от Боли" #NT!
+ activate_toughness_ct:0 "Пока , ваш персонаж защищен сверхъестественной силой Стойкости. Каждый раз, когда он будут получать урон, у него есть шанс "впитать" этот урон. Если ему это удастся, он не пострадает от раны. Успешно это или нет, для активизации попытки будет выполнена проверка голода с шансом его увеличения." #NT!
+ deactivate_toughness_ct:0 "Выключить прочность. Вы больше не будете защищены от ран,  но вы так же больше не  будете использовать кровь, чтобы поддерживать активацию дисциплины." #NT!
+ activate_prowess_from_pain_ct:0 "Активировать Доблесть от Боли, что увеличит ваши боевые способности, если у вас есть ранения . Чем серьезней рана, тем больше сила." #NT!
+ fortitude_failed_soaked_damage:0 "Не получилось поглотить урон" #NT!
+ fortitude_soaked_damage:0 "Урон поглощен" #NT!
+ fortitude_soaked_damage_ct:0 "Ваше мастерство Стойкости защитило вас от ранения." #NT!
+ armoured_flesh_ct:0 "Ваша укрепленная плоть защитит вас от смерти" #NT!
+ resilient_mind_loc:0 "Стойкий Разум" #NT!
+ resilient_mind_ct:0 "Ваша Стойкость действует как буфер между вашим разумом и безумием, очищая вас от расстройств как естественного, так и магического происхождения." #NT!
+ prowess_from_pain_valid:0 "Вы должны быть ранены чтобы использовать Доблесть от Боли." #NT!
+ resilient_mind_valid:0 "У вас должны быть негативные ментальные черты чтобы использовать "Стойкий Разум"." #NT!
+
+ no_valid_relations:0 "У этого персонажа нет подходящих отношений" #NT!
+ POD_mask_of_empathy_interaction:0 "Маска Эмпатии" #NT!
+ POD_mask_of_empathy_interaction_desc:0 "Используя сверхъестественные дары Присутствия, вы попытаетесь разорвать связи между вашими целями, прекращая их отношения." #NT!
+ POD_mask_of_empathy_friend:0 "#D Они больше не будут любовниками!#!" #NT!
+ POD_mask_of_empathy_rival:0 "#D Они больше не будут врагами!#!" #NT!
+ POD_mask_of_empathy_lover:0 "#D Они больше не будут любовниками!#!" #NT!
+ POD_mask_of_empathy_nothing:0 "#D Я не буду использовать мою силу#!" #NT!
+ POD_mask_of_empathy_interaction.tt:0 "Вы будете стараться разрушить [recipient.GetHerHis] связи" #NT!
+ recipient_secondary_POD_mask_of_empathy_interaction:0 "Отношения цели" #NT!
+
+ POD_perfect_world_interaction:0 "Идеальный Мир" #NT!
+ POD_perfect_world_interaction_desc:0 "Вы будете оказывать влияние на свою столицу, чтобы она стала идеальным городом." #NT!
+ POD_perfect_world_interaction.tt:0 "Вы распространите своё неестественное очарование на весь город, чтобы каждый работал на благо его процветания." #NT!

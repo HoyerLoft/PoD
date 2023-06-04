@@ -1,0 +1,11 @@
+﻿l_russian:
+
+ POD_ghoulify.100.t:0 "Верный Слуга" #NT!
+ POD_ghoulify.100.option.a:0 "Твоя служба будет вознаграждена." #NT!
+ POD_ghoulify.100.option.b:0 "Они не достойны." #NT!
+ POD_ghoulify.100.desc:0 "\nПосле тщательной подготовки и планирования, этот смертный становится вашим [Concept('ghoul', 'гулем'|E]-слугой.\n" #NT!
+ POD_ghoulify.200.t:0 "Слуга-Деликатес" #NT!
+ POD_ghoulify.200.option.a:0 "Прочувствуй Силу." #NT!
+ POD_ghoulify.200.option.b:0 "Это не правильно." #NT!
+ POD_ghoulify.200.desc:0 "\n Искушая цель обещанием нечеловеческой силы, вы смогли убедить [target.GetTitledFirstName] присоединиться к вам в привычке поглощать витэ сородичей.\n" #NT!
+

@@ -1,0 +1,23 @@
+﻿l_russian:
+ POD_gargoyle_caste_stonewolf_modifier:0 "Гаргулья касты Каменная Гончая" #NT!
+ POD_gargoyle_caste_stonewolf_modifier_desc:0 "Создана в результате тауматургического эксперимента с волком. Очень опасно для хорошей собаки." #NT!
+ POD_gargoyle_caste_shade_modifier:0 "Гаргулья касты Тень" #NT!
+ POD_gargoyle_caste_shade_modifier_desc:0 "Создана в результате тауматургичсекого эксперимента с Ласомбра." #NT!
+ POD_gargoyle_caste_scout_modifier:0 "Гаргулья касты Разведчик" #NT!
+ POD_gargoyle_caste_scout_modifier_desc:0 "Создана в результате тауматургического эксперимента, хороша в слежке." #NT!
+ POD_gargoyle_caste_warrior_modifier:0 "Гаргулья касты Воин" #NT!
+ POD_gargoyle_caste_warrior_modifier_desc:0 "Создана в результате тауматургического эксперимента, хороша в битве." #NT!
+ POD_gargoyle_caste_sentinel_modifier:0 "Гаргулья касты Защитник" #NT!
+ POD_gargoyle_caste_sentinel_modifier_desc:0 "Создана в результате тауматургического эксперимента, хороша в защите." #NT!
+ POD_gargoyle_caste_blood_modifier:0 "Гаргулья касты Кровавый Защитник" #NT!
+ POD_gargoyle_caste_blood_modifier_desc:0 "Создана в результате тауматургического эксперимента с Тремером. Стоили ли того затраты на заклинателей?" #NT!
+ POD_gargoyle_caste_caryatid_modifier:0 "Гаргулья касты Кариатида" #NT!
+ POD_gargoyle_caste_caryatid_modifier_desc:0 "Создана в результате тауматургического эксперимента с Тореадором, прекрасная, но смертоносная статуя." #NT!
+ POD_gargoyle_caste_boyar_modifier:0 "Гаргулья касты Бояр" #NT!
+ POD_gargoyle_caste_boyar_modifier_desc:0 "Создана в результате тауматургического эксперимента с Вентру. Способна командовать животными и вести других гаргулий." #NT!
+ POD_gargoyle_caste_chatterer_modifier:0 "Гаргулья касты Говорун" #NT!
+ POD_gargoyle_caste_chatterer_modifier_desc:0 "Создана в результате тауматургического эксперимента с Малкавианом. Их постоянный шум многих может свести с ума." #NT!
+ POD_gargoyle_caste_bingmayong_modifier:0 "Гаргулья касты Бингмайонг" #NT!
+ POD_gargoyle_caste_bingmayong_modifier_desc:0 "Создана в результате тауматургического эксперимента с Куэй-Джин, конструкция, выполненная из экзотических восточных материалов." #NT!
+
+

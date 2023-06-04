@@ -1,0 +1,290 @@
+﻿l_russian:
+ GLADE_FREEHOLD_BUILDING_ENABLED:0 "Province is of Jungle [terrain|E], Forest [terrain|E], or Taiga [terrain|E]" #NT!
+ EYRIE_FREEHOLD_BUILDING_ENABLED:0 "Province is of Mountains [terrain|E] or Desert Mountains [terrain|E]" #NT!
+ HOMESTEAD_FREEHOLD_BUILDING_ENABLED:0 "Holder has visited [dreaming|E]" #NT!
+ GROTTO_FREEHOLD_BUILDING_ENABLED:0 "Province has Glade [building|E] or any mines [special_building|E]" #NT!
+
+ building_type_glade_freehold_01:0 "Glade" #NT!
+ building_type_glade_freehold_01_desc:0 "#F Glades are sylvan glens, typically located deep in a forest. Changeling's favor glades for many of their festivals. Unlike most freeholds, Glades are naturally occurring founts of Glamour.#!" #NT!
+ building_glade_freehold_01:0 "Small Glade" #NT!
+ building_glade_freehold_01_desc:0 "Glades are sylvan glens, typically located deep in a forest. Changeling's favor glades for many of their festivals." #NT!
+ building_glade_freehold_02:0 "Medium Glade" #NT!
+ building_glade_freehold_02_desc:0 "Glades are sylvan glens, typically located deep in a forest. Changeling's favor glades for many of their festivals." #NT!
+ building_glade_freehold_03:0 "Large Glade" #NT!
+ building_glade_freehold_03_desc:0 "Glades are sylvan glens, typically located deep in a forest. Changeling's favor glades for many of their festivals." #NT!
+ glade_freehold_effect_desc:0 "If built in capital, regenerate Glamour every month (33% chance per every level)." #NT!
+
+ building_type_hearth_freehold_01:0 "Hearth" #NT!
+ building_type_hearth_freehold_01_desc:0 "#F A Hearth freehold is a faerie tavern, bar, or coffee house, usually with a back-alley entrance. All changelings are welcome as long as they have something to trade.#!" #NT!
+ building_hearth_freehold_01:0 "Small Hearth" #NT!
+ building_hearth_freehold_01_desc:0 "A Hearth freehold is a faerie tavern, bar, or coffee house, usually with a back-alley entrance." #NT!
+ building_hearth_freehold_02:0 "Medium Hearth" #NT!
+ building_hearth_freehold_02_desc:0 "A Hearth freehold is a faerie tavern, bar, or coffee house, usually with a back-alley entrance." #NT!
+ building_hearth_freehold_03:0 "Large Hearth" #NT!
+ building_hearth_freehold_03_desc:0 "A Hearth freehold is a faerie tavern, bar, or coffee house, usually with a back-alley entrance." #NT!
+
+ building_type_lodge_freehold_01:0 "Lodge" #NT!
+ building_type_lodge_freehold_01_desc:0 "#F Cottages, houses, and mansions, collectively considered lodges, can be freeholds. Lodges are typically the strongholds of nobles, who spend much of their time in residence.#!" #NT!
+ building_lodge_freehold_01:0 "Small Lodge" #NT!
+ building_lodge_freehold_01_desc:0 "Cottages, houses, and mansions, collectively considered lodges, can be freeholds." #NT!
+ building_lodge_freehold_02:0 "Medium Lodge" #NT!
+ building_lodge_freehold_02_desc:0 "Cottages, houses, and mansions, collectively considered lodges, can be freeholds." #NT!
+ building_lodge_freehold_03:0 "Large Lodge" #NT!
+ building_lodge_freehold_03_desc:0 "Cottages, houses, and mansions, collectively considered lodges, can be freeholds." #NT!
+
+ building_type_manor_freehold_01:0 "Manor" #NT!
+ building_type_manor_freehold_01_desc:0 "#F A manor is a small faerie glen surrounding a cabin or other building, and is usually located in the wilderness.#!" #NT!
+ building_manor_freehold_01:0 "Small Manor" #NT!
+ building_manor_freehold_01_desc:0 "A manor is a small faerie glen surrounding a cabin or other building, and is usually located in the wilderness." #NT!
+ building_manor_freehold_02:0 "Medium Manor" #NT!
+ building_manor_freehold_02_desc:0 "A manor is a small faerie glen surrounding a cabin or other building, and is usually located in the wilderness." #NT!
+ building_manor_freehold_03:0 "Large Manor" #NT!
+ building_manor_freehold_03_desc:0 "A manor is a small faerie glen surrounding a cabin or other building, and is usually located in the wilderness." #NT!
+
+ building_type_eyrie_freehold_01:0 "Eyries" #NT!
+ building_type_eyrie_freehold_01_desc:0 "#F Eyries are high mountain freeholds and are typically the refuges of outcasts.#!" #NT!
+ building_eyrie_freehold_01:0 "Small Eyries" #NT!
+ building_eyrie_freehold_01_desc:0 "Eyries are high mountain freeholds and are typically the refuges of outcasts." #NT!
+ building_eyrie_freehold_02:0 "Medium Eyries" #NT!
+ building_eyrie_freehold_02_desc:0 "Eyries are high mountain freeholds and are typically the refuges of outcasts." #NT!
+ building_eyrie_freehold_03:0 "Large Eyries" #NT!
+ building_eyrie_freehold_03_desc:0 "Eyries are high mountain freeholds and are typically the refuges of outcasts." #NT!
+
+ building_type_grotto_freehold_01:0 "Grotto" #NT!
+ building_type_grotto_freehold_01_desc:0 "#F Grottos are often overgrown sylvan glades or abandoned mines. Sluagh and nockers often gather in such out-of-the-way freeholds, though others use then as well.#!" #NT!
+ building_grotto_freehold_01:0 "Small Grotto" #NT!
+ building_grotto_freehold_01_desc:0 "Grottos are often overgrown sylvan glades or abandoned mines." #NT!
+ building_grotto_freehold_02:0 "Medium Grotto" #NT!
+ building_grotto_freehold_02_desc:0 "Grottos are often overgrown sylvan glades or abandoned mines." #NT!
+ building_grotto_freehold_03:0 "Large Grotto" #NT!
+ building_grotto_freehold_03_desc:0 "Grottos are often overgrown sylvan glades or abandoned mines." #NT!
+
+ building_type_faerie_ring_freehold_01:0 "Faerie Ring" #NT!
+ building_type_faerie_ring_freehold_01_desc:0 "#F A Faerie Ring is a very small glen found deep in the forest. These naturally occurring freeholds grow increasingly rare as the wild places of the world dwindle.#!" #NT!
+ building_faerie_ring_freehold_01:0 "Small Faerie Ring" #NT!
+ building_faerie_ring_freehold_01_desc:0 "A Faerie Ring is a very small glen found deep in the forest." #NT!
+ building_faerie_ring_freehold_02:0 "Medium Faerie Ring" #NT!
+ building_faerie_ring_freehold_02_desc:0 "A Faerie Ring is a very small glen found deep in the forest." #NT!
+ building_faerie_ring_freehold_03:0 "Large Faerie Ring" #NT!
+ building_faerie_ring_freehold_03_desc:0 "A Faerie Ring is a very small glen found deep in the forest." #NT!
+
+ building_type_isle_freehold_01:0 "Isle" #NT!
+ building_type_isle_freehold_01_desc:0 "#F These enchanted islands are rarely on maps or sullied by mortal feet. Isles are private refuges, and are among the most prized freeholds.#!" #NT!
+ building_isle_freehold_01:0 "Small Isle" #NT!
+ building_isle_freehold_01_desc:0 "These enchanted islands are rarely on maps or sullied by mortal feet." #NT!
+ building_isle_freehold_02:0 "Medium Isle" #NT!
+ building_isle_freehold_02_desc:0 "These enchanted islands are rarely on maps or sullied by mortal feet." #NT!
+ building_isle_freehold_03:0 "Large Isle" #NT!
+ building_isle_freehold_03_desc:0 "These enchanted islands are rarely on maps or sullied by mortal feet." #NT!
+
+ building_type_thorpe_freehold_01:0 "Thorpe" #NT!
+ building_type_thorpe_freehold_01_desc:0 "#F A thorpe is a faerie town.#!" #NT!
+ building_thorpe_freehold_01:0 "Small Thorpe" #NT!
+ building_thorpe_freehold_01_desc:0 "A thorpe is a faerie town." #NT!
+ building_thorpe_freehold_02:0 "Medium Thorpe" #NT!
+ building_thorpe_freehold_02_desc:0 "A thorpe is a faerie town." #NT!
+ building_thorpe_freehold_03:0 "Large Thorpe" #NT!
+ building_thorpe_freehold_03_desc:0 "A thorpe is a faerie town." #NT!
+
+ building_type_urban_freehold_01:0 "Urban" #NT!
+ building_type_urban_freehold_01_desc:0 "#F Only the hardiest Kithain dare to live in the World of Darkness' choking urban sprawls. Banality is at its highest here, and untainted Glamour is scarce. These freeholds are on the edge of the coming Winter.#!" #NT!
+ building_urban_freehold_01:0 "Small Urban" #NT!
+ building_urban_freehold_01_desc:0 "Only the hardiest Kithain dare to live in the World of Darkness' choking urban sprawls." #NT!
+ building_urban_freehold_02:0 "Medium Urban" #NT!
+ building_urban_freehold_02_desc:0 "Only the hardiest Kithain dare to live in the World of Darkness' choking urban sprawls." #NT!
+ building_urban_freehold_03:0 "Large Urban" #NT!
+ building_urban_freehold_03_desc:0 "Only the hardiest Kithain dare to live in the World of Darkness' choking urban sprawls." #NT!
+
+ building_type_market_freehold_01:0 "Market" #NT!
+ building_type_market_freehold_01_desc:0 "#F Faerie Markets are places, often freeholds, where changelings come to buy, sell, and trade strange treasures from a thousand realms. These places often share space with human markets covertly, though they may exist wholly in the [dreaming|E], such as the Goblin Market. A human may purchase a piece of faerie craft "Accidentally" on occasion. Such transactions may be lucky or disastrous for the unwary human.#!" #NT!
+ building_market_freehold_01:0 "Small Market" #NT!
+ building_market_freehold_01_desc:0 "Faerie Markets are places, often freeholds, where changelings come to buy, sell, and trade strange treasures from a thousand realms." #NT!
+ building_market_freehold_02:0 "Medium Market" #NT!
+ building_market_freehold_02_desc:0 "Faerie Markets are places, often freeholds, where changelings come to buy, sell, and trade strange treasures from a thousand realms." #NT!
+ building_market_freehold_03:0 "Large Market" #NT!
+ building_market_freehold_03_desc:0 "Faerie Markets are places, often freeholds, where changelings come to buy, sell, and trade strange treasures from a thousand realms." #NT!
+
+ building_type_homestead_freehold_01:0 "Homestead" #NT!
+ building_type_homestead_freehold_01_desc:0 "#F Homesteads are freeholds that are wholly in the [dreaming|E], yet without access to a Rath. They do not have the dual nature of most freeholds; their prime virtue is stability. The Kithain build homesteads to withstand the rigors of the [dreaming|E]. Homesteaders are few but fiercely independent. Some changelings from every kith set up homesteads (even small villages) in the Near [dreaming|E].#!" #NT!
+ building_homestead_freehold_01:0 "Small Homestead" #NT!
+ building_homestead_freehold_01_desc:0 "Homesteads are freeholds that are wholly in the [dreaming|E], yet without access to a Rath." #NT!
+ building_homestead_freehold_02:0 "Medium Homestead" #NT!
+ building_homestead_freehold_02_desc:0 "Homesteads are freeholds that are wholly in the [dreaming|E], yet without access to a Rath." #NT!
+ building_homestead_freehold_03:0 "Large Homestead" #NT!
+ building_homestead_freehold_03_desc:0 "Homesteads are freeholds that are wholly in the [dreaming|E], yet without access to a Rath." #NT!
+
+ building_type_land_trod_01:0 "Land Trod" #NT!
+ building_type_land_trod_01_desc:0 "#F Land trods may be anything from a wide superhighway to a narrow path along a precipice. They may pass through idyllic faerie towns, by literally burning deserts, or through forests of mists and moaning trees. A changeling may walk, ride, or drive along these trods; mode of travel is limited only by terrain.#!" #NT!
+ building_land_trod_01:0 "Small Land Trod" #NT!
+ building_land_trod_01_desc:0 "Land trods may be anything from a wide superhighway to a narrow path along a precipice." #NT!
+ building_land_trod_02:0 "Medium Land Trod" #NT!
+ building_land_trod_02_desc:0 "Land trods may be anything from a wide superhighway to a narrow path along a precipice." #NT!
+ building_land_trod_03:0 "Large Land Trod" #NT!
+ building_land_trod_03_desc:0 "Land trods may be anything from a wide superhighway to a narrow path along a precipice." #NT!
+
+ building_type_water_trod_01:0 "Water Trod" #NT!
+ building_type_water_trod_01_desc:0 "#F These trods may be as small as a mountain stream or as vast as a thousand oceans. Due to the lack of recognizable landmarks, travelers on this type of trod must rely on charts and other navigational treasures to travel these watery paths safely.#!" #NT!
+ building_water_trod_01:0 "Small Water Trod" #NT!
+ building_water_trod_01_desc:0 "These trods may be as small as a mountain stream or as vast as a thousand oceans." #NT!
+ building_water_trod_02:0 "Medium Water Trod" #NT!
+ building_water_trod_02_desc:0 "These trods may be as small as a mountain stream or as vast as a thousand oceans." #NT!
+ building_water_trod_03:0 "Large Water Trod" #NT!
+ building_water_trod_03_desc:0 "These trods may be as small as a mountain stream or as vast as a thousand oceans." #NT!
+
+ building_type_sun_trod_01:0 "Sun Trod" #NT!
+ building_type_sun_trod_01_desc:0 "#F Sun trods are sky trods that are open only during the day. Only those changelings who can fly (even in a balloon) may travel these ethereal highways. Sun trods may appear as shafts of focused sunlight or as paths along sunlit clouds. A changeling traveling a sun trod must find a moon trod to continue their journey after dark.#!" #NT!
+ building_sun_trod_01:0 "Small Sun Trod" #NT!
+ building_sun_trod_01_desc:0 "Sun trods are sky trods that are open only during the day." #NT!
+ building_sun_trod_02:0 "Medium Sun Trod" #NT!
+ building_sun_trod_02_desc:0 "Sun trods are sky trods that are open only during the day." #NT!
+ building_sun_trod_03:0 "Large Sun Trod" #NT!
+ building_sun_trod_03_desc:0 "Sun trods are sky trods that are open only during the day." #NT!
+
+ building_type_moon_trod_01:0 "Moon Trod" #NT!
+ building_type_moon_trod_01_desc:0 "#F Moon trods are sky trods that are open only at night. Only those changelings who can fly may travel these lunar phantom trails. Moon trods may appear as dust motes dancing in shafts of pale moonlight or as paths along night-sky clouds.#!" #NT!
+ building_moon_trod_01:0 "Small Moon Trod" #NT!
+ building_moon_trod_01_desc:0 "Moon trods are sky trods that are open only at night." #NT!
+ building_moon_trod_02:0 "Medium Moon Trod" #NT!
+ building_moon_trod_02_desc:0 "Moon trods are sky trods that are open only at night." #NT!
+ building_moon_trod_03:0 "Large Moon Trod" #NT!
+ building_moon_trod_03_desc:0 "Moon trods are sky trods that are open only at night." #NT!
+
+ building_type_chimerical_trod_01:0 "Chimerical Trod" #NT!
+ building_type_chimerical_trod_01_desc:0 "#F Chimerical trods are far too ethereal for material creatures such as the fae to travel, but chimera have little trouble using these Glamour-rich roads. Some arcane Arts may allow changelings entry to these alien trods. Such paths are extraordinarily dangerous, even to the most potent Kithain. The Silver Path does not extend into these trods.#!" #NT!
+ building_chimerical_trod_01:0 "Small Chimerical Trod" #NT!
+ building_chimerical_trod_01_desc:0 "Chimerical trods are far too ethereal for material creatures such as the fae to travel, but chimera have little trouble using these Glamour-rich roads." #NT!
+ building_chimerical_trod_02:0 "Medium Chimerical Trod" #NT!
+ building_chimerical_trod_02_desc:0 "Chimerical trods are far too ethereal for material creatures such as the fae to travel, but chimera have little trouble using these Glamour-rich roads." #NT!
+ building_chimerical_trod_03:0 "Large Chimerical Trod" #NT!
+ building_chimerical_trod_03_desc:0 "Chimerical trods are far too ethereal for material creatures such as the fae to travel, but chimera have little trouble using these Glamour-rich roads." #NT!
+
+ building_type_nightmare_trod_01:0 "Nightmare Trod" #NT!
+ building_type_nightmare_trod_01_desc:0 "#F The Nightmare Realms fester in the Deep [dreaming|E] like an insatiable cancer. Dark and twisted trods spiral from them, touching almost every other part of the [dreaming|E]. Malignant chimera and even darker creatures travel these fearsome roads. Some Unseelie changelings use these trods on secret errands, but these paths are dangerous even to them. The Silver Path exists along some of these trods. Most believe the Tuatha de Danaan built the path there during their wars with the Fomorians.#!" #NT!
+ building_nightmare_trod_01:0 "Small Nightmare Trod" #NT!
+ building_nightmare_trod_01_desc:0 "The Nightmare Realms fester in the Deep [dreaming|E] like an insatiable cancer." #NT!
+ building_nightmare_trod_02:0 "Medium Nightmare Trod" #NT!
+ building_nightmare_trod_02_desc:0 "The Nightmare Realms fester in the Deep [dreaming|E] like an insatiable cancer." #NT!
+ building_nightmare_trod_03:0 "Large Nightmare Trod" #NT!
+ building_nightmare_trod_03_desc:0 "The Nightmare Realms fester in the Deep [dreaming|E] like an insatiable cancer." #NT!
+
+ building_type_wild_portal_01:0 "Wild Portal" #NT!
+ building_type_wild_portal_01_desc:0 "#F No one is exactly sure where these phenomena come from or how they came to exist. Seelie Fae believe they are Unseelie work while the Unseelie blame them on the Seelie. Both sides claim that powerful fae deliberately crafted the portals to lure and catch enemies. Others postulate that these portals are creations of the Dreaming itself from the time of the Shattering... a last gasp of Magic trying to maintain a connection to the mundane world when the old one failed and closed.#!" #NT!
+ building_wild_portal_01:0 "Small Wild Portal" #NT!
+ building_wild_portal_01_desc:0 "A Wild Portal is a type of uncontrolled, unknown entrance to the [dreaming|E]." #NT!
+ building_wild_portal_02:0 "Medium Wild Portal" #NT!
+ building_wild_portal_02_desc:0 "A Wild Portal is a type of uncontrolled, unknown entrance to the [dreaming|E]." #NT!
+ building_wild_portal_03:0 "Large Wild Portal" #NT!
+ building_wild_portal_03_desc:0 "A Wild Portal is a type of uncontrolled, unknown entrance to the [dreaming|E]." #NT!
+
+ building_type_silvers_gate_01:0 "Silver's Gate" #NT!
+ building_type_silvers_gate_01_desc:0 "#F The Isle of Dreams sparkled atop the water, a verdant expanse of gently rising ground that culminated in a rounded hill in the island’s center. Atop the hill, a faerie castle of crystal spires and prismic towers crowned the island’s highest point. Before the gate of the castle stood a pair of stone statues, elegantly clad knights with long flowing hair.#!" #NT!
+ building_silvers_gate_01:0 "Silver's Gate" #NT!
+ building_silvers_gate_01_desc:0 "At the center of the island stood Silver’s Gate, a portal to the heart of Tir-na-N’og — now known as Arcadia." #NT!
+
+ building_type_gwyddnos_track_01:0 "Gwyddno's Track" #NT!
+ building_type_gwyddnos_track_01_desc:0 "#F Only remembered in rumors and legends, the entrance to a sarn (Welsh for trod) of ancient power lies hidden in Powys.#!" #NT!
+ building_gwyddnos_track_01:0 "Gwyddno's Track" #NT!
+ building_gwyddnos_track_01_desc:0 "Last in use during the reign of King Gwyddno Garanhir, the sarn extended to all cantrevs in Cymru as well as Hibernia." #NT!
+
+ building_type_pookas_favor_01:0 "Pooka's Favor" #NT!
+ building_type_pookas_favor_01_desc:0 "#F This sarn (Welsh for trod) stretches from Gwynt to Edinburgh, and the pooka who control it ask no price for travel from Cymru to Scotland's capitol.#!" #NT!
+ building_pookas_favor_01:0 "Pooka's Favor" #NT!
+ building_pookas_favor_01_desc:0 "However, when a traveler attempts to return to Gwynt from Scotland, the return fare is expensive, at least in terms of pride. Mere money holds no interest for the pooka; they prefer pies in the face, shaved heads, or nudity, depending on their mood and the personality of the traveler." #NT!
+
+ building_type_pen_mynydd_01:0 "Pen Mynydd" #NT!
+ building_type_pen_mynydd_01_desc:0 "#F Leading from Mount Snowdon in Cymru to Ben Nevis in Scotland, this is a secret Unseelie sluagh sarn (Welsh for trod), guarded jealously by the Scottish ban durrag that maintain it. These foul creatures call this trod Ban-Durrag's Squirm.#!" #NT!
+ building_pen_mynydd_01:0 "Pen Mynydd" #NT!
+ building_pen_mynydd_01_desc:0 "Ban-Durrag's Squirm is a series of trods connecting the heights of Ben Nevis with the sewers of Glasgow and the crags of Mt. Snowdon in Wales. The Ban-Durrag who control these trods form a group of Unseelie sluagh who use them to hide bodies of their victims and to exchange information. Only sluagh can squeeze through the entrances to these tunnels." #NT!
+
+ building_type_cefn_yr_oguf_01:0 "Cefn yr Oguf" #NT!
+ building_type_cefn_yr_oguf_01_desc:0 "#F Running from Clwyd down to London Bridge and up to Chester, this sarn (Welsh for trod) is a hotly contested prize in Clwyd.#!" #NT!
+ building_cefn_yr_oguf_01:0 "Cefn yr Oguf" #NT!
+ building_cefn_yr_oguf_01_desc:0 "Running from Clwyd down to London Bridge and up to Chester, this sarn (Welsh for trod) is a hotly contested prize in Clwyd." #NT!
+
+ building_type_camelot_01:0 "Camelot" #NT!
+ building_type_camelot_01_desc:0 "#F For the proof, I give you Camelot. There are not many who remember that the legend of King Arthur rose first in Cymru, in the incomparable tale of Culhwch and Olwen, which is too long to tell here. What I say is, the tales of Arthur spring from this land of Wales, no matter the Dark Age versions you hear now, the propaganda made up by the Technocracy.#!" #NT!
+ building_camelot_01:0 "Ruined Camelot" #NT!
+ building_camelot_01_desc:0 "The real legends, the true heart of Camelot, have grown large in the Dreaming. All the visions of Arthur's myth exist there together, and all are right. The people of the stories do live there, as you and I here, but in their many aspects, and we who reach them see only one aspect at a time, as you may see only one glittering of the many facets of a diamond." #NT!
+ building_camelot_02:0 "Recovering Camelot" #NT!
+ building_camelot_02_desc:0 "The real legends, the true heart of Camelot, have grown large in the Dreaming. All the visions of Arthur's myth exist there together, and all are right. The people of the stories do live there, as you and I here, but in their many aspects, and we who reach them see only one aspect at a time, as you may see only one glittering of the many facets of a diamond." #NT!
+ building_camelot_03:0 "Triumphant Camelot" #NT!
+ building_camelot_03_desc:0 "The real legends, the true heart of Camelot, have grown large in the Dreaming. All the visions of Arthur's myth exist there together, and all are right. The people of the stories do live there, as you and I here, but in their many aspects, and we who reach them see only one aspect at a time, as you may see only one glittering of the many facets of a diamond." #NT!
+
+ building_type_chaw_gully_mine_01:0 "Chaw Gully Mine" #NT!
+ building_type_chaw_gully_mine_01_desc:0 "#F Back in the Mythic Age, when the Nockers were still just a young kith, they came to the lands that would one day be called Cornwall and the Challacombe Ridge. In their greed for the tin, but more so the gold, that lay beneath the land, they tore out the very heart of the moorland.#!" #NT!
+ building_chaw_gully_mine_01:0 "Chaw Gully Mine" #NT!
+ building_chaw_gully_mine_01_desc:0 "Legends say that other than the tin in the area, there was gold. And there was... a lot of it. The nockers kept the true amount only hinted at to keep the dreams alive but rarely allowed mortals to find it." #NT!
+ building_chaw_gully_mine_02:0 "Reopened Mine" #NT!
+ building_chaw_gully_mine_02_desc:0 "Legends say that other than the tin in the area, there was gold. And there was... a lot of it. The nockers kept the true amount only hinted at to keep the dreams alive but rarely allowed mortals to find it." #NT!
+ building_chaw_gully_mine_03:0 "Excavated Mine" #NT!
+ building_chaw_gully_mine_03_desc:0 "Legends say that other than the tin in the area, there was gold. And there was... a lot of it. The nockers kept the true amount only hinted at to keep the dreams alive but rarely allowed mortals to find it." #NT!
+
+ building_type_balors_tower_01:0 "Balor's Tower" #NT!
+ building_type_balors_tower_01_desc:0 "#F On the eastern edge of Tory Island, a rock promontory for called Balor’s Tower marks the legendary home of Balor of the Evil Eye.#!" #NT!
+ building_balors_tower_01:0 "Balor's Tower" #NT!
+ building_balors_tower_01_desc:0 "On the eastern edge of Tory Island, a rock promontory for called Balor’s Tower marks the legendary home of Balor of the Evil Eye." #NT!
+
+ building_type_brides_lodge_01:0 "Bride's Lodge" #NT!
+ building_type_brides_lodge_01_desc:0 "#F Just west of Glastonbury on the banks of a river lies yet another hill, this one called Bride's Mound by locals. Near the foot of Bride's Mound sits a three-story house with a small patch of garden outside, at 19 Bride's Lane.#!" #NT!
+ building_brides_lodge_01:0 "Bride's Lodge" #NT!
+ building_brides_lodge_01_desc:0 "The house is one of the most ancient freeholds in all of Albion. It consists of a dozen or so small bedchambers (mostly on the second and third stories), a kitchen, bath and a large meeting room at the center. Though over the years much has changed about the house, one thing remains the same: the hearth. The focal point of the main room is a large stone hearth, where the Great Balefire of Albion has burned since time immemorial." #NT!
+
+ building_type_bullring_01:0 "Bullring" #NT!
+ building_type_bullring_01_desc:0 "#F The Bullring is found in Barcelona, Spain and whether it got its name from the acts of daring that the guests have performed there or the amount of truth behind the stories they share is a matter of opinion.#!" #NT!
+ building_bullring_01:0 "Bullring" #NT!
+ building_bullring_01_desc:0 "Either way it's a nice place: a stylish compound to mortal eyes and a grand old castle in the Moorish style to chimerical ones." #NT!
+
+ building_type_rock_of_cashel_01:0 "Cashelmore" #NT!
+ building_type_rock_of_cashel_01_desc:0 "#F Rising 200 feet above the plains of County Tipperary, the steep, craggy hill known as the Rock of Cashel served as both the site from which the kings of Munster ruled and as a religious landmark.#!" #NT!
+ building_rock_of_cashel_01:0 "Cashelmore" #NT!
+ building_rock_of_cashel_01_desc:0 "Inside the rock, accessible through a hidden doorway near the base of the hill, is Cashelmore." #NT!
+
+ building_type_dun_aenghus_01:0 "Dún Aenghus" #NT!
+ building_type_dun_aenghus_01_desc:0 "#F Once the fortress home of a legendary Fir-bholg chieftain after that race's exile by the Tuatha de Danaan to the west of Ireland, Dún Aenghus later became a powerful site of faerie magic.#!" #NT!
+ building_dun_aenghus_01:0 "Dún Aenghus" #NT!
+ building_dun_aenghus_01_desc:0 "After its abandonment by the original inhabitants, a prince of House Dougal discovered the three-fold stone circle's innate association with the dormant magic of the earth. Using Glamour to evoke and awaken the sleeping power, this nameless prince constructed a massive treasure vault in which to house some of the sidhe's most valuable possessions." #NT!
+
+ building_type_emain_macha_01:0 "Emain Macha" #NT!
+ building_type_emain_macha_01_desc:0 "#F Legends refer to Navan Fort as Emain Macha (“Macha’s Twins”) and associate it with the dying curse of the fleet-footed wife of Cruinniuc.#!" #NT!
+ building_emain_macha_01:0 "Emain Macha" #NT!
+ building_emain_macha_01_desc:0 "Palace is beautiful, its odd geometry and the dark, rich colors of its interior induce a moodiness redolent with the weight of history and legend, full of latent violence and deep passion." #NT!
+
+ building_type_glenlea_01:0 "Glenlea" #NT!
+ building_type_glenlea_01_desc:0 "#F Not far from Glencolumbkille, though it won’t be found on any map, lies the faerie Thorpe of Glenlea, a small enchanted village entirely inhabited by Kithain and a few enchanted mortals lucky (or unlucky) enough to fall in with one of the villagers and receive an invitation to “leave the cares of the world behind.”#!" #NT!
+ building_glenlea_01:0 "Glenlea" #NT!
+ building_glenlea_01_desc:0 "The town itself consists of a main street lined with shops and thatched houses with a few side lanes leading to other dwellings." #NT!
+
+ building_type_shalott_01:0 "Shalott" #NT!
+ building_type_shalott_01_desc:0 "#F One freehold that did not survive is stipulated by scholars to have been the basis for tales of "Shalott".#!" #NT!
+ building_shalott_01:0 "Lost Shalott" #NT!
+ building_shalott_01_desc:0 "An enchanted tower whose inhabitants were cursed to know the mortal world only through visions of it that appeared in a magical tapestry." #NT!
+
+ building_type_tuath_of_chronos_01:0 "Tuath of Chronos" #NT!
+ building_type_tuath_of_chronos_01_desc:0 "#F The Tuath of Chronos is a mysterious place believed to be in a fae mound somewhere on the banks of the Tay. Many fae believe that a powerful Seer of Chronos and his fae wife managed to hide a pre-Shattering site from the ravages of time and Banality.#!" #NT!
+ building_tuath_of_chronos_01:0 "Tuath of Chronos" #NT!
+ building_tuath_of_chronos_01_desc:0 "If a changeling spots a hillock surmounted by a huge tree with many branches, each sporting new leaf-buds, while wandering the banks of the Tay, they may encounter the Tuath of Chronos. A silver horn dangles from one of the branches and cradled by the tree's massive roots is a well made of white stone. The mages and fae living in this tuath guard its secrets jealously." #NT!
+
+ building_type_pearl_of_dawn_01:0 "Pearl of Dawn" #NT!
+ building_type_pearl_of_dawn_01_desc:0 "#F The freehold encircles a lush oasis and stands at the convergence of several major Trods in the Dreaming and has acquired a reputation inside the Tribe as being the starting point for many unique journeys since the eclectic mix of fae found there practically ensures an adventure breaking out sooner or later.#!" #NT!
+ building_pearl_of_dawn_01:0 "Pearl of Dawn" #NT!
+ building_pearl_of_dawn_01_desc:0 "The freehold encircles a lush oasis and stands at the convergence of several major Trods in the Dreaming and has acquired a reputation inside the Tribe as being the starting point for many unique journeys since the eclectic mix of fae found there practically ensures an adventure breaking out sooner or later." #NT!
+
+ building_type_garden_of_olives_01:0 "Garden of Olives" #NT!
+ building_type_garden_of_olives_01_desc:0 "#F The Garden of Olives hosts changelings from all over the world. The ruler regularly directs and acts in performances of the classic Greek dramas.#!" #NT!
+ building_garden_of_olives_01:0 "Garden of Olives" #NT!
+ building_garden_of_olives_01_desc:0 "The Garden of Olives hosts changelings from all over the world. The ruler regularly directs and acts in performances of the classic Greek dramas." #NT!
+
+ building_type_eternal_story_01:0 "Eternal Story" #NT!
+ building_type_eternal_story_01_desc:0 "#F From the Eternal Story, near the outskirts of Addis Ababa, the ruler orchestrates a sizable collection of eshu, satyrs, and pookas.#!" #NT!
+ building_eternal_story_01:0 "Eternal Story" #NT!
+ building_eternal_story_01_desc:0 "From the Eternal Story, near the outskirts of Addis Ababa, the ruler orchestrates a sizable collection of eshu, satyrs, and pookas." #NT!
+
+ building_type_oasis_of_lingering_dreams_01:0 "Oasis of Lingering Dreams" #NT!
+ building_type_oasis_of_lingering_dreams_01_desc:0 "#F The changelings of Saudi Arabia combine desert chic with the romantic tales of the Bedouin tribes. The current ruler, dwells in their freehold, the Oasis of Lingering Dreams, located in the desert outside the capital of Riyadh. #!" #NT!
+ building_oasis_of_lingering_dreams_01:0 "Oasis of Lingering Dreams" #NT!
+ building_oasis_of_lingering_dreams_01_desc:0 "The changelings of Saudi Arabia combine desert chic with the romantic tales of the Bedouin tribes. The current ruler, dwells in their freehold, the Oasis of Lingering Dreams, located in the desert outside the capital of Riyadh. " #NT!
+
+ building_type_grimsfen_tor_01:0 "Grimsfen Tor" #NT!
+ building_type_grimsfen_tor_01_desc:0 "#F A particularly powerful and ancient faerie mound at Grimsfen Tor in the Midlands.#!" #NT!
+ building_grimsfen_tor_01:0 "Grimsfen Tor" #NT!
+ building_grimsfen_tor_01_desc:0 "A particularly powerful and ancient faerie mound at Grimsfen Tor in the Midlands." #NT!

@@ -1,0 +1,48 @@
+﻿l_russian:
+
+ weak_bloodoath_hook:0 "Weak Blood Oath" #NT!
+ strong_bloodoath_hook:0 "Strong Blood Oath" #NT!
+ minorboon_hook:0 "Minor Boon" #NT!
+ majorboon_hook:0 "Major Boon" #NT!
+ bloodboon_hook:0 "Blood Boon" #NT!
+ lifeboon_hook:0 "Life Boon" #NT!
+ ghoul_hook:0 "[Ghoul|E] Thrall" #NT!
+ rationalize_hook:0 "Rationalized Favor" #NT!
+ weak_presenceloyalty_hook:0 "Weak Presence Loyalty" #NT!
+ strong_presenceloyalty_hook:0 "Strong Presence Loyalty" #NT!
+ tremerecouncilbloodoath_hook:0 "Tremere Council of Seven Blood Oath" #NT!
+ herd_hook:0 "Herd" #NT!
+ dreamer_hook:0 "Dreamer" #NT!
+ possessed_hook:0 "Possessed" #NT!
+ possessed_weak_hook:0 "Partially Possessed" #NT!
+ necromancy_bind_hook:0 "Weak binding" #NT!
+ necromancy_bind_strong_hook:0 "Powerful binding" #NT!
+ necromancy_bind_permanent_hook:0 "Eternal binding" #NT!
+ cadre_hook:0 "Cadre member" #NT!
+ proven_beta:0 "Beta" #NT!
+ shadow_twin_bind_hook:0 "Shadow Twin" #NT!
+ darkling_mirror_hook:0 "Split P'o" #NT!
+ shadowy_duplicate_hook:0 "Shadowy Duplicate" #NT!
+ phantom_shadow_hook:0 "Phantom Shadow" #NT!
+ separated_khaibit_hook:0 "Separated Khaibit" #NT!
+ separated_shadow_hook:0 "Shadow" #NT!
+ separated_psyche_hook:0 "Psyche" #NT!
+ unspeakable_servitor_hook:0 "Unspeakable Servitor" #NT!
+ infernal_hierarchy_hook:0 "Infernal Hierarchy" #NT!
+ weak_soul_shackles_hook:0 "Weak Soul Shackles" #NT!
+ strong_soul_shackles_hook:0 "Strong Soul Shackles" #NT!
+ soul_bond_hook:0 "Soul Bond" #NT!
+ weak_dominate_hook:0 "Dominated" #NT!
+ conditioning_hook:0 "Conditioned" #NT!
+ partial_true_name_hook:0 "Partial True Name Known" #NT!
+ half_true_name_hook:0 "Half True Name Known" #NT!
+ true_name_hook:0 "True Name Known" #NT!
+ effigy_hook:0 "Effigy" #NT!
+ animantis_hook:0 "Animantis" #NT!
+ predatory_mastery_hook:0 "Cowed" #NT!
+ enthrall_hook:0 "Enthralled" #NT!
+ whistle_hook:0 "Whistle" #NT!
+ telepathy_hook:0 "Telepathy" #NT!
+ usurpation_of_flesh_perk_hook:0 "Usurpation" #NT!
+ thrall_hook:0 "Demonic Pact" #NT!
+ enslave_hook:0 "Enslaved" #NT!

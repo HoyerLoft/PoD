@@ -1,0 +1,23 @@
+﻿l_russian:
+
+ POD_vampire_blood_surge.100.t:0 "Blood Surge!" #NT!
+ POD_vampire_blood_surge.100.desc:0 "The blood can supernaturally boost your abilities, but it risks rousing your hunger." #NT!
+ POD_vampire_blood_surge.100.option.a:0 "Lets Fight!" #NT!
+ POD_vampire_blood_surge.100.option.a.tt.beast:0 "#BLOODRED Yes! Killing time!#!" #NT!
+ POD_vampire_blood_surge.100.option.h:0 "I want to be tougher!" #NT!
+ POD_vampire_blood_surge.100.option.h.tt.beast:0 "#BLOODRED We are immortal!#!" #NT!
+ POD_vampire_blood_surge.100.option.b:0 "Become better at tactics" #NT!
+ POD_vampire_blood_surge.100.option.b.tt.beast:0 "#BLOODRED War. War never changes. There is always much blood spilt in war.#!" #NT!
+ POD_vampire_blood_surge.100.option.c:0 "Make me more charming" #NT!
+ POD_vampire_blood_surge.100.option.c.tt.beast:0 "#BLOODRED Welcome to my parlor.#!" #NT!
+ POD_vampire_blood_surge.100.option.d:0 "Help me with numbers" #NT!
+ POD_vampire_blood_surge.100.option.d.tt.beast:0 "#BLOODRED We need more herd. We always need more blood. I can help you get it. Let me help you.#!" #NT!
+ POD_vampire_blood_surge.100.option.e:0 "Quiet like death" #NT!
+ POD_vampire_blood_surge.100.option.e.tt.beast:0 "#BLOODRED The hunt is on!#!" #NT!
+ POD_vampire_blood_surge.100.option.f:0 "Proper application of vitae can increase the intellect exponentially" #NT!
+ POD_vampire_blood_surge.100.option.f.tt.beast:0 "#BLOODRED Indubitably. Let us maximize our acquisition of vitae with alacrity and urgency.#!" #NT!
+ POD_vampire_blood_surge.100.option.g:0 "I will not risk increasing my hunger, for now." #NT!
+ POD_vampire_blood_surge.100.option.g.tt.beast:0 "#BLOODRED You will though, and soon. I'll be waiting.#!" #NT!
+
+
+

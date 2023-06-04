@@ -1,0 +1,111 @@
+﻿l_russian:
+
+ POD_disciplinetrain.100.t:0 "Тренировка [Concept('discipline', 'дисциплины')|E]" #NT!
+ POD_disciplinetrain.100.desc:0 "Если у ваших протеже есть вампирская кровь в [disciplinetrainee.GetHerHis] венах, но им не известны дисциплины, которыми вы уже владеете, вы можете обучить их новым дисциплинам. Это не простой процесс: вы должны будете поделиться своей кровью  с учеником и что более важно вы потратите свой опыт резонанса. Некоторые дисциплины более сложны в обучении, чем другие. Так же обучаение другого персонажа вызовет у вас стресс. Вы обучите [disciplinetrainee.GetFirstName] ..." #NT!
+ POD_disciplinetrain.100.option.a:0 "Использовать огромную силу" #NT!
+ POD_disciplinetrain.100.option.b:0 "Двигаться со скоростью стрелы" #NT!
+ POD_disciplinetrain.100.option.c:0 "Поглощать урон и укреплять разум" #NT!
+ POD_disciplinetrain.100.option.d:0 "Говорить с животными" #NT!
+ POD_disciplinetrain.100.option.e:0 "Усилять [disciplinetrainee.GetHerHis] чувства" #NT!
+ POD_disciplinetrain.100.option.f:0 "Затмевать Разум" #NT!
+ POD_disciplinetrain.100.option.g:0 "Очаровывать других" #NT!
+ POD_disciplinetrain.100.option.h:0 "Прятаться у всех на виду" #NT!
+ POD_disciplinetrain.100.option.i:0 "Менять форму" #NT!
+ POD_disciplinetrain.100.option.j:0 "Плотетворению" #NT!
+ POD_disciplinetrain.100.option.k:0 "Призывать тень смерти" #NT!
+ POD_disciplinetrain.100.option.l:0 "Загадочной оккультной магии" #NT!
+ POD_disciplinetrain.100.option.m:0 "Порождать иллюзии" #NT!
+ POD_disciplinetrain.100.option.n:0 "Демонической Манипуляции" #NT!
+ POD_disciplinetrain.100.option.o:0 "Власти над Тенями" #NT!
+ POD_disciplinetrain.100.option.p:0 "Очарованию Змеи" #NT!
+ POD_disciplinetrain.100.option.q:0 "Мастерству Смерти" #NT!
+ POD_disciplinetrain.100.option.r:0 "Красться в ночи" #NT!
+ POD_disciplinetrain.100.option.s:0 "Повелевать Землей" #NT!
+ POD_disciplinetrain.100.option.t:0 "Управлять Временем" #NT!
+ POD_disciplinetrain.100.option.u:0 "Безумию" #NT!
+ POD_disciplinetrain.100.option.v:0 "Голосу" #NT!
+ POD_disciplinetrain.100.option.w:0 "Животному Духу" #NT!
+ POD_disciplinetrain.100.option.x:0 "Силе Третьего Глаза" #NT!
+ POD_disciplinetrain.100.option.y:0 "Манипуляции кровью" #NT!
+ POD_disciplinetrain.100.option.z:0 "Силам, присущим феям" #NT!
+ POD_disciplinetrain.100.option.end:0 "Ничему в этот раз" #NT!
+
+ POD_disciplinetrain.100.option.q.giovanni:0 "Я расскрою [disciplinetrainee.GetHerHim] секреты Путя Некромантии Джованни" #NT!
+ POD_disciplinetrain.100.option.q.cappadocian:0 "Я расскрою [disciplinetrainee.GetHerHim] секреты Путя Некромантии Каппадокийцев" #NT!
+ POD_disciplinetrain.100.option.q.harbinger:0 "Я расскрою [disciplinetrainee.GetHerHim] секреты Путя Некромантии Предвестников" #NT!
+ POD_disciplinetrain.100.option.q.lamia:0 "Я расскрою [disciplinetrainee.GetHerHim] секреты Путя Некромантии Ламий" #NT!
+ POD_disciplinetrain.100.option.q.nagaraja:0 "Я расскрою [disciplinetrainee.GetHerHim] секреты Путя Некромантии Нагараджа" #NT!
+ POD_disciplinetrain.100.option.q.impundulu:0 "Я расскрою [disciplinetrainee.GetHerHim] секреты Путя Некромантии Импудулу" #NT!
+
+ POD_disciplinetrain.110.t:0 "Art Training" #NT!
+ POD_disciplinetrain.110.desc:0 "Every new vampire is expected to find a master and receive instruction. A youngster who does not choose a teacher usually has one chosen for him — often the hard way. Masters drill their students with a hundred forms of training; the methods vary from teacher to teacher and discipline to discipline, but none of them is easy. You will teach [disciplinetrainee.GetFirstName] the art of..." #NT!
+ POD_disciplinetrain.110.option.a:0 "Bone Shintai" #NT!
+ POD_disciplinetrain.110.option.b:0 "Flesh Shintai" #NT!
+ POD_disciplinetrain.110.option.c:0 "Blood Shintai" #NT!
+ POD_disciplinetrain.110.option.d:0 "Ghost-Flame Shintai" #NT!
+ POD_disciplinetrain.110.option.e:0 "Jade Shintai" #NT!
+ POD_disciplinetrain.110.option.f:0 "Yin Prana" #NT!
+ POD_disciplinetrain.110.option.g:0 "Yang Prana" #NT!
+ POD_disciplinetrain.110.option.h:0 "Equilibrium" #NT!
+ POD_disciplinetrain.110.option.i:0 "Tapestry" #NT!
+ POD_disciplinetrain.110.option.j:0 "Feng Shui" #NT!
+ POD_disciplinetrain.110.option.k:0 "Chi'iu Muh" #NT!
+ POD_disciplinetrain.110.option.l:0 "Cultivation" #NT!
+ POD_disciplinetrain.110.option.m:0 "Internalize" #NT!
+ POD_disciplinetrain.110.option.n:0 "Obligation" #NT!
+ POD_disciplinetrain.110.option.o:0 "Mibasham" #NT!
+ POD_disciplinetrain.110.option.p:0 "Tzu Wei" #NT!
+ POD_disciplinetrain.110.option.q:0 "Black Wind" #NT!
+ POD_disciplinetrain.110.option.r:0 "Demon Shintai" #NT!
+ POD_disciplinetrain.110.option.s:0 "Iron Mountain" #NT!
+ POD_disciplinetrain.110.option.t:0 "Kiai" #NT!
+ POD_disciplinetrain.110.option.u:0 "Hellweaving" #NT!
+ POD_disciplinetrain.110.option.v:0 "Yin Techniques" #NT!
+ POD_disciplinetrain.110.option.w:0 "Yang Techniques" #NT!
+ POD_disciplinetrain.110.option.x:0 "Prayer-Eating" #NT!
+ POD_disciplinetrain.110.option.y:0 "Inward Way" #NT!
+ POD_disciplinetrain.110.option.z:0 "Tempest of Inward Focus" #NT!
+ POD_disciplinetrain.110.option.metalgodbody:0 "Godbody of Metal" #NT!
+ POD_disciplinetrain.110.option.woodgodbody:0 "Godbody of Wood" #NT!
+ POD_disciplinetrain.110.option.watergodbody:0 "Godbody of Water" #NT!
+ POD_disciplinetrain.110.option.firegodbody:0 "Godbody of Fire" #NT!
+ POD_disciplinetrain.110.option.earthgodbody:0 "Godbody of Earth" #NT!
+
+
+ POD_disciplinetrain.120.t:0 "Qiao Training" #NT!
+ POD_disciplinetrain.120.desc:0 "[GetTrait('shih').GetName( GetPlayer )] methods of training have changed very little over the centuries. The mind of a [GetTrait('shih').GetName( GetPlayer )] must be properly molded in order to resist the temptations and terrors of the shen and, therefore, it is the first area where training begins. You will teach [disciplinetrainee.GetFirstName] the Qiao of..." #NT!
+ POD_disciplinetrain.120.option.a:0 "I Shen" #NT!
+ POD_disciplinetrain.120.option.b:0 "Mo Kung" #NT!
+ POD_disciplinetrain.120.option.c:0 "Yu An" #NT!
+ POD_disciplinetrain.120.option.d:0 "Feng" #NT!
+ POD_disciplinetrain.120.option.e:0 "Shi" #NT!
+ POD_disciplinetrain.120.option.f:0 "Chien" #NT!
+ POD_disciplinetrain.120.option.g:0 "Long Ling" #NT!
+ POD_disciplinetrain.120.option.h:0 "Meng" #NT!
+ POD_disciplinetrain.120.option.i:0 "Zhu Mao" #NT!
+
+ POD_disciplinetrain.130.t:0 "Hekau Training" #NT!
+ POD_disciplinetrain.130.desc:0 "The mummies must come to terms with eternity and internalize it. Instead of taking immortality as a curse, the mummy should learn to see it as an opportunity to garner wisdom. Instead of being overwhelmed by experience or finding themselves unprepared for the world’s vicissitudes, the mummy has the opportunity to teach, to survive and to have all the benefits of age without the drawbacks. You will teach [disciplinetrainee.GetFirstName] the Hekau of..." #NT!
+ POD_disciplinetrain.130.option.a:0 "Alchemy" #NT!
+ POD_disciplinetrain.130.option.b:0 "Amulets" #NT!
+ POD_disciplinetrain.130.option.c:0 "Celestial" #NT!
+ POD_disciplinetrain.130.option.d:0 "Effigy" #NT!
+ POD_disciplinetrain.130.option.e:0 "Necromancy" #NT!
+ POD_disciplinetrain.130.option.f:0 "Nomenclature" #NT!
+ POD_disciplinetrain.130.option.g:0 "Tan" #NT!
+
+ POD_disciplinetrain.140.t:0 "Gift Gifting" #NT!
+ POD_disciplinetrain.140.desc:0 "Sometimes Garou can teach gifts to other Garou, but this process generally takes several weeks (or months) and is fraught with danger as the student practices with his new power. Some kinfolk can learn gifts, but these are exceptionally rare individuals. Most kinfolk know no gifts. Even the most adept kinfolk probably only knows one or two. You will teach [disciplinetrainee.GetFirstName] the Gift of..." #NT!
+ POD_disciplinetrain.140.option.a:0 "Breed Gifts" #NT!
+ POD_disciplinetrain.140.option.b:0 "Auspice Gifts" #NT!
+ POD_disciplinetrain.140.option.c:0 "Tribe Gifts" #NT!
+
+ POD_disciplinetrain.150.t:0 "Cantrip Training" #NT!
+ POD_disciplinetrain.150.desc:0 "Learning an entirely new Skill, Knowledge, Art, or Realm requires some tutoring and study. This study can be simple (a few days training with a friend to learn the basics of Melee) or brutally difficult (a quest into the Near Dreaming to discover the principles behind the Oneiromancy Art), but it must always be accomplished. Having the Mentor helps, but even a mentor can teach only what she herself knows. You will teach [disciplinetrainee.GetFirstName] the Realm or Art of..." #NT!
+ POD_disciplinetrain.150.option.a:0 "Realm" #NT!
+ POD_disciplinetrain.150.option.b:0 "Common Arts" #NT!
+ POD_disciplinetrain.150.option.c:0 "Rare Arts" #NT!
+ POD_disciplinetrain.150.option.d:0 "Kith Arts" #NT!
+ POD_disciplinetrain.150.option.e:0 "Forbidden Arts" #NT!
+ POD_disciplinetrain.150.option.f:0 "Inanimae Slivers" #NT!
+ POD_disciplinetrain.150.option.g:0 "Wu Tan" #NT!

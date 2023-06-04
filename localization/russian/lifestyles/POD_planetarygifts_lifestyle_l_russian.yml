@@ -1,0 +1,170 @@
+﻿l_russian:
+ game_concept_planetarygifts_lifestyle:0 "Planetary Gifts" #NT!
+ game_concept_planetarygifts_lifestyle_desc:0 "Planetary Gifts are gifts from the Planetary Incarna." #NT!
+
+ planetarygifts_lifestyle_name:0 "Planetary Gifts" #NT!
+ planetarygifts_lifestyle_desc:0 "Focus on the power that come from the Planetary Incarna." #NT!
+ planetarygifts_lifestyle_highlight_desc:0 "Because of your [GetModifier('POD_gnosis_5_modifier').GetNameWithTooltip], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_planetarygifts_lifestyle_xp_gain_mult:0 "Monthly Planetary Gifts [lifestyle|E] [experience|E]" #NT!
+
+ GAINS_PLANETARYGIFTS_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [planetarygifts_lifestyle|E] Experience" #NT!
+ GAINED_PLANETARYGIFTS_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [planetarygifts_lifestyle|E] Experience" #NT!
+ I_GAIN_PLANETARYGIFTS_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [planetarygifts_lifestyle|E] Experience" #NT!
+ I_GAINED_PLANETARYGIFTS_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [planetarygifts_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_PLANETARYGIFTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [planetarygifts_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_PLANETARYGIFTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [planetarygifts_lifestyle|E] Experience" #NT!
+
+ GAINS_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Unlock" #NT!
+
+ PLANETARYGIFTS_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Planetary Gifts lifestyle perk points: $NUM|V0$" #NT!
+
+ eshtarragifts_visible:1 "Earth" #NT!
+ sokhtagifts_visible:1 "Moon" #NT!
+ katankasonnakgifts_visible:1 "Sun" #NT!
+ mitanugifts_visible:1 "Mercury" #NT!
+ hakahegifts_visible:1 "Vulcan" #NT!
+ tambiyahgifts_visible:1 "Venus" #NT!
+ nerigalgifts_visible:1 "Mars" #NT!
+ rorggifts_visible:1 "Turog" #NT!
+ zarokgifts_visible:1 "Jupiter" #NT!
+ lubatgifts_visible:1 "Saturn" #NT!
+ ruatmagifts_visible:1 "Uranus" #NT!
+ shantargifts_visible:1 "Neptune" #NT!
+ merosgifts_visible:1 "Pluto" #NT!
+
+ earth_sense_perk_name:0 "Earth Sense" #NT!
+ herb_call_perk_name:0 "Herb Call" #NT!
+ oaksong_perk_name:0 "Oaksong" #NT!
+ lore_of_the_land_perk_name:0 "Lore of the Land" #NT!
+ earth_heal_perk_name:0 "Earth Heal" #NT!
+ lambent_sight_perk_name:0 "Lambent Sight" #NT!
+ moonpool_of_sokhta_perk_name:0 "Moonpool of Sokhta" #NT!
+ moonriver_perk_name:0 "Moonriver" #NT!
+ mooncat_perk_name:0 "Mooncat" #NT!
+ moondream_perk_name:0 "Moondream" #NT!
+ find_the_hearts_flame_perk_name:0 "Find the Hearts Flame" #NT!
+ flame_of_the_wind_rider_perk_name:0 "Flame of the Wind Rider" #NT!
+ ride_the_solar_winds_perk_name:0 "Ride the Solar Winds" #NT!
+ hand_of_the_sun_perk_name:0 "Hand of the Sun" #NT!
+ cleansing_flame_perk_name:0 "Cleansing Flame" #NT!
+ speed_of_the_messenger_perk_name:0 "Speed of the Messenger" #NT!
+ planetarygifts_sticky_fingers_perk_name:0 "Sticky Fingers" #NT!
+ planetarygifts_deliberate_misinformation_perk_name:0 "Deliberate Misinformation" #NT!
+ mercurial_messenger_perk_name:0 "Mercurial Messenger" #NT!
+ madthought_perk_name:0 "Madthought" #NT!
+ uncloak_the_hidden_perk_name:0 "Uncloak the Hidden" #NT!
+ shadow_of_the_ebon_whisperer_perk_name:0 "Shadow of the Ebon Whisperer" #NT!
+ hidden_heart_perk_name:0 "Hidden Heart" #NT!
+ whisper_in_the_dark_perk_name:0 "Whisper in the Dark" #NT!
+ planetarygifts_ebon_binding_perk_name:0 "Ebon Binding" #NT!
+ find_the_child_within_perk_name:0 "Find the Child Within" #NT!
+ mantle_of_the_land_perk_name:0 "Mantle of the Land" #NT!
+ veil_of_the_mother_perk_name:0 "Veil of the Mother" #NT!
+ motherly_guardian_perk_name:0 "Motherly Guardian" #NT!
+ bring_forth_the_future_perk_name:0 "Bring Forth the Future" #NT!
+ planetarygifts_battlesense_perk_name:0 "Battlesense" #NT!
+ shards_of_icy_rage_perk_name:0 "Shards of Icy Rage" #NT!
+ nerigals_call_to_arms_perk_name:0 "Nerigal’s Call to Arms" #NT!
+ challenge_of_single_combat_perk_name:0 "Challenge of Single Combat" #NT!
+ heart_of_the_ice_warrior_perk_name:0 "Heart of the Ice Warrior" #NT!
+ rouse_to_anger_perk_name:0 "Rouse to Anger" #NT!
+ foetracker_perk_name:0 "Foetracker" #NT!
+ savagery_of_the_taloned_hunter_perk_name:0 "Savagery of the Taloned Hunter" #NT!
+ hunters_horn_perk_name:0 "Hunter’s Horn" #NT!
+ pack_mind_perk_name:0 "Pack Mind" #NT!
+ aura_of_leadership_perk_name:0 "Aura of Leadership" #NT!
+ proclamation_of_action_perk_name:0 "Proclamation of Action" #NT!
+ planetarygifts_undisputed_ruler_perk_name:0 "Undisputed Ruler" #NT!
+ enthronement_perk_name:0 "Enthronement" #NT!
+ grand_gesture_perk_name:0 "Grand Gesture" #NT!
+ sense_limits_perk_name:0 "Sense Limits" #NT!
+ peace_of_the_counselor_perk_name:0 "Peace of the Counselor" #NT!
+ pall_of_despair_perk_name:0 "Pall of Despair" #NT!
+ harmonious_slumber_perk_name:0 "Harmonious Slumber" #NT!
+ burden_of_knowledge_perk_name:0 "Burden of Knowledge" #NT!
+ find_the_portent_perk_name:0 "Find the Portent" #NT!
+ hidden_depths_perk_name:0 "Hidden Depths" #NT!
+ unravel_perk_name:0 "Unravel" #NT!
+ blank_slate_perk_name:0 "Blank Slate" #NT!
+ diplomatic_immunity_perk_name:0 "Diplomatic Immunity" #NT!
+ threads_of_the_tapestry_perk_name:0 "Threads of the Tapestry" #NT!
+ fixit_perk_name:0 "Fixit" #NT!
+ tangling_the_skein_perk_name:0 "Tangling the Skein" #NT!
+ shantars_loom_perk_name:0 "Shantar’s Loom" #NT!
+ drown_perk_name:0 "Drown" #NT!
+ sense_of_the_transformation_perk_name:0 "Sense of the Transformation" #NT!
+ shorten_the_road_perk_name:0 "Shorten the Road" #NT!
+ wyld_spirits_perk_name:0 "Wyld Spirits" #NT!
+ sleeps_travels_perk_name:0 "Sleep’s Travels" #NT!
+ essential_transformation_perk_name:0 "Essential Transformation" #NT!
+
+ EARTH_SENSE_PERK_EFFECT:0 "#F The Garou can feel the “aura” of an area and determine if it is healthy or blighted.#!" #NT!
+ HERB_CALL_PERK_EFFECT:0 "#F Through singing or chanting, a Garou can find helpful or medicinal plants, roots or bark even in poor areas such as deserts.#!" #NT!
+ OAKSONG_PERK_EFFECT:0 "#F By using this Gift, a Garou can communicate with inanimate objects made of wood or some other organic substance.#!" #NT!
+ LORE_OF_THE_LAND_PERK_EFFECT:0 "#F By eating, smoking or otherwise taking in a portion of the land, the Garou can sense things that happened in the immediate vicinity in the past.#!" #NT!
+ EARTH_HEAL_PERK_EFFECT:0 "As a [character_interaction|E], allow you to gain prestige by removing wyrm-taint building in target's location.\n#F This Gift allows the Garou to help a piece of land recover from blight, Wyrm-taint, poisoning or some other type of environmental disturbance.#!" #NT!
+ LAMBENT_SIGHT_PERK_EFFECT:0 "#F This Gift allows the Garou the ability to see under circumstances where sight would normally be impossible, such as in conditions of total darkness or if the Garou is blindfolded. #!" #NT!
+ MOONPOOL_OF_SOKHTA_PERK_EFFECT:0 "You will receive notification if someone intent to murder your friend of family.\nYou will receive notification if someone intent to seduce your lover or consort.\nYour prisoner has less chance of escaping from your prison.\n#F This Gift enables a Garou to transform clear, standing water into a pool which offers visions of possible futures.#!" #NT!
+ MOONRIVER_PERK_EFFECT:0 "#F By using this Gift, the Garou may swiftly travel across the surface of a body of water which reflects the moonlight.#!" #NT!
+ MOONCAT_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_mooncat_modifier' ).GetNameWithTooltip|L] shapeshift option.\n#F This Gift allows the Garou to assume form of a small white cat. This ability can prove useful for getting into small places (or escaping from such) and remaining hidden.#!" #NT!
+ MOONDREAM_PERK_EFFECT:0 "#F The Garou petitions Sokhta to grant her a prophetic dream before she falls asleep beneath the light of the moon.#!" #NT!
+ FIND_THE_HEARTS_FLAME_PERK_EFFECT:0 "#F With this Gift the Garou can identify sources of energy or power, even when they are hidden or unfamiliar.#!" #NT!
+ FLAME_OF_THE_WIND_RIDER_PERK_EFFECT:0 "#F This Gift makes the Garou harder to damage by engulfing her in a ghostly blue-white flame.#!" #NT!
+ RIDE_THE_SOLAR_WINDS_PERK_EFFECT:0 "Umbra Escaping Time: #P -10%#!\nUmbra Exploration Cost: [piety_i]#P -10%#!\n#F This Gift allows the Garou to ride the solar winds that sweep through the Aetherial Realm without worrying about being thrown off course by storms.#!" #NT!
+ HAND_OF_THE_SUN_PERK_EFFECT:0 "#F The Garou’s hand blazes with a terrible heat and gives off a white-hot light, similar to a branding iron.#!" #NT!
+ CLEANSING_FLAME_PERK_EFFECT:0 "#F The Garou can pinpoint an area (or an individual) and set the target ablaze with an intense and purifying flame. The fire can burn out all Wyrm-taint or human-made pollution from an area or cleanse an individual (provided the victim survives) of Wyrm-taint. #!" #NT!
+ SPEED_OF_THE_MESSENGER_PERK_EFFECT:0 "#F This Gift increases the movement rate of the Garou so that he can travel long distances in short periods of time.#!" #NT!
+ PLANETARYGIFTS_STICKY_FINGERS_PERK_EFFECT:0 "#F This trick coats the fingers of a Garou with a silvery substance that adheres to anything, making it possible to climb vertical surfaces with ease.#!" #NT!
+ PLANETARYGIFTS_DELIBERATE_MISINFORMATION_PERK_EFFECT:0 "#F The Garou can slip confusing and contrary information into his target’s conversation, making their plans fall apart or otherwise causing them to suffer from a gross breakdown in communications.#!" #NT!
+ MERCURIAL_MESSENGER_PERK_EFFECT:0 "#F This Gift enables a Garou who overhears a conversation or who is entrusted with a message to remember what she has heard.    #!" #NT!
+ MADTHOUGHT_PERK_EFFECT:0 "#F The Garou can cause her enemies’ thought processes to speed up so radically that they literally think too rapidly to put any one plan into motion.#!" #NT!
+ UNCLOAK_THE_HIDDEN_PERK_EFFECT:0 "#F By concentrating on a person, object or area, the Garou can determine whether or not her target is hiding anything.#!" #NT!
+ SHADOW_OF_THE_EBON_WHISPERER_PERK_EFFECT:0 "#F This Gift makes the Garou as insubstantial as a shadow and as hard to see.#!" #NT!
+ HIDDEN_HEART_PERK_EFFECT:0 "#F This Gift allows the Garou to take a dangerous piece of knowledge she possesses and lock it away in her mind so that it becomes inaccessible without a key.#!" #NT!
+ WHISPER_IN_THE_DARK_PERK_EFFECT:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!\n#F This Gift allows the Garou to determine a fact detrimental to an individual.#!" #NT!
+ PLANETARYGIFTS_EBON_BINDING_PERK_EFFECT:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!\nAs a [character_interaction|E], allows you give [GetModifier('ebon_binding_modifier').GetNameWithTooltip] modifier to a target who has [secrets|E] known by you.\n#F This Gift allows the Garou to take her knowledge of someone’s fault, practice or secret vice and bind a fitting punishment to that person.#!" #NT!
+ FIND_THE_CHILD_WITHIN_PERK_EFFECT:0 "#F With this Gift, a Garou can play upon an individual’s instinctive response to parental authority or affection and convince that person to follow a command or respond favorably to a suggestions that they might otherwise rebuff.#!" #NT!
+ MANTLE_OF_THE_LAND_PERK_EFFECT:0 "#F The Garou draws forth a mist or fog from water in the atmosphere.#!" #NT!
+ VEIL_OF_THE_MOTHER_PERK_EFFECT:0 "#F This Gift allows the Garou to assume a different appearance for a short period of time in order to confuse pursuers or escape detection.#!" #NT!
+ MOTHERLY_GUARDIAN_PERK_EFFECT:0 "#F This Gift allows the Garou to “tag” an individual so that she can keep track of her target’s health and welfare.#!" #NT!
+ BRING_FORTH_THE_FUTURE_PERK_EFFECT:0 "#F This Gift allows the Garou to call upon Tambiyah to change one facet of the individual’s future.#!" #NT!
+ PLANETARYGIFTS_BATTLESENSE_PERK_EFFECT:0 "#F The Garou can sense the best direction from which to make an attack, taking into account the terrain of the battlefield, the numbers and placement of the enemy and the available forces at the Garou’s command or allied with her.#!" #NT!
+ SHARDS_OF_ICY_RAGE_PERK_EFFECT:0 "#F The Garou invoking this Gift calls on the cold power of her Rage, converting her anger into physical ice.#!" #NT!
+ NERIGALS_CALL_TO_ARMS_PERK_EFFECT:0 "#F This Gift allows the Garou to summon to her side any creatures of spirits allied to Nerigal or appropriate to the Ice Warrior.#!" #NT!
+ CHALLENGE_OF_SINGLE_COMBAT_PERK_EFFECT:0 "Allow you to use challenge rival to fight [character_interaction|E] even in war.\n#F By invoking the name of the Ice Warrior and issuing a direct challenge to an enemy, the Garou can force her opponent to fight one-on-one according to the tacit rules of fair play.#!" #NT!
+ HEART_OF_THE_ICE_WARRIOR_PERK_EFFECT:0 "Allows you to not die by wounds.\n#F Usually used only in the most dire circumstance, this Gift renders the Garou impervious to damage long enough to deliver a final blow to her opponent.#!" #NT!
+ ROUSE_TO_ANGER_PERK_EFFECT:0 "As a [character_interaction|E], allow you spend Gnosis to gain Rage.\n#F This Gift enables the Garou to say or do something that causes her target to refresh her inner Rage.#!" #NT!
+ FOETRACKER_PERK_EFFECT:0 "#F By using this Gift, the Garou can follow her quarry without risking losing the trail.#!" #NT!
+ SAVAGERY_OF_THE_TALONED_HUNTER_PERK_EFFECT:0 "As a [character_interaction|E], allow you spend one Rage and willpower to gain two Rage.\n#F This Gift allows a Garou to gain twice the advantage of his Rage, thus increasing the ferocity and frequency of attacks or else allowing him to accomplish more under stress than he normally would.#!" #NT!
+ HUNTERS_HORN_PERK_EFFECT:0 "#F This Gift enables the Garou to create a sound so horrible and mind-chilling that it sends enemies into utter panic and causes them to flee an area without regard for direction or destination.#!" #NT!
+ PACK_MIND_PERK_EFFECT:0 "Give [GetModifier('pack_mind_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E].\n#F This Gift forces a group of foes to behave like a single-minded pack.#!" #NT!
+ AURA_OF_LEADERSHIP_PERK_EFFECT:0 "#F This Gift surrounds the Garou with an aura of authority that enables her to assume the mantle of leadership for a brief period of time.#!" #NT!
+ PROCLAMATION_OF_ACTION_PERK_EFFECT:0 "#F This Gift enables the Garou to force an end to discussion and take the course of action the character thinks is best.#!" #NT!
+ PLANETARYGIFTS_UNDISPUTED_RULER_PERK_EFFECT:0 "#F This Gift allows a Garou to take over the leadership of a small gathering of humans or a group of spirits.#!" #NT!
+ ENTHRONEMENT_PERK_EFFECT:0 "#F The Garou can create small or simple objects out of thin air – including mist, clouds or wind.#!" #NT!
+ GRAND_GESTURE_PERK_EFFECT:0 "#F By bestowing appropriate gifts on an individual or a group, the Garou increases her esteem and reputation in the eyes of the recipients of her largesse.#!" #NT!
+ SENSE_LIMITS_PERK_EFFECT:0 "#F The Garou can determine approximately the amount of Rage, Gnosis or Willpower within an individual.#!" #NT!
+ PEACE_OF_THE_COUNSELOR_PERK_EFFECT:0 "Unlocks the $purchase_truce_interaction$ [interaction|E].\n#F This Gift enables a Garou to bring even the most heated discussion to a peaceful conclusion.#!" #NT!
+ PALL_OF_DESPAIR_PERK_EFFECT:0 "Give [GetModifier('pall_of_despair_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E].\n#F This Gift inflicts a wave of despair upon a targeted individual, making the victim incapable of action due to feelings of profound melancholy.#!" #NT!
+ HARMONIOUS_SLUMBER_PERK_EFFECT:0 "#F This Gift enables the Garou to create a perfect environment for sleep even in the most difficult circumstances.#!" #NT!
+ BURDEN_OF_KNOWLEDGE_PERK_EFFECT:0 "As a [character_interaction|E], allow you to make the victim gain [GetModifier('murderous_frenzy_modifier').GetNameWithTooltip], [GetModifier('change_for_better_modifier').GetNameWithTooltip] or suicide.\n#F The Garou floods an individual with the knowledge of all her own limitations, making the victim aware of every flaw or failing and reminding her of all the wrongs she has committed or caused.#!" #NT!
+ FIND_THE_PORTENT_PERK_EFFECT:0 "#F With this Gift, a Garou can call for and receive some omen or portent which can help her determine her next course of action.#!" #NT!
+ HIDDEN_DEPTHS_PERK_EFFECT:0 "#F This Gift allows a Garou to uncover some hidden piece of information, or to decipher some cryptic passage of text.#!" #NT!
+ UNRAVEL_PERK_EFFECT:0 "#F This Gift allows the Garou to put together seemingly random bits of information to form a tentative analysis of a situation and formulate a course of action.#!" #NT!
+ BLANK_SLATE_PERK_EFFECT:0 "#F The Garou can completely remove a single piece of information from her own mind or from that of another.#!" #NT!
+ DIPLOMATIC_IMMUNITY_PERK_EFFECT:0 "#F This Gift enables the Garou to walk about in the middle of a hostile group without provoking the outbreak of hostilities.#!" #NT!
+ THREADS_OF_THE_TAPESTRY_PERK_EFFECT:0 "#F This Gift allows the Garou to determine the basic elements of a situation that seems confused or deliberately obfuscated.#!" #NT!
+ FIXIT_PERK_EFFECT:0 "#F The Garou can figure out what’s wrong with a device and make on-the-spot repairs which allow the item to run or function for a short time.#!" #NT!
+ TANGLING_THE_SKEIN_PERK_EFFECT:0 "#F This Gift enables the Garou to cause confusion among her enemies by mixing up their perceptions so that they cannot decide who to follow or what to do next.#!" #NT!
+ SHANTARS_LOOM_PERK_EFFECT:0 "#F The use of this Gift allows the Garou to craft some item from the energy provided by either Gnosis, Rage or Willpower.#!" #NT!
+ DROWN_PERK_EFFECT:0 "#F This Gift causes the lungs of an opponent to fill with liquid. The victim must receive immediate medical or magical assistance or die within a few minutes.#!" #NT!
+ SENSE_OF_THE_TRANSFORMATION_PERK_EFFECT:0 "If any of your relatives or friends are murdered in mysterious circumstances, you will know their murderer.\n#F With this Gift, the Garou can identify states of transformation or significant changes within creatures or objects.#!" #NT!
+ SHORTEN_THE_ROAD_PERK_EFFECT:0 "Umbra Escaping Time: #P -10%#!\nUmbra Exploration Cost: [piety_i]#P -10%#!\n#F This Gift enables the Garou to cut normal travel time by a third, even in the Umbra.#!" #NT!
+ WYLD_SPIRITS_PERK_EFFECT:0 "Give [GetModifier('erratic_behavior_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E].\n#F The Garou can call upon Meros’ erratic nature and inflict one or more of her opponents with a bout of erratic behavior, thus making it more difficult for the victims to coordinate attacks or act sensibly in any given situation.#!" #NT!
+ SLEEPS_TRAVELS_PERK_EFFECT:0 "#F Through this Gift, a Garou’s spirit may journey to another location while his body sleeps.#!" #NT!
+ ESSENTIAL_TRANSFORMATION_PERK_EFFECT:0 "As a [character_interaction|E], allow you to increase wounds to gain Gnosis.\n#F This Gift allows the Garou to convert part of her essence into Gnosis for use in situations which require the expenditure of large amounts of spiritual power.#!" #NT!

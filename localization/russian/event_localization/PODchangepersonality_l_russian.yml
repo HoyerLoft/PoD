@@ -1,0 +1,116 @@
+﻿l_russian:
+
+
+ POD_change_personality_interaction: "Переписать Личность" #NT!
+ POD_change_personality_interaction_desc: "Перед вам откроется меню, что позволит вам изменить личность жертвы" #NT!
+ POD_change_personality_interaction_accept: "This will open up a menu that will allow you to modify the victim's personality at the cost of piety" #NT!
+ POD_change_personality.100.t: "Rewrite Personality" #NT!
+ POD_change_personality.100.desc: "How do you wish to modify their personality?" #NT!
+ POD_change_personality.100.option.a: "Add trait" #NT!
+ POD_change_personality.100.option.a.tt: "This will take you to a menu where you can pick the resonance of the trait you wish to add" #NT!
+ POD_change_personality.100.option.b: "Remove trait" #NT!
+ POD_change_personality.100.option.b.tt: "This will take you to a menu where you can pick what trait to remove" #NT!
+ POD_change_personality.100.option.c: "Nevermind" #NT!
+ POD_change_personality.100.option.c.tt: "This closes this menu" #NT!
+ POD_change_personality.200.t: "Add personality trait" #NT!
+ POD_change_personality.200.desc: "What resonance does the trait you want to add have?" #NT!
+ POD_change_personality.200.option.a: "Choleric" #NT!
+ POD_change_personality.200.option.a.tt: "Opens the list of choleric traits" #NT!
+ POD_change_personality.200.option.b: "Melancholic" #NT!
+ POD_change_personality.200.option.b.tt: "Opens the list of melancholic traits" #NT!
+ POD_change_personality.200.option.c: "Phlegmatic" #NT!
+ POD_change_personality.200.option.c.tt: "Opens the list of phlegmatic traits" #NT!
+ POD_change_personality.200.option.d: "Sanguine" #NT!
+ POD_change_personality.200.option.d.tt: "Opens the list of sanguine traits" #NT!
+ POD_change_personality.200.option.e: "Back" #NT!
+ POD_change_personality.200.option.e.tt: "Returns to the previous menu" #NT!
+ POD_change_personality.210.t: "Add choleric personality trait" #NT!
+ POD_change_personality.210.desc: "Which trait do you wish to add?" #NT!
+ POD_change_personality.210.option.a: "Arrogant" #NT!
+ POD_change_personality.210.option.b: "Brave" #NT!
+ POD_change_personality.210.option.c: "Callous" #NT!
+ POD_change_personality.210.option.d: "Impatient" #NT!
+ POD_change_personality.210.option.e: "Sadistic" #NT!
+ POD_change_personality.210.option.f: "Stubborn" #NT!
+ POD_change_personality.210.option.g: "Wrathful" #NT!
+ POD_change_personality.210.option.h: "Greedy" #NT!
+ POD_change_personality.210.option.i: "Vengeful" #NT!
+ POD_change_personality.210.option.az: "Back" #NT!
+ POD_change_personality.210.option.az.tt: "Returns to the previous menu" #NT!
+ POD_change_personality.220.t: "Add melancholic personality trait" #NT!
+ POD_change_personality.220.desc: "Which trait do you wish to add?" #NT!
+ POD_change_personality.220.option.a: "Chaste" #NT!
+ POD_change_personality.220.option.b: "Gluttonous" #NT!
+ POD_change_personality.220.option.c: "Craven" #NT!
+ POD_change_personality.220.option.d: "Cynical" #NT!
+ POD_change_personality.220.option.e: "Honest" #NT!
+ POD_change_personality.220.option.f: "Paranoid" #NT!
+ POD_change_personality.220.option.g: "Shy" #NT!
+ POD_change_personality.220.option.az: "Back" #NT!
+ POD_change_personality.220.option.az.tt: "Returns to the previous menu" #NT!
+ POD_change_personality.230.t: "Add phlegmatic personality trait" #NT!
+ POD_change_personality.230.desc: "Which trait do you wish to add?" #NT!
+ POD_change_personality.230.option.a: "Calm" #NT!
+ POD_change_personality.230.option.b: "Compassionate" #NT!
+ POD_change_personality.230.option.c: "Content" #NT!
+ POD_change_personality.230.option.d: "Diligent" #NT!
+ POD_change_personality.230.option.e: "Humble" #NT!
+ POD_change_personality.230.option.f: "Just" #NT!
+ POD_change_personality.230.option.g: "Lazy" #NT!
+ POD_change_personality.230.option.h: "Temperate" #NT!
+ POD_change_personality.230.option.i: "Trusting" #NT!
+ POD_change_personality.230.option.j: "Zealous" #NT!
+ POD_change_personality.230.option.k: "Patient" #NT!
+ POD_change_personality.230.option.az: "Back" #NT!
+ POD_change_personality.230.option.az.tt: "Returns to the previous menu" #NT!
+ POD_change_personality.240.t: "Add sanguine personality trait" #NT!
+ POD_change_personality.240.desc: "Which trait do you wish to add?" #NT!
+ POD_change_personality.240.option.a: "Generous" #NT!
+ POD_change_personality.240.option.b: "Lustful" #NT!
+ POD_change_personality.240.option.c: "Ambitious" #NT!
+ POD_change_personality.240.option.d: "Arbitrary" #NT!
+ POD_change_personality.240.option.e: "Deceitful" #NT!
+ POD_change_personality.240.option.f: "Fickle" #NT!
+ POD_change_personality.240.option.g: "Forgiving" #NT!
+ POD_change_personality.240.option.h: "Gregarious" #NT!
+ POD_change_personality.240.option.az: "Back" #NT!
+ POD_change_personality.240.option.az.tt: "Returns to the previous menu" #NT!
+ POD_change_personality.300.t: "Remove personality trait" #NT!
+ POD_change_personality.300.desc: "Which personality trait do you wish to remove?" #NT!
+ POD_change_personality.300.option.a: "Ambitious" #NT!
+ POD_change_personality.300.option.b: "Arbitrary" #NT!
+ POD_change_personality.300.option.c: "Arrogant" #NT!
+ POD_change_personality.300.option.d: "Brave" #NT!
+ POD_change_personality.300.option.e: "Callous" #NT!
+ POD_change_personality.300.option.f: "Calm" #NT!
+ POD_change_personality.300.option.g: "Chaste" #NT!
+ POD_change_personality.300.option.h: "Compassionate" #NT!
+ POD_change_personality.300.option.i: "Content" #NT!
+ POD_change_personality.300.option.j: "Craven" #NT!
+ POD_change_personality.300.option.k: "Cynical" #NT!
+ POD_change_personality.300.option.l: "Deceitful" #NT!
+ POD_change_personality.300.option.m: "Diligent" #NT!
+ POD_change_personality.300.option.n: "Fickle" #NT!
+ POD_change_personality.300.option.o: "Forgiving" #NT!
+ POD_change_personality.300.option.p: "Generous" #NT!
+ POD_change_personality.300.option.q: "Gluttonous" #NT!
+ POD_change_personality.300.option.r: "Greedy" #NT!
+ POD_change_personality.300.option.s: "Gregarious" #NT!
+ POD_change_personality.300.option.t: "Honest" #NT!
+ POD_change_personality.300.option.u: "Humble" #NT!
+ POD_change_personality.300.option.v: "Impatient" #NT!
+ POD_change_personality.300.option.w: "Just" #NT!
+ POD_change_personality.300.option.x: "Lazy" #NT!
+ POD_change_personality.300.option.y: "Lustful" #NT!
+ POD_change_personality.300.option.z: "Paranoid" #NT!
+ POD_change_personality.300.option.aa: "Patient" #NT!
+ POD_change_personality.300.option.ab: "Sadistic" #NT!
+ POD_change_personality.300.option.ac: "Shy" #NT!
+ POD_change_personality.300.option.ad: "Stubborn" #NT!
+ POD_change_personality.300.option.ae: "Temperate" #NT!
+ POD_change_personality.300.option.af: "Trusting" #NT!
+ POD_change_personality.300.option.ag: "Vengeful" #NT!
+ POD_change_personality.300.option.ah: "Wrathful" #NT!
+ POD_change_personality.300.option.ai: "Zealous" #NT!
+ POD_change_personality.300.option.az: "Back" #NT!
+ POD_change_personality.300.option.az.tt: "Returns to the previous menu" #NT!

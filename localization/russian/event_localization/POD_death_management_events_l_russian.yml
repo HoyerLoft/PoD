@@ -1,0 +1,13 @@
+﻿l_russian:
+
+ ghoul_death_notification_title:0 "Your [Ghoul|E] #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died" #NT!
+ death_management.ghoul.desc:3 "Your [Ghoul|E], [dead_character.GetTitledFirstName], died." #NT!
+
+ domitor_death_notification_title:0 "Your Domitor #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died" #NT!
+ death_management.domitor.desc:3 "Your domitor, [dead_character.GetTitledFirstName], died." #NT!
+
+ herd_death_notification_title:0 "Your Herd #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died" #NT!
+ death_management.herd.desc:3 "Your Herd, [dead_character.GetTitledFirstName], died." #NT!
+
+ host_death_notification_title:0 "Your Host #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! Died" #NT!
+ death_management.host.desc:0 "Your Host,  [dead_character.GetTitledFirstName], died." #NT!

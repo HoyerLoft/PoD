@@ -1,0 +1,25 @@
+﻿l_russian:
+ VAMPIRE_ACTIONS:0 "Вампирские Действия" #NT!
+ interaction_category_vampire:0 "Вампир" #NT!
+ WRAITH_ACTIONS:0 "Действия Призрака" #NT!
+ interaction_category_wraith:0 "Призрак" #NT!
+ GHOUL_ACTIONS:0 "Действия Гуля" #NT!
+ interaction_category_ghoul:0 "Гуль" #NT!
+ SPECIALWEAPONS_ACTIONS:0 "equipment distribution" #NT!
+ interaction_category_specialweapons:0 "Equipment Distribution" #NT!
+ HOLYARTS_ACTIONS:0 "Священные Искусства" #NT!
+ interaction_category_holyarts:0 "Священные Искусства" #NT!
+ MUMMY_ACTIONS:0 "Действия Мумий" #NT!
+ interaction_category_mummy:0 "Мумия" #NT!
+ WEREWOLF_ACTIONS:0 "Действия Оборотней" #NT!
+ interaction_category_werewolf:0 "Оборотень" #NT!
+ DEMON_ACTIONS:0 "Действия Демонов" #NT!
+ interaction_category_demon:0 "Демон" #NT!
+ MAGE_ACTIONS:0 "Действия Магов" #NT!
+ interaction_category_mage:0 "Маг" #NT!
+ FAE_ACTIONS:0 "Действия Фей" #NT!
+ interaction_category_fae:0 "Фея" #NT!
+ PSYCHIC_ACTIONS:0 "Психические Действия" #NT!
+ interaction_category_psychic:0 "Психик" #NT!
+ POSSESSED_ACTIONS:0 "possessed actions" #NT!
+ interaction_category_possessed:0 "Possessed" #NT!

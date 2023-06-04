@@ -1,0 +1,14 @@
+﻿l_russian:
+
+ POD_temporis.100.t:0 "Манипулировать Физическим Возрастом" #NT!
+ POD_temporis.100.desc:0 "[recipient.GetTitledFirstName] под вашим контролем, теперь вы можете менять [recipient.GetHerHis] возраст свободно." #NT!
+ POD_temporis.100.a:0 "Сбросить до 16" #NT!
+ POD_temporis.100.b:0 "Прибавить 100 лет" #NT!
+ POD_temporis.100.c:0 "Прибавить 10 лет" #NT!
+ POD_temporis.100.d:0 "Прибавить 1 год" #NT!
+ POD_temporis.100.e:0 "Убавить 100 лет" #NT!
+ POD_temporis.100.f:0 "Убавить 10 лет" #NT!
+ POD_temporis.100.g:0 "Убавить 1 год" #NT!
+ POD_temporis.100.h:0 "Сохранить текущий возраст" #NT!
+
+ artifact_summoned_historical_unique_artifact_name:0 "Эхо [newly_created_artifact.GetNameNoTooltip]" #NT!

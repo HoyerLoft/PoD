@@ -1,0 +1,133 @@
+﻿l_russian:
+
+ #Common Road of Humanity Localization #NT!
+ roadofhumanity_religion:0 "Road of Humanity" #NT!
+ roadofhumanity_religion_adj:0 "Humanity" #NT!
+ roadofhumanity_religion_adherent:0 "Prodigal" #NT!
+ roadofhumanity_religion_adherent_plural:0 "Prodigals" #NT!
+ roadofhumanity_religion_desc:0 "Kindred trying to hold onto their humanity. By far the most common road among unlanded Vampires." #NT!
+ roadofhumanity_high_god_name:0 "Humanity" #NT!
+ roadofhumanity_high_god_name_possessive:0 "Humanity's" #NT!
+ roadofhumanity_high_god_name_alternate:0 "The Blood" #NT!
+ roadofhumanity_high_god_name_alternate_possessive:0 "The Blood's" #NT!
+ roadofhumanity_good_god_jesus:0 "$roadofhumanity_health_god_name$" #NT!
+ roadofhumanity_good_god_christ:0 "Humanity" #NT!
+ roadofhumanity_devil_name:0 "The Beast" #NT!
+ roadofhumanity_devil_name_possessive:0 "The Beast's" #NT!
+ roadofhumanity_evil_god_lucifer:0 "The Beast" #NT!
+ roadofhumanity_evil_god_beelzebub:0 "The Beast" #NT!
+ roadofhumanity_evil_god_mephistopheles:0 "The Beast" #NT!
+ roadofhumanity_death_deity_name:0 "Destruction" #NT!
+ roadofhumanity_death_deity_name_possessive:0 "Destruction's" #NT!
+ roadofhumanity_house_of_worship:0 "refuge" #NT!
+ roadofhumanity_house_of_worship_plural:0 "refuges" #NT!
+ roadofhumanity_religious_symbol:0 "rose" #NT!
+ roadofhumanity_religious_text:0 "scriptures" #NT!
+ roadofhumanity_religious_head_title:0 "principle of faith" #NT!
+ roadofhumanity_religious_head_title_name:0 "principle of faith" #NT!
+ roadofhumanity_devotee_male:0 "principle of faith" #NT!
+ roadofhumanity_devotee_male_plural:0 "principles of faith" #NT!
+ roadofhumanity_devotee_female:0 "principle of faith" #NT!
+ roadofhumanity_devotee_female_plural:0 "principles of faith" #NT!
+ roadofhumanity_devotee_neuter:0 "principle of faith" #NT!
+ roadofhumanity_devotee_neuter_plural:0 "principles of faith" #NT!
+ roadofhumanity_priest_male:0 "principle of faith" #NT!
+ roadofhumanity_priest_male_plural:0 "principles of faith" #NT!
+ roadofhumanity_priest_alternate_plural:0 "principles of faith" #NT!
+ roadofhumanity_bishop:0 "bishop" #NT!
+ roadofhumanity_bishop_plural:0 "bishops" #NT!
+ roadofhumanity_positive_afterlife:0 "heaven" #NT!
+ roadofhumanity_negative_afterlife:0 "the abyss" #NT!
+ roadofhumanity_witchgodname_the_horned_god:0 "the Beast" #NT!
+
+ roadofhumanity_creator_god_name:0 "$roadofhumanity_high_god_name$" #NT!
+ roadofhumanity_creator_god_name_possessive:0 "$roadofhumanity_high_god_name_possessive$" #NT!
+ roadofhumanity_health_god_name:0 "blood" #NT!
+ roadofhumanity_health_god_name_possessive:0 "blood's" #NT!
+ roadofhumanity_fertility_god_name:0 "$roadofhumanity_high_god_name$" #NT!
+ roadofhumanity_fertility_god_name_possessive:0 "$roadofhumanity_high_god_name_possessive$" #NT!
+ roadofhumanity_wealth_god_name:0 "$roadofhumanity_high_god_name$" #NT!
+ roadofhumanity_wealth_god_name_possessive:0 "$roadofhumanity_high_god_name_possessive$" #NT!
+ roadofhumanity_household_god_name:0 "$roadofhumanity_health_god_name$" #NT!
+ roadofhumanity_household_god_name_possessive:0 "$roadofhumanity_health_god_name_possessive$" #NT!
+ roadofhumanity_fate_god_name:0 "$roadofhumanity_high_god_name$" #NT!
+ roadofhumanity_fate_god_name_possessive:0 "$roadofhumanity_high_god_name_possessive$" #NT!
+ roadofhumanity_knowledge_god_name:0 "$roadofhumanity_high_god_name$" #NT!
+ roadofhumanity_knowledge_god_name_possessive:0 "$roadofhumanity_high_god_name_possessive$" #NT!
+ roadofhumanity_war_god_name:0 "$roadofhumanity_high_god_name$" #NT!
+ roadofhumanity_war_god_name_possessive:0 "$roadofhumanity_high_god_name_possessive$" #NT!
+ roadofhumanity_trickster_god_name:0 "Fortuna" #NT!
+ roadofhumanity_trickster_god_name_possessive:0 "Fortuna's" #NT!
+ roadofhumanity_night_god_name:0 "$roadofhumanity_high_god_name$" #NT!
+ roadofhumanity_night_god_name_possessive:0 "$roadofhumanity_high_god_name_possessive$" #NT!
+ roadofhumanity_water_god_name:0 "$roadofhumanity_health_god_name$" #NT!
+ roadofhumanity_water_god_name_possessive:0 "$roadofhumanity_health_god_name_possessive$" #NT!
+
+ #Prodigal-Group Faiths #NT!
+ viahumanitatis:0 "Via Humanitatis" #NT!
+ viahumanitatis_adj:0 "Prodigal" #NT!
+ viahumanitatis_adherent:0 "Prodigal" #NT!
+ viahumanitatis_adherent_plural:0 "Prodigals" #NT!
+ viahumanitatis_desc:0 "Followers of Via Humanitatis use the human condition to fight their Beast, remembering that they were ordinary mortals before being bestowed with Caine's curse. They place an emphasis on human virtues, such as freedom, the human heart and soul, and on reason and intelligence as a separator of man from beast." #NT!
+
+ viaanima:0 "Via Anima" #NT!
+ viaanima_adj:0 "Anima" #NT!
+ viaanima_adherent:0 "Inspired" #NT!
+ viaanima_adherent_plural:0 "Inspired" #NT!
+ viaanima_desc:0 "Via Anima is commonly called the Path of Breath. The Inspired try to find meaning and purpose among mortal men, sharing their burdens and daily lives. By doing so, they hope to cease being monsters in their own mind, and so stall off the Beast. Many who walk this path do so purely by instinct, never giving the matter much thought." #NT!
+
+ viacommunitas:0 "Via Communitas" #NT!
+ viacommunitas_adj:0 "Communitas" #NT!
+ viacommunitas_adherent:0 "Civilised" #NT!
+ viacommunitas_adherent_plural:0 "Civilised" #NT!
+ viacommunitas_desc:0 "Commonly called the Path of Community. The Civilised are more focused on the community as a whole, rather than individuals. They seldom strive to exalt themselves, and when they do it is usually as a means to benefit the community at large." #NT!
+
+ vialuminis:0 "Via Luminis" #NT!
+ vialuminis_adj:0 "Luminis" #NT!
+ vialuminis_adherent:0 "Illuminated" #NT!
+ vialuminis_adherent_plural:0 "Illuminated" #NT!
+ vialuminis_desc:0 "Commonly called the Path of Illumination. Those who follow the Path of Illumination seek the Bitter Road to Golconda to leave the material world behind. The followers of the Via Luminis are a solitary lot, not necessarily by choice, but because society shuns them. The revilement of the Salubri (and Golconda in general) has also served on making the Path seem suspicious to pious vampires." #NT!
+
+ viavireo:0 "Via Vireo" #NT!
+ viavireo_adj:0 "Vireo" #NT!
+ viavireo_adherent:0 "Rover" #NT!
+ viavireo_adherent_plural:0 "Rovers" #NT!
+ viavireo_desc:0 "Commonly called the Path of Vigor. Those who follow the Path of Vigor are not only dedicated to an ideal of what humanity is, but also its nature. Rovers are drawn to the human tendency to innovate, expand its horizons, and move on for good or ill. The Path of Vigor is a forceful and energetic path that emphasizes motion and action before contemplation and stillness." #NT!
+
+ eternalsenate:0 "Eternal Senate" #NT!
+ eternalsenate_adj:0 "Eternal Senate" #NT!
+ eternalsenate_adherent:0 "Senator" #NT!
+ eternalsenate_adherent_plural:0 "Senator" #NT!
+ eternalsenate_desc:0 "The Eternal Senate is a council of [cainites|E] modeled after the Roman Senate (albeit much smaller), to govern, legislate and rule over the Kindred. The Ventrue of Rome organized themselves as the mortals did, as a republic: the Eternal Senate of the Ventrue. In the senate, every Ventrue has the right of speech and voting power is irrespective of age or sex." #NT!
+
+ inconnu:0 "Inconnu" #NT!
+ inconnu_adj:0 "Inconnu" #NT!
+ inconnu_adherent:0 "Inconnu" #NT!
+ inconnu_adherent_plural:0 "Inconnu" #NT!
+ inconnu_desc:0 "The Inconnu is an extremely secretive sect of vampires. Virtually nothing is known for certain about them, but some of the most popular theories claim the group is a coalition of methuselahs that exists to manipulate both the Camarilla and Sabbat from behind the scenes, made up entirely of ancients who have forsaken the Jyhad in order to pursue Golconda, or a powerful cult tied to the [antediluvians|E]. Even the sect's age is disputed, with some believing it dates as far back as Rome." #NT!
+
+ holy_order_order_of_prodigals:0 "Order of Prodigals" #NT!
+ holy_order_order_of_anima:0 "The Anima Order" #NT!
+ holy_order_order_of_commumnitas:0 "Community of Warriors" #NT!
+ holy_order_order_of_illuminated:0 "Order of Illumination" #NT!
+ holy_order_order_of_rovers:0 "Rovers of War" #NT!
+ holy_order_legio_mortuum:0 "Legio Mortuum" #NT!
+ holy_order_phalanx_of_entelechia:0 "Phalanx of Entelechia" #NT!
+ holy_order_phalanx_of_heracleitus:0 "Phalanx of Heracleitus" #NT!
+ holy_order_phalanx_of_praedicanda:0 "Phalanx of Praedicanda" #NT!
+ holy_order_monitors: "Monitors" #NT!
+ holy_order_ignoti: "Ignoti" #NT!
+ holy_order_seekers_of_golconda: "Seekers of Golconda" #NT!
+ holy_order_the_unknown: "The Unknown" #NT!
+
+ childofosiris:0 "Children of Osiris" #NT!
+ childofosiris_adj:0 "Osirian" #NT!
+ childofosiris_adherent:0 "Osirian" #NT!
+ childofosiris_adherent_plural:0 "Osirians" #NT!
+ childofosiris_desc:0 "The Children of Osiris believe in Egyptian folklore, and see their role as being a holy one, combating the "darkness" of the Setites by the "light" of Osiris.\nNearly destroyed during the early wars against Set, they know live in seclusion and hiding, hoping for the return of Osiris to lead them once more." #NT!
+
+ amaranthans:0 "Amaranthans" #NT!
+ amaranthans_adj:0 "Amaranthans" #NT!
+ amaranthans_adherent:0 "Amaranthan" #NT!
+ amaranthans_adherent_plural:0 "Amaranthans" #NT!
+ amaranthans_desc:0 "A small group of [cainites|E] dedicated to hunting down diablerists. They use the name of the first victim of [diablerie|E] as a commitment to their task." #NT!

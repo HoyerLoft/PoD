@@ -1,0 +1,400 @@
+﻿l_russian:
+
+ GENERIC_DISCOVERY_DESC:0 "Вас раскрыли и происки закончены." #NT!
+
+ # investigate:0 "Investigate Scheme" #NT!
+ # investigate_action:0 "Investigate" #NT!
+ # investigate_interaction:0 "Investigate #weak (Scheme)#!" #NT!
+ # investigate_desc:0 "Through inquiry, the lore of [SCHEME.GetTarget.GetShortUINameNoTooltip] may be revealed! You will get relevant bonus based on your learning." #NT!
+ # investigate_desc_general:0 "Research an individual." #NT!
+ # scheme_interaction_tt_investigate_approved:0 "Investigate the lore about [recipient.GetFirstName]. You will know more and perhaps uncover some useful dirt if you have sufficient learning." #NT!
+ # INVESTIGATE_SUCCESS_DESC:0 "Lore about [TARGET_CHARACTER.GetShortUIName] will become known to you! And perhaps even hooks..." #NT!
+ # investigate_my_learning:1 "Your Learning: $VALUE|=+0$" #NT!
+ # investigate_same_religion:0 "" #NT!
+ # investigate_same_faith:0 "" #NT!
+
+ PODentrance:0 "Очарование" #NT!
+ PODentrance_action:0 "Очаровать" #NT!
+ POD_entrance_interaction:0 "Очаровать #weak (Происки)#!" #NT!
+ POD_entrance_interaction_desc:0 "С помощью [Concept('discipline', 'дисциплины')|E] Присутствия, используйте силу крови, чтобы очаровать кого-либо ." #NT!
+ PODentrance_desc:0 "Through entrancement, Я заставлю [SCHEME.GetTarget.GetShortUINameNoTooltip] относится ко мне лучше!" #NT!
+ PODentrance_desc_general:0 " $PODentrance$ is a [personal_scheme|E] that aims to drawn another characters to your court. Upon success, the character will relocate to your capitol. It is made available by a [perks|E] of the [discipline|E] of [GetTrait('presence').GetName( GetNullCharacter )]. The power will not work on [landed|E] characters." #NT!
+ scheme_interaction_tt_PODentrance_approved:0 "Очаровать [recipient.GetFirstName]. \nПо окончанию происков произойдет дуэль между вашей дипломатией и интригой цели.\nЕсли успешно, жертва улучшит свое мнение о вас." #NT!
+ PODENTRANCE_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUINamePossessive] улучшит свое [opinion|E] о вас!" #NT!
+ PODentrance_my_diplomacy:1 "Ваша Дипломатия: $VALUE|=+0$" #NT!
+ PODentrance_my_rival:1 "Ваша жертва: $VALUE|=+0$" #NT!
+
+ PODmesmerize:0 "Гипноз" #NT!
+ PODmesmerize_action:0 "Доминирование" #NT!
+ POD_mesmerize_interaction:0 "Гипноз #weak (Происки)#!" #NT!
+ POD_mesmerize_interaction_desc:0 "Используя дисциплину Доминирования, пробудите кровь, чтобы подчинить жертву вашей воле." #NT!
+ PODmesmerize_desc:0 "Ипользуя Доминирование, Я получу влияние(крючок) на [SCHEME.GetTarget.GetShortUINameNoTooltip] что позволит мне давать им различные команды!" #NT!
+ PODmesmerize_desc_general:0 "The $PODmesmerize$ is a [personal_scheme|E] that aims to drawn another characters to your court. Upon success, the character will relocate to your capitol. It is made available by a [perks|E] of the [discipline|E] of [GetTrait('presence').GetName( GetNullCharacter )]. The power will not work on [landed|E] characters." #NT!
+ scheme_interaction_tt_POD_mesmerize_approved:0 "Доминировать [recipient.GetFirstName] чтобы цель выполняла мои команды.\nПо окончанию происков произойдет дуэль между вашим управлением и интригой цели, что и определит успешность происков." #NT!
+ PODmesmerize_SUCCESS_DESC:0 "Вы получите крючок на [TARGET_CHARACTER.GetShortUIName]!" #NT!
+ PODmesmerize_my_stewardship:1 "Ваше Управление: $VALUE|=+0$" #NT!
+ PODmesmerize_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+
+ PODsummon:0 "Происки Призыва" #NT!
+ POD_summon:0 "Происки призыва" #NT!
+ PODsummon_action:0 "Призыв" #NT!
+ POD_summon_interaction:0 "Призыв #weak (Происки)#!" #NT!
+ POD_summon_interaction_desc:0 "Through the [discipline|E] of presence, invoke the blood to summon a being to your court." #NT!
+ PODsummon_desc:0 "Through use of your mystical presence, [SCHEME.GetTarget.GetShortUINameNoTooltip] will be summoned to your court." #NT!
+ PODsummon_desc_general:0 "The $PODsummon$ is a [personal_scheme|E] that aims to drawn another characters to your court. This scheme is primarily based upon your [diplomacy|E], it is not [secret_scheme_single|E] and does not use [agents|E]. It is made available by a [perk|E] of the [discipline|E] of [GetTrait('presence').GetName( GetNullCharacter )]." #NT!
+ scheme_interaction_tt_PODsummon_approved:0 "Summon [recipient.GetFirstName].\nThis will end with a duel between your diplomacy and [recipient.GetHerHis] Intrigue." #NT!
+ PODSUMMON_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] will be summoned to your presence!" #NT!
+ PODsummon_my_diplomacy:1 "Your Diplomacy: $VALUE|=+0$" #NT!
+ PODsummon_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+
+ POD_forgetful_mind:0 "Забывчивый Разум" #NT!
+ POD_forgetful_mind_action:0 "Забывчивый Разум" #NT!
+
+ vamphunt:0 "Происки Охоты" #NT!
+ vamphunt_action:0 "Охота" #NT!
+ vamphunt_interaction:0 "Охота #weak (Происки)#!" #NT!
+ vamphunt_desc:0 "Охота [SCHEME.GetTarget.GetShortUINameNoTooltip] за [SCHEME.GetTarget.GetHerHis] кровь." #NT!
+ vamphunt_desc_general:0 "The $vamphunt$ is a [hostile_scheme|E] that has a [GetTrait('vampire').GetName( GetNullCharacter )] to hunt a [GetTrait('mortal').GetName( GetNullCharacter )] character for their blood. This scheme is primarily based upon your [intrigue|E], it is [secret_scheme_single|E] and does not use [agents|E]. Upon success, the [GetTrait('vampire').GetName( GetNullCharacter )] will drink the blood of the [GetTrait('mortal').GetName( GetNullCharacter )]. If this scheme is exposed, the character violates [masquerade|E] which leads to potential complications such as attacks by [GetTrait('supehunter').GetName( GetNullCharacter )]s. The power will not work on [landed|E] characters. The potential victims must be in your location." #NT!
+ scheme_interaction_tt_vamphunt_approved:0 "Hunt [recipient.GetFirstName]. У вас будет возможность выпить кровь жертвы, чтобы восполнить свои резервы." #NT!
+ VAMPHUNT_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] кровь будет вашей." #NT!
+ VAMPHUNT_DISCOVERY_DESC:0 "@warning_icon! Ваша охота раскрыта, обрушая [masquerade|E]." #NT!
+ vamphunt_my_intrigue:1 "Ваша Интрига: $VALUE|=+0$" #NT!
+ vamphunt_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+ I_CAN_ONLY_PLOT_ONE_VAMPHUNT_AT_A_TIME_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|U] может охотится только на одного персонажа за раз." #NT!
+
+ chihunt:0 "Hunt Scheme" #NT!
+ chihunt_action:0 "Hunt" #NT!
+ chihunt_interaction:0 "Hunt #weak (Scheme)#!" #NT!
+ chihunt_desc:0 "Hunt [SCHEME.GetTarget.GetShortUINameNoTooltip] for [SCHEME.GetTarget.GetHerHis] chi." #NT!
+ chihunt_desc_general:0 "The $chihunt$ is a [hostile_scheme|E] that has a [GetTrait('kueijin').GetName( GetNullCharacter )] to hunt a [GetTrait('mortal').GetName( GetNullCharacter )] character for their Chi. This scheme is primarily based upon your [intrigue|E], it is [secret_scheme_single|E] and does not use [agents|E]. Upon success, the [GetTrait('kueijin').GetName( GetNullCharacter )] will drink the Chi of the [GetTrait('mortal').GetName( GetNullCharacter )]. The power will not work on [landed|E] characters. The potential victims must be in your location." #NT!
+ scheme_interaction_tt_chihunt_approved:0 "Hunt [recipient.GetFirstName]. You will be able to drain [recipient.GetHerHis] Chi to replenish your reserves." #NT!
+ CHIHUNT_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName]'s Chi will be yours." #NT!
+ CHIHUNT_DISCOVERY_DESC:0 "@warning_icon! Your hunt is exposed." #NT!
+ chihunt_my_intrigue:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ chihunt_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+
+ banehunt:0 "Hunt Scheme" #NT!
+ banehunt_action:0 "Hunt" #NT!
+ banehunt_interaction:0 "Hunt #weak (Scheme)#!" #NT!
+ banehunt_desc:0 "Hunt [SCHEME.GetTarget.GetShortUINameNoTooltip] for [SCHEME.GetTarget.GetHerHis] flesh." #NT!
+ banehunt_desc_general:0 "The $banehunt$ is a [hostile_scheme|E] that has a [GetTrait('banemummy').GetName( GetNullCharacter )] to hunt a [GetTrait('mortal').GetName( GetNullCharacter )] character for their flesh. This scheme is primarily based upon your [intrigue|E], it is [secret_scheme_single|E] and does not use [agents|E]. Upon success, the [GetTrait('banemummy').GetName( GetNullCharacter )] will drink the flesh of the [GetTrait('mortal').GetName( GetNullCharacter )]. The power will not work on [landed|E] characters. The potential victims must be in your location." #NT!
+ scheme_interaction_tt_banehunt_approved:0 "Hunt [recipient.GetFirstName]. You will be able to eat [recipient.GetHerHis] flesh to replenish your Sekhem." #NT!
+ BANEHUNT_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName]'s flesh will be yours." #NT!
+ BANEHUNT_DISCOVERY_DESC:0 "@warning_icon! Your hunt is exposed." #NT!
+ banehunt_my_intrigue:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ banehunt_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+
+ herdify:0 "Herd Scheme" #NT!
+ herdify_vampire:0 "Herd Scheme" #NT!
+ herdify_mortal:0 "Herd Scheme" #NT!
+ herdify_vampire_desc_general:0 "Recruit a vampire into your herd" #NT!
+ herdify_mortal_desc_general:0 "A vampire scheme targeting a mortal that will make them part of the vampire's herd, allowing various methods of automatically drinking their blood." #NT!
+ herdify_mortal_action:0 "Добавить в стадо" #NT!
+ herdify_vampire_action:0 "Добавить в стадо" #NT!
+ herdify_interaction:0 "Добавить в стадо #weak (Происки)#!" #NT!
+ herdify_desc:0 "Завербовать [SCHEME.GetTarget.GetShortUINameNoTooltip] в ваше стадо." #NT!
+ herdify_mortal_desc:0 "Завербовать [SCHEME.GetTarget.GetShortUINameNoTooltip] в ваше стадо." #NT!
+ herdify_vampire_desc:0 "Завербовать [SCHEME.GetTarget.GetShortUINameNoTooltip] в ваше стадо." #NT!
+ scheme_interaction_tt_herdify_approved:0 "Добавить в стадо [recipient.GetFirstName]." #NT!
+ herdify_desc_general:0 "Завербуйте смертного в ваше стадо." #NT!
+ HERDIFY_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] завербован в ваше стадо." #NT!
+ herdify_my_diplomacy:1 "Ваша Дипломатия: $VALUE|=+0$" #NT!
+ herdify_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+
+ embrace:0 "Embrace Scheme" #NT!
+ embrace_action:0 "Embrace" #NT!
+ embrace_interaction:0 "[Embrace|E] #weak (Scheme)#!" #NT!
+ embrace_desc:0 "[Embrace|E] [SCHEME.GetTarget.GetShortUINameNoTooltip] to transform them into your vampire childe." #NT!
+ embrace_desc_general:0 "A personal scheme available to any vampire aiming at Embracing a mortal, making them vampires in the process." #NT!
+ embrace_childe_older_than_you_tt:0 "Due to CK3's limitations, if they are older than you, making them your childe might not work correctly." #NT!
+ scheme_interaction_tt_embrace_approved:0 "[Embrace|E] [recipient.GetFirstName] as your vampiric childe." #NT!
+ EMBRACE_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] will be embraced into your vampiric childe." #NT!
+ embrace_my_intrigue:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ embrace_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+ I_CAN_ONLY_PLOT_ONE_EMBRACE_AT_A_TIME_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|U] can only [Embrace|E] of one mortal character at a time." #NT!
+ BLOOD_IS_HOLY_TRIGGER:0 "[TARGET_CHARACTER.GetShortUINamePossessive] blood resonates with noxious essence of faith in the divine." #NT!
+
+ diablerize:0 "Diablerize Scheme" #NT!
+ diablerize_action:0 "Diablerize" #NT!
+ diablerize_interaction:0 "[diablerize|E] #weak (Scheme)#!" #NT!
+ diablerize_desc:0 "I shall [diablerize|E] [SCHEME.GetTarget.GetShortUINameNoTooltip] and devour their soul!" #NT!
+ diablerize_desc_general:0 "The $diablerize$ is a [hostile_scheme|E] to kill a [GetTrait('vampire').GetName( GetNullCharacter )] target and devour all of their blood and soul.  It is a [secret_scheme|E] based on [intrigue|E], that can recruit [agents|E].\n\nA successful [diablerie|E] will result in the [character_death_death|E] of the [scheme_target|E]. \n\nA murder that successfully remains secret will give the [scheme_owner|E] a [diablerie|E] [secret|E].\n\nBeing discovered attempting to [diablerize|E], or successfully diablerizing a [GetTrait('vampire').GetName( GetNullCharacter )] is a serious [crime|E] to most [GetTrait('vampire').GetName( GetNullCharacter )] faiths. Also called 'Amaranth' after the first victim of [diablerie|E], this is the process of [GetTrait('vampire').GetName( GetNullCharacter )] draining another [GetTrait('vampire').GetName( GetNullCharacter )] of all of their blood including their soul. It allows the [diablerist|E] to gain [bloodpotency|E] and even a lower [vampgeneration|E] of their victim. It often comes at gate price by empowering a [GetTrait('vampire').GetName( GetNullCharacter )]'s [beast|E]. We represent this by losing levels of [piety|E]. Most [GetTrait('vampire').GetName( GetNullCharacter )] s have a bad opinion of [GetTrait('diablerist').GetName( GetNullCharacter )]s." #NT!
+ scheme_interaction_tt_diablerize_approved:0 "[diablerize|E] [recipient.GetFirstName]." #NT!
+ DIABLERIZE_SUCCESS_DESC:0 "The blood and soul of [TARGET_CHARACTER.GetShortUIName] will be yours!" #NT!
+ DIABLERIZE_DISCOVERY_DESC:0 "@warning_icon! You are exposed for the [crime|E] of [diablerie|E]" #NT!
+ diablerize_my_intrigue:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ diablerize_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+ I_CAN_ONLY_PLOT_ONE_DIABLERIE_AT_A_TIME_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|U] can only plot one [diablerie|E] at a time." #NT!
+
+ blood_surge:0 "Прилив Крови" #NT!
+ blood_surge_action:0 "Прилив Крови" #NT!
+ blood_surge_desc:0 "Используйте силу крови, чтобы усилить ваши вампирские способности." #NT!
+
+ PODbloodbond:0 "Узы Крови" #NT!
+ POD_bloodbond:0 "Узы Крови" #NT!
+ PODbloodbond_action:0 "Узы Крови" #NT!
+ POD_bloodbond_interaction:0 "Связать Кровью #weak (Scheme)#!" #NT!
+ POD_bloodbond_interaction_desc:0 "Используйте вашу кровь, чтобы подчинить вампира своей воле" #NT!
+ PODbloodbond_desc:0 "Я свяжу кровью [SCHEME.GetTarget.GetShortUINameNoTooltip]!" #NT!
+ PODbloodbond_desc_general:0 "Использовать Узы Крови, чтобы получить крючок." #NT!
+ scheme_interaction_tt_POD_bloodbond_approved:0 "Bloodbond [recipient.GetFirstName]." #NT!
+ PODBLOODBOND_SUCCESS_DESC:0 "You will get a hook on [TARGET_CHARACTER.GetFirstName]." #NT!
+ POD_bloodbond_my_intrigue:1 "Ваша Интрига: $VALUE|=+0$" #NT!
+ POD_bloodbond_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+
+ knighting:0 "Knighting Scheme" #NT!
+ knighting_action:0 "Knighting" #NT!
+ knighting_interaction:0 "Knighting #weak (Scheme)#!" #NT!
+ knighting_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your squire, and a fellow hunter." #NT!
+ knighting_desc_general:0 "Acknowledge a new Knight Hunter." #NT!
+ scheme_interaction_tt_knighting_approved:0 "Acknowledge [recipient.GetFirstName] as your pupil hunter." #NT!
+ KNIGHTING_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] will be acknowledged as a fellow hunter." #NT!
+ I_CAN_ONLY_PLOT_ONE_KNIGHTING_AT_A_TIME_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|U] can only teach one potential recruit at a time." #NT!
+ I_must_be_older:1 "I must be older than the prospective squire!" #NT!
+ NOT_I_must_be_older:1 "I must be older than the prospective squire!" #NT!
+ I_CAN_ONLY_PLOT_ONE_KNIGHTING_AT_TIME:1 "[TARGET_CHARACTER.GetShortUIName|U] can only teach one potential recruit at a time." #NT!
+ no_masquerade:1 "My faith doesn't care about [masquerade|E]!" #NT!
+
+ ordinationsisters:0 "Ordination Scheme" #NT!
+ ordinationsisters_action:0 "Ordination" #NT!
+ ordinationsisters_interaction:0 "Ordination #weak (Scheme)#!" #NT!
+ ordinationsisters_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter." #NT!
+ ordinationsisters_desc_general:0 "Ordinate a new Sister of St-John." #NT!
+
+ ordinationred:0 "Ordination Scheme" #NT!
+ ordinationred_action:0 "Ordination" #NT!
+ ordinationred_interaction:0 "Ordination #weak (Scheme)#!" #NT!
+ ordinationred_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter." #NT!
+ ordinationred_desc_general:0 "Ordinate a new member of the Red Order" #NT!
+
+ ordinationoculi:0 "Ordination Scheme" #NT!
+ ordinationoculi_action:0 "Ordination" #NT!
+ ordinationoculi_interaction:0 "Ordination #weak (Scheme)#!" #NT!
+ ordinationoculi_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter." #NT!
+ ordinationoculi_desc_general:0 "Ordinate a new member of the Oculi Dei" #NT!
+
+ ordinationmurnau:0 "Ordination Scheme" #NT!
+ ordinationmurnau_action:0 "Ordination" #NT!
+ ordinationmurnau_interaction:0 "Ordination #weak (Scheme)#!" #NT!
+ ordinationmurnau_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter." #NT!
+ ordinationmurnau_desc_general:0 "Ordinate a new member of the Von Murnau family" #NT!
+
+ ordinationgantenbein:0 "Initiation Scheme" #NT!
+ ordinationgantenbein_action:0 "Initiation" #NT!
+ ordinationgantenbein_interaction:0 "Initiation #weak (Scheme)#!" #NT!
+ ordinationgantenbein_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter." #NT!
+ ordinationgantenbein_desc_general:0 "Initiate a new hunter of the Calomena's Forsaken" #NT!
+
+ ordinationshih:0 "Initiation Scheme" #NT!
+ ordinationshih_action:0 "Initiation" #NT!
+ ordinationshih_interaction:0 "Initiation #weak (Scheme)#!" #NT!
+ ordinationshih_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your student, and a fellow hunter." #NT!
+ ordinationshih_desc_general:0 "Initiate a new hunter of the [GetTrait('shih').GetName( GetPlayer )]" #NT!
+
+ ordinationindep:0 "Initiation Scheme" #NT!
+ ordinationindep_action:0 "Initiation" #NT!
+ ordinationindep_interaction:0 "Initiation #weak (Scheme)#!" #NT!
+ ordinationindep_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter." #NT!
+ ordinationindep_desc_general:0 "Initiate a new hunter" #NT!
+
+ ordinationrecommendation_interaction:0 "Recommend Pupil" #NT!
+ ordinationrecommendation_interaction_desc:0 "Recommend [recipient.GetFirstName] a pupil from your or [recipient.GetHerHis] court." #NT!
+ recipient_secondary_ordinationrecommendation_interaction:0 "Recommended Pupil" #NT!
+ target_can_only_hunterize_one_at_a_time:0 "The target can only open the eyes of one mortal at a time." #NT!
+
+ POD_ghoulify:0 "Сделать Гулем" #NT!
+ POD_ghoulify_mortal:0 "Сделать Гулем" #NT!
+ POD_ghoulify_mortal_desc_general:0 "A scheme available to any vampire aiming at transforming a mortal into a ghoul, making them their loyal servants." #NT!
+ POD_ghoulify_mortal_action:0 "Сделать Гулем" #NT!
+ POD_ghoulify_mortal_desc:0 "Нанять [SCHEME.GetTarget.GetShortUINameNoTooltip] как вашего кровожадного раба." #NT!
+ scheme_interaction_tt_POD_ghoulify_approved:0 "[Ghoul|E] [recipient.GetFirstName]." #NT!
+ POD_GHOULIFY_MORTAL_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] станет вашим гулем-рабом." #NT!
+ POD_ghoulify_mortal_my_diplomacy:1 "Ваша Дипломатия: $VALUE|=+0$" #NT!
+ POD_ghoulify_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+ POD_ghoul_ghoulify:0 "Поделиться Витэ" #NT!
+ POD_ghoul_ghoulify_action:0 "Гуль" #NT!
+ POD_ghoul_ghoulify_desc:0 "Introduce [SCHEME.GetTarget.GetShortUINameNoTooltip] to the boons of kindred vitae." #NT!
+ scheme_interaction_tt_POD_ghoul_ghoulify_approved:0 "[Ghoul|E] [recipient.GetFirstName]." #NT!
+ POD_ghoul_ghoulify_desc_general:0 "Share the gift of vitae" #NT!
+ POD_GHOUL_GHOULIFY_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] will become a [ghoul|E]." #NT!
+ POD_ghoul_ghoulify_my_diplomacy:1 "Your Diplomacy: $VALUE|=+0$" #NT!
+
+
+ convert_to_wraith:0 "Обратить в Призрака" #NT!
+ convert_to_wraith_action:0 "Риутальное Убийство" #NT!
+ convert_to_wraith_interaction:0 "Обратить в Призрака" #NT!
+ CONVERT_TO_WRAITH_TRUEFAITH_TRIGGER:0 "Нечистый ритуал может отделить дух [TARGET_CHARACTER.GetShortUINamePossessive] от [TARGET_CHARACTER.GetFaith.HighGodName]." #NT!
+ CONVERT_TO_WRAITH_SUCCESS_DESC:0 "Жертва умрет и переродится как дух при вашем дворе" #NT!
+ CONVERT_TO_WRAITH_DISCOVERY_DESC:0 "Жертва раскроет ваше покушение на её жизнь." #NT!
+
+ PODinsanity:0 "Проклятие Безумия Происки" #NT!
+ PODinsanity_action:0 "Сделать безумным" #NT!
+ POD_insanity_interaction:0 "Проклятие Безумия #weak (Scheme)#!" #NT!
+ POD_insanity_interaction_desc:0 "Используя [Concept('discipline', 'дисциплину')|E] Помешательства, заразите свою жертву безумием" #NT!
+ PODinsanity_desc:0 "Используя [Concept('discipline', 'дисциплину')|E] Помешательства, вы попробуете сделать жертву [SCHEME.GetTarget.GetShortUINameNoTooltip] безумной" #NT!
+ PODinsanity_desc_general:0 "Используйте Помешательство чтобы сделать жертву безумной" #NT!
+ scheme_interaction_tt_PODinsanity_approved:0 "Наложите проклятие безумия на [recipient.GetFirstName]" #NT!
+ PODinsanity_SUCCESS_DESC:0 "Вы даруете безумие [TARGET_CHARACTER.GetShortUIName]" #NT!
+ PODinsanity_my_intrigue:1 "Ваша Интрига: $VALUE|=+0$" #NT!
+ PODinsanity_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+
+ PODskuldfulfilled:0 "Skuld Fulfilled Scheme" #NT!
+ PODskuldfulfilled_action:0 "Return to mortality!" #NT!
+ POD_skuldfulfilled_interaction:0 "Skuld Fulfilled #weak (Scheme)#!" #NT!
+ POD_skuldfulfilled_interaction_desc:0 "Return this [ghoul|E] or [revenant|E] to a mere mortal life" #NT!
+ PODskuldfulfilled_desc:0 "Using your dark powers, you will try to make [SCHEME.GetTarget.GetShortUINameNoTooltip] a mere mortal" #NT!
+ PODskuldfulfilled_desc_general:0 "Use oblivion to strip your target from Caine's blessing" #NT!
+ scheme_interaction_tt_PODskuldfulfilled_approved:0 "[recipient.GetFirstName] will soon be a mere mortal!" #NT!
+ PODskuldfulfilled_SUCCESS_DESC:0 "You will turn [TARGET_CHARACTER.GetShortUIName] into a mere mortal" #NT!
+ PODskuldfulfilled_my_intrigue:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ PODskuldfulfilled_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+
+ PODsoulbond:0 "Soul Shackles" #NT!
+ PODsoulbond_action:0 "Soul Shackles with" #NT!
+ PODsoulbond_desc:0 "You will try to form a long-lasting or even permanent bond between your soul and your target's." #NT!
+ PODsoulbond_desc_general:0 "Use soul shackles to form a long-lasting or even permanent bond." #NT!
+ PODsoulbond_SUCCESS_DESC:0 "Soulbond [TARGET_CHARACTER.GetShortUIName]." #NT!
+ PODsoulbond_my_intrigue:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ PODsoulbond_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+ scheme_interaction_tt_PODsoulbond_approved:0 "[recipient.GetFirstName] will receive soul shackle." #NT!
+ PODsoulbond_success_toast:1 "Success!" #NT!
+
+ PODspirit_eating:0 "Пожирание Души" #NT!
+ PODspirit_eating_action:0 "Пожирание Души" #NT!
+ PODspirit_eating_desc:0 "Я отделю дух [SCHEME.GetTarget.GetShortUINameNoTooltip] от тела и помещу его в мой третий глаз!" #NT!
+ PODspirit_eating_desc_general:0 "Очистите или поглотите дух жертвы." #NT!
+ PODspirit_eating_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] дух будет помещен в ваш третий глаз." #NT!
+ PODspirit_eating_my_intrigue:1 "Ваша Интрига: $VALUE|=+0$" #NT!
+ PODspirit_eating_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+ scheme_interaction_tt_PODspirit_eating_approved:0 "[recipient.GetFirstName]дух будет помещен в ваш третий глаз Ван Куэй." #NT!
+ I_CAN_ONLY_PLOT_ONE_SPIRIT_EATING_AT_A_TIME_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|U]может замышлять только одно пожирание души за раз." #NT!
+
+ PODsoul_bridge:0 "Нагнетание Эмоций" #NT!
+ PODsoul_bridge_action:0 "Нагнетать эмоции" #NT!
+ PODsoul_bridge_desc:0 "Я буду молча передавать простые эмпатические побуждения [SCHEME.GetTarget.GetShortUINameNoTooltip]." #NT!
+ PODsoul_bridge_desc_general:0 "Вы молча передаете простые эмпатические побуждения цели." #NT!
+ PODsoul_bridge_SUCCESS_DESC:0 "Эмоция достаточно сильна, чтобы [TARGET_CHARACTER.GetShortUIName] заставить действовать так, как вы планировали." #NT!
+ PODsoul_bridge_my_intrigue:1 "Ваша Интрига: $VALUE|=+0$" #NT!
+ PODsoul_bridge_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+ scheme_interaction_tt_PODsoul_bridge_approved:0 "The emotion is strong enough that the [recipient.GetFirstName] is forced to act on it." #NT!
+ infernalize_scheme:0 "Склонять к интернализму" #NT!
+ infernalize_scheme_action:0 "Обратить в инфернализм" #NT!
+ infernalize_scheme_interaction:0 "Обратить в инфернализм #weak (Scheme)#!" #NT!
+ infernalize_scheme_interaction_desc:0 "Используя демонические силы или подвешенный язык, совратите персонажа для служения нечестивым хозяевам." #NT!
+ infernalize_scheme_desc:0 "С помощью лжи и сил ада, [SCHEME.GetTarget.GetShortUINameNoTooltip] обратится в темную веру." #NT!
+ infernalize_scheme_desc_general:0 "Использовать коварные техники, чтобы обратить персонажа на темную сторону." #NT!
+ scheme_interaction_tt_infernalize_scheme_approved:0 "Призвать к себе [recipient.GetFirstName].\nПо окончанию происков произройдет дуэль между вашей Интригой и Управлением цели, что и определит успешность происков." #NT!
+ INFERNALIZE_SCHEME_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] преклонится пред темными хозяевами!" #NT!
+ INFERNALIZE_DISCOVERY_DESC:0 "[TARGET_CHARACTER.GetShortUIName] узнает о ваших планах, что может все испортить. Если только цель и так была не против ..." #NT!
+ infernalize_scheme_my_intrigue:1 "Ваша Дипломатия: $VALUE|=+0$" #NT!
+ infernalize_scheme_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+
+ PODrationalize:0 "Обоснование (Доминирование)" #NT!
+ PODrationalize_action:0 "Доминирование" #NT!
+ POD_rationalize_interaction:0 "Обоснование #weak (Происки)#!" #NT!
+ POD_rationalize_interaction_desc:0 "Используя дисциплину Доминирования, пробудите кровь, чтобы обосновать для жертвы решение, что вы приняли за неё." #NT!
+ PODrationalize_desc:0 "Через Доминирование, Вы получите влияние(крючок) на [SCHEME.GetTarget.GetShortUINameNoTooltip]!" #NT!
+ PODrationalize_desc_general:0 "Происки Обоснования это [personal_scheme|E] с целью получить влияние на другого персонажа." #NT!
+ scheme_interaction_tt_POD_rationalize_approved:0 "Доминировать над [recipient.GetFirstName], чтобы получить влияние для меня.\nПо окончанию происков произройдет дуэль между вашим Управлением и Интригой цели, что и определит успешность происков." #NT!
+ PODrationalize_SUCCESS_DESC:0 "Вы получите крючок на [TARGET_CHARACTER.GetShortUIName]!" #NT!
+ PODrationalize_my_stewardship:1 "Ваше управление: $VALUE|=+0$" #NT!
+ PODrationalize_my_rival:1 "Ваша Жертва: $VALUE|=+0$" #NT!
+
+ POD_discover_true_name:0 "True Name Study" #NT!
+ POD_discover_true_name_action:0 "Discover True Name of" #NT!
+ POD_discover_true_name_desc:0 "You will try to discover your target's true name." #NT!
+ POD_discover_true_name_desc_general:1 "The True Name Study [scheme|E] is a [hostile_scheme|E] that attempts to decipher the true name of your target. Learning a true name or Ren, is a difficult process that has three stages: partial true name, half true name and finally full true name. To progress to the final stage, this scheme will need to be used three times on supernatural characters or once on a normal human. This scheme is based primarily on your [learning|E] skill. It is not [secret_scheme_single|E] and does not use [agents|E]." #NT!
+ POD_discover_true_name_SUCCESS_DESC:0 "Investigate [TARGET_CHARACTER.GetShortUIName]." #NT!
+ POD_discover_true_name_my_learning:1 "Your Learning: $VALUE|=+0$" #NT!
+ POD_discover_true_name_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+ scheme_interaction_tt_POD_discover_true_name_approved:0 "[recipient.GetFirstName]'s true name will be reveled." #NT!
+ POD_discover_true_name_success_toast:1 "Success!" #NT!
+ POD_discover_true_name_growing: "Your knowledge about the target's true name is improving." #NT!
+ POD_discover_true_name_scheme_resistance_mult:0 "Discover True Name Scheme Resistance Multiplier" #NT!
+
+ POD_cast_hekau:0 "Hekau Casting" #NT!
+ POD_cast_hekau_action:0 "Cast Hekau on" #NT!
+ POD_cast_hekau_desc:0 "You will try to cast Hekau on your target." #NT!
+ POD_cast_hekau_desc_general:0 "Cast Hekau" #NT!
+ POD_cast_hekau_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] suffer the magic effect." #NT!
+ scheme_interaction_tt_POD_cast_hekau_approved:0 "Attempt to cast Hekau on [recipient.GetFirstName]." #NT!
+ POD_cast_hekau_my_learning:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ POD_cast_hekau_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+
+ POD_project_negative_psychic_energy:0 "Negative Psychic Energy Projection" #NT!
+ POD_project_negative_psychic_energy_action:0 "Project Negative Psychic Energy to" #NT!
+ POD_project_negative_psychic_energy_desc:0 "You will try to project negative psychic energy into your target's soul." #NT!
+ POD_project_negative_psychic_energy_desc_general:0 "Project Negative Psychic Energy" #NT!
+ POD_project_negative_psychic_energy_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] is hit." #NT!
+ scheme_interaction_tt_POD_project_negative_psychic_energy_approved:0 "Attempt to project negative psychic energy into [recipient.GetFirstName]'s soul." #NT!
+ POD_project_negative_psychic_energy_my_learning:1 "Your Intrigue: $VALUE|=+0$" #NT!
+ POD_project_negative_psychic_energy_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+
+ PODenthrall:0 "Enthrallment" #NT!
+ PODenthrall_action:0 "Enthrall" #NT!
+ PODenthrall_interaction:0 "Enthrall #weak (Scheme)#!" #NT!
+ PODenthrall_interaction_desc:0 "Perform the Siren Song to enthrall a being into liking you." #NT!
+ PODenthrall_desc:0 "Through enthrallment, I will get [SCHEME.GetTarget.GetShortUINameNoTooltip] to like me!" #NT!
+ PODenthrall_desc_general:0 "Use the Siren Song to gain a positive opinion and weak hook from an individual." #NT!
+ scheme_interaction_tt_PODenthrall_approved:0 "Enthrall [recipient.GetFirstName]." #NT!
+ PODenthrall_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUINamePossessive] [opinion|E] of you will increase!" #NT!
+ PODenthrall_my_diplomacy:1 "Your Diplomacy: $VALUE|=+0$" #NT!
+ PODenthrall_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+ PODenthrall_success_toast:1 "Success!" #NT!
+
+ POD_command_effigy_gold_scheme:0 "Earn Cash" #NT!
+ POD_command_effigy_gold_scheme_action:0 "Seek treasure for" #NT!
+ POD_command_effigy_gold_scheme_desc:0 "Your creature effigies will attempt to find gold for you." #NT!
+ POD_command_effigy_gold_scheme_desc_general:1 "The Earn Cash [scheme|E] is a [personal_scheme|E] that sends out your creature effigies to try and find treasures for you through various means. This scheme can possibly endanger your creature effigy and is sped up by your [stewardship|E] skill. As it is not a [hostile_scheme|E], it is not [secret_scheme_single|E] and does not use [agents|E]." #NT!
+ POD_command_effigy_gold_scheme_SUCCESS_DESC:0 "Success" #NT!
+
+ POD_command_effigy_prestige_scheme:0 "Spread my Name" #NT!
+ POD_command_effigy_prestige_scheme_action:0 "Spread name for" #NT!
+ POD_command_effigy_prestige_scheme_desc:0 "Your creature effigies will attempt to spread the glory of your name." #NT!
+ POD_command_effigy_prestige_scheme_desc_general:1 "The Spread my Name [scheme|E] is a [personal_scheme|E] that sends out your creature effigies to try and gain [prestige|E] for you through various means. This scheme can possibly endanger your creature effigy and is sped up by your [diplomacy|E] skill. As it is not a [hostile_scheme|E], it is not [secret_scheme_single|E] and does not use [agents|E]." #NT!
+ POD_command_effigy_prestige_scheme_SUCCESS_DESC:0 "Success" #NT!
+
+ POD_command_effigy_piety_scheme:0 "Join my Cause" #NT!
+ POD_command_effigy_piety_scheme_action:0 "Support the cause of" #NT!
+ POD_command_effigy_piety_scheme_desc:0 "Your effigies will attempt to support your cause." #NT!
+ POD_command_effigy_piety_scheme_desc_general:1 "The Join my Cause [scheme|E] is a [personal_scheme|E] that sends out your creature effigies to try and gain [piety|E] for you through various means. This scheme can possibly endanger your creature effigy and is sped up by your [learning|E] skill. As it is not a [hostile_scheme|E], it is not [secret_scheme_single|E] and does not use [agents|E]." #NT!
+ POD_command_effigy_piety_scheme_SUCCESS_DESC:0 "Success" #NT!
+
+ POD_command_effigy_renown_scheme:0 "Help My Family" #NT!
+ POD_command_effigy_renown_scheme_action:0 "Strengthen the family of" #NT!
+ POD_command_effigy_renown_scheme_desc:0 "Your effigies will attempt to strengthen your family name." #NT!
+ POD_command_effigy_renown_scheme_desc_general:1 "The Help My Family [scheme|E] is a [personal_scheme|E] that sends out your creature effigies to try and gain [dynasty_prestige|E] for your family name through various means. This scheme can possibly endanger your creature effigy and is sped up by your [diplomacy|E] skill. As it is not a [hostile_scheme|E], it is not [secret_scheme_single|E] and does not use [agents|E]." #NT!
+ POD_command_effigy_renown_scheme_SUCCESS_DESC:0 "Success" #NT!
+
+ POD_command_effigy_lifestyle_scheme:0 "Learn Skills for Me" #NT!
+ POD_command_effigy_lifestyle_scheme_action:0 "Learn Skills for" #NT!
+ POD_command_effigy_lifestyle_scheme_desc:0 "Your creature effigies will attempt to learn some of skills of [SCHEME.GetTarget.GetShortUINameNoTooltip]." #NT!
+ POD_command_effigy_lifestyle_scheme_desc_general:1 "The Learn Skills for Me [scheme|E] is a [personal_scheme|E] that sends out your advanced effigies to try gain lifestyle experience based on the education trait of your target. This scheme can possibly endanger your creature effigy and is based primarily on your [learning|E] skill and creature effigy level. As it is not a [hostile_scheme|E], it is not [secret_scheme_single|E] and does not use [agents|E]." #NT!
+ POD_command_effigy_lifestyle_scheme_SUCCESS_DESC:0 "Success" #NT!
+ POD_scheme_advanced_creature_effigy:0 "The animal is imbued with intelligence and certain knowledge equal to the artisan who activated it: $VALUE|=+0$" #NT!
+
+ PODenslave:0 "Enslavement" #NT!
+ PODenslave_action:0 "Enslave" #NT!
+ PODenslave_interaction:0 "Enslave #weak (Scheme)#!" #NT!
+ PODenslave_interaction_desc:0 "Using evocation to control the mind and body of a target." #NT!
+ PODenslave_desc:0 "Through evocation, I will get [SCHEME.GetTarget.GetShortUINameNoTooltip] to be my slave!" #NT!
+ PODenslave_desc_general:0 "Use evocation to gain a strong hook from an individual." #NT!
+ scheme_interaction_tt_PODenslave_approved:0 "Enslave [recipient.GetFirstName]." #NT!
+ PODenslave_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUINamePossessive] will give you a hook!" #NT!
+ PODenslave_my_learning:1 "Your Learning: $VALUE|=+0$" #NT!
+ PODenslave_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+ PODenslave_success_toast:1 "Success!" #NT!
+
+ musing:0 "Musing Scheme" #NT!
+ musing_mortal:0 "Musing Scheme" #NT!
+ musing_mortal_desc_general:0 "A fae scheme targeting a mortal that will make them part of the fae's glamour resource, allowing ravage their glamour." #NT!
+ musing_mortal_action:0 "Musing" #NT!
+ musing_interaction:0 "Musing #weak (Scheme)#!" #NT!
+ musing_desc:0 "Recruit [SCHEME.GetTarget.GetShortUINameNoTooltip] into your dreamer." #NT!
+ musing_mortal_desc:0 "Recruit [SCHEME.GetTarget.GetShortUINameNoTooltip] into your dreamer." #NT!
+ musing_vampire_desc:0 "Recruit [SCHEME.GetTarget.GetShortUINameNoTooltip] into your dreamer." #NT!
+ scheme_interaction_tt_musing_approved:0 "Musing [recipient.GetFirstName]." #NT!
+ musing_desc_general:0 "Recruit a mortal into your dreamer." #NT!
+ MUSING_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName] is recruited into your dreamer." #NT!
+ musing_my_diplomacy:1 "Your Diplomacy: $VALUE|=+0$" #NT!
+ musing_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!

@@ -1,0 +1,13 @@
+﻿l_russian:
+
+ LOCAL_SPIRIT:0 "Local Spirit" #NT!
+ randomspiritdialog:0 "[Character.Custom( 'RandomSpiritDialog' )]" #NT!
+
+ random_dialog_generica:0 "Boooh!" #NT!
+
+ random_dialog_bound_wraitha:0 "It's you!" #NT!
+ random_dialog_bound_wraithb:0 "Why are you here?" #NT!
+
+ random_dialog_reweavera:0 "A thing to Reweave perhaps?" #NT!
+ random_dialog_reweaverb:0 "I can reassemble things." #NT!
+ random_dialog_reweaverc:0 "Did you find any piece in the Maelstrom?" #NT!

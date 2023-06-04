@@ -1,0 +1,284 @@
+﻿l_russian:
+ NOT_realm_actor_0_valid:0 "You must be the target's [best_friend|E], [soulmate|E], [close_family|E], or [host|E] who gave them any court position." #NT!
+ NOT_realm_actor_1_valid:0 "You must be the target's [friend|E], [lover|E], employer, direct liege, house member, have a strong [title_claim|E] or [strong_hook|E] on them, or know their criminal [secret|E]." #NT!
+ NOT_realm_actor_2_valid:0 "You must be the target's [friend|E], [lover|E], [host|E], [vassal|E], [liege|E], dynasty member, have a [title_claim|E] or [hook|E] on them, or know their [secret|E]." #NT!
+ NOT_realm_actor_3_valid:0 "You must have a good relation with the target, be the target's [host|E], [vassal|E], [liege|E], dynasty member, having a claim or [hook|E] on them, or know their [secret|E]." #NT!
+
+ POD_train_cantrips_interaction:0 "Train Cantrip" #NT!
+ POD_train_cantrips_interaction_desc:0 "Teach [recipient.GetFirstName] one of your Arts or Realm" #NT!
+
+ TRUCE_SIGNED_FAE:0 "\nTruce signed because of the use of the Veiled Eyes power." #NT!
+ copied_artifact_name:0 "Carbon Copy of [target.GetNameNoTooltip]" #NT!
+ copied_artifact_desc:0 "Manipulation of Glamour complex enough to copy something takes time and patience to perfect, but once mastered, can create replicas good enough to fool an observer, at least for a while." #NT!
+ POD_trash_artifact:0 "[ARTIFACT.GetName] is a trash/unwanted/cursed artifact." #NT!
+ NOT_POD_trash_artifact:0 "[ARTIFACT.GetName] is #bold not#! a trash/unwanted/cursed artifact." #NT!
+ POD_unique_artifact:0 "[ARTIFACT.GetName] is an unique artifact." #NT!
+ NOT_POD_unique_artifact:0 "[ARTIFACT.GetName] is #bold not#! an unique artifact." #NT!
+ POD_reverie_title:0 "Reverie" #NT!
+
+ POD_has_inspiration:0 "[TARGET_CHARACTER.GetFirstName] has an [inspiration|E]" #NT!
+ NOT_POD_has_inspiration:0 "[TARGET_CHARACTER.GetFirstName] does #bold not#! have an [inspiration|E]" #NT!
+
+ POD_ravaging_interaction:0 "Ravaging" #NT!
+ POD_ravaging_interaction_desc:0 "Ravaging [recipient.GetFirstName]'s [inspiration|E] to gain glamour." #NT!
+ POD_rhapsody_interaction:0 "Rhapsody" #NT!
+ POD_rhapsody_interaction_desc:0 "Rhapsody [recipient.GetFirstName] to gain glamour." #NT!
+ POD_reaving_interaction:0 "Reaving" #NT!
+ POD_reaving_interaction_desc:0 "Reaving your current location to gain glamour." #NT!
+
+ POD_musing_interaction_limit:0 "Dreamer size is capped! (3 plus 1 per [diplomacy_i]#V 8#! [diplomacy|E] plus any bonuses from other sources)" #NT!
+ POD_musing_interaction.tt:0 "[recipient.GetFirstName] will gain [inspiration|E] between [recipient.MakeScope.ScriptValue('min_musing_days')|V0] and [recipient.MakeScope.ScriptValue('max_musing_days')|V0] days." #NT!
+ POD_musing_mortal_interaction:0 "Musing #weak (Scheme)#!" #NT!
+ POD_musing_mortal_interaction_desc:0 "Plot to procure [recipient.GetFirstName] as a dreamer from which you can safely ravage glamour at will." #NT!
+ POD_musing_prisoner_interaction:0 "Musing Prisoner" #NT!
+ POD_musing_prisoner_interaction_desc:0 "Forcibly make [recipient.GetFirstName] your dreamer." #NT!
+ POD_musing_prisoner_interaction.tt:0 "[recipient.GetFirstName] becomes your dreamer." #NT!
+
+ POD_season_kingmaker_interaction:0 "Ask Favor" #NT!
+ POD_season_kingmaker_interaction_desc:0 "As the season kingmaker, ask a favor from a promoted season court member." #NT!
+
+ POD_create_glamour_vessel_interaction:0 "Create Glamour Vessel" #NT!
+ POD_create_glamour_vessel_interaction_desc:0 "Create an artifact to store Glamour" #NT!
+ POD_store_glamour_interaction:0 "Store Glamour" #NT!
+ POD_store_glamour_interaction_desc:0 "Store Glamour into your Glamour vessel." #NT!
+ POD_store_glamour_interaction_options_heading:0 "How much do you want to store?" #NT!
+ POD_extract_glamour_interaction:0 "Extract Stored Glamour" #NT!
+ POD_extract_glamour_interaction_desc:0 "Extract stored Glamour from the Glamour vessel to refuel you." #NT!
+ POD_extract_glamour_interaction_options_heading:0 "How much do you want to extract?" #NT!
+ POD_extract_glamour_1_tooltip:0 "Spends #V 1#! stored Glamour" #NT!
+ POD_extract_glamour_2_tooltip:0 "Spends #V 2#! stored Glamour" #NT!
+ POD_extract_glamour_3_tooltip:0 "Spends #V 3#! stored Glamour" #NT!
+ POD_extract_glamour_4_tooltip:0 "Spends #V 4#! stored Glamour" #NT!
+ POD_extract_glamour_5_tooltip:0 "Spends #V 5#! stored Glamour" #NT!
+ glamour_vessel_damaged:0 "Glamour Vessel Damaged" #NT!
+
+ artifact_glamour_vessel_name:0 "Glamour Battery" #NT!
+ artifact_glamour_vessel_description:0 "#bold Allow to, when needing to spend Glamour, first spend the Glamour stored in a Glamour Vessel.#!\nIn the common parlance of the Nockers, FUBAR is an acronym for 'Fucked Up Beyond All Recognition;' A bad mistake. Also a Will o' the wisp (an electricity or fire chimera) used to power nockers' chimerical inventions." #NT!
+
+ POD_fuddle_perk_interaction:0 "Fuddle" #NT!
+ POD_fuddle_perk_interaction_desc:0 "Confuse sense to make [recipient.GetFirstName] more or less resistant to schemes." #NT!
+ POD_veiled_eyes_perk_war_interaction:0 "Hide Domain" #NT!
+ POD_veiled_eyes_perk_war_interaction_desc:0 "Make your domain inconspicuous to [recipient.GetFirstName]." #NT!
+ POD_veiled_eyes_perk_scheme_interaction:0 "Hide Person" #NT!
+ POD_veiled_eyes_perk_scheme_interaction_desc:0 "Make [recipient.GetFirstName] hidden from schemes." #NT!
+ POD_veiled_eyes_perk_scheme_interaction_tooltip:0 "Every scheme targeting [recipient.GetFirstName], personal or hostile, is stopped." #NT!
+ POD_fugue_perk_interaction:0 "Fugue" #NT!
+ POD_fugue_perk_interaction_desc:0 "Make [recipient.GetFirstName] forget." #NT!
+ POD_fugue_perk_crime_interaction:0 "Fugue #weak (Crime)#!" #NT!
+ POD_fugue_perk_crime_interaction_desc:0 "Hide [recipient.GetFirstName]'s crime." #NT!
+ POD_haunted_heart_perk_interaction:0 "Haunted Heart" #NT!
+ POD_haunted_heart_perk_interaction_desc:0 "Manipulate [recipient.GetFirstName]'s emotions." #NT!
+
+ POD_effigy_perk_interaction:0 "Effigy" #NT!
+ POD_effigy_perk_interaction_desc:0 "Copy [recipient.GetFirstName] owned artifact." #NT!
+ POD_mooch_perk_interaction:0 "Mooch" #NT!
+ POD_mooch_perk_interaction_desc:0 "Steal [recipient.GetFirstName] owned artifact." #NT!
+ POD_phantom_shadows_perk_interaction:0 "Phantom Shadow" #NT!
+ POD_phantom_shadows_perk_interaction_desc:0 "Create a Phantom Shadow of [recipient.GetFirstName]." #NT!
+ POD_phantom_shadows_perk_interaction.tt:0 "You will try to create a Phantom Shadow" #NT!
+
+ POD_fae_interactions.11.t:0 "Create Phantom Shadow" #NT!
+ POD_fae_interactions.11.desc:0 "With your mastery of Legerdemain, you can try to summon up a Phantom Shadow of [cloned_character.GetFirstName] for combat." #NT!
+ POD_fae_interactions.11.option.a:0 "I summon you!" #NT!
+ POD_fae_interactions.11.option.a.tt:0 "You will try to summon a Phantom Shadow" #NT!
+ POD_fae_interactions.11.option.a.desc:0 "A struggle with your willpower" #NT!
+ POD_fae_interactions.11.option.a.tt.success:0 "[cloned_character.GetFirstName]'s Phantom Shadow is successfully summoned" #NT!
+ POD_fae_interactions.11.option.a.tt.failure:0 "You fail to summon [cloned_character.GetFirstName]'s Phantom Shadow" #NT!
+ POD_fae_interactions.11.option.b:0 "Now is not the right time" #NT!
+ POD_fae_interactions.11.option.b.tt:0 "You will abandon your idea of summoning a Phantom Shadows" #NT!
+ POD_fae_interactions.12.t:0 "Summons Phantom Shadow II" #NT!
+ POD_fae_interactions.12.desc:0 "With your mastery of Legerdemain, you managed to successfully summon Phantom Shadows of [cloned_character.GetFirstName], now it's time to give orders." #NT!
+ POD_fae_interactions.12.option.a:0 "Stand for me in battle" #NT!
+ POD_fae_interactions.12.option.a.tt:0 "[cloned_character.GetFirstName]'s Phantom Shadow is successfully summoned." #NT!
+ POD_fae_interactions.13.t:0 "Summons Phantom Shadow II" #NT!
+ POD_fae_interactions.13.desc:0 "Even your mastery of Legerdemain is not enough to summon [cloned_character.GetFirstName]'s Phantom Shadow... for now." #NT!
+ POD_fae_interactions.13.option.a:0 "I am not ready yet" #NT!
+ POD_fae_interactions.13.option.a.tt:0 "You failed to summon [cloned_character.GetFirstName]'s Phantom Shadow" #NT!
+ POD_fae_interactions.14.t:0 "Fade of Phantom Shadow" #NT!
+ POD_fae_interactions.14.desc:0 "Your Phantom Shadow has suffered an incident and faded." #NT!
+ POD_fae_interactions.14.option.a:0 "My Phantom Shadow is destroyed" #NT!
+ POD_fae_interactions.14.option.a.tt:0 "Your Phantom Shadow is no more" #NT!
+
+ POD_eldritch_prime_interaction:0 "Weather Cantrip" #NT!
+ POD_eldritch_prime_worldly_interaction:0 "Weather Cantrip #Weak (Worldly)#!" #NT!
+ POD_eldritch_prime_interaction_desc:0 "Cause natural hazard on selected area." #NT!
+ POD_oakenshield_interaction:0 "Oakenshield" #NT!
+ POD_oakenshield_worldly_interaction:0 "Oakenshield #Weak (Worldly)#!" #NT!
+ POD_oakenshield_interaction_desc:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over [recipient.GetFirstName]'s realm." #NT!
+ POD_oakenshield_interaction_desc.middle_east:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_oakenshield_interaction_desc.india:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over India." #NT!
+ POD_oakenshield_interaction_desc.tibet:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_oakenshield_interaction_desc.steppe:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_oakenshield_interaction_desc.asia_minor:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_oakenshield_interaction_desc.africa:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_oakenshield_interaction_desc.europe:0 "Unleashing [GetModifier('oakenshield_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_heathe_balm_character_interaction:0 "Heathe Balm" #NT!
+ POD_heathe_balm_character_interaction_desc:0 "Use the power of Cantrip to heal [recipient.GetFirstName]'s wounds." #NT!
+ POD_heathe_balm_character_interaction_options_heading:0 "What shall I call on Cantrip to heal?" #NT!
+ POD_holly_strike_character_interaction:0 "Holly Strike" #NT!
+ POD_holly_strike_character_interaction_desc:0 "Use the power of Cantrip to cause wounds on [recipient.GetFirstName]." #NT!
+ POD_holly_strike_character_interaction_options_heading:0 "What shall I call on Cantrip to damage?" #NT!
+ POD_holly_strike_artifact_interaction:0 "Break Artifact" #NT!
+ POD_holly_strike_artifact_interaction_desc:0 "Use the power of Cantrip to break target artifact into pieces." #NT!
+ POD_fae_shapeshift_interaction:0 "Shapeshift" #NT!
+ POD_fae_shapeshift_interaction_desc:0 "Use your power to shapeshift your form." #NT!
+
+ POD_omen_perk_interaction:0 "Omen" #NT!
+ POD_omen_perk_interaction_desc:0 "Use soothsaying to learn of every secret and scheme of [recipient.GetFirstName]." #NT!
+ POD_fae_wealth_and_influence_interaction:0 "Foul or Fair" #NT!
+ POD_fae_wealth_and_influence_interaction_desc:0 "Use soothsaying to make [recipient.GetFirstName] gain/lose wealth and influence." #NT!
+ foul_is_fair_interaction:0 "Fair" #NT!
+ fair_is_foul_interaction:0 "Foul" #NT!
+ POD_tattletale_perk_interaction:0 "Tattletale" #NT!
+ POD_tattletale_perk_interaction_desc:0 "Use soothsaying to make target artifact your eyes." #NT!
+ POD_augury_perk_interaction:0 "Augury" #NT!
+ POD_augury_perk_interaction_desc:0 "Use soothsaying to have a chance of a random event happening for [recipient.GetFirstName]." #NT!
+ POD_fate_fire_perk_interaction:0 "Fate Fire" #NT!
+ POD_fate_fire_perk_interaction_desc:0 "Use soothsaying to accelerate fate." #NT!
+
+ POD_flicker_flash_perk_interaction:0 "Flicker Flash" #NT!
+ POD_flicker_flash_perk_interaction_desc:0 "Teleport to [recipient.GetFirstName]'s location." #NT!
+
+ POD_dream_time_interaction:0 "Dream Time #Weak (County)#!" #NT!
+ POD_dream_time_worldly_interaction:0 "Dream Time #Weak (Worldly)#!" #NT!
+ POD_dream_time_interaction_desc:0 "Changes the speed of [recipient.GetFirstName]'s realm." #NT!
+ POD_dream_time_interaction_desc.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over [target.GetName]" #NT!
+ POD_dream_time_interaction_desc.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over [target.GetName]" #NT!
+ POD_dream_time_interaction_desc.middle_east.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_dream_time_interaction_desc.india.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over India." #NT!
+ POD_dream_time_interaction_desc.tibet.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_dream_time_interaction_desc.steppe.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_dream_time_interaction_desc.asia_minor.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_dream_time_interaction_desc.africa.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_dream_time_interaction_desc.europe.positive:0 "Cause [GetModifier('dream_time_perk_county_positive_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_dream_time_interaction_desc.middle_east.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over the middle east." #NT!
+ POD_dream_time_interaction_desc.india.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over India." #NT!
+ POD_dream_time_interaction_desc.tibet.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over Tibet." #NT!
+ POD_dream_time_interaction_desc.steppe.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over the steppe." #NT!
+ POD_dream_time_interaction_desc.asia_minor.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over Asia minor." #NT!
+ POD_dream_time_interaction_desc.africa.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over Africa." #NT!
+ POD_dream_time_interaction_desc.europe.negative:0 "Cause [GetModifier('dream_time_perk_county_negative_modifier').GetNameWithTooltip] over Europe." #NT!
+ POD_dream_time_character_interaction:0 "Dream Time #Weak (Character)#!" #NT!
+ POD_dream_time_character_interaction_desc:0 "Changes the speed of time for a person." #NT!
+ POD_permanence_interaction:0 "Permanence" #NT!
+ POD_permanence_interaction_desc:0 "Extends the duration of an Art." #NT!
+ POD_reversa_of_fortune_interaction:0 "Reversa of Fortune" #NT!
+ POD_reversa_of_fortune_interaction_desc:0 "Return from future." #NT!
+
+ POD_dream_riding_interaction:0 "Dream-Riding" #NT!
+ POD_dream_riding_interaction_desc:0 "Interact with [recipient.GetFirstName]'s dream while the you are in the [dreaming|E]." #NT!
+
+ POD_rune_interaction:0 "Rune" #NT!
+ POD_rune_interaction_desc:0 "Upgrade artifact modifier or give it a new modifier." #NT!
+ POD_cantrip_discover_true_name_interaction:0 "Discover True Name" #NT!
+ POD_reweaving_interaction:0 "Reweaving" #NT!
+ POD_reweaving_interaction_desc:0 "Edit [recipient.GetFirstName]'s traits." #NT!
+
+ POD_fae_interactions.200.t:0 "Trait Editor" #NT!
+ POD_fae_interactions.201.t:0 "Trait Editor: Education Traits" #NT!
+ POD_fae_interactions.202.t:0 "Trait Editor: Lifestyle Traits" #NT!
+ POD_fae_interactions.203.t:0 "Trait Editor: Commander Traits" #NT!
+ POD_fae_interactions.204.t:0 "Trait Editor: Personality Traits" #NT!
+ POD_fae_interactions.205.t:0 "Trait Editor: Physical Traits" #NT!
+ POD_fae_interactions.206.t:0 "Trait Editor: Health Traits" #NT!
+ POD_fae_interactions.207.t:0 "Trait Editor: Stress Traits" #NT!
+ POD_fae_interactions.208.t:0 "Trait Editor: Fame Traits" #NT!
+ POD_fae_interactions.200.desc:0 "Edit [effigy_character.GetFirstName]'s traits." #NT!
+ POD_fae_interactions.200.option.a:0 "Education Traits" #NT!
+ POD_fae_interactions.200.option.b:0 "Lifestyle Traits" #NT!
+ POD_fae_interactions.200.option.c:0 "Commander Traits" #NT!
+ POD_fae_interactions.200.option.d:0 "Personality Traits" #NT!
+ POD_fae_interactions.200.option.e:0 "Physical Traits" #NT!
+ POD_fae_interactions.200.option.f:0 "Health Traits" #NT!
+ POD_fae_interactions.200.option.g:0 "Stress Traits" #NT!
+ POD_fae_interactions.200.option.h:0 "Fame Traits" #NT!
+ POD_fae_interactions.200.option.i:0 "Nothing" #NT!
+
+ POD_dictum_interaction:0 "Dictum" #NT!
+ POD_dictum_interaction_desc:0 "Gain hook from [recipient.GetFirstName]." #NT!
+ POD_grandeur_interaction:0 "Grandeur" #NT!
+ POD_grandeur_interaction_desc:0 "Recruit or imprison [recipient.GetFirstName]." #NT!
+
+ POD_oathbreaking:0 "Oath Break" #NT!
+ has_any_can_be_exposed_secret:0 "You do #bold not#! have any secret that can be exposed." #NT!
+
+ POD_oath_of_secrecy_interaction:0 "Oath of Secrecy" #NT!
+ POD_oath_of_secrecy_interaction_desc:0 "An Oath to protect valuable information." #NT!
+ POD_oath_of_secrecy_interaction_tooltip:0 "[recipient.GetFirstName] will become [GetTrait('oathbreaker').GetName( GetPlayer )] if they expose your secret." #NT!
+ oath_of_secrecy_opinion:0 "Oath of Secrecy" #NT!
+ oath_of_secrecy_modifier:0 "Oath of Secrecy" #NT!
+ oath_of_secrecy_modifier_desc:0 "Character will become [GetTrait('oathbreaker').GetName( GetPlayer )] if they expose the oath target's secret.\n#Flavor As the Mists enshroud mortal minds and Arcadia's gate stands unfound, so I shall keep close and secret the knowledge I gain in this time and place. Never shall it pass my lips, else may night become as day and all things hidden be exposed.#!" #NT!
+
+ POD_oath_of_guardianship_interaction:0 "Oath of Guardianship" #NT!
+ POD_oath_of_guardianship_interaction_desc:0 "Oath to protect a person, place or thing." #NT!
+ POD_oath_of_guardianship_interaction_tooltip:0 "[recipient.GetFirstName] will become [GetTrait('oathbreaker').GetName( GetPlayer )] if [secondary_recipient.GetFirstName] die." #NT!
+ recipient_secondary_POD_oath_of_guardianship_interaction:0 "Person of Oath" #NT!
+ oath_of_guardianship_opinion:0 "Oath of Guardianship" #NT!
+ oath_of_guardianship_modifier:0 "Oath of Guardianship" #NT!
+ oath_of_guardianship_modifier_desc:0 "Character will try to save the oath target from murder.\nCharacter will become [GetTrait('oathbreaker').GetName( GetPlayer )] if oath target die.\n#Flavor As the sun guards the Earth by day; as the stars by night, so shall l serve thee. This is my duty. I shall not abandon thee 'til promised moment, else may the stars close their eyes and sleep.#!" #NT!
+
+ POD_oath_of_truehearts_interaction:0 "Oath of Truehearts" #NT!
+ POD_oath_of_truehearts_interaction_desc:0 "Oath sworn by lovers among the Kithain to each other." #NT!
+ POD_oath_of_truehearts_interaction_tooltip:0 "[recipient.GetFirstName] will become [GetTrait('oathbreaker').GetName( GetPlayer )] if they have sex with another." #NT!
+ oath_of_truehearts_opinion:0 "Oath of Truehearts" #NT!
+ oath_of_truehearts_modifier:0 "Oath of Truehearts" #NT!
+ oath_of_truehearts_modifier_desc:0 "Character will try not have sex with other people.\nCharacter will become [GetTrait('oathbreaker').GetName( GetPlayer )] if had sex with other.\n#Flavor I give a gift of myself to thee. Take it freely; freely it is offered, and forever thou hast me in thy keeping. I swear love unto you and pledge you my troth. May those who watch over love watch over this oath and those who keep it, and may we never find fault in their eyes.#!" #NT!
+
+ POD_fae_interactions.300.t:0 "$murder_save_header$ Oath Guardian" #NT!
+ POD_fae_interactions.300.desc.assassin:0 "My assassin failed to kill [target.GetTitledFirstName]! Apparently [target.GetFirstNamePossessiveNoTooltip] Oath Guardian [oath_guardian.GetTitledFirstName] intervened, appearing seconds before the murder would have taken place and dispatching my hired killer." #NT!
+ POD_fae_interactions.300.desc.thugs:0 "The thugs I hired to kill [target.GetTitledFirstName] have failed in their mission! Despite their viciousness, [target.GetFirstNamePossessiveNoTooltip] Oath Guardian was able to keep [target.GetHerHim] from harm long enough that [target.GetHerHis] guards were able to rally and dispatch the remaining brigands." #NT!
+ POD_fae_interactions.300.desc.mob:0 "While the mob I incited to kill [target.GetTitledFirstName] managed to drag [target.GetHerHim] off [target.GetHerHis] horse, they were unable to finish the job before [target.GetFirstNamePossessiveNoTooltip] Oath Guardian intervened. [oath_guardian.GetSheHe|U] mercilessly dispatched the peasants within striking range of [target.GetFirstNameNoTooltip] and scared the others into fleeing." #NT!
+ POD_fae_interactions.300.desc.lured_into_forest:0 "I had thought my plan to get [target.GetTitledFirstName] lost in the forest had gone perfectly when nightfall came without a sign of the wayward [target.Custom('GirlBoy')].\n\nUnfortunately, right as I was about to go to bed I got news that [target.GetFirstNamePossessiveNoTooltip] Oath Guardian emerged from the woods with the [target.Custom('GirlBoy')] in tow. Apparently [oath_guardian.GetSheHe] took it upon [oath_guardian.GetHerselfHimself] to track [target.GetFirstNamePossessiveNoTooltip] trail through the woods and found him just before the hungry animals did." #NT!
+ POD_fae_interactions.300.desc.child_pushed:0 "The silly little [target.Custom('GirlBoy')] who would be [target.GetTitleAsNameNoTooltip] was stupid enough to fall into my trap! [target.GetFirstName] climbed up to the balcony edge just as planned, and my agent pushed [target.GetHerHim] off into the open air...\n\n..But what should have been a lethal fall wasn't, when [target.GetSheHe] was caught by [target.GetHerHis] Oath Guardian just before hitting the ground. [target.GetSheHe|U] lives to see another day, and is unlikely to fall for that ploy again." #NT!
+ POD_fae_interactions.300.oath_guardian_dies:0 "\n\nAt the very least, [oath_guardian.GetFirstNameNoTooltip] won't trouble me again, as [oath_guardian.GetSheHe] has died from [oath_guardian.GetHerHis] wounds." #NT!
+ POD_fae_interactions.300.a:0 "It's over..." #NT!
+ POD_fae_interactions.300.b:0 "... It's not over till I say it's over!" #NT!
+ POD_fae_interactions.301.t:0 "$murder_save_header$ Oath Guardian" #NT!
+ POD_fae_interactions.301.desc.assassin:0 "I almost #EMP died#! today! Had [oath_guardian.GetFirstName] not noticed something amiss and followed me to my quarters, I'd be a corpse by now.\n\nThe first thing I heard of the assassin was [oath_guardian.GetFirstNameNoTooltip] bodily tackling someone to the ground immediately behind me, and then it was all a blur of knives and fists till the assailant lay dead." #NT!
+ POD_fae_interactions.301.desc.assassin.oath_guardian_dies:0 "\n\nSadly, [oath_guardian.GetFirstNameNoTooltip] paid the ultimate price. Though the assassin is dead, [oath_guardian.GetHerHis] wounds proved fatal." #NT!
+ POD_fae_interactions.301.desc.thugs:0 "I am traveling with my retinue when a shout comes from a copse of trees. "Attack! Go for the [ROOT.Char.GetTitleTierName]!" An ambush!\n\nThese are no mere bandits after my gold, but thugs after my life! My Oath Guardian [oath_guardian.GetFirstNameNoTooltip] rushes to my defense, placing [oath_guardian.GetHerHis] body between the bloodthirsty bandits and myself.\n\n[oath_guardian.GetFirstNameNoTooltip|U] stages a fighting retreat as my foes converge on our position with blades swinging, but soon my other guards are able to rally to our defense and cut down the remaining attackers." #NT!
+ POD_fae_interactions.301.desc.thugs.oath_guardian_dies:0 "It is only when the fighting has subsided that [oath_guardian.GetSheHe] slumps to the ground, and I discover [oath_guardian.GetHerHis] deep wounds. [oath_guardian.GetSheHe] truly protected me until the very last..." #NT!
+ POD_fae_interactions.301.desc.mob:0 "I am riding through the streets of [home_province.GetName] when a mob of screaming and shouting peasants descends on my retinue. Before I realize what is happening, the commoners tear me from my horse and start beating me!\n\nMy Oath Guardian [oath_guardian.GetFirstName] rushes to my defense with [oath_guardian.Custom('signature_weapon')] in hand, mercilessly [oath_guardian.Custom('SignatureWeaponWoundVerb1PresentParticiple')] at the peasants who were striking me and, perhaps unglamorously, protecting me from further harm as I get buried underneath their corpses." #NT!
+ POD_fae_interactions.301.desc.mob.oath_guardian_lives:0 "\n\nAfter the sounds of fighting cease [oath_guardian.GetFirstNameNoTooltip] rolls the bodies off of me and helps me to my feet. Apart from us the street is now deserted, all of the conspirators dead or fled." #NT!
+ POD_fae_interactions.301.desc.mob.oath_guardian_dies:0 "\n\nBy the time I extract myself from the corpse-pile, the street is deserted except for the bodies of the fallen — [oath_guardian.GetFirstNameNoTooltip] among them." #NT!
+ POD_fae_interactions.301.desc.lured_into_forest:0 "I was playing hide-and-seek with some courtiers in the woods when I realize it has been a very long time since I have heard anyone looking for me. Too long.\n\nI call out, but hear nothing. I've been abandoned... I try to find my way home, but I do not know which way is which, and it gets dark fast.\n\nSoon I can hear the beasts moving among the trees, but before they can reach me my Oath Guardian [oath_guardian.GetFirstName] is there, out of breath and brandishing a flaming torch. The fire seems to deter the beasts, who keep their distance as [oath_guardian.GetSheHe] pants "Let's get... you home... my liege..."" #NT!
+ POD_fae_interactions.301.desc.child_pushed:0 "\n\n#EMP WHUMP#!\n\nI have fallen into the arms of my Oath Guardian, [oath_guardian.GetFirstNameNoTooltip]. "Foolish child! If I hadn't gotten to you in time... never mind. Let us get you somewhere safe."" #NT!
+ POD_fae_interactions.301.owner_discovered:0 "\n\nOnly one person could be possibly be responsible for this attack: [owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]!" #NT!
+ POD_fae_interactions.301.a:0 "Who would want to have #EMP me#! killed?" #NT!
+ POD_fae_interactions.301.b:0 "[owner.GetSheHe|U] will suffer for this!" #NT!
+
+ POD_create_animantis_interaction:0 "Create Animantis" #NT!
+ POD_create_animantis_interaction_desc:0 "Create an [GetTrait('statue').GetName( GetPlayer )] character." #NT!
+
+ POD_fae_interactions.400.t:0 "Assign Attribute: Martial" #NT!
+ POD_fae_interactions.401.t:0 "Assign Attribute: Stewardship" #NT!
+ POD_fae_interactions.402.t:0 "Assign Attribute: Diplomacy" #NT!
+ POD_fae_interactions.403.t:0 "Assign Attribute: Intrigue" #NT!
+ POD_fae_interactions.404.t:0 "Assign Attribute: Learning" #NT!
+ POD_fae_interactions.405.t:0 "Assign Attribute: Prowess" #NT!
+ POD_fae_interactions.400.desc:0 "Available Attribute Point: [effigy_character.MakeScope.ScriptValue('animantis_atribute_points')|V0]" #NT!
+
+ POD_gilgul_interaction:0 "Gilgul" #NT!
+ POD_gilgul_interaction_desc:0 "Edit target [GetTrait('statue').GetName( GetPlayer )]'s mental and physical traits." #NT!
+
+ POD_fae_interactions.500.t:0 "Gilgul" #NT!
+
+ POD_learn_arts_interaction:0 "Ask for Mentoring" #NT!
+ POD_learn_arts_interaction_desc:0 "You can ask a friend, lover or soulmate to teach you an Art you don't already know." #NT!
+ POD_learn_arts_interaction_accept:0 "If your mentor has something to teach you, you will be given a choice of Art to learn." #NT!
+ POD_mentoring_disciplines.0003.t:0 "Mentoring" #NT!
+ POD_mentoring_disciplines.0003.desc:0 "If your prospective mentor knows an Art you don't, you might ask them to share their knowledge with you." #NT!
+ POD_mentoring_disciplines.0003.option.a:0 "Not this time" #NT!
+ POD_learn_arts_custom:0 "If your friend has no Art that you can learn, you can do nothing right now" #NT!
+
+ POD_convert_to_catlover_interaction:0 "Convert to Cat Lover" #NT!
+ POD_convert_to_catlover_interaction_desc:0 "Convert [recipient.GetFirstName] to cat lover." #NT!
+ convert_to_catlover:0 "Convert to Cat Lover" #NT!
+ convert_to_catlover_action:0 "Convert to Cat Lover" #NT!
+ convert_to_catlover_desc:0 "I convert [SCHEME.GetTarget.GetShortUINameNoTooltip] into cat lover." #NT!
+ convert_to_catlover_desc_general:0 "Try to convert target into cat lover" #NT!
+ convert_to_catlover_SUCCESS_DESC:0 "You will make [TARGET_CHARACTER.GetShortUIName] adopt a cat" #NT!
+ convert_to_catlover_my_diplomacy:1 "Your Diplomacy: $VALUE|=+0$" #NT!
+ convert_to_catlover_my_rival:1 "Your Victim: $VALUE|=+0$" #NT!
+ convert_to_catlover_scheme_invalidated_title:0 "@scheme_icon! Convert to Cat Lover Scheme Ends" #NT!
+ SCHEME_I_AM_CATLOVER:1 "You have a cat: $VALUE|0=-+$" #NT!

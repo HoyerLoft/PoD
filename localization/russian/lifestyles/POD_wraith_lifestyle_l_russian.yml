@@ -1,0 +1,683 @@
+﻿l_russian:
+ ######################### #NT!
+ # Arcanoi #NT!
+ ######################### #NT!
+ arcanoi_lifestyle_name:0 "Arcanoi" #NT!
+ arcanoi_lifestyle_desc:0 "The arts of the dead, Arcanoi are secret spiritual abilities that can either be taught or acquired through experience." #NT!
+ arcanoi_lifestyle_highlight_desc:0 "Because of your Guild [government|E], you gain #P 50%#! more [experience|E] in this Lifestyle." #NT!
+ monthly_arcanoi_lifestyle_xp_gain_mult:0 "Monthly Arcanoi [lifestyle|E] [experience|E]" #NT!
+
+ thorn_lifestyle_name:0 "Thorn" #NT!
+ thorn_lifestyle_desc:0 "The tools that the Shadow uses to gain control from Psyche or cause Psyche to slip up and hasten Psyche downward spiral toward Oblivion." #NT!
+ thorn_lifestyle_highlight_desc:0 "Because of your Catharsis, you gain #P 50%#! more [experience|E] in this Lifestyle." #NT!
+ monthly_thorn_lifestyle_xp_gain_mult:0 "Monthly Thorn [lifestyle|E] [experience|E]" #NT!
+
+ jade_arcanoi_lifestyle_name:0 "Jade Arcanoi" #NT!
+ jade_arcanoi_lifestyle_desc:0 "Arcanoi of the wraiths of the Yellow Springs." #NT!
+ jade_arcanoi_lifestyle_highlight_desc:0 "Because of your Yellow Springs [government|E], you gain #P 50%#! more [experience|E] in this Lifestyle." #NT!
+ monthly_jade_arcanoi_lifestyle_xp_gain_mult:0 "Monthly Jade Arcanoi [lifestyle|E] [experience|E]" #NT!
+
+ arcanos_argos_focus:0 "Argos Focus" #NT!
+ arcanos_argos_focus_modifier:1 "[GetFocus('arcanos_argos_focus').GetName]" #NT!
+ arcanos_argos_focus_desc:0 "Manipulate, navigate, and travel through the Tempest." #NT!
+ arcanos_argos_focus_effect_desc:0 "Focusing on Argos grants:" #NT!
+
+ arcanos_castigate_focus:0 "Castigate Focus" #NT!
+ arcanos_castigate_focus_modifier:1 "[GetFocus('arcanos_castigate_focus').GetName]" #NT!
+ arcanos_castigate_focus_desc:0 "Manipulate and control a wraith's Shadow." #NT!
+ arcanos_castigate_focus_effect_desc:0 "Focusing on Castigate grants:" #NT!
+
+ arcanos_embody_focus:0 "Embody Focus" #NT!
+ arcanos_embody_focus_modifier:1 "[GetFocus('arcanos_embody_focus').GetName]" #NT!
+ arcanos_embody_focus_desc:0 "Manifest in the physical world and appear as a living person." #NT!
+ arcanos_embody_focus_effect_desc:0 "Focusing on Embody grants:" #NT!
+
+ arcanos_fatalism_focus:0 "Fatalism Focus" #NT!
+ arcanos_fatalism_focus_modifier:1 "[GetFocus('arcanos_fatalism_focus').GetName]" #NT!
+ arcanos_fatalism_focus_desc:0 "See into another's past or future, and read a wraith's ultimate Fate." #NT!
+ arcanos_fatalism_focus_effect_desc:0 "Focusing on Fatalism grants:" #NT!
+
+ arcanos_inhabit_focus:0 "[SelectLocalization(GetPlayer.IsValid, 'inhabit_visible', 'inhabit_modern_name')] Focus" #NT!
+ arcanos_inhabit_focus_modifier:1 "[GetFocus('arcanos_inhabit_focus').GetName]" #NT!
+ arcanos_inhabit_focus_desc:0 "Manipulate and control inanimate objects." #NT!
+ arcanos_inhabit_focus_effect_desc:0 "Focusing on $inhabit_visible$ grants:" #NT!
+
+ arcanos_keening_focus:0 "Keening Focus" #NT!
+ arcanos_keening_focus_modifier:1 "[GetFocus('arcanos_keening_focus').GetName]" #NT!
+ arcanos_keening_focus_desc:0 "Manipulate emotions through sound." #NT!
+ arcanos_keening_focus_effect_desc:0 "Focusing on Keening grants:" #NT!
+
+ arcanos_lifeweb_focus:0 "Lifeweb Focus" #NT!
+ arcanos_lifeweb_focus_modifier:1 "[GetFocus('arcanos_lifeweb_focus').GetName]" #NT!
+ arcanos_lifeweb_focus_desc:0 "Strengthen, weaken, or watch over [Fetters|E]." #NT!
+ arcanos_lifeweb_focus_effect_desc:0 "Focusing on Lifeweb grants:" #NT!
+
+ arcanos_moliate_focus:0 "Moliate Focus" #NT!
+ arcanos_moliate_focus_modifier:1 "[GetFocus('arcanos_moliate_focus').GetName]" #NT!
+ arcanos_moliate_focus_desc:0 "Reshape your [Corpus|E], and the [Corpus|E] of others." #NT!
+ arcanos_moliate_focus_effect_desc:0 "Focusing on Moliate grants:" #NT!
+
+ arcanos_outrage_focus:0 "Outrage Focus" #NT!
+ arcanos_outrage_focus_modifier:1 "[GetFocus('arcanos_outrage_focus').GetName]" #NT!
+ arcanos_outrage_focus_desc:0 "Manifesting a wraith's will in the form of a powerful force." #NT!
+ arcanos_outrage_focus_effect_desc:0 "Focusing on Outrage grants:" #NT!
+
+ arcanos_pandemonium_focus:0 "Pandemonium Focus" #NT!
+ arcanos_pandemonium_focus_modifier:1 "[GetFocus('arcanos_pandemonium_focus').GetName]" #NT!
+ arcanos_pandemonium_focus_desc:0 "Use of the powers of chaos." #NT!
+ arcanos_pandemonium_focus_effect_desc:0 "Focusing on Pandemonium grants:" #NT!
+
+ arcanos_phantasm_focus:0 "Phantasm Focus" #NT!
+ arcanos_phantasm_focus_modifier:1 "[GetFocus('arcanos_phantasm_focus').GetName]" #NT!
+ arcanos_phantasm_focus_desc:0 "Manipulate dreams and create illusions." #NT!
+ arcanos_phantasm_focus_effect_desc:0 "Focusing on Phantasm grants:" #NT!
+
+ arcanos_puppetry_focus:0 "Puppetry Focus" #NT!
+ arcanos_puppetry_focus_modifier:1 "[GetFocus('arcanos_puppetry_focus').GetName]" #NT!
+ arcanos_puppetry_focus_desc:0 "Control the bodies of the Quick." #NT!
+ arcanos_puppetry_focus_effect_desc:0 "Focusing on Puppetry grants:" #NT!
+
+ arcanos_usury_focus:0 "Usury Focus" #NT!
+ arcanos_usury_focus_modifier:1 "[GetFocus('arcanos_usury_focus').GetName]" #NT!
+ arcanos_usury_focus_desc:0 "Trade the very forces that wraiths thrive on." #NT!
+ arcanos_usury_focus_effect_desc:0 "Focusing on Usury grants:" #NT!
+
+ arcanos_flux_focus:0 "Flux Focus" #NT!
+ arcanos_flux_focus_modifier:1 "[GetFocus('arcanos_flux_focus').GetName]" #NT!
+ arcanos_flux_focus_desc:0 "Affects the structure and reaction of matter in the Skinlands, also affects the workings of wraithly relics." #NT!
+ arcanos_flux_focus_effect_desc:0 "Focusing on Flux grants:" #NT!
+
+ arcanos_intimation_focus:0 "Intimation Focus" #NT!
+ arcanos_intimation_focus_modifier:1 "[GetFocus('arcanos_intimation_focus').GetName]" #NT!
+ arcanos_intimation_focus_desc:0 "Tweak the desires and wishes of other wraiths." #NT!
+ arcanos_intimation_focus_effect_desc:0 "Focusing on Intimation grants:" #NT!
+
+ arcanos_mnemosynis_focus:0 "Mnemosynis Focus" #NT!
+ arcanos_mnemosynis_focus_modifier:1 "[GetFocus('arcanos_mnemosynis_focus').GetName]" #NT!
+ arcanos_mnemosynis_focus_desc:0 "Trace and read the memories of others." #NT!
+ arcanos_mnemosynis_focus_effect_desc:0 "Focusing on Mnemosynis grants:" #NT!
+
+ thorn_focus:0 "Thorn Focus" #NT!
+ thorn_focus_modifier:1 "[GetFocus('thorn_focus').GetName]" #NT!
+ thorn_focus_desc:0 "Powers of Shadow." #NT!
+ thorn_focus_effect_desc:0 "Focusing on Thorn grants:" #NT!
+
+ chains_of_the_emperor_focus:0 "Chains of the Emperor Focus" #NT!
+ chains_of_the_emperor_focus_modifier:1 "[GetFocus('chains_of_the_emperor_focus').GetName]" #NT!
+ chains_of_the_emperor_focus_desc:0 "Subdue any wraith, [GetTrait('barghest').GetName( GetPlayer )], or lesser [GetTrait('spectre').GetName( GetPlayer )]." #NT!
+ chains_of_the_emperor_focus_effect_desc:0 "Focusing on Chains of the Emperor grants:" #NT!
+
+ way_of_the_scholar_focus:0 "Way of the Scholar Focus" #NT!
+ way_of_the_scholar_focus_modifier:1 "[GetFocus('way_of_the_scholar_focus').GetName]" #NT!
+ way_of_the_scholar_focus_desc:0 "Manipulate the huns of other wraiths." #NT!
+ way_of_the_scholar_focus_effect_desc:0 "Focusing on Way of the Scholar grants:" #NT!
+
+ way_of_the_farmer_focus:0 "Way of the Farmer Focus" #NT!
+ way_of_the_farmer_focus_modifier:1 "[GetFocus('way_of_the_farmer_focus').GetName]" #NT!
+ way_of_the_farmer_focus_desc:0 "Control [GetTrait('barghest').GetName( GetPlayer )], or wild spirits with no hun." #NT!
+ way_of_the_farmer_focus_effect_desc:0 "Focusing on Way of the Farmer grants:" #NT!
+
+ way_of_the_artisan_focus:0 "Way of the Artisan Focus" #NT!
+ way_of_the_artisan_focus_modifier:1 "[GetFocus('way_of_the_artisan_focus').GetName]" #NT!
+ way_of_the_artisan_focus_desc:0 "Shape and manipulate objects, relics, and Artifacts." #NT!
+ way_of_the_artisan_focus_effect_desc:0 "Focusing on Way of the Artisan grants:" #NT!
+
+ way_of_the_merchant_focus:0 "Way of the Merchant Focus" #NT!
+ way_of_the_merchant_focus_modifier:1 "[GetFocus('way_of_the_merchant_focus').GetName]" #NT!
+ way_of_the_merchant_focus_desc:0 "To use the sacrifices sent by your living relatives." #NT!
+ way_of_the_merchant_focus_effect_desc:0 "Focusing on Way of the Merchant grants:" #NT!
+
+ way_of_the_soul_focus:0 "Way of the Soul Focus" #NT!
+ way_of_the_soul_focus_modifier:1 "[GetFocus('way_of_the_soul_focus').GetName]" #NT!
+ way_of_the_soul_focus_desc:0 "Master your own [GetTrait('shadow').GetName( GetPlayer )]." #NT!
+ way_of_the_soul_focus_effect_desc:0 "Focusing on Way of the Soul grants:" #NT!
+
+ game_concept_arcanoi:0 "arcanoi" #NT!
+ game_concept_arcanos:0 "arcanos" #NT!
+ game_concept_Arcanoi:0 "Arcanoi" #NT!
+ game_concept_Arcanos:0 "Arcanos" #NT!
+ game_concept_arcanoi_lifestyle:0 "Arcanoi" #NT!
+ game_concept_arcanoi_lifestyle_desc:0 "The $game_concept_arcanoi_lifestyle$ is suitable for [GetTrait('wraith').GetName( GetNullCharacter )]s. The arts of the dead, Arcanoi are secret spiritual abilities that can either be taught or acquired through experience." #NT!
+
+ game_concept_thorn_lifestyle:0 "Thorn" #NT!
+ game_concept_thorn_lifestyle_desc:0 "The $game_concept_arcanoi_lifestyle$ is suitable for [GetTrait('wraith').GetName( GetNullCharacter )]s. Certain, unique powers the Shadow has at its disposal." #NT!
+
+ game_concept_jade_arcanoi:0 "Jade Arcanoi" #NT!
+ game_concept_jade_arcanoi_lifestyle:0 "Jade Arcanoi" #NT!
+ game_concept_jade_arcanoi_lifestyle_desc:0 "The $game_concept_forbidden_arcanoi_lifestyle$ is suitable for [GetTrait('wraith').GetName( GetNullCharacter )]s. Arcanoi of the wraiths of the Yellow Springs." #NT!
+
+ game_concept_true_jade:0 "True Jade" #NT!
+ game_concept_true_jade_desc:0 "True Jade is thought to be a portion of the Universe’s soul in solid form. When True Jade comes into the Yellow Springs, only the Artisans know how to create new and powerful items with it." #NT!
+
+ GAINS_ARCANOI_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [arcanoi_lifestyle|E] Experience" #NT!
+ GAINED_ARCANOI_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [arcanoi_lifestyle|E] Experience" #NT!
+ I_GAIN_ARCANOI_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [arcanoi_lifestyle|E] Experience" #NT!
+ I_GAINED_ARCANOI_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [arcanoi_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_ARCANOI_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [arcanoi_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_ARCANOI_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [arcanoi_lifestyle|E] Experience" #NT!
+
+ GAINS_A_ARCANOI_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_ARCANOI_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_ARCANOI_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_ARCANOI_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_ARCANOI_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_ARCANOI_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+
+ GAINS_THORN_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [thorn_lifestyle|E] Experience" #NT!
+ GAINED_THORN_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [thorn_lifestyle|E] Experience" #NT!
+ I_GAIN_THORN_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [thorn_lifestyle|E] Experience" #NT!
+ I_GAINED_THORN_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [thorn_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_THORN_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [thorn_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_THORN_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [thorn_lifestyle|E] Experience" #NT!
+
+ GAINS_A_THORN_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [thorn_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_THORN_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [thorn_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_THORN_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [thorn_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_THORN_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [thorn_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_THORN_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [thorn_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_THORN_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [thorn_lifestyle|E] [perk|E] Unlock" #NT!
+
+ GAINS_JADE_ARCANOI_LIFESTYLE_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [jade_arcanoi_lifestyle|E] Experience" #NT!
+ GAINED_JADE_ARCANOI_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [jade_arcanoi_lifestyle|E] Experience" #NT!
+ I_GAIN_JADE_ARCANOI_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [jade_arcanoi_lifestyle|E] Experience" #NT!
+ I_GAINED_JADE_ARCANOI_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [jade_arcanoi_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_JADE_ARCANOI_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [jade_arcanoi_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_JADE_ARCANOI_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [jade_arcanoi_lifestyle|E] Experience" #NT!
+
+ GAINS_A_JADE_ARCANOI_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [jade_arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_JADE_ARCANOI_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [jade_arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_JADE_ARCANOI_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [jade_arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_JADE_ARCANOI_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [jade_arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_JADE_ARCANOI_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [jade_arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_JADE_ARCANOI_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [jade_arcanoi_lifestyle|E] [perk|E] Unlock" #NT!
+
+ ARCANOI_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Arcanoi lifestyle perk points: $NUM|V0$" #NT!
+ THORN_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Thorn lifestyle perk points: $NUM|V0$" #NT!
+ JADE_ARCANOI_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Jade Arcanoi lifestyle perk points: $NUM|V0$" #NT!
+
+ NOT_has_arcanos_argos_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_argos').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_castigate_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_castigate').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_embody_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_embody').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_fatalism_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_fatalism').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_inhabit_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_inhabit').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_keening_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_keening').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_lifeweb_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_lifeweb').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_moliate_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_moliate').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_outrage_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_outrage').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_pandemonium_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_pandemonium').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_phantasm_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_phantasm').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_puppetry_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_puppetry').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_usury_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_usury').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_flux_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_flux').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_intimation_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_intimation').GetName( GetPlayer )]#!" #NT!
+ NOT_has_arcanos_mnemosynis_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('arcanos_mnemosynis').GetName( GetPlayer )]#!" #NT!
+
+ full_argos_tooltip:0 "You gain the full Argos [Arcanoi|E] tree." #NT!
+ full_castigate_tooltip:0 "You gain the full Castigate [Arcanoi|E] tree." #NT!
+ full_embody_tooltip:0 "You gain the full Embody [Arcanoi|E] tree." #NT!
+ full_fatalism_tooltip:0 "You gain the full Fatalism [Arcanoi|E] tree." #NT!
+ full_inhabit_tooltip:0 "You gain the full Inhabit [Arcanoi|E] tree." #NT!
+ full_keening_tooltip:0 "You gain the full Keening [Arcanoi|E] tree." #NT!
+ full_lifeweb_tooltip:0 "You gain the full Lifeweb [Arcanoi|E] tree." #NT!
+ full_moliate_tooltip:0 "You gain the full Moliate [Arcanoi|E] tree." #NT!
+ full_outrage_tooltip:0 "You gain the full Outrage [Arcanoi|E] tree." #NT!
+ full_pandemonium_tooltip:0 "You gain the full Pandemonium [Arcanoi|E] tree." #NT!
+ full_phantasm_tooltip:0 "You gain the full Phantasm [Arcanoi|E] tree." #NT!
+ full_puppetry_tooltip:0 "You gain the full Puppetry [Arcanoi|E] tree." #NT!
+ full_usury_tooltip:0 "You gain the full Usury [Arcanoi|E] tree." #NT!
+ full_flux_tooltip:0 "You gain the full Flux [Arcanoi|E] tree." #NT!
+ full_intimation_tooltip:0 "You gain the full Intimation [Arcanoi|E] tree." #NT!
+ full_mnemosynis_tooltip:0 "You gain the full Mnemosynis [Arcanoi|E] tree." #NT!
+ full_chains_of_the_emperor_tooltip:0 "You gain the full Chains of the Emperor [Arcanoi|E] tree." #NT!
+ full_way_of_the_scholar_tooltip:0 "You gain the full Way of the Scholar [Arcanoi|E] tree." #NT!
+ full_way_of_the_farmer_tooltip:0 "You gain the full Way of the Farmer [Arcanoi|E] tree." #NT!
+ full_way_of_the_artisan_tooltip:0 "You gain the full Way of the Artisan [Arcanoi|E] tree." #NT!
+ full_way_of_the_merchant_tooltip:0 "You gain the full Way of the Merchant [Arcanoi|E] tree." #NT!
+ full_way_of_the_soul_tooltip:0 "You gain the full Way of the Soul [Arcanoi|E] tree." #NT!
+
+ # Argos #NT!
+ argos_visible:1 "Argos" #NT!
+
+ enshroud_perk_name:0 "Enshroud" #NT!
+ weather_eye_perk_name:0 "Weather Eye" #NT!
+ phantom_wings_perk_name:0 "Phantom Wings" #NT!
+ return_perk_name:0 "Return" #NT!
+ flicker_perk_name:0 "Flicker" #NT!
+ stormreader_perk_name:0 "Stormreader" #NT!
+ tempest_riders_canceleer_perk_name:0 "Tempest-Rider's Canceler" #NT!
+ arcanoi_oubliette_perk_name:0 "Oubliette" #NT!
+
+ ENSHROUD_PERK_EFFECT:0 "No longer needed to make a sacrifice to access the Tempest.\n#F A Harbinger can manipulate the membrane between the Shadowlands and Tempest, allowing them to enter the Tempest without opening a Nihil or use the Tempest for concealment.#!" #NT!
+ WEATHER_EYE_PERK_EFFECT:0 "Umbra Escaping Time: #P -5%#!\nUmbra Exploration Cost: [piety_i]#P -5%#!\n#F A Harbinger is always aware of current conditions in the nearby Tempest, and can take shortcuts between two Shadowlands locations.#!" #NT!
+ PHANTOM_WINGS_PERK_EFFECT:0 "Umbra Escaping Time: #P -5%#!\nUmbra Exploration Cost: [piety_i]#P -5%#!\n#F A Harbinger can grow wings to glide through the Tempest and Shadowlands.#!" #NT!
+ RETURN_PERK_EFFECT:0 "Can access the corresponding [dark_kingdom|E] in the Tempest.\n#F A Harbinger may travel from any location in the Tempest to their home by the fastest route possible.#!" #NT!
+ FLICKER_PERK_EFFECT:0 "Umbra Escaping Time: #P -10%#!\nUmbra Exploration Cost: [piety_i]#P -10%#!\n#F A Harbinger may bend the Tempest to teleport themselves to another location.#!" #NT!
+ STORMREADER_PERK_EFFECT:0 "You will no longer get lost in the Tempest.\n#F A Harbinger gains an intuitive sense of the Tempest, allowing them to cut travel times when traveling to or from a location in the Tempest, and to navigate so as to avoid a Maelstrom or mitigate its effects.#!" #NT!
+ TEMPEST_RIDERS_CANCELEER_PERK_EFFECT:0 "#F A Harbinger can grow metallic black wings, allowing them to glide, attack, and protect others.#!" #NT!
+ ARCANOI_OUBLIETTE_PERK_EFFECT:0 "Unlock $EXECUTION_BANISH_TO_TEMPEST$ [executions|E] option.\n#F A Harbinger may send another wraith directly into the Tempest.#!" #NT!
+
+ # Castigate #NT!
+ castigate_visible:1 "Castigate" #NT!
+
+ coax_perk_name:0 "Coax" #NT!
+ bulwark_perk_name:0 "Bulwark" #NT!
+ transfer_angst_perk_name:0 "Transfer Angst" #NT!
+ trimming_the_black_rose_perk_name:0 " Trimming the Black Rose" #NT!
+ cooling_the_blood_perk_name:0 "Cooling the Blood" #NT!
+ defiance_perk_name:0 "Defiance" #NT!
+ shadow_wrack_perk_name:0 "Shadow Wrack" #NT!
+
+ COAX_PERK_EFFECT:0 "No longer gain [stress|E] from Resist Catharsis.\n#F A Pardoner may call on their Shadow at decreased risk.#!" #NT!
+ BULWARK_PERK_EFFECT:0 "Less chance of gaining [stress|E] in a Maelstrom event.\n#F A Pardoner can temporarily shield themselves or others from a Maelstrom.#!" #NT!
+ TRANSFER_ANGST_PERK_EFFECT:0 "As a [character_interaction|E], allows you transfer coping traits to [stress|E], or vice versa.\n#F A Pardoner can temporarily hold Angst in themselves until it can be transferred to an appropriate storage place.#!" #NT!
+ TRIMMING_THE_BLACK_ROSE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to remove the negative modifier that comes from [thorn_lifestyle|E].\n#F A Pardoner may prevent a Shadow from using its Thorns.#!" #NT!
+ COOLING_THE_BLOOD_PERK_EFFECT:0 "As a [character_interaction|E], allows you to remove a dark passion [decision|E].\n#F A Pardoner can weaken a Shadow's Dark Passions.#!" #NT!
+ DEFIANCE_PERK_EFFECT:0 "Unlock an option in become [GetTrait('spectre').GetName( GetPlayer )] stress event, allowing you a way to avoid it.\n#F A Pardoner can beat back a powerful Shadow trying to take over a wraith.#!" #NT!
+ SHADOW_WRACK_PERK_EFFECT:0 "As a [character_interaction|E], allows you to remove [GetTrait('spectre').GetName( GetPlayer )] trait of prisoner.\n#F A Pardoner may use this to strip a [GetTrait('spectre').GetName( GetPlayer )] of Angst and pull their Psyche to the fore of their personality.#!" #NT!
+
+ # Embody #NT!
+ embody_visible:1 "Embody" #NT!
+
+ whispers_perk_name:0 "Whisper" #NT!
+ cache_perk_name:0 "Cache" #NT!
+ phantom_perk_name:0 "Phantom" #NT!
+ statue_perk_name:0 "Statue" #NT!
+ life_in_death_perk_name:0 "Life-in-Death" #NT!
+ shroudguide_perk_name:0 "Shroudguide" #NT!
+ materialize_perk_name:0 "Materialize" #NT!
+ harrow_the_mortal_flesh_perk_name:0 "Harrow the Mortal Flesh" #NT!
+
+ WHISPERS_PERK_EFFECT:0 "Allow interacting with the Skinlands while staying in Shadowlands.\n#F A Proctor may whisper through the Shroud.#!" #NT!
+ CACHE_PERK_EFFECT:0 "Allow gifting [artifact|E] and gold to the Quick of the Skinlands.\n#F A Proctor can temporarily move a relic into the Skinlands.#!" #NT!
+ PHANTOM_PERK_EFFECT:0 "#F A Proctor can materialize in a hazy, intangible form.#!" #NT!
+ STATUE_PERK_EFFECT:0 "Allow to be interacted by the Quick while staying in the Shadowlands.\n#F A Proctor can materialize into a solid form, but cannot move while in it.#!" #NT!
+ LIFE_IN_DEATH_PERK_EFFECT:0 "#F A Proctor can materialize as a passable version of a living person.#!" #NT!
+ SHROUDGUIDE_PERK_EFFECT:0 "Can recruit [GetMaA('wraiths').GetName] as [men_at_arms|E].\n#F A Proctor can share the effects of Embody arts that allow manifestation in the Skinlands with other wraiths.#!" #NT!
+ MATERIALIZE_PERK_EFFECT:0 "Unlock [hunt|E] [activity|E].\n#F A Proctor can temporarily return to a lifelike state.#!" #NT!
+ HARROW_THE_MORTAL_FLESH_PERK_EFFECT:0 "Allow gifting titles to other supernatural.\n#F A Proctor can bring a mortal or other supernatural into the Shadowlands.#!" #NT!
+
+ # Fatalism #NT!
+ fatalism_visible:1 "Fatalism" #NT!
+
+ kismet_perk_name:0 "Kismet" #NT!
+ distant_visions_perk_name:0 "Distant Visions" #NT!
+ foreshadow_perk_name:0 "Foreshadow" #NT!
+ reading_the_bones_perk_name:0 "Reading the Bones" #NT!
+ fates_hand_apparent_perk_name:0 "Fate's Hand Apparent" #NT!
+ sidestep_perk_name:0 "Sidestep" #NT!
+ breathing_the_mists_perk_name:0 "Breathing the Mists" #NT!
+ ensnare_perk_name:0 "Ensnare" #NT!
+
+ KISMET_PERK_EFFECT:0 "#F An Oracle can read the deathmarks on a wraith or mortal, and can also see that person's importance in Fate's plans.#!" #NT!
+ DISTANT_VISIONS_PERK_EFFECT:0 "#F An Oracle may clearly see what relevant events are happening elsewhere.#!" #NT!
+ FORESHADOW_PERK_EFFECT:0 "You will receive notification if someone intent to murder your friend of family.\nYou will receive notification if someone intent to seduce your lover or consort.\nYour prisoner has less chance of escaping from your prison.\n#F An Oracle can detect impending danger.#!" #NT!
+ READING_THE_BONES_PERK_EFFECT:0 "Unlock $deceitful_progress_hostile_schemes_decision$ [decision|E].\n#F An Oracle can see a person or object's future, save for their own.#!" #NT!
+ FATES_HAND_APPARENT_PERK_EFFECT:0 "Unlock [marked_for_return_interaction|E].\n#F An Oracle can detect the death of a mortal that Fate has chosen.#!" #NT!
+ SIDESTEP_PERK_EFFECT:0 "#F The Oracle can foretell forthcoming attacks, allowing them to prepare a defense, or place themselves in the way of an attack meant for someone else.#!" #NT!
+ BREATHING_THE_MISTS_PERK_EFFECT:0 "Unlock $impatient_rushing_all_schemes_decision$ [decision|E].\n#F An Oracle's foresight allows them to prepare for future events.#!" #NT!
+ ENSNARE_PERK_EFFECT:0 "Unlock [bind_wraith_interaction|E].\n#F An Oracle can tangle a wraith's threads to the point they no longer control their own destiny, instead serving another's ends.#!" #NT!
+
+ # Inhabit #NT!
+ inhabit_visible:1 "[CharacterLifestyleWindow.GetCharacter.Custom( 'inhabit_custom_name' )]" #NT!
+ inhabit_darkage_name:1 "Kinesis" #NT!
+ inhabit_modern_name:1 "Inhabit" #NT!
+
+ lightnings_bite_perk_name:0 "Lightning's Bite" #NT!
+ forge_affinity_perk_name:0 "Forge Affinity" #NT!
+ reliquary_perk_name:0 "Reliquary" #NT!
+ sympathy_perk_name:0 "Sympathy" #NT!
+ creepin_rot_perk_name:0 "Creeping Rot" #NT!
+ impress_perk_name:0 "Impress" #NT!
+
+ LIGHTNINGS_BITE_PERK_EFFECT:0 "#F An Artificer can charge a small metal object with electricity that will discharge into the next people who touch it.#!" #NT!
+ FORGE_AFFINITY_PERK_EFFECT:0 "Soulforge [character_interaction|E] will have a better outcome.\n#F An Artificer's soulforging is permanently improved.#!" #NT!
+ RELIQUARY_PERK_EFFECT:0 "Unlock Strengthen Artifact [character_interaction|E], allow forging artifact pieces into an owned artifact.\n#F An Artificer can strengthen a relic or inanimate object with Pathos.#!" #NT!
+ SYMPATHY_PERK_EFFECT:0 "#F An Artificer can Gremlinize a number of similar simple machines at once.#!" #NT!
+ CREEPIN_ROT_PERK_EFFECT:0 "#F An Artificer can cause a device to begin slowly falling apart.#!" #NT!
+ IMPRESS_PERK_EFFECT:0 "Allow soulforging a wraith into an existent artifact.\n#F An Artificer may place the memories and personality of a wraith into a non-living item.#!" #NT!
+
+ # Keening #NT!
+ keening_visible:1 "Keening" #NT!
+
+ hearing_voices_perk_name:0 "Hearing Voices" #NT!
+ mood_music_perk_name:0 "Mood Music" #NT!
+ distraction_perk_name:0 "Distraction" #NT!
+ satire_perk_name:0 "Satire" #NT!
+ siren_song_perk_name:0 "Siren Song" #NT!
+ crescendo_perk_name:0 "Crescendo" #NT!
+ spectre_song_perk_name:0 "Spectre Song" #NT!
+ requiem_perk_name:0 "Requiem" #NT!
+
+ HEARING_VOICES_PERK_EFFECT:0 "#F A Chanteur can make their voice appear to come from a nearby object or person.#!" #NT!
+ MOOD_MUSIC_PERK_EFFECT:0 "Unlocks [GetScheme('PODsoul_bridge').GetTypeName] [scheme|E].\n#F A Chanteur can inspire both positive and negative emotions in their listeners.#!" #NT!
+ DISTRACTION_PERK_EFFECT:0 "As a [character_interaction|E], allow you to gain a hook over a [GetTrait('barghest').GetName( GetPlayer )].\n#F A Chanteur can hum or whistle a tune that interferes with [GetTrait('barghest').GetName( GetPlayer )]s.#!" #NT!
+ SATIRE_PERK_EFFECT:0 "As a [character_interaction|E], allow you to prepare a false [secret|E] on the target.\n#F A Chanteur can ruin a wraith's social standing with a story or song.#!" #NT!
+ SIREN_SONG_PERK_EFFECT:0 "As a [character_interaction|E], allow you to gain a hook over target.\n#F A Chanteur can enthrall a victim, making it easy for them to submit to the Chanteur's influence.#!" #NT!
+ CRESCENDO_PERK_EFFECT:0 "Unlock [single_combat_duel|E] moves.\n#F A Chanteur can physically damage wraiths with a scream. If Embodied, they can terrify the Quick to the point of harm.#!" #NT!
+ SPECTRE_SONG_PERK_EFFECT:0 "Unlock [single_combat_duel|E] moves.\n#F A Chanteur can imitate a Spectre’s moans and screams.#!" #NT!
+ REQUIEM_PERK_EFFECT:0 "As a [character_interaction|E], allow you upgrade a existent relation.\n#F A Chanteur can fill someone with a completely overwhelming emotion.#!" #NT!
+
+ # Lifeweb #NT!
+ lifeweb_visible:1 "Lifeweb" #NT!
+
+ sense_strand_perk_name:0 "Sense Strand" #NT!
+ lifeline_perk_name:0 "Lifeline" #NT!
+ strand_channel_perk_name:0 "Strand Channel" #NT!
+ splice_strand_perk_name:0 "Splice Strand" #NT!
+ early_warning_perk_name:0 "Early Warning" #NT!
+ sever_strand_perk_name:0 "Sever Strand" #NT!
+ walk_the_web_perk_name:0 "Walk the Web" #NT!
+ souls_interwoven_perk_name:0 "Souls Interwoven" #NT!
+
+ SENSE_STRAND_PERK_EFFECT:0 "Unlock [Fetter|E] Mapmode.\n#F A Monitor is always aware of the location of their [Fetters|E], and can extend their senses to a [Fetters|E]'s immediate vicinity.#!" #NT!
+ LIFELINE_PERK_EFFECT:0 "Allow use $POD_set_fetter_character_interaction$ [character_interaction|E] on [GetTrait('wraith').GetName( GetPlayer )].\n#F A Monitor can create a "pseudo-[Fetter|E]" between two wraiths that allows them to work together.#!" #NT!
+ STRAND_CHANNEL_PERK_EFFECT:0 "Allow interact with your [Fetters|E] from any place in the umbra.\n#F A Monitor can speak through a [Fetter|E], or use their Arcanoi through a [Fetter|E].#!" #NT!
+ SPLICE_STRAND_PERK_EFFECT:0 "Unlock $POD_manipulate_fetter_interaction$ [character_interaction|E], allow creating a temporary [Fetter|E].\n#F A Monitor can create a temporary [Fetter|E].#!" #NT!
+ EARLY_WARNING_PERK_EFFECT:0 "You will receive a notification when your [Fetters|E] are going to die of natural causes.\n#F A Monitor can place a tag on a mortal that will alert them if the Quick is about to die.#!" #NT!
+ SEVER_STRAND_PERK_EFFECT:0 "Bonus to $POD_manipulate_fetter_interaction$ [character_interaction|E], allow destroying [Fetters|E].\n#F A Monitor can strip a [Fetter|E] from another Wraith.#!" #NT!
+ WALK_THE_WEB_PERK_EFFECT:0 "As a [character_interaction|E], allows you to teleport to a [Fetter|E]'s location.\n#F A Monitor can quickly travel to a [Fetter|E].#!" #NT!
+ SOULS_INTERWOVEN_PERK_EFFECT:0 "Allow use $POD_set_fetter_character_interaction$ [character_interaction|E] on everyone.\n#F A Monitor can take a willing mortal (or living/undead supernatural) as a Fetter, and in return they can communicate with the Monitor at will, regardless of where either of them is.#!" #NT!
+
+ # Moliate #NT!
+ moliate_visible:1 "Moliate" #NT!
+
+ imitate_perk_name:0 "Imitate" #NT!
+ lizard_tail_perk_name:0 "Lizard Tail" #NT!
+ sculpt_perk_name:0 "Sculpt" #NT!
+ calcify_perk_name:0 "Calcify" #NT!
+ armory_perk_name:0 "Armory" #NT!
+ volley_perk_name:0 "Volley" #NT!
+ rend_perk_name:0 "Rend" #NT!
+ bodyshape_perk_name:0 "Bodyshape" #NT!
+
+ IMITATE_PERK_EFFECT:0 "Unlock Shapeshift [character_interaction|E] to copy appearance.\n#F A Masquer can perfectly mimic another’s face.#!" #NT!
+ LIZARD_TAIL_PERK_EFFECT:0 "Bonus to Pathos heal [character_interaction|E] to heal maim.\n#F A Masquer can detach and re-attach their limbs with no ill effects.#!" #NT!
+ SCULPT_PERK_EFFECT:0 "Bonus to Shapeshift [character_interaction|E] to change appearance.\n#F A Masquer can alter their form or those of other wraiths, but the subject keeps the same mass and basic frame.#!" #NT!
+ CALCIFY_PERK_EFFECT:0 "#F A Masquer can use this to harden plasm into a longer-lasting form.#!" #NT!
+ ARMORY_PERK_EFFECT:0 "Unlock [GetModifier('POD_shapeshift_form_limb_weapon_modifier').GetNameWithTooltip] and [GetModifier('POD_shapeshift_form_skin_armor_modifier').GetNameWithTooltip] Shapeshift option.\n#F A Masquer can temporarily form their limbs into melee weapons, or their skin into armor.#!" #NT!
+ VOLLEY_PERK_EFFECT:0 "#F A Masquer may shape and launch projectiles for defense.#!" #NT!
+ REND_PERK_EFFECT:0 "You can imprison, torture, execute or physically hurt a spirit in [single_combat_duel|E].\n#F A Masquer can tear apart the [Corpus|E] of another wraith.#!" #NT!
+ BODYSHAPE_PERK_EFFECT:0 "Unlock several Shapeshift option.\n#F A Masquer can alter [Corpus|E] to whatever they choose.#!" #NT!
+
+ # Outrage #NT!
+ outrage_visible:1 "Outrage" #NT!
+
+ wraithgrasp_perk_name:0 "Wraithgrasp" #NT!
+ breath_of_the_grave_perk_name:0 "Breath of the Grave" #NT!
+ stonehand_punch_perk_name:0 "Stonehand Punch" #NT!
+ wings_of_rage_perk_name:0 "Wings of Rage" #NT!
+ deaths_touch_perk_name:0 "Death's Touch" #NT!
+ shroudshield_perk_name:0 "Shroudshield" #NT!
+ obliviate_perk_name:0 "Obliviate" #NT!
+ anger_enough_for_two_worlds_perk_name:0 "Anger Enough for Two Worlds" #NT!
+
+ WRAITHGRASP_PERK_EFFECT:0 "Allow receiving gold from the Quick of the Skinlands.\n#F A Spook may lift objects in the Skinlands.#!" #NT!
+ BREATH_OF_THE_GRAVE_PERK_EFFECT:0 "#F The Spook creates a small icy breeze across the Shroud.#!" #NT!
+ STONEHAND_PUNCH_PERK_EFFECT:0 "#F A Spook can smash a target with raw, emotional force.#!" #NT!
+ WINGS_OF_RAGE_PERK_EFFECT:0 "#F  A Spook can boost their athletics and speed.#!" #NT!
+ DEATHS_TOUCH_PERK_EFFECT:0 "You can hurt the Quick with physical moves in [single_combat_duel|E].\n#F A Spook can freely manipulate objects in the Skinlands, and telekinetically project their hands in the [underworld|E].#!" #NT!
+ SHROUDSHIELD_PERK_EFFECT:0 "Allow travel to Skinlands.\n#F A Spook may fling themselves through the Shroud at the same speed as a projectile.#!" #NT!
+ OBLIVIATE_PERK_EFFECT:0 "Unlock $EXECUTION_UNMAKING$ [executions|E] option.\nAllow receiving [artifact|E] from the Quick of the Skinlands.\n#F A Spook may damage a mortal, wraith, or thing so severely it falls straight to Oblivion. When used on a material object Inhabited by a wraith, it instead becomes a relic.#!" #NT!
+ ANGER_ENOUGH_FOR_TWO_WORLDS_PERK_EFFECT:0 "Unlock Tear Down the Shroud option in Manipulate the Shroud option of umbra panel.\n#F A Spook can temporarily tear down the Shroud, with potentially devastating consequences.#!" #NT!
+
+ # Pandemonium #NT!
+ pandemonium_visible:1 "Pandemonium" #NT!
+
+ weirdness_perk_name:0 "Weirdness" #NT!
+ bite_me_perk_name:0 "Bite Me" #NT!
+ dark_ether_perk_name:0 "Dark Ether" #NT!
+ eschers_stair_perk_name:0 "Escher's Stair" #NT!
+ foul_humour_perk_name:0 "Foul Humour" #NT!
+ stigmata_perk_name:0 "Stigmata" #NT!
+ tempus_fugit_perk_name:0 "Tempus Fugit" #NT!
+ tesseract_bomb_perk_name:0 "Tesseract Bomb" #NT!
+
+ WEIRDNESS_PERK_EFFECT:0 "Unlock Haunt [character_interaction|E], which gives the target a negative modifier.\n#F A Haunter can cause a small, limited effect on a lone target.#!" #NT!
+ BITE_ME_PERK_EFFECT:0 "Allow to create and gift [GetModifier('foul_food_moifier').GetNameWithTooltip].\n#F A Haunter may create realistic-looking (but foul tasting) food with their [Corpus|E].#!" #NT!
+ DARK_ETHER_PERK_EFFECT:0 "Give [GetModifier('dark_ether_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E].\n#F A Haunter can tamper with light or weather conditions in an area.#!" #NT!
+ ESCHERS_STAIR_PERK_EFFECT:0 "As a [character_interaction|E], allow teleport to target location with risk of lost in Labyrinth.\n#F A Haunter can link two doorways or other portals via the Labyrinth.#!" #NT!
+ FOUL_HUMOUR_PERK_EFFECT:0 "Give ally knights in war as a commander or yourself in [single_combat_duel|E] [GetModifier('foul_humour_modifier').GetNameWithTooltip] in war as a commander.\n#F A Haunter can produce a strong, material effect through the Shroud.#!" #NT!
+ STIGMATA_PERK_EFFECT:0 "#F A Haunter may create the appearance of bleeding wounds on their target.#!" #NT!
+ TEMPUS_FUGIT_PERK_EFFECT:0 "Give ally commanders [GetModifier('tempus_fugit_modifier').GetNameWithTooltip] modifier when in war as a commander.\n#F A Haunter can manipulate distance and time on a limited basis.#!" #NT!
+ TESSERACT_BOMB_PERK_EFFECT:0 "Give enemy commanders [GetModifier('tesseract_bomb_modifier').GetNameWithTooltip] modifier when in war as a commander.\n#F A Haunter can turn a structure into a maze of nightmare geometry, making it impossible to enter or leave.#!" #NT!
+
+ sleepsense_perk_name:0 "Sleepsense" #NT!
+ lingua_perk_name:0 "Lingua" #NT!
+ dream_sequence_perk_name:0 "Dream Sequence" #NT!
+ inspire_perk_name:0 "Inspire" #NT!
+ morphean_embrace_perk_name:0 "Morphean Embrace" #NT!
+ incubus_perk_name:0 "Incubus" #NT!
+ agon_perk_name:0 "Agon" #NT!
+ oneirataxia_perk_name:0 "Oneirataxia" #NT!
+
+ SLEEPSENSE_PERK_EFFECT:0 "#F A Sandman can observe a mortal or Slumbering wraith's dreams, and can tell what stage of sleep a mortal has reached.#!" #NT!
+ LINGUA_PERK_EFFECT:0 "#F A Sandman can communicate through a dream, regardless of language.#!" #NT!
+ DREAM_SEQUENCE_PERK_EFFECT:0 "#F A Sandman can cloud the mind of a mortal who's seen through the Fog, convincing them it was a dream. Powerful Sandmen can use this power to convince a supernatural they didn't see something they did.#!" #NT!
+ INSPIRE_PERK_EFFECT:0 "Unlock Inspire [character_interaction|E], which gives the target an inspiration.\n#F A Sandman may inspire a mortal to create a work of art that reflects the Sandman.#!" #NT!
+ MORPHEAN_EMBRACE_PERK_EFFECT:0 "Unlock Enter Slumber [decision|E], allow entering [GetTrait('torpor').GetName( GetNullCharacter )], which will depose you.\n#F A Sandman may bestow sleep and dreams on a wraith.#!" #NT!
+ INCUBUS_PERK_EFFECT:0 "Unlock Drain Energy [character_interaction|E], allow using the target's resource to gain pathos.\n#F A Sandman can drain energy from a mortal as Pathos.#!" #NT!
+ AGON_PERK_EFFECT:0 "Unlock $EXECUTION_CONVERT_TO_WRAITH$ [executions|E] option.\n#F A Sandman may rip a mortal’s soul from their body.#!" #NT!
+ ONEIRATAXIA_PERK_EFFECT:0 "As [character_interaction|E], allow you make target enter or leave [GetTrait('torpor').GetName( GetPlayer )].\n#F Allows a Sandman to prevent a mortal from sleeping, prevent a wraith from Slumbering, stop a sleeper from waking up, or stop a mortal from dreaming.#!" #NT!
+
+ # Puppetry #NT!
+ puppetry_visible:1 "Puppetry" #NT!
+
+ skinride_perk_name:0 "Skinride" #NT!
+ twitch_perk_name:0 "Twitch" #NT!
+ control_creature_perk_name:0 "Control Creature" #NT!
+ masters_voice_perk_name:0 "Master's Voice" #NT!
+ arcanoi_healing_perk_name:0 "Healing" #NT!
+ rein_in_the_mind_perk_name:0 "Rein in the Mind" #NT!
+ shadow_possess_perk_name:0 "Shadow Possess" #NT!
+ legion_perk_name:0 "Legion" #NT!
+
+ SKINRIDE_PERK_EFFECT:0 "Unlock Spy [character_interaction|E], allowing to discover a target's secret.\n#F  A Puppeteer can slip into the body of a mortal.#!" #NT!
+ TWITCH_PERK_EFFECT:0 "Unlock Possess [character_interaction|E], allow gaining an hook from target and making them gain a part of your attribute.\n#F A Puppeteer may take momentary control of a host's limb.#!" #NT!
+ CONTROL_CREATURE_PERK_EFFECT:0 "As a [character_interaction|E], allow you to gain a pet.\nCan recruit several kind of animals as [men_at_arms|E].\n#F This is similar to Rein in the Mind, but can only be used on animals.#!" #NT!
+ MASTERS_VOICE_PERK_EFFECT:0 "Unlock higher level of Possess [character_interaction|E].\n#F A Puppeteer can temporarily speak for a mortal host.#!" #NT!
+ ARCANOI_HEALING_PERK_EFFECT:0 "Allow using Pathos Heal [character_interaction|E] on a host.\n#F A Puppeteer can heal a host's lost health levels.#!" #NT!
+ REIN_IN_THE_MIND_PERK_EFFECT:0 "Unlock the last level of Possess [character_interaction|E].\n#F A Puppeteer can take almost complete control over a host.#!" #NT!
+ SHADOW_POSSESS_PERK_EFFECT:0 "Allow using a pet to become [GetTrait('risen').GetName( GetPlayer )].\n#F A Puppeteer can turn an animal into a Conduit for the Risen.#!" #NT!
+ LEGION_PERK_EFFECT:0 "Allow possession of multiple targets.\n#F A Puppeteer can temporarily control multiple hosts.#!" #NT!
+
+ # Usury #NT!
+ usury_visible:1 "Usury" #NT!
+
+ appraisal_perk_name:0 "Appraisal" #NT!
+ pathos_conduit_perk_name:0 "Pathos Conduit" #NT!
+ charitable_trust_perk_name:0 "Charitable Trust" #NT!
+ corpus_conduit_perk_name:0 "Corpus Conduit" #NT!
+ facilitate_perk_name:0 "Facilitate" #NT!
+ invest_perk_name:0 "Invest" #NT!
+ arcanos_conduit_perk_name:0 "Arcanos Conduit" #NT!
+
+ APPRAISAL_PERK_EFFECT:0 "#F A Usurer has their Lifesight and Deathsight permanently strengthened.#!" #NT!
+ PATHOS_CONDUIT_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain pathos from a prisoner or sell pathos to other wraiths.\n#F A Usurer may transfer Pathos between themselves and another.#!" #NT!
+ CHARITABLE_TRUST_PERK_EFFECT:0 "Unlock [Corpus|E] Heal [character_interaction|E], allow to use [Corpus|E] to heal wounds.\n#F A Usurer may apply their [Corpus|E] to another to heal wounds.#!" #NT!
+ CORPUS_CONDUIT_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain [Corpus|E] from a prisoner or sell [Corpus|E] to other wraiths.\n#F A Usurer may transfer [Corpus|E] between themselves and another.#!" #NT!
+ FACILITATE_PERK_EFFECT:0 "Now you can sell your wraith prisoner's Pathos, [Corpus|E] or Arcanoi as well.\n#F A Usurer can make themselves an intermediary for Pathos Conduit, [Corpus|E] Conduit and Arcanos Conduit, transferring Pathos, [Corpus|E] and Arcanoi between two targets.#!" #NT!
+ INVEST_PERK_EFFECT:0 "Allow you to create a pathos vessel.\n#F A Usurer can store Pathos or [Corpus|E] in a relic for later use.#!" #NT!
+ ARCANOS_CONDUIT_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain an arcanoi [perk|E] from a prisoner or sell an arcanoi [perk|E] to other wraiths.\n#F A Usurer may transfer use of an Arcanos between themselves and another.#!" #NT!
+
+ # Thorn #NT!
+ thorn_visible:1 "Thorn" #NT!
+
+ spectre_prestige_perk_name:0 "Spectre Prestige" #NT!
+ dark_allies_perk_name:0 "Dark Allies" #NT!
+ tainted_relic_perk_name:0 "Tainted Relic" #NT!
+ infamy_perk_name:0 "Infamy" #NT!
+ deaths_sigil_perk_name:0 "Death's Sigil" #NT!
+ shadow_traits_perk_name:0 "Shadow Traits" #NT!
+ nightmares_perk_name:0 "Nightmares" #NT!
+ aura_of_corruption_perk_name:0 "Aura of Corruption" #NT!
+ mirror_mirror_perk_name:0 "Mirror, Mirror" #NT!
+ shadow_call_perk_name:0 "Shadow Call" #NT!
+ pact_of_doom_perk_name:0 "Pact of Doom" #NT!
+ trick_of_the_light_perk_name:0 "Trick of the Light" #NT!
+ bad_luck_perk_name:0 "Bad Luck" #NT!
+ shadowed_face_perk_name:0 "Shadowed Face" #NT!
+ honeyed_tongue_perk_name:0 "Honeyed Tongue  " #NT!
+ tainted_touch_perk_name:0 "Tainted Touch" #NT!
+ thorn_shadowplay_perk_name:0 "Shadowplay" #NT!
+ shadow_familiar_perk_name:0 "Shadow Familiar" #NT!
+ freudian_slip_perk_name:0 "Freudian Slip" #NT!
+ shadow_life_perk_name:0 "Shadow Life" #NT!
+ thorn_whispers_perk_name:0 "Whispers" #NT!
+ thorn_manifestation_perk_name:0 "Manifestation" #NT!
+ devils_dare_perk_name:0 "Devil’s Dare" #NT!
+ vampiric_nature_perk_name:0 "Vampiric Nature" #NT!
+
+ SPECTRE_PRESTIGE_PERK_EFFECT:0 "Gain [GetModifier('spectre_prestige_modifier').GetNameWithTooltip] during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F The Shadow is respected by Specters and they will come to the aid of the wraith during Catharsis.#!" #NT!
+ DARK_ALLIES_PERK_EFFECT:0 "Gain [GetModifier('dark_allies_modifier').GetNameWithTooltip] during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F The character's Shadow communicates regularly with specific Specters, and can call on them for assistance.#!" #NT!
+ TAINTED_RELIC_PERK_EFFECT:0 "As a [character_interaction|E], allow you to create a custom artifact during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F The Shadow has an important relic that manifests when it is in control: a weapon or some other useful item.#!" #NT!
+ INFAMY_PERK_EFFECT:0 "Gain [GetModifier('infamy_modifier').GetNameWithTooltip] during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F Memoriam for the Shadow, Infamy is the measure of how much fear and loathing the wraith still inspires in the living.#!" #NT!
+ DEATHS_SIGIL_PERK_EFFECT:0 "Gain [GetModifier('deaths_sigil_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F Death's Sigil is a prominent sign of Oblivion’s touch on the character that manifests no matter where she goes.#!" #NT!
+ SHADOW_TRAITS_PERK_EFFECT:0 "Gain [GetModifier('shadow_traits_modifier').GetNameWithTooltip] during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F The Shadow can purchase Ability, but these extra Ability are only available during Catharsis.#!" #NT!
+ NIGHTMARES_PERK_EFFECT:0 "Gain #N 40#! [stress|E] every year during the [GetTrait('torpor').GetName( GetPlayer )].\n#F When the Psyche Slumbers, a Shadow with this Thorn may cause her to have intense nightmares.#!" #NT!
+ AURA_OF_CORRUPTION_PERK_EFFECT:0 "Gain [GetModifier('aura_of_corruption_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F Through this Thorn’s effects, the Shadow somehow defiles the wraith’s presentation of herself, making her presence unpleasant to other wraiths.#!" #NT!
+ MIRROR_MIRROR_PERK_EFFECT:0 "Gain [GetModifier('mirror_mirror_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F Whenever the Wraith sees itself in a reflective surface, the Shadow can make the reflection sees it as horribly distorted, in whatever manner the Shadow desires.#!" #NT!
+ SHADOW_CALL_PERK_EFFECT:0 "Can recruit [GetMaA('spectres').GetName] as [men_at_arms|E] during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F Shadow Call allows a wraith's Shadow to summon nearby Spectres.#!" #NT!
+ PACT_OF_DOOM_PERK_EFFECT:0 "As a [character_interaction|E], allows you to purchase arcanoi lifestyle perk point.\n#F If a wraith has this Thorn, she and her Shadow can negotiate a pact by means of which the Shadow will teach her a predetermined number of levels in an Arcanos.#!" #NT!
+ TRICK_OF_THE_LIGHT_PERK_EFFECT:0 "Gain [GetModifier('trick_of_the_light_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F By using this Thorn, the Shadow subtly alters the Psyche’s perception.#!" #NT!
+ BAD_LUCK_PERK_EFFECT:0 "Gain [GetModifier('bad_luck_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F The Shadow can spend a Angst to cause the Psyche to enter a retest.#!" #NT!
+ SHADOWED_FACE_PERK_EFFECT:0 "Gain [GetModifier('shadowed_face_modifier').GetNameWithTooltip] during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F With this Thorn, the Shadow completely changes its Psyche’s appearance when it takes over.#!" #NT!
+ HONEYED_TONGUE_PERK_EFFECT:0 "Gain [GetModifier('honeyed_tongue_modifier').GetNameWithTooltip] during the [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F The Shadow is almost preternaturally persuasive, and it can really turn on the charm when it chooses to do so.#!" #NT!
+ TAINTED_TOUCH_PERK_EFFECT:0 "Gain [GetModifier('tainted_touch_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F This Thorn makes a wraith something of a Typhoid Mary among the Restless.#!" #NT!
+ THORN_SHADOWPLAY_PERK_EFFECT:0 "As a [character_interaction|E], allows you to receive offer from your shadow.\n#F The Shadow can offer an additional action to the Psyche after the Wraith uses up all.#!" #NT!
+ SHADOW_FAMILIAR_PERK_EFFECT:0 "As a [character_interaction|E], allows you turn your pet into a shadow familiar.\n#F While the Shadow stays within a wraith’s consciousness, a Shadow Familiar can serve as its eyes, ears, and feet.#!" #NT!
+ FREUDIAN_SLIP_PERK_EFFECT:0 "Gain [GetModifier('freudian_slip_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F At the cost of one Angst point, the Shadow can force a wraith to make a sudden, involuntary action or make a quick, unedited statement.#!" #NT!
+ SHADOW_LIFE_PERK_EFFECT:0 "[GetModifier('catharsis_modifier').GetNameWithTooltip] now last forever.\n#F Whenever a wraith with this Thorn Slumbers, her Shadow takes control of their shared [Corpus|E] and sets out to do its worst.#!" #NT!
+ THORN_WHISPERS_PERK_EFFECT:0 "Gain [GetModifier('shadows_whispers_modifier').GetNameWithTooltip] modifier when you aren't in [GetModifier('catharsis_modifier').GetNameWithTooltip].\n#F Shadow with this Thorn can speak to the Shadows of other wraiths without the knowledge of their Psyches.#!" #NT!
+ THORN_MANIFESTATION_PERK_EFFECT:0 "Unlock $POD_separate_shadow_interaction$ [character_interaction|E], allow you to create a [GetTrait('wraith').GetName( GetPlayer )] clone.\n#F By expending Angst, the Shadow can materialize as an entity separate from the wraith.#!" #NT!
+ DEVILS_DARE_PERK_EFFECT:0 "Popup a devil's dare [decision|E] every 3 years.\n#F Devil’s Dare is the emotional equivalent of a game of chicken. To use this Thorn, the Shadow invests a number of Angst and writes down something that she dares the Psyche to do.#!" #NT!
+ VAMPIRIC_NATURE_PERK_EFFECT:0 "As a [character_interaction|E], allows you siphon [stress|E] from other character.\n#F This Thorn enables a Shadow to siphon Angst from others for its own purposes.#!" #NT!
+
+ # Flux #NT!
+ flux_name:1 "Flux" #NT!
+
+ rot_perk_name:0 "Rot" #NT!
+ strengthen_perk_name:0 "Strengthen" #NT!
+ non_euclidean_mechanics_perk_name:0 "Non Euclidean Mechanics" #NT!
+ relic_dowsing_perk_name:0 "Relic Dowsing" #NT!
+ puppet_theater_perk_name:0 "Puppet Theater" #NT!
+ render_relic_perk_name:0 "Render Relic" #NT!
+ automaton_perk_name:0 "Automaton" #NT!
+
+ ROT_PERK_EFFECT:0 "#F An Alchemist can cause a small, non-living object to age rapidly.#!" #NT!
+ STRENGTHEN_PERK_EFFECT:0 "#F An Alchemist can improve the very structure of an object.#!" #NT!
+ NON_EUCLIDEAN_MECHANICS_PERK_EFFECT:0 "#F An Alchemist can repair or improve a technological relic.#!" #NT!
+ RELIC_DOWSING_PERK_EFFECT:0 "Auto gain an artifact piece every #V 5#! years.\n#F An Alchemist can find newly formed relics in the Shadowlands.#!" #NT!
+ PUPPET_THEATER_PERK_EFFECT:0 "#F An Alchemist can animate several small items at one time.#!" #NT!
+ RENDER_RELIC_PERK_EFFECT:0 "As a [character_interaction|E], allows you to destroy artifact to gain Pathos.\n#F An Alchemist can render a relic down into the emotions that created it to provide Pathos, destroying it in the process.#!" #NT!
+ AUTOMATON_PERK_EFFECT:0 "As a [character_interaction|E], allows you gain temporary stat from your equipped artifact.\n#F An Alchemist can pull objects together to form a body.#!" #NT!
+
+ # Intimation #NT!
+ intimation_name:1 "Intimation" #NT!
+
+ the_gleaming_perk_name:0 "The Gleaming" #NT!
+ arcanoi_know_thyself_perk_name:0 "Know Thyself" #NT!
+ launch_a_thousand_ships_perk_name:0 "Launch a Thousand Ships" #NT!
+ unfold_the_animal_heart_perk_name:0 "Unfold the Animal Heart" #NT!
+ apple_of_discord_perk_name:0 "Apple of Discord" #NT!
+ ignite_perk_name:0 "Ignite" #NT!
+ a_single_thread_perk_name:0 "A Single Thread" #NT!
+ adrestias_communion_perk_name:0 "Adrestia's Communion" #NT!
+
+ THE_GLEAMING_PERK_EFFECT:0 "As a [character_interaction|E], allows make target artifact be claimed by neighboring ruler.\n#F A Solicitor can make an object seem more desirable than it really is.#!" #NT!
+ ARCANOI_KNOW_THYSELF_PERK_EFFECT:0 "#F A Solicitor can resist another's attempt to use Intimation, and can also resist Castigate and Contamination to a limited extent.#!" #NT!
+ LAUNCH_A_THOUSAND_SHIPS_PERK_EFFECT:0 "#F A Solicitor can make themselves an object of desire.#!" #NT!
+ UNFOLD_THE_ANIMAL_HEART_PERK_EFFECT:0 "#F A Solicitor can read into all of a wraith’s fondest wishes and dreams.#!" #NT!
+ APPLE_OF_DISCORD_PERK_EFFECT:0 "Bonus to $POD_gleaming_interaction$ [character_interaction|E], now every neighboring ruler claim that artifact.\n#F A Solicitor can make an object so desirable that any who see it become obsessed with it.#!" #NT!
+ IGNITE_PERK_EFFECT:0 "As a [character_interaction|E], allows make target title be claimed by neighboring ruler and start a war for it.\n#F A Solicitor can give a wraith a strong desire that affects the wraith’s life.#!" #NT!
+ A_SINGLE_THREAD_PERK_EFFECT:0 "Bonus to $POD_ignite_interaction$ [character_interaction|E], now every neighboring ruler will fight for that title.\n#F A Solicitor can subtly direct a wraith into more natural seeming lines of action.#!" #NT!
+ ADRESTIAS_COMMUNION_PERK_EFFECT:0 "#F A Solicitor can use any Intimation art on both their Shadow and the Shadows of others, even if the Shadows aren't in control.#!" #NT!
+
+ # Mnemosynis #NT!
+ mnemosynis_name:1 "Mnemosynis" #NT!
+
+ erasure_perk_name:0 "Erasure" #NT!
+ mnemotechnics_perk_name:0 "Mnemotechnics" #NT!
+ further_reflection_perk_name:0 "Further Reflection" #NT!
+ tabula_rasa_perk_name:0 "Tabula Rasa" #NT!
+ casting_the_scene_perk_name:0 "Casting the Scene" #NT!
+ phantom_pain_perk_name:0 "Phantom Pain" #NT!
+ gray_man_perk_name:0 "Gray Man" #NT!
+
+ ERASURE_PERK_EFFECT:0 "As a [character_interaction|E], allows erase memory to reduce stress.\n#F A Mnemos may wipe a memory from their mind.#!" #NT!
+ MNEMOTECHNICS_PERK_EFFECT:0 "As a [character_interaction|E], allows you make a potential relation become a stable relation.\n#F A Mnemos forces another to relive a specific incident in the past.#!" #NT!
+ FURTHER_REFLECTION_PERK_EFFECT:0 "As a [character_interaction|E], allows you make a potential relation with other.\n#F A Mnemos can project their memories into someone else's mind.#!" #NT!
+ TABULA_RASA_PERK_EFFECT:0 "Bonus to $POD_erasure_interaction$ [character_interaction|E], now can erase prisioner memory as well.\n#F A Mnemos may permanently wipe a memory from another's mind.#!" #NT!
+ CASTING_THE_SCENE_PERK_EFFECT:0 "#F A Mnemos can allow others in the area to see a flash of another’s memory.#!" #NT!
+ PHANTOM_PAIN_PERK_EFFECT:0 "Give [GetModifier('phantom_pain_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E].\n#F A Mnemos can project their memories of injury into another wraith's mind, triggering psychosomatic wounds in the other wraith's [Corpus|E].#!" #NT!
+ GRAY_MAN_PERK_EFFECT:0 "As a [character_interaction|E], allows you make target lose their relationship, consort and prestige.\n#F A Mnemos may erase someone from the collective memory of all who know them.#!" #NT!
+
+ # Jade Arcanoi #NT!
+
+ emperor_name:0 "Emperor" #NT!
+ scholar_name:0 "Scholar" #NT!
+ farmer_name:0 "Farmer" #NT!
+ artisan_name:0 "Artisan" #NT!
+ merchant_name:0 "Merchant" #NT!
+ soul_name:0 "Soul" #NT!
+
+ brilliance_perk_name:0 "Brilliance" #NT!
+ shackles_perk_name:0 "Shackles" #NT!
+ snare_perk_name:0 "Snare" #NT!
+ lariat_perk_name:0 "Lariat" #NT!
+ net_perk_name:0 "Net" #NT!
+ discern_the_lie_perk_name:0 "Discern the Lie" #NT!
+ inquiry_perk_name:0 "Inquiry" #NT!
+ word_of_yu_huang_perk_name:0 "Word of Yu Huang" #NT!
+ filial_duty_perk_name:0 "Filial Duty" #NT!
+ the_emperors_servant_perk_name:0 "The Emperor's Servant" #NT!
+ finding_the_hidden_ghost_perk_name:0 "Finding the Hidden Ghost" #NT!
+ cowing_the_bestial_spirit_perk_name:0 "Cowing the Bestial Spirit" #NT!
+ purify_perk_name:0 "Purify" #NT!
+ deaden_spirit_perk_name:0 "Deaden Spirit" #NT!
+ reap_the_hungry_ghost_perk_name:0 "Reap the Hungry Ghost" #NT!
+ shape_true_jade_perk_name:0 "Shape True Jade" #NT!
+ remembrance_perk_name:0 "Remembrance" #NT!
+ rework_relics_perk_name:0 "Rework Relics" #NT!
+ empower_jade_perk_name:0 "Empower Jade" #NT!
+ create_white_jade_perk_name:0 "Create White Jade" #NT!
+ transfer_perk_name:0 "Transfer" #NT!
+ cash_money_perk_name:0 "Cash Money" #NT!
+ withdraw_essence_perk_name:0 "Withdraw Essence" #NT!
+ returning_the_favor_perk_name:0 "Returning the Favor" #NT!
+ mint_money_perk_name:0 "Mint Money" #NT!
+ arcanoi_coax_perk_name:0 "Coax" #NT!
+ nullify_thorns_perk_name:0 "Nullify Thorns" #NT!
+ give_higher_passions_perk_name:0 "Give Higher Passions" #NT!
+ alter_demeanor_perk_name:0 "Alter Demeanor" #NT!
+ inner_peace_perk_name:0 "Inner Peace" #NT!
+
+ BRILLIANCE_PERK_EFFECT:0 "#F A Guardsman can cause their skin to glow with an eerie inner brilliance.#!" #NT!
+ SHACKLES_PERK_EFFECT:0 "As a [character_interaction|E], allow you to soulbond a wraith.\n#F A Guardsman may create shackles from his own [Corpus|E] to bind another wraith.#!" #NT!
+ SNARE_PERK_EFFECT:0 "As a [character_interaction|E], allow you to summon target wraith to your court.\n#F A Guardsman can cancel any use of [GetTrait('arcanos_argos').GetName( GetPlayer )].#!" #NT!
+ LARIAT_PERK_EFFECT:0 "Bonus to Shackles [character_interaction|E], no longer need to be in same location.\n#F A Guardsman may use the Shackle ability for a much larger range.#!" #NT!
+ NET_PERK_EFFECT:0 "As a [character_interaction|E], allow you to soulbond and summon wraith of target's court.\n#F A Guardsman can snag a group of wraiths with abilities similar to Snare and Shackles.#!" #NT!
+ DISCERN_THE_LIE_PERK_EFFECT:0 "#F A Scholar may tell if another wraith is lying to them.#!" #NT!
+ INQUIRY_PERK_EFFECT:0 "#F A Scholar can force a target to answer another question truthfully.#!" #NT!
+ WORD_OF_YU_HUANG_PERK_EFFECT:0 "#F A Scholar can issue a basic command that can be loosely followed.#!" #NT!
+ FILIAL_DUTY_PERK_EFFECT:0 "#F A Scholar may make a subject willingly cooperate with them.#!" #NT!
+ THE_EMPERORS_SERVANT_PERK_EFFECT:0 "#F A Scholar can create permanent orders in the minds of other wraiths.#!" #NT!
+ FINDING_THE_HIDDEN_GHOST_PERK_EFFECT:0 "#F  A Farmer can sense the location of any nearby [GetTrait('barghest').GetName( GetPlayer )].#!" #NT!
+ COWING_THE_BESTIAL_SPIRIT_PERK_EFFECT:0 "#F A Farmer can induce pure terror in a [GetTrait('barghest').GetName( GetPlayer )].#!" #NT!
+ PURIFY_PERK_EFFECT:0 "As a [character_interaction|E], allow you to convert a wraith into [GetTrait('barghest').GetName( GetPlayer )].\n#F A Farmer may directly attack another wraith's [GetTrait('shadow').GetName( GetPlayer )].#!" #NT!
+ DEADEN_SPIRIT_PERK_EFFECT:0 "As a [character_interaction|E], allow you to gain a hook over a [GetTrait('barghest').GetName( GetPlayer )].\n#F A Farmer may tame an out-of-control [GetTrait('barghest').GetName( GetPlayer )].#!" #NT!
+ REAP_THE_HUNGRY_GHOST_PERK_EFFECT:0 "As a [character_interaction|E], allow you to collect the [Corpus|E] form a [GetTrait('barghest').GetName( GetPlayer )].\n#F A Farmer can collect the [Corpus|E] of subdued [GetTrait('barghest').GetName( GetPlayer )] with no difficulty.#!" #NT!
+ SHAPE_TRUE_JADE_PERK_EFFECT:0 "Gain a [true_jade|E] every #V 5#! years.\n#F Given sufficient material and time, an Artisan can create any simple object from [true_jade|E].#!" #NT!
+ REMEMBRANCE_PERK_EFFECT:0 "Gain a White Jade every #V 3#! years.\n#F Similar to Shape True Jade, except an Artisan may use the inferior White Jade.#!" #NT!
+ REWORK_RELICS_PERK_EFFECT:0 "As a [character_interaction|E], allow empowering an artifact using True Jade or White Jade.\n#F An Artisan can change or rework a relic.#!" #NT!
+ EMPOWER_JADE_PERK_EFFECT:0 "As a [character_interaction|E], allow empowering an artifact using Pathos.\n#F An Artisan may awaken the soul that composes an object and embue it with an Arcanos or Pathos.#!" #NT!
+ CREATE_WHITE_JADE_PERK_EFFECT:0 "Allow soulforging [GetTrait('wraith').GetName( GetPlayer )] into White Jade.\n#F An Artisan can turn souls into White Jade.#!" #NT!
+ TRANSFER_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain pathos from a prisoner or sell pathos to other wraiths.\n#F A Merchant can transfer Pathos through physical contact.#!" #NT!
+ CASH_MONEY_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain pathos from gold.\n#F A Merchant can convert sacrifices into Pathos.#!" #NT!
+ WITHDRAW_ESSENCE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain pathos from White Jade Artifact.\n#F A Merchant may obtain Pathos from a Farmer-controlled [GetTrait('barghest').GetName( GetPlayer )] or raw White Jade.#!" #NT!
+ RETURNING_THE_FAVOR_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain renown from pathos.\n#F A Merchant may send Pathos to a living relative.#!" #NT!
+ MINT_MONEY_PERK_EFFECT:0 "As a [character_interaction|E], allows you to gain gold from pathos.\n#F A Merchant may turn their Pathos into physical form, such as tokens, coins, or paper money.#!" #NT!
+ ARCANOI_COAX_PERK_EFFECT:0 "No longer gain [stress|E] from Resist Catharsis.\n#F A Doctor may call on their [GetTrait('shadow').GetName( GetPlayer )] at decreased risk.#!" #NT!
+ NULLIFY_THORNS_PERK_EFFECT:0 "Small chance of not getting dark passion and small chance of not getting devil dare [decision|E].\n#F A Doctor can stop their [GetTrait('shadow').GetName( GetPlayer )] from using one of their Thorns.#!" #NT!
+ GIVE_HIGHER_PASSIONS_PERK_EFFECT:0 "As a [character_interaction|E], allows you to remove a dark passion [decision|E].\n#F A Doctor may attempt to replace a [GetTrait('shadow').GetName( GetPlayer )]'s Dark Passion with one of their Passions.#!" #NT!
+ ALTER_DEMEANOR_PERK_EFFECT:0 "As a [character_interaction|E], allows you to get back your Hun personality during Catharsis.\n#F A Doctor can alter their [GetTrait('shadow').GetName( GetPlayer )]'s Archetype, including regular ones as well as Shadow based ones.#!" #NT!
+ INNER_PEACE_PERK_EFFECT:0 "Gain access to the thorn modifier even without Catharsis.\n#F A Doctor may join with their [GetTrait('shadow').GetName( GetPlayer )] and act as one.#!" #NT!

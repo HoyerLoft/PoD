@@ -1,0 +1,59 @@
+﻿l_russian:
+ true_magick.2000.t:0 "A Matter of Names" #NT!
+ true_magick.2000.desc:0 "Name your rote!" #NT!
+ true_magick.2000.a:0 "I'm good to go" #NT!
+ true_magick.2000.b:0 "[ROOT.Char.GetLocalizedText('rote_name')]" #NT!
+ rote_default_name:0 "My Spell" #NT!
+ DEFAULT_TITLE_NAME:0 "Spell" #NT!
+ GET_ROTE_NAME:0 "[caster.GetLocalizedText('rote_name')]" #NT!
+ true_magick.4000.t:0 "Finished Casting: [spell.MakeScope.GetVariable('spell_name').Title.GetNameNoTierNoTooltip]" #NT!
+ true_magick.4000.desc:0 "You finally finished casting your spell!" #NT!
+ true_magick.4000.a:0 "Great!" #NT!
+ true_magick.4100.t:0 "Casting: [spell.MakeScope.GetVariable('spell_name').Title.GetNameNoTierNoTooltip]" #NT!
+ true_magick.4100.desc:0 "You will roll your casting dice, each having a 50% chance of giving you a success and bringing you close to finishing the spell.\n Right now, you have [spell.MakeScope.GetVariable('current_successes').GetValue] sucesses out of [spell.MakeScope.GetVariable('spell_difficulty').GetValue]. \n You have [ROOT.ScriptValue('casting_dice')] casting dice." #NT!
+ true_magick.4100.a:0 "Alright!" #NT!
+ true_magick.4200.t:0 "Casting: [spell.MakeScope.GetVariable('spell_name').Title.GetNameNoTierNoTooltip]. Roll Results:" #NT!
+ true_magick.4200.desc:0 "You got [ROOT.GetVariable('roll_successes').GetValue] on the roll, bringing you to [spell.MakeScope.GetVariable('current_successes').GetValue].\nWhich is [spell.MakeScope.ScriptValue('spell_cast_percent')]%" #NT!
+ true_magick.4200.a:0 "Alright!" #NT!
+ spell_desc:0 "#T Casting Spell: [Scope.GetVariable('spell_name').Title.GetNameNoTierNoTooltip]#!\nProgress: #V [Scope.GetVariable('current_successes').GetValue]/[Scope.GetVariable('spell_difficulty').GetValue] ([Scope.ScriptValue('spell_cast_percent_display')]%)#!\nCasting Power: #V [GetPlayer.MakeScope.ScriptValue('casting_dice')]#!\nEstimated Time: #V [Scope.ScriptValue('estimated_time')|0] Months#!" #NT!
+ arete1_modifier:0 "Arete 1" #NT!
+ arete2_modifier:0 "Arete 2" #NT!
+ arete3_modifier:0 "Arete 3" #NT!
+ arete4_modifier:0 "Arete 4" #NT!
+ arete5_modifier:0 "Arete 5" #NT!
+ arete6_modifier:0 "Arete 6" #NT!
+ arete7_modifier:0 "Arete 7" #NT!
+ arete8_modifier:0 "Arete 8" #NT!
+ arete9_modifier:0 "Arete 9" #NT!
+ arete10_modifier:0 "Arete 10" #NT!
+ spell_details_header:0 "Spell Details" #NT!
+ spell_details_completion_precent:0 "[GetPlayer.MakeScope.Var('examined_spell').Title.MakeScope.ScriptValue('spell_cast_percent_display')]%" #NT!
+ spell_details_casting_info:0 "Name: [GetPlayer.MakeScope.Var('examined_spell').Title.MakeScope.GetVariable('spell_name').Title.GetNameNoTierNoTooltip]\nProgress: #V [GetPlayer.MakeScope.Var('examined_spell').Title.MakeScope.GetVariable('current_successes').GetValue]/[GetPlayer.MakeScope.Var('examined_spell').Title.MakeScope.GetVariable('spell_difficulty').GetValue] ([GetPlayer.MakeScope.Var('examined_spell').Title.MakeScope.ScriptValue('spell_cast_percent_display')]%)#!\nCasting Power: #V [GetPlayer.MakeScope.ScriptValue('casting_dice')]#!\nEstimated Time: #V [GetPlayer.MakeScope.Var('examined_spell').Title.MakeScope.ScriptValue('estimated_time')|0] Months#!" #NT!
+ TRUE_MAGIC_TARGET_IS_YOU_TRIGGER:0 "You Are The Target" #NT!
+ TRUE_MAGIC_TARGET_IS_YOU_NOT_TRIGGER:0 "You Are Not The Target" #NT!
+ TRUE_MAGIC_CAN_ONLY_CAST_ONE_SPELL_TRIGGER:0 "Can Only Cast One Spell At A Time!" #NT!
+ cancel_spell_loc:0 "Cancel Spell" #NT!
+ spellcast_header:0 "Crafting Spell: [GetPlayer.GetLocalizedText('rote_name')]" #NT!
+ modifiers_tab:0 "Modifiers" #NT!
+ effects_tab:0 "Effects" #NT!
+ traits_tab:0 "Traits" #NT!
+ metamagic_tab:0 "Metamagic" #NT!
+ stats_tab:0 "Stats" #NT!
+ schemes_tab:0 "Schemes" #NT!
+ cultures_tab:0 "Cultures" #NT!
+ government_tab:0 "Government" #NT!
+ combat_tab:0 "Combat" #NT!
+ other_header:0 "Other" #NT!
+ name_spell_button:0 "Name Spell" #NT!
+ duration_header:0 "Duration:" #NT!
+ months_button:0 "Months" #NT!
+ years_button:0 "Years" #NT!
+ spell_difficulty_line:0 "Spell Difficulty: [GetPlayer.MakeScope.ScriptValue('spell_difficulty')]" #NT!
+ targets_header:0 "Targets" #NT!
+
+ spells_on_character_header:0 "Spells Active On Character" #NT!
+ until_line:0 "Until [GetCurrentDateWithDiff(Scope.VarRemaining('time_counter'))]" #NT!
+ days_remaining_tooltip:0 "Days Remaining: [Scope.VarRemaining('time_counter')]" #NT!
+ active_spells_tooltip:0 "Active Spells on this character." #NT!
+ DEFAULT_SPELL_NAME:0 "Spell" #NT!
+

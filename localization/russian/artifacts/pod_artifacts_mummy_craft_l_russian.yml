@@ -1,0 +1,68 @@
+﻿l_russian:
+
+ artifact_simple_ward_name:0 "Simple Ward" #NT!
+ artifact_lesser_ward_name:0 "Lesser Ward" #NT!
+ artifact_major_ward_name:0 "Major Ward" #NT!
+ artifact_greater_ward_name:0 "Greater Ward" #NT!
+ artifact_princely_ward_name:0 "Princely Ward" #NT!
+ artifact_kingly_ward_name:0 "Kingly Ward" #NT!
+ artifact_ramoses_armor_name:0 "Ramose's Armor" #NT!
+ artifact_shield_of_the_pharaohs_name:0 "Shield of the Pharaohs" #NT!
+ artifact_wood_ward_name:0 "Wood Ward" #NT!
+ artifact_metal_ward_name:0 "Metal Ward" #NT!
+ artifact_ward_description:0 "Some ward protect specific parts of the body and those effects mystically associated with them, while others guard against particular types of magic." #NT!
+ artifact_lesser_talisman_name:0 "Lesser Talisman" #NT!
+ artifact_greater_talisman_name:0 "Greater Talisman" #NT!
+ artifact_princely_talisman_name:0 "Princely Talisman" #NT!
+ artifact_viziers_talisman_name:0 "Vizier's Talisman" #NT!
+ artifact_talisman_of_the_vulture_name:0 "Talisman of the Vulture" #NT!
+ artifact_kingly_talisman_name:0 "Kingly Talisman" #NT!
+ artifact_vault_of_inner_strength_name:0 "Vault of the Inner Strength" #NT!
+ artifact_divine_talisman_name:0 "Divine Talisman" #NT!
+ artifact_talisman_of_the_asp_name:0 "Talisman of the Asp" #NT!
+ artifact_heart_of_maat_name:0 "Heart of Ma'at" #NT!
+ artifact_amulet_of_cloud_walking_name:0 "Amulet of Cloud Walking" #NT!
+ artifact_veil_of_amaunet_name:0 "Veil of Amaunet" #NT!
+ artifact_greater_veil_of_amaunet_name:0 "Greater Veil of Amaunet" #NT!
+ artifact_whisper_between_two_hearts_name:0 "Whisper Between Two Hearts" #NT!
+ artifact_piercing_eye_of_thoth_name:0 "Piercing Eye of Thoth" #NT!
+ artifact_gebs_blessing_name:0 "Geb's Blessing" #NT!
+ artifact_buckle_of_isis_name:0 "Buckle of Isis" #NT!
+ artifact_nyarashahims_screaming_scarab_name:0 "Nyarashahim's Screaming Scarab" #NT!
+ artifact_scarab_of_life_name:0 "Scarab of Life" #NT!
+ artifact_scarab_of_death_name:0 "Scarab of Death" #NT!
+ artifact_talisman_description:0 "Each Talisman gives the wearer bonus to specific Attributes as long as they wear it." #NT!
+ artifact_simple_creature_name:0 "Simple Creature #Weak (Deactivated)#!" #NT!
+ artifact_lesser_creature_name:0 "Lesser Creature #Weak (Deactivated)#!" #NT!
+ artifact_major_creature_name:0 "Major Creature #Weak (Deactivated)#!" #NT!
+ artifact_superior_creature_name:0 "Superior Creature #Weak (Deactivated)#!" #NT!
+ artifact_princely_creature_name:0 "Princely Creature #Weak (Deactivated)#!" #NT!
+ artifact_the_crawling_eye_name:0 "The Crawling Eye #Weak (Deactivated)#!" #NT!
+ artifact_viziers_beast_name:0 "Vizier's Beast #Weak (Deactivated)#!" #NT!
+ artifact_stalking_hound_of_typhon_name:0 "Stalking Hound of Typhon #Weak (Deactivated)#!" #NT!
+ artifact_kingly_beast_name:0 "Kingly Beast #Weak (Deactivated)#!" #NT!
+ artifact_divine_beast_name:0 "Divine Beast #Weak (Deactivated)#!" #NT!
+ artifact_active_simple_creature_name:0 "Simple Creature #Weak (Activated)#!" #NT!
+ artifact_active_lesser_creature_name:0 "Lesser Creature #Weak (Activated)#!" #NT!
+ artifact_active_major_creature_name:0 "Major Creature #Weak (Activated)#!" #NT!
+ artifact_active_superior_creature_name:0 "Superior Creature #Weak (Activated)#!" #NT!
+ artifact_active_princely_creature_name:0 "Princely Creature #Weak (Activated)#!" #NT!
+ artifact_active_the_crawling_eye_name:0 "The Crawling Eye #Weak (Activated)#!" #NT!
+ artifact_active_viziers_beast_name:0 "Vizier's Beast #Weak (Activated)#!" #NT!
+ artifact_active_stalking_hound_of_typhon_name:0 "Stalking Hound of Typhon #Weak (Activated)#!" #NT!
+ artifact_active_kingly_beast_name:0 "Kingly Beast #Weak (Activated)#!" #NT!
+ artifact_active_divine_beast_name:0 "Divine Beast #Weak (Activated)#!" #NT!
+ artifact_creature_description:0 "#Bold Bonus to Command Effigy [character_interaction|E] per every activated (using Activate Effigy [character_interaction|E]) creature effigy.#!\nA figurine of a creature. When activated, the effigy comes to a semblance of life, and it can perform simple tasks for the artisan." #NT!
+ artifact_beast_description:0 "#Bold Cost gold instead of Sekhem in maintenance.\nBonus to Command Effigy [character_interaction|E] per every activated (using Activate Effigy [character_interaction|E]) creature effigy.#!\nA figurine of a creature. When activated, the effigy comes to a semblance of life, and it can perform simple tasks for the artisan." #NT!
+ artifact_lesser_chattel_name:0 "Lesser Chattel" #NT!
+ artifact_complex_chattel_name:0 "Complex Chattel" #NT!
+ artifact_superior_chattel_name:0 "Superior Chattel" #NT!
+ artifact_princely_chattel_name:0 "Princely Chattel" #NT!
+ artifact_chattel_description:0 "#Bold Allow to copy an equipped artifact (Except trinkets) when using Activate Effigy [character_interaction|E].#!\nModel of a simple common object to turn into a full-sized functional item when activated." #NT!
+ artifact_sekhem_vessel_name:0 "Sekhem Vessel" #NT!
+ artifact_greater_sekhem_vessel_name:0 "Greater Sekhem Vessel #Weak ([vessel_artifact.MakeScope.GetVariable('stored_sekhem').GetValue|0]/20)#!" #NT!
+ artifact_sekhem_vessel_description:0 "#Bold Allow to, when needing to spend Sekhem, first spend the Sekhem stored in a Sekhem Vessel.#!\nAn item that has inscribed words of power on it and imbued with the capacity to store Sekhem." #NT!
+ artifact_simple_servitor_name:0 "Simple Servitor" #NT!
+ artifact_overseer_name:0 "Overseer" #NT!
+ artifact_guard_name:0 "Guard" #NT!
+ artifact_scarab_of_life_description:0 "#Bold Unlock an event option during resurrection.#!\nA disposable artifact to shorten the time needed to resurrect." #NT!

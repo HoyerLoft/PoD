@@ -1,0 +1,124 @@
+﻿l_russian:
+ bastettribegifts_lifestyle_name:0 "Tribal Gifts" #NT!
+ bastettribegifts_lifestyle_desc:0 "Focus on the power that comes from the protector spirit of the tribe." #NT!
+ bastettribegifts_lifestyle_highlight_desc:0 "Because of your [GetModifier('POD_gnosis_5_modifier').GetNameWithTooltip], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_bastettribegifts_lifestyle_xp_gain_mult:0 "Monthly Tribal Gifts [lifestyle|E] [experience|E]" #NT!
+
+ bastettribegifts_focus:0 "Tribal Gifts Focus" #NT!
+ bastettribegifts_focus_modifier:1 "[GetFocus('bastettribegifts_focus').GetName]" #NT!
+ bastettribegifts_focus_desc:0 "Tribal Gifts of the Bastet." #NT!
+ bastettribegifts_focus_effect_desc:0 "Focusing on Tribal Gifts grants:" #NT!
+
+ bastethomidgifts_visible:1 "Homid Gifts" #NT!
+ felinegifts_visible:1 "Feline Gifts" #NT!
+
+ sweet_hunters_smile_perk_name:0 "Sweet Hunter's Smile" #NT!
+ cat_claws_perk_name:0 "Cat Claws" #NT!
+ eavesdroppers_ear_perk_name:0 "Eavesdropper's Ear" #NT!
+ craft_of_the_maker_perk_name:0 "Craft of the Maker" #NT!
+ babels_cure_perk_name:0 "Babel's Cure" #NT!
+ monkeys_uncle_perk_name:0 "Monkey's Uncle" #NT!
+ deny_the_hungry_perk_name:0 "Deny the Hungry" #NT!
+ madness_perk_name:0 "Madness" #NT!
+
+ DENY_THE_HUNGRY_PERK_EFFECT:0 "As a [character_interaction|E], allows you to make the targeted county gain [GetModifier( 'deny_the_hungry_per_modifier' ).GetNameWithTooltip|L]." #NT!
+ MADNESS_PERK_EFFECT:0 "As a [character_interaction|E], allows you to make the target gain a negative mental trait." #NT!
+
+ kittens_cry_perk_name:0 "Kitten's Cry" #NT!
+ mark_as_mine_perk_name:0 "Mark as Mine" #NT!
+ killers_leap_perk_name:0 "Killer's Leap" #NT!
+ perfect_cover_perk_name:0 "Perfect Cover" #NT!
+ underbelly_perk_name:0 "Underbelly" #NT!
+ hand_of_will_perk_name:0 "Hand of Will" #NT!
+ judgement_of_pestilence_perk_name:0 "Judgment of Pestilence" #NT!
+ revolt_of_the_land_perk_name:0 "Revolt of the Land" #NT!
+
+ JUDGEMENT_OF_PESTILENCE_PERK_EFFECT:0 "As two [character_interaction|E], allows you to absorb a disease and then release it to an enemy's court." #NT!
+
+ bagheeragifts_name:1 "Bagheera Gifts" #NT!
+ # balamgifts_name:1 "Balam Gifts" #NT!
+ bubastigifts_name:1 "Bubasti Gifts" #NT!
+ khangifts_name:1 "Khan Gifts" #NT!
+ # pumoncagifts_name:1 "Pumonca Gifts" #NT!
+ # qualmigifts_name:1 "Qualmi Gifts" #NT!
+ simbagifts_name:1 "Simba Gifts" #NT!
+ swaragifts_name:1 "Swara Gifts" #NT!
+ celicangifts_name:1 "Hellcats Gifts" #NT!
+
+ humbabas_escape_perk_name:0 "Humbaba's Escape" #NT!
+ treeclimber_perk_name:0 "Treeclimber" #NT!
+ ojas_surge_perk_name:0 "Ojas Surge" #NT!
+ cobras_dance_perk_name:0 "Cobras Dance" #NT!
+ travelers_tongues_perk_name:0 "Traveler's Tongues" #NT!
+ the_paradox_of_time_perk_name:0 "The Paradox of Time" #NT!
+ shivas_might_perk_name:0 "Shiva's Might" #NT!
+ part_the_curtain_perk_name:0 "Part the Curtain" #NT!
+
+ HUMBABAS_ESCAPE_PERK_EFFECT:1 "You can't be imprisoned by sieges anymore." #NT!
+ OJAS_SURGE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to temporary increase an attribute." #NT!
+ COBRAS_DANCE_PERK_EFFECT:0 "More likely to [imprison|E] [characters|E] after a successful [siege|E] or [raid|E]." #NT!
+ THE_PARADOX_OF_TIME_PERK_EFFECT:0 "Give [GetModifier('the_paradox_of_time_perk_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E]." #NT!
+ SHIVAS_MIGHT_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_shiva_modifier' ).GetNameWithTooltip|L] or [GetModifier( 'POD_shapeshift_form_kali_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+
+ alms_to_the_poor_perk_name:0 "Alms to the Poor" #NT!
+ scholars_friend_perk_name:0 "Scholar's Friend" #NT!
+ mousemaze_perk_name:0 "Mousemaze" #NT!
+ banish_cahlashs_brood_perk_name:0 "Banish Cahlash's Brood" #NT!
+ the_many_tongues_of_ptah_perk_name:0 "The Many Tongues of Ptah" #NT!
+ the_scarabs_flight_perk_name:0 "The Scarab's Flight" #NT!
+ shadow_brethren_perk_name:0 "Shadow Brethren" #NT!
+ spirit_wall_perk_name:0 "Spirit Wall" #NT!
+
+ MOUSEMAZE_PERK_EFFECT:0 "Give [GetModifier('mousemaze_perk_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E]." #NT!
+
+ rhinos_favor_perk_name:0 "Rhino's Favor" #NT!
+ skin_of_jade_perk_name:0 "Skin of Jade" #NT!
+ ricepaper_walk_perk_name:0 "Ricepaper Walk" #NT!
+ paws_of_the_raging_spirit_tiger_perk_name:0 "Paws of the Raging Spirit Tiger" #NT!
+ makers_charm_perk_name:0 "Maker's Charm" #NT!
+ dragonroar_perk_name:0 "Dragonroar" #NT!
+ call_to_battle_perk_name:0 "Call to Battle" #NT!
+ thousand_thunder_strike_perk_name:0 "Thousand Thunder Strike" #NT!
+
+ PAWS_OF_THE_RAGING_SPIRIT_TIGER_PERK_EFFECT:0 "No longer need to pay Gnosis to hurt a spirit in [single_combat_duel|E]." #NT!
+ CALL_TO_BATTLE_PERK_EFFECT:0 "Give ally knights in war as a commander or yourself in [single_combat_duel|E] [GetModifier('mousemaze_perk_modifier').GetNameWithTooltip]." #NT!
+
+ bastet_majesty_perk_name:0 "Majesty" #NT!
+ submit_perk_name:0 "Submit" #NT!
+ rallying_challenge_perk_name:0 "Rallying Challenge" #NT!
+ fireroar_perk_name:0 "Fireroar" #NT!
+ shadow_the_moons_light_perk_name:0 "Shadow the Moon's Light" #NT!
+ king_of_beasts_perk_name:0 "King of Beasts" #NT!
+ command_the_multitude_perk_name:0 "Command the Multitude" #NT!
+ rising_sun_perk_name:0 "Rising Sun" #NT!
+
+ RISING_SUN_PERK_EFFECT:0 "Wound enemy knights and commanders in war as a commander or foe in [single_combat_duel|E], if they are vampires (or other supernaturals that fear the sun)." #NT!
+
+ diamond_claws_perk_name:0 "Diamond Claws" #NT!
+ impalas_flight_perk_name:0 "Impala's Flight" #NT!
+ walking_between_worlds_perk_name:0 "Walking Between Worlds" #NT!
+ dance_of_the_chaya_perk_name:0 "Dance of the Chaya" #NT!
+ clearwater_passage_perk_name:0 "Clearwater Passage" #NT!
+ ghost_caress_perk_name:0 "Ghost Caress" #NT!
+ river_of_blood_perk_name:0 "River of Blood" #NT!
+ all_beasts_under_the_sun_perk_name:0 "All Beasts Under the Sun" #NT!
+
+ WALKING_BETWEEN_WORLDS_PERK_EFFECT:0 "Gain access to the Spirit Wilds in the Umbra." #NT!
+ DANCE_OF_THE_CHAYA_PERK_EFFECT:0 "Unlock $seek_aid_of_the_spirits_decision$ [decision|E]." #NT!
+ CLEARWATER_PASSAGE_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_water_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ GHOST_CARESS_PERK_EFFECT:0 "As a [character_interaction|E], allows you to give the target a wound with its severity depending on the rarity of the claimed recipient's artifact." #NT!
+ ALL_BEASTS_UNDER_THE_SUN_PERK_EFFECT:0 "Allow shapeshift to several animal forms." #NT!
+
+ mothers_blessing_curse_perk_name:0 "Mother's Blessing/Curse" #NT!
+ satyrs_wisdom_perk_name:0 "Satyr's Wisdom" #NT!
+ banish_burning_perk_name:0 "Banish Burning" #NT!
+ sorcerers_blade_perk_name:0 "Sorcerer's Blade" #NT!
+ phantasm_perk_name:0 "Phantasm" #NT!
+ small_cousin_perk_name:0 "Small Cousin" #NT!
+ chariot_of_lions_perk_name:0 "Chariot of Lions" #NT!
+ the_madness_of_crowds_perk_name:0 "The Madness of Crowds" #NT!
+
+ MOTHERS_BLESSING_CURSE_PERK_EFFECT:0 "As a [character_interaction|E], allow you to give [GetModifier( 'mothers_blessing_perk_modifier' ).GetNameWithTooltip|L] or [GetModifier( 'mothers_curse_perk_modifier' ).GetNameWithTooltip|L] to a pregnant target." #NT!
+ SORCERERS_BLADE_PERK_EFFECT:0 "As a [character_interaction|E], allow you to use gnosis to increase the prowess of a weapon artifact." #NT!
+ SMALL_COUSIN_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_cat_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ THE_MADNESS_OF_CROWDS_PERK_EFFECT:0 "As a [character_interaction|E], allows you to start a [GetModifier( 'lunatic_summon_modifier' ).GetNameWithTooltip|L]." #NT!

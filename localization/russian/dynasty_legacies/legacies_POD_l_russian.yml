@@ -1,0 +1,574 @@
+﻿l_russian:
+ special_legacy_track_name:1 "Боги и Монстры" #NT!
+ special_legacy_track_desc:0 "Один из самых спрятанных секретов мира [cainite|E]ов" #NT!
+ zmei_legacy_perk_name:0 "Змеи" #NT!
+ zmei_legacy_perk_effect:0 "Fearsome creatures of immense power, the Zmei serve only Baba Yaga... and her trusted champion." #NT!
+ ventrue_legacy_perk_name:0 "Правление Вентру" #NT!
+ demons_legacy_perk_name:0 "Призыв Падших" #NT!
+ meritocracy_legacy_track_name:0 "Meritocracy" #NT!
+ meritocracy_legacy_track_desc:0 "Learning to elevate those most talented and diligent." #NT!
+ meritocracy_legacy_1_name:0 "Physical Exercise Regimen" #NT!
+ meritocracy_legacy_2_name:0 "Weapons Training" #NT!
+ meritocracy_legacy_3_name:0 "Extended Education" #NT!
+ meritocracy_legacy_4_name:0 "Talent Over Lineage" #NT!
+ meritocracy_legacy_5_name:0 "Fervent Sermons" #NT!
+ unity_legacy_track_name:0 "Unity" #NT!
+ unity_legacy_track_desc:0 "Fostering the most fruitful cooperation with the brothers and the sisters in faith." #NT!
+ unity_legacy_1_name:0 "Coordinated Tactics" #NT!
+ unity_legacy_2_name:0 "Shared Intelligence" #NT!
+ unity_legacy_3_name:0 "Culture of Loyalty" #NT!
+ unity_legacy_4_name:0 "Pedagogical Experience" #NT!
+ unity_legacy_5_name:0 "United in Zeal" #NT!
+ ventrue_legacy_track_name:0 "Наследие Вентру" #NT!
+ ventrue_legacy_track_desc:0 "Знания [Clan|E]а Вентру уходят корнями в века" #NT!
+ ventrue_legacy_1_name:0 "Наследие Камиллы" #NT!
+ ventrue_legacy_2_name:0 "Наследие Артемиды Ортии" #NT!
+ ventrue_legacy_3_name:0 "Наследие Медона" #NT!
+ ventrue_legacy_4_name:0 "Наследие Тиннии" #NT!
+ ventrue_legacy_5_name:0 "Наследие Митры" #NT!
+ setite_legacy_track_name:0 "Наследие Сета" #NT!
+ setite_legacy_track_desc:0 "Знания [Clan|E]а Сетитов уходят корнями в века" #NT!
+ setite_legacy_1_name:0 "Наследие Накхторхеба" #NT!
+ setite_legacy_2_name:0 "Наследие Мааткарэ" #NT!
+ setite_legacy_3_name:0 "Наследие Сетерпенрэ" #NT!
+ setite_legacy_4_name:0 "Наследие Неферу" #NT!
+ setite_legacy_5_name:0 "Наследие Кеминтири" #NT!
+ baali_legacy_track_name:0 "Наследие Баали" #NT!
+ baali_legacy_track_desc:0 "Знания [Clan|E]а Баали уходят корнями в века" #NT!
+ baali_legacy_1_name:0 "Наследие Нергала" #NT!
+ baali_legacy_2_name:0 "Наследие Безымянного" #NT!
+ baali_legacy_3_name:0 "Наследие Кибелы" #NT!
+ baali_legacy_4_name:0 "Наследие Молоха" #NT!
+ baali_legacy_5_name:0 "Наследие Секера" #NT!
+ gangrel_legacy_track_name:0 "Наследие Гангрел" #NT!
+ gangrel_legacy_track_desc:0 "Знания [Clan|E]а Гангрел уходят корнями в века" #NT!
+ gangrel_legacy_1_name:0 "Наследие Одина" #NT!
+ gangrel_legacy_2_name:0 "Наследие Матасунты" #NT!
+ gangrel_legacy_3_name:0 "Наследие of Hukros" #NT!
+ gangrel_legacy_4_name:0 "Наследие of Dobrul" #NT!
+ gangrel_legacy_5_name:0 "Наследие Руфуса" #NT!
+ ravnos_legacy_track_name:0 "Наследие Равнос" #NT!
+ ravnos_legacy_track_desc:0 "Знания [Clan|E]а Равнос уходят корнями в века" #NT!
+ ravnos_legacy_1_name:0 "Наследие Дурги Син" #NT!
+ ravnos_legacy_2_name:0 "Наследие Чандрапутры" #NT!
+ ravnos_legacy_3_name:0 "Наследие Хазимель" #NT!
+ ravnos_legacy_4_name:0 "Наследие Рамессу" #NT!
+ ravnos_legacy_5_name:0 "Наследие Раваны" #NT!
+ cappadocian_legacy_track_name:0 "Наследие Каппадокийцев" #NT!
+ cappadocian_legacy_track_desc:0 "Знания [Clan|E]а Каппадокийцев уходят корнями в века" #NT!
+ cappadocian_legacy_1_name:0 "Наследие Яфета" #NT!
+ cappadocian_legacy_2_name:0 "Наследие Ламии" #NT!
+ cappadocian_legacy_3_name:0 "Наследие Собирателей" #NT!
+ cappadocian_legacy_4_name:0 "Наследие Бизара" #NT!
+ cappadocian_legacy_5_name:0 "Наследие Лазаря" #NT!
+ brujah_legacy_track_name:0 "Наследие Бруха" #NT!
+ brujah_legacy_track_desc:0 "Знания [Clan|E]а Бруха уходят корнями в века" #NT!
+ brujah_legacy_1_name:0 "Наследие Менелая" #NT!
+ brujah_legacy_2_name:0 "Наследие Ганнибала" #NT!
+ brujah_legacy_3_name:0 "Наследие Лиланда" #NT!
+ brujah_legacy_4_name:0 "Наследие Натальи" #NT!
+ brujah_legacy_5_name:0 "Наследие Троиль" #NT!
+ tzimisce_legacy_track_name:0 "Наследие Цимисхов" #NT!
+ tzimisce_legacy_track_desc:0 "Знания [Clan|E]а Цимисхов уходят корнями в века" #NT!
+ tzimisce_legacy_1_name:0 "Наследие of Ажры" #NT!
+ tzimisce_legacy_2_name:0 "Наследие of Рутвена" #NT!
+ tzimisce_legacy_3_name:0 "Наследие of Вели" #NT!
+ tzimisce_legacy_4_name:0 "Наследие Дракона" #NT!
+ tzimisce_legacy_5_name:0 "Наследие Йорака" #NT!
+ tremere_legacy_track_name:0 "Наследие Тремер" #NT!
+ tremere_legacy_track_desc:0 "Знания [Clan|E]а Тремер уходят корнями в века" #NT!
+ tremere_legacy_1_name:0 "Наследие Горатрикса" #NT!
+ tremere_legacy_2_name:0 "Наследие Мирлинды" #NT!
+ tremere_legacy_3_name:0 "Наследие Этриуса" #NT!
+ tremere_legacy_4_name:0 "Наследие Вирстании" #NT!
+ tremere_legacy_5_name:0 "Наследие ЛеДука" #NT!
+ toreador_legacy_track_name:0 "Наследие Тореадор" #NT!
+ toreador_legacy_track_desc:0 "Знания [Clan|E]а Тореадор уходят корнями в века" #NT!
+ toreador_legacy_1_name:0 "Наследие Ионтуса" #NT!
+ toreador_legacy_2_name:0 "Наследие Елены" #NT!
+ toreador_legacy_3_name:0 "Наследие Михаила" #NT!
+ toreador_legacy_4_name:0 "Наследие Салианны" #NT!
+ toreador_legacy_5_name:0 "Наследие Каллисти" #NT!
+ salubri_legacy_track_name:0 "Наследие Салюбри" #NT!
+ salubri_legacy_track_desc:0 "Знания [Clan|E]а Салюбри уходят корнями в века" #NT!
+ salubri_legacy_1_name:0 "Наследие Матиэль" #NT!
+ salubri_legacy_2_name:0 "Наследие Самиэля" #NT!
+ salubri_legacy_3_name:0 "Наследие Рэизель" #NT!
+ salubri_legacy_4_name:0 "Наследие Нахум бен Эноха" #NT!
+ salubri_legacy_5_name:0 "Наследие Анаб" #NT!
+ lasombra_legacy_track_name:0 "Наследие Ласомбра" #NT!
+ lasombra_legacy_track_desc:0 "Знания [Clan|E]а Ласомбра уходят корнями в века" #NT!
+ lasombra_legacy_1_name:0 "Наследие Сибиль" #NT!
+ lasombra_legacy_2_name:0 "Наследие Сильвестра де Руиза" #NT!
+ lasombra_legacy_3_name:0 "Наследие Сулеймана" #NT!
+ lasombra_legacy_4_name:0 "Наследие Тубалькаина" #NT!
+ lasombra_legacy_5_name:0 "Наследие Нарсеса" #NT!
+ banuhaqim_legacy_track_name:0 "Наследие Бану Хаким" #NT!
+ banuhaqim_legacy_track_desc:0 "Знания [Clan|E]а Бану Хаким уходят корнями в века" #NT!
+ banuhaqim_legacy_1_name:0 "Наследие Менчака" #NT!
+ banuhaqim_legacy_2_name:0 "Наследие Джамала" #NT!
+ banuhaqim_legacy_3_name:0 "Наследие Накартума" #NT!
+ banuhaqim_legacy_4_name:0 "Наследие Эшмуназара" #NT!
+ banuhaqim_legacy_5_name:0 "Наследие Ур-Шульги" #NT!
+ malkavian_legacy_track_name:0 "Наследие Малкавиан" #NT!
+ malkavian_legacy_track_desc:0 "Знания [Clan|E]а Малкавиан уходят корнями в века" #NT!
+ malkavian_legacy_1_name:0 "Наследие Унмада" #NT!
+ malkavian_legacy_2_name:0 "Наследие Алчиаса" #NT!
+ malkavian_legacy_3_name:0 "Наследие Дионисия" #NT!
+ malkavian_legacy_4_name:0 "Наследие Мидиана" #NT!
+ malkavian_legacy_5_name:0 "Наследие Лоухи" #NT!
+ nosferatu_legacy_track_name:0 "Наследие Носферату" #NT!
+ nosferatu_legacy_track_desc:0 "Знания [Clan|E]а Носферату уходят корнями в века" #NT!
+ nosferatu_legacy_1_name:0 "Наследие Ангивара" #NT!
+ nosferatu_legacy_2_name:0 "Наследие Тарика" #NT!
+ nosferatu_legacy_3_name:0 "Наследие Абсалона" #NT!
+ nosferatu_legacy_4_name:0 "Наследие Алексиуса" #NT!
+ nosferatu_legacy_5_name:0 "Наследие Бабы Яги" #NT!
+ caitiff_legacy_track_name:0 "Наследие Каитифов" #NT!
+ caitiff_legacy_track_desc:0 "Знания Каитифов уходят корнями в века" #NT!
+ caitiff_legacy_1_name:0 "Держась Вместе" #NT!
+ caitiff_legacy_2_name:0 "Загнанные в Угол" #NT!
+ caitiff_legacy_3_name:0 "Ближе к Каину" #NT!
+ caitiff_legacy_4_name:0 "Друзья в странных местах" #NT!
+ caitiff_legacy_5_name:0 "Наследие Каменного Человека" #NT!
+ gargoyle_legacy_track_name:0 "Наследие Гаргулий" #NT!
+ gargoyle_legacy_track_desc:0 "Знания Гаргулий уходят корнями в века" #NT!
+ gargoyle_legacy_1_name:0 "Собираясь Вместе" #NT!
+ gargoyle_legacy_2_name:0 "Подземный Путь" #NT!
+ gargoyle_legacy_3_name:0 "Ярость Крыльев" #NT!
+ gargoyle_legacy_4_name:0 "Секреты Чародеев" #NT!
+ gargoyle_legacy_5_name:0 "Уважение Кланов" #NT!
+ ashen_nobles_legacy_track_name:0 "Пепельная Знать" #NT!
+ ashen_nobles_legacy_track_desc:0 "Влияние на знать смертных" #NT!
+ ashen_nobles_legacy_1_name:0 "Права и Обязанности Правящего Класса" #NT!
+ ashen_nobles_legacy_2_name:0 "Наше достоинство, которому они придают Славу" #NT!
+ ashen_nobles_legacy_3_name:0 "Связи с Благородными" #NT!
+ ashen_nobles_legacy_4_name:0 "Мужчины и Женщины высокого Положения" #NT!
+ ashen_nobles_legacy_5_name:0 "Узри Наши Деяния и Команды" #NT!
+ ashen_knights_legacy_track_name:0 "Пепельные Рыцари" #NT!
+ ashen_knights_legacy_track_desc:0 "Влияние на смертных рыцарей" #NT!
+ ashen_knights_legacy_1_name:0 "Рыцарские Ордены" #NT!
+ ashen_knights_legacy_2_name:0 "Рыцари Доблести и Отваги" #NT!
+ ashen_knights_legacy_3_name:0 "Кавалерийские Ордены" #NT!
+ ashen_knights_legacy_4_name:0 "Совершение Великих и Благородных Поступков" #NT!
+ ashen_knights_legacy_5_name:0 "Отпрыски Девяти Достойных" #NT!
+ ashen_seneschals_legacy_track_name:0 "Пепельные Сенешали" #NT!
+ ashen_seneschals_legacy_track_desc:0 "Влияние на смертных сенешалей и торговцев" #NT!
+ ashen_seneschals_legacy_1_name:0 "Управляющие Княжеством" #NT!
+ ashen_seneschals_legacy_2_name:0 "Альтернатива Лидерству" #NT!
+ ashen_seneschals_legacy_3_name:0 "Охрана!Охрана!" #NT!
+ ashen_seneschals_legacy_4_name:0 "Символ Нежизни" #NT!
+ ashen_seneschals_legacy_5_name:0 "Бессмертный Долг" #NT!
+ ashen_thieves_legacy_track_name:0 "Пепельные Воры" #NT!
+ ashen_thieves_legacy_track_desc:0 "Влияние на смертных преступников" #NT!
+ ashen_thieves_legacy_1_name:0 "Мы - воры" #NT!
+ ashen_thieves_legacy_2_name:0 "Воры процветают: Богатые помнят" #NT!
+ ashen_thieves_legacy_3_name:0 "Плащ и Кинжал" #NT!
+ ashen_thieves_legacy_4_name:0 "Что Мы Делаем В Тени" #NT!
+ ashen_thieves_legacy_5_name:0 "Отпрыски Ночи" #NT!
+ ashen_cults_legacy_track_name:0 "Пепельные Культы" #NT!
+ ashen_cults_legacy_track_desc:0 "Влияние на культы смертных и духовенство" #NT!
+ ashen_cults_legacy_1_name:0 "Рожденные в Крови" #NT!
+ ashen_cults_legacy_2_name:0 "Мистические Пути" #NT!
+ ashen_cults_legacy_3_name:0 "Малые Боги" #NT!
+ ashen_cults_legacy_4_name:0 "Культы Кровавых Богов" #NT!
+ ashen_cults_legacy_5_name:0 "Хозяева Веры" #NT!
+ servitude_legacy_track_name:0 "Servitude" #NT!
+ servitude_legacy_track_desc:0 "Наследие of loyalty and obedience" #NT!
+ servitude_legacy_1_name:0 "Groundkeeping" #NT!
+ servitude_legacy_2_name:0 "Diligence and Devotion" #NT!
+ servitude_legacy_3_name:0 "Known Lackeys" #NT!
+ servitude_legacy_4_name:0 "Born to Follow" #NT!
+ servitude_legacy_5_name:0 "Venerable Blood" #NT!
+ aspiration_legacy_track_name:0 "Aspiration" #NT!
+ aspiration_legacy_track_desc:0 "Наследие of struggle for elevation" #NT!
+ aspiration_legacy_1_name:0 "Side Jobs" #NT!
+ aspiration_legacy_2_name:0 "Hard-earned Privileges" #NT!
+ aspiration_legacy_3_name:0 "Family Above All" #NT!
+ aspiration_legacy_4_name:0 "Born to Lead" #NT!
+ aspiration_legacy_5_name:0 "Evolving Blood" #NT!
+ three_sovereigns_legacy_track_name:0 "Наследие of the Three Sovereigns" #NT!
+ three_sovereigns_legacy_track_desc:0 "In the Age of Legends, kingdoms rose and fell with the stars of the Wan Xian. Three Wan Xian kings merit special note however; together they are known as the Three Sovereigns." #NT!
+ fuxi_legacy_perk_name:0 "Наследие of Fuxi" #NT!
+ shennong_legacy_perk_name:0 "Наследие of Shennong" #NT!
+ huangti_legacy_perk_name:0 "Наследие of Huang-ti" #NT!
+
+ blackfuries_legacy_track_name:0 "Black Furies Наследие" #NT!
+ blackfuries_legacy_track_desc:0 "The warrior-women of Pegasus' knowledge shared from mothers to daughters." #NT!
+ blackfuries_legacy_1_name:0 "Blessed by Pegasus" #NT!
+ blackfuries_legacy_2_name:0 "Brash, Violent and Prideful" #NT!
+ blackfuries_legacy_3_name:0 "Amazons" #NT!
+ blackfuries_legacy_4_name:0 "From Mothers to Daughters" #NT!
+ blackfuries_legacy_5_name:0 "Wrath of Gaia" #NT!
+
+ BLACKFURIES_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('amazon_camp_01').GetName]" #NT!
+ AMAZONS_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('amazons').GetName] as [men_at_arms|E]" #NT!
+ BLACKFURIES_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 martial and 5 prowess." #NT!
+
+ BONEGNAWERS_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('scavengers_01').GetName]" #NT!
+ BONEGNAWERS_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 intrigue and 5 stewardship." #NT!
+
+ bonegnawers_legacy_track_name:0 "Bone Gnawers Наследие" #NT!
+ bonegnawers_legacy_track_desc:0 "The shunned survivors' knowledge shared throughout the ages." #NT!
+ bonegnawers_legacy_1_name:0 "Blessed by Rat" #NT!
+ bonegnawers_legacy_2_name:0 "Treasured Waste" #NT!
+ bonegnawers_legacy_3_name:0 "Rats" #NT!
+ bonegnawers_legacy_4_name:0 "Teachings of Survival" #NT!
+ bonegnawers_legacy_5_name:0 "Outcasts Unite" #NT!
+
+ childrenofgaia_legacy_track_name:0 "Children of Gaia Наследие" #NT!
+ childrenofgaia_legacy_track_desc:0 "The healers of Gaia's knowledge shared from teachers to students." #NT!
+ childrenofgaia_legacy_1_name:0 "Blessed by Unicorn" #NT!
+ childrenofgaia_legacy_2_name:0 "Peace and Quiet" #NT!
+ childrenofgaia_legacy_3_name:0 "Defenders of Peace" #NT!
+ childrenofgaia_legacy_4_name:0 "Teachings of Tolerance" #NT!
+ childrenofgaia_legacy_5_name:0 "Love of Gaia" #NT!
+
+ CHILDRENOFGAIA_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('gaia_refuge_01').GetName]." #NT!
+ DEFENDERS_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('defenders').GetName] as [men_at_arms|E]" #NT!
+ CHILDRENOFGAIA_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 diplomacy and 5 stewardship." #NT!
+
+ blackspiraldancers_legacy_track_name:0 "Black Spiral Dancers Наследие" #NT!
+ blackspiraldancers_legacy_track_desc:0 "The wolves of the Wyrm's knowledge shared from shared madness." #NT!
+ blackspiraldancers_legacy_1_name:0 "Blessed by Whippoorwill" #NT!
+ blackspiraldancers_legacy_2_name:0 "Dancing the Spiral" #NT!
+ blackspiraldancers_legacy_3_name:0 "Madmen" #NT!
+ blackspiraldancers_legacy_4_name:0 "Teachings of Madness" #NT!
+ blackspiraldancers_legacy_5_name:0 "Ritual Orgies" #NT!
+
+ BLACKSPIRALDANCERS_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('black_spiral_01').GetName]." #NT!
+ MANIACS_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('maniacs').GetName] as [men_at_arms|E]" #NT!
+ BLACKSPIRALDANCERS_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 intrigue and 5 prowess." #NT!
+
+ fianna_legacy_track_name:0 "Fianna Наследие" #NT!
+ fianna_legacy_track_desc:0 "The Sons of Danu's knowledge shared from bards to cubs." #NT!
+ fianna_legacy_1_name:0 "Blessed by Stag" #NT!
+ fianna_legacy_2_name:0 "Listening by the Bonfire" #NT!
+ fianna_legacy_3_name:0 "Heroes of the Celts" #NT!
+ fianna_legacy_4_name:0 "Teachings of Life" #NT!
+ fianna_legacy_5_name:0 "Love for Battle" #NT!
+
+ FIANNA_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('bard_gathering_01').GetName]." #NT!
+ HERNE_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('herne').GetName] as [men_at_arms|E]" #NT!
+ FIANNA_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 diplomacy and 5 prowess." #NT!
+
+ getoffenris_legacy_track_name:0 "Get of Fenris Наследие" #NT!
+ getoffenris_legacy_track_desc:0 "The Sons of Great Fenris knowledge shared from Skalds to aspiring heroes." #NT!
+ getoffenris_legacy_1_name:0 "Blessed by Fenris" #NT!
+ getoffenris_legacy_2_name:0 "Sagas in the Making" #NT!
+ getoffenris_legacy_3_name:0 "Heroes of Ragnarok" #NT!
+ getoffenris_legacy_4_name:0 "Teachings of Battle" #NT!
+ getoffenris_legacy_5_name:0 "To Valhalla!" #NT!
+
+ GETOFENRIS_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('heroes_summit_01').GetName]." #NT!
+ MJOLNIR_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('mjolnir').GetName] as [men_at_arms|E]" #NT!
+ GETOFENRIS_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 10 prowess." #NT!
+
+ warderofmen_legacy_track_name:0 "Warder of Men Наследие" #NT!
+ warderofmen_legacy_track_desc:0 "The protectors of humanity's knowledge shared from the earliest days." #NT!
+ warderofmen_legacy_1_name:0 "Blessed by Cockroach" #NT!
+ warderofmen_legacy_2_name:0 "City Wolves" #NT!
+ warderofmen_legacy_3_name:0 "Defenders of Humanity" #NT!
+ warderofmen_legacy_4_name:0 "Teachings of Humanity" #NT!
+ warderofmen_legacy_5_name:0 "The Sprawling Weaver" #NT!
+
+ WARDEROFMEN_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('city_wolves_01').GetName]." #NT!
+ WARDEROFMEN_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 learning and 5 stewardship." #NT!
+
+ redtalon_legacy_track_name:0 "Red Talons Наследие" #NT!
+ redtalon_legacy_track_desc:0 "The protectors of the Wyld's knowledge shared from alphas to cubs." #NT!
+ redtalon_legacy_1_name:0 "Blessed by Griffin" #NT!
+ redtalon_legacy_2_name:0 "The Impergium" #NT!
+ redtalon_legacy_3_name:0 "Pack Leaders" #NT!
+ redtalon_legacy_4_name:0 "Teachings of the Wyld" #NT!
+ redtalon_legacy_5_name:0 "Culling the Herd" #NT!
+
+ REDTALON_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('constant_impergium_01').GetName]." #NT!
+ REDTALON_LEGACY_4_PERK:0 "Once coming of age, cubs of your dynasty will get a bonus 10 prowess." #NT!
+
+ shadowlords_legacy_track_name:0 "Shadow Lords Наследие" #NT!
+ shadowlords_legacy_track_desc:0 "The secretive lords' knowledge shared to those worthy of respect." #NT!
+ shadowlords_legacy_1_name:0 "Blessed by Grandfather Thunder" #NT!
+ shadowlords_legacy_2_name:0 "Council of the Worthies" #NT!
+ shadowlords_legacy_3_name:0 "Eyes and Ears of the Thunder" #NT!
+ shadowlords_legacy_4_name:0 "Teachings of Respect" #NT!
+ shadowlords_legacy_5_name:0 "True Rulers?" #NT!
+
+ SHADOWLORDS_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('shadowy_summit_01').GetName]." #NT!
+ STORMCROWS_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('stormcrows').GetName] as [men_at_arms|E]" #NT!
+ SHADOWLORDS_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 intrigue and 5 stewardship." #NT!
+
+ silentstriders_legacy_track_name:0 "Silent Striders Наследие" #NT!
+ silentstriders_legacy_track_desc:0 "The exiles' knowledge shared from one bonfire to another." #NT!
+ silentstriders_legacy_1_name:0 "Blessed by Owl" #NT!
+ silentstriders_legacy_2_name:0 "Travelers' Rest" #NT!
+ silentstriders_legacy_3_name:0 "Friends from Egypt" #NT!
+ silentstriders_legacy_4_name:0 "Teachings of the Road" #NT!
+ silentstriders_legacy_5_name:0 "Exiled Together" #NT!
+
+ SILENTSTRIDERS_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('travelers_lodging_01').GetName]." #NT!
+ SCORPIONS_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('scorpions').GetName] as [men_at_arms|E]" #NT!
+ SILENTSTRIDERS_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 intrigue and 5 diplomacy." #NT!
+
+ silverfangs_legacy_track_name:0 "Silver Fangs Наследие" #NT!
+ silverfangs_legacy_track_desc:0 "The rulers of the Garou Nation's knowledge shared from kings to princes." #NT!
+ silverfangs_legacy_1_name:0 "Blessed by Falcon" #NT!
+ silverfangs_legacy_2_name:0 "Noble Birthright" #NT!
+ silverfangs_legacy_3_name:0 "The Pure" #NT!
+ silverfangs_legacy_4_name:0 "Teachings of Nobility" #NT!
+ silverfangs_legacy_5_name:0 "A Vassal's Duty" #NT!
+
+ SILVERFANGS_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('noble_trappings_01').GetName]." #NT!
+ WHITEWOLVES_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('whitewolves').GetName] as [men_at_arms|E]" #NT!
+ SILVERFANGS_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 stewardship and 5 diplomacy." #NT!
+
+ stargazers_legacy_track_name:0 "Stargazers Наследие" #NT!
+ stargazers_legacy_track_desc:0 "The prudent Eastern wolves' knowledge shared from teachers to students." #NT!
+ stargazers_legacy_1_name:0 "Blessed by Chimaera" #NT!
+ stargazers_legacy_2_name:0 "Peace and Quiet" #NT!
+ stargazers_legacy_3_name:0 "The Heavenly Successors" #NT!
+ stargazers_legacy_4_name:0 "Teachings of Contemplation" #NT!
+ stargazers_legacy_5_name:0 "The Eye of the Storm" #NT!
+
+ STARGAZERS_LEGACY_2_PERK:0 "You unlock a new building, [GetBuilding('hidden_retreat_01').GetName]." #NT!
+ HEAVENLYSUCCESSORS_LEGACY_PERK_UNLOCK_EFFECT:0 "Can recruit [GetMaA('heavenlysuccessors_maa').GetName] as [men_at_arms|E]" #NT!
+ STARGAZERS_LEGACY_4_PERK:0 "Once coming of age, children of your dynasty will get a bonus 5 learning and 5 diplomacy." #NT!
+
+ ba_mummy_legacy_track_name:0 "Ba" #NT!
+ ba_mummy_legacy_track_desc:0 "The spiritual energy that allows Mummies to rejuvenate once dead, Ba accrual is crucial for a Mummy's continued survival." #NT!
+ ba_mummy_legacy_1_name:0 "Ba of Wisdom" #NT!
+ ba_mummy_legacy_2_name:0 "Ba of Heroism" #NT!
+ ba_mummy_legacy_3_name:0 "Ba of Duty" #NT!
+ ba_mummy_legacy_4_name:0 "Ba of Renewal" #NT!
+ ba_mummy_legacy_5_name:0 "Ba of Success" #NT!
+
+ ba_mummy_legacy_1_perk:0 "Coming back from the dead will now cost #P -500#! piety. The base resurrection cost is 3000 multiplied by the number of sin traits." #NT!
+
+ pharaoh_mummy_legacy_track_name:0 "Pharaoh of Egypt" #NT!
+ pharaoh_mummy_legacy_track_desc:0 "The land of Mummies was also the land of the greatest kings and their legacy lives on for those truly immortal." #NT!
+ pharaoh_mummy_legacy_1_name:0 "Наследие of Cleopatra" #NT!
+ pharaoh_mummy_legacy_2_name:0 "Наследие of Ptolemy" #NT!
+ pharaoh_mummy_legacy_3_name:0 "Наследие of Ramesses II" #NT!
+ pharaoh_mummy_legacy_4_name:0 "Наследие of Akhenaten" #NT!
+ pharaoh_mummy_legacy_5_name:0 "Наследие of Khufu" #NT!
+
+ pharaoh_mummy_legacy_1_perk:0 "#flavor The great Queen almost toppled a nascent empire with her charisma alone.#!" #NT!
+ pharaoh_mummy_legacy_2_perk:0 "#flavor Coming from far away, Ptolemy embraced Egypt as if it was his own homeland.#!" #NT!
+ pharaoh_mummy_legacy_3_perk:0 "#flavor The son of Ra commanded the greatest armies of Egypt and few were able to oppose his mighty ambition.#!" #NT!
+ pharaoh_mummy_legacy_4_perk:0 "#flavor For better or worse, no Ancient Egyptian will ever forget Akhenaten, the one who despised the Gods.#!" #NT!
+ pharaoh_mummy_legacy_5_perk:0 "#flavor By resting forever in the Great Pyramid of Giza, Khufu found his own immortality.#!" #NT!
+
+ mortuary_cult_mummy_legacy_track_name:0 "Mortuary Cult" #NT!
+ mortuary_cult_mummy_legacy_track_desc:0 "The Mortuary Cult nourishes the spirit of the ancestors. The priests undertake daily rituals for their benefit and receive boons in return." #NT!
+ mortuary_cult_mummy_legacy_1_name:0 "Khener Dancer" #NT!
+ mortuary_cult_mummy_legacy_2_name:0 "Wab Priest" #NT!
+ mortuary_cult_mummy_legacy_3_name:0 "Lector Priest" #NT!
+ mortuary_cult_mummy_legacy_4_name:0 "Sem Priest" #NT!
+ mortuary_cult_mummy_legacy_5_name:0 "Hem-Netjer" #NT!
+
+ mortuary_cult_mummy_legacy_1_perk:0 "Your [neteru|E] will gain [GetModifier('POD_neteru_legacy_1_modifier').GetNameWithTooltip] modifier.\n\n#flavor Khener Dancers served the gods through music and dancing. They were linked to Hathor, goddess of women and fertility.#!" #NT!
+ mortuary_cult_mummy_legacy_2_perk:0 "Your [neteru|E] will gain [GetModifier('POD_neteru_legacy_2_modifier').GetNameWithTooltip] modifier.\n\n#flavor The Pure Ones are the most common type of priest, they carried out the daily maintenance of the cult.#!" #NT!
+ mortuary_cult_mummy_legacy_3_perk:0 "Your [neteru|E] will gain [GetModifier('POD_neteru_legacy_3_modifier').GetNameWithTooltip] modifier.\n\n#flavor The Lector Priest nourishes the soul in the Duat by reciting spells and giving offerings to the deceased in the necropolis.#!" #NT!
+ mortuary_cult_mummy_legacy_4_perk:0 "Your [neteru|E] will gain [GetModifier('POD_neteru_legacy_4_modifier').GetNameWithTooltip] modifier.\n\n#flavor The Embalmers take care to restore the body to wholeness when they mummify the dead.#!" #NT!
+ mortuary_cult_mummy_legacy_5_perk:0 "Your [neteru|E] will gain [GetModifier('POD_neteru_legacy_5_modifier').GetNameWithTooltip] modifier.\n\n#flavor The High Priest cares for the Ka of the deceased, allowing their continual existence in the Duat.#!" #NT!
+
+
+ neutral_totems_legacy_track_name:0 "Spiritual Totems" #NT!
+ neutral_totems_legacy_track_desc:0 "Some Totems are neutral and don't pick a tribe or a pack to support. They could be swayed to your cause if you demonstrated sufficient respect for their specific areas of interest." #NT!
+
+ neutral_totems_legacy_1_name:0 "The Hawk" #NT!
+ neutral_totems_legacy_1_perk:0 "@warning_icon!#X To unlock this dynasty perk, you need to become a Master Hunter. Starting as one doesn't count.#!" #NT!
+
+ neutral_totems_legacy_2_name:0 "The Black Tortoise" #NT!
+ neutral_totems_legacy_2_perk:0 "@warning_icon!#X To unlock this dynasty perk, you need to encounter the Black Tortoise and pass a challenge in the Spirit Wilds part of the Umbra.#!" #NT!
+
+ neutral_totems_legacy_3_name:0 "The Hyena" #NT!
+ neutral_totems_legacy_3_perk:0 "@warning_icon!#X To unlock this dynasty perk, you need to acquire the [GetTrait('viking').GetName( GetPlayer )] trait. Starting with it doesn't count.#!" #NT!
+
+ neutral_totems_legacy_4_name:0 "The Sphinx" #NT!
+ neutral_totems_legacy_4_perk:0 "@warning_icon!#X To unlock this dynasty perk for purchase you need to have the [GetTrait('scholar').GetName( GetPlayer )] trait and 20 Learning or more. You still need to be able to pay the renown cost and have unlocked the Hyena legacy.#!" #NT!
+
+ neutral_totems_legacy_5_name:0 "The Fox" #NT!
+ neutral_totems_legacy_5_perk:0 "@warning_icon!#X To unlock this dynasty perk for purchase you need to have finished the three Intrigue lifestyle trees. You still need to be able to pay the renown cost and have unlocked the Sphinx legacy.#!" #NT!
+
+ eminence_legacy_track_name:0 "Infernal Eminence" #NT!
+ eminence_legacy_track_desc:0 "Demons have lost much of their memory and experience during their unpleasant stay in the Abyssal Prison. Who were they really?" #NT!
+ eminence_legacy_1_name:0 "Infernal Slave" #NT!
+ eminence_legacy_1_perk:0 "If you are a Demon, you will receive:\n$TAB$Unlock the [lore_lifestyle|E]s, the original powers of the Angels, as lifestyle trees.\n$TAB$A memory event about your past as an Angel.\n$TAB$The "[GetModifier('unknown_eminence_modifier').GetNameWithTooltip]" modifier will be upgraded to "[GetModifier('known_eminence_modifier').GetNameWithTooltip]".\n$TAB$Maximum yearly [arcana_lifestyle|E] Experience received from [thrall|E]: #P 2000#!" #NT!
+ eminence_legacy_2_name:0 "Infernal Soldier" #NT!
+ eminence_legacy_2_perk:0 "If you are a Demon, you will receive:\n$TAB$A memory event about your past as an Angel.\n$TAB$The "[GetModifier('known_eminence_modifier').GetNameWithTooltip]" modifier will be upgraded to "[GetModifier('respected_eminence_modifier').GetNameWithTooltip]".\n$TAB$Maximum yearly [arcana_lifestyle|E] Experience received from [thrall|E]: #P 3000#!" #NT!
+ eminence_legacy_3_name:0 "Infernal General" #NT!
+ eminence_legacy_3_perk:0 "If you are a Demon, you will receive:\n$TAB$A memory event about your past as an Angel.\n$TAB$The "[GetModifier('respected_eminence_modifier').GetNameWithTooltip]" modifier will be upgraded to "[GetModifier('honored_eminence_modifier').GetNameWithTooltip]".\n$TAB$Maximum yearly [arcana_lifestyle|E] Experience received from [thrall|E]: #P 4000#!" #NT!
+ eminence_legacy_4_name:0 "Infernal Duke" #NT!
+ eminence_legacy_4_perk:0 "If you are a Demon, you will receive:\n$TAB$A memory event about your past as an Angel.\n$TAB$The "[GetModifier('honored_eminence_modifier').GetNameWithTooltip]" modifier will be upgraded to "[GetModifier('powerful_eminence_modifier').GetNameWithTooltip]".\n$TAB$Maximum yearly [arcana_lifestyle|E] Experience received from [thrall|E]: #P 5000#!" #NT!
+ eminence_legacy_5_name:0 "Infernal Archduke" #NT!
+ eminence_legacy_5_perk:0 "If you are a Demon, you will receive:\n$TAB$A memory event about your past as an Angel.\n$TAB$The "[GetModifier('powerful_eminence_modifier').GetNameWithTooltip]" modifier will be upgraded to "[GetModifier('exalted_eminence_modifier').GetNameWithTooltip]".\n$TAB$Maximum yearly [arcana_lifestyle|E] Experience received from [thrall|E]: #P Unlimited#!" #NT!
+
+ pacts_legacy_track_name:0 "Infernal Pacts" #NT!
+ pacts_legacy_track_desc:0 "Demonic Pacts can empower the receiver at merely the cost of their utter devotion." #NT!
+ pacts_legacy_1_name:0 "Infernal Knowledge" #NT!
+ pacts_legacy_1_perk:0 "When a character accepts a pact with you, this character will gain #V 5#! [learning|E]." #NT!
+ pacts_legacy_2_name:0 "Infernal Allure" #NT!
+ pacts_legacy_2_perk:0 "When a character accepts a pact with you, this character will gain #V 5#! [diplomacy|E]." #NT!
+ pacts_legacy_3_name:0 "Infernal Plots" #NT!
+ pacts_legacy_3_perk:0 "When a character accepts a pact with you, this character will gain #V 5#! [intrigue|E]." #NT!
+ pacts_legacy_4_name:0 "Infernal Aura" #NT!
+ pacts_legacy_4_perk:0 "When a character accepts a pact with you, this character will gain #V 5#! [stewardship|E]." #NT!
+ pacts_legacy_5_name:0 "Infernal Bravery" #NT!
+ pacts_legacy_5_perk:0 "When a character accepts a pact with you, this character will gain #V 5#! [martial|E]." #NT!
+
+ seelie_romantic_legacy_track_name:0 "Seelie Romantic Наследие" #NT!
+ seelie_romantic_legacy_track_desc:0 "Romantic Legacies are the personalities the Kithain manifest in Romantic encounters, particularly when in the stylized and formal dance of Courtly Love." #NT!
+ seelie_romantic_legacy_1_name:0 "Empath" #NT!
+ seelie_romantic_legacy_1_perk:0 "#flavor You are highly sensitive to the moods, wishes and desires of your paramour. If they aren't happy, neither are you.#!" #NT!
+ seelie_romantic_legacy_2_name:0 "Friend" #NT!
+ seelie_romantic_legacy_2_perk:0 "Unlocks the [GetScheme('befriend').GetTypeName] [scheme|E].\nYou can use it for 7 maximum friends (up from 5).\n#flavor Love is not just a romantic emotion. If a relationship doesn't have mutual respect and friendship at its core, it is not true love.#!" #NT!
+ seelie_romantic_legacy_3_name:0 "Ingenue" #NT!
+ seelie_romantic_legacy_3_perk:0 "#flavor Somewhat naive and wide-eyed, you still see only the wonder and good side of love. Most fae usually pass out of this legacy as they grow older, but not always.#!" #NT!
+ seelie_romantic_legacy_4_name:0 "Jongleur" #NT!
+ seelie_romantic_legacy_4_perk:0 "#flavor You like to keep your lovers (and yourself) entertained. Love is the greatest joy and should be enjoyed to its fullest.#!" #NT!
+ seelie_romantic_legacy_5_name:0 "Protector" #NT!
+ seelie_romantic_legacy_5_perk:0 "#flavor Your love is true and you desire to protect them from all the ills of the world. This Наследие is born of noble intentions, but can be suffocating.#!" #NT!
+
+ unseelie_romantic_legacy_track_name:0 "Unseelie Romantic Наследие" #NT!
+ unseelie_romantic_legacy_track_desc:0 "Romantic Legacies are the personalities the Kithain manifest in Romantic encounters, particularly when in the stylized and formal dance of Courtly Love." #NT!
+ unseelie_romantic_legacy_1_name:0 "Competitor" #NT!
+ unseelie_romantic_legacy_1_perk:0 "Your most skilled lover will grant you a modifier that gives monthly prestige.\n#flavor You are a romantic Olympian. You judge others by the quality of their consorts and you know they judge you by the same standards. You must be the world's greatest lover, or what's the point?#!" #NT!
+ unseelie_romantic_legacy_2_name:0 "Cynic" #NT!
+ unseelie_romantic_legacy_2_perk:0 "#flavor Jaded and world-weary, you often continue in your romantic overtures out of habit or fear of being alone. You have lowered your sights because you know "true love" can only be found in fairy tales.#!" #NT!
+ unseelie_romantic_legacy_3_name:0 "Martyr" #NT!
+ unseelie_romantic_legacy_3_perk:0 "#flavor I work so hard to make this relationship work and what do I get in return? Heartache! I didn't expect you to understand.#!" #NT!
+ unseelie_romantic_legacy_4_name:0 "Gamester" #NT!
+ unseelie_romantic_legacy_4_perk:0 "Each [lover|E] adds: [GetModifier( 'POD_gamester_modifier' ).GetNameWithTooltip|L]. This is cumulative.\n#flavor Love is a grand game, full of danger and excitement. You may have one partner or many, but the affair must be constantly challenging and in motion.#!" #NT!
+ unseelie_romantic_legacy_5_name:0 "Spy" #NT!
+ unseelie_romantic_legacy_5_perk:0 "#flavor Court gossip and intrigue are your meat and drink. Part Climber and part Deceiver, you are interested only in being the best informed about who is doing what to whom.#!" #NT!
+
+ seelie_legacy_1_track_name:0 "Seelie Наследие" #NT!
+ seelie_legacy_1_track_desc:0 "Known for the vibrancy of spring and the searing heat of summer, followers of the Seelie Legacies tend to put an emphasis on groups and community." #NT!
+ seelie_1_legacy_1_name:0 "Humanist" #NT!
+ seelie_1_legacy_1_perk:0 "#flavor You are more attentive to your mortal life than your fae one.#!" #NT!
+ seelie_1_legacy_2_name:0 "Prankster" #NT!
+ seelie_1_legacy_2_perk:0 "#flavor You delight in playing all manner of jokes and pranks.#!" #NT!
+ seelie_1_legacy_3_name:0 "Wayfarer" #NT!
+ seelie_1_legacy_3_perk:0 "#flavor You live for the moment, and do things on impulse.#!" #NT!
+ seelie_1_legacy_4_name:0 "Panderer" #NT!
+ seelie_1_legacy_4_perk:0 "#flavor You live to make others happy.#!" #NT!
+ seelie_1_legacy_5_name:0 "Troubadour" #NT!
+ seelie_1_legacy_5_perk:0 "Poet become more common in the Dynasty.\n#flavor The world is a beautiful place, and you feel this--and all things--more strongly than others do.#!" #NT!
+
+ seelie_legacy_2_track_name:0 "Seelie Наследие" #NT!
+ seelie_legacy_2_track_desc:0 "Known for the vibrancy of spring and the searing heat of summer, followers of the Seelie Legacies tend to put an emphasis on groups and community." #NT!
+ seelie_2_legacy_1_name:0 "Gadfly" #NT!
+ seelie_2_legacy_1_perk:0 "#flavor You keep the powers-that-be honest by pointing out their faults.#!" #NT!
+ seelie_2_legacy_2_name:0 "Dandy" #NT!
+ seelie_2_legacy_2_perk:0 "#flavor A social climber at heart, you excel at court etiquette.#!" #NT!
+ seelie_2_legacy_3_name:0 "Comrade" #NT!
+ seelie_2_legacy_3_perk:0 "$PERK_CAN_SIGN_ALLIANCE$\n#flavor You value friendship over all else, and strive to prove yourself worthy of others' trust.#!" #NT!
+ seelie_2_legacy_4_name:0 "Courtier" #NT!
+ seelie_2_legacy_4_perk:0 "#flavor The only thing interesting in life is social interaction.#!" #NT!
+ seelie_2_legacy_5_name:0 "Regent" #NT!
+ seelie_2_legacy_5_perk:0 "#flavor You are the living embodiment of the realm, the one chosen to speak for the many.#!" #NT!
+
+ seelie_legacy_3_track_name:0 "Seelie Наследие" #NT!
+ seelie_legacy_3_track_desc:0 "Known for the vibrancy of spring and the searing heat of summer, followers of the Seelie Legacies tend to put an emphasis on groups and community." #NT!
+ seelie_3_legacy_1_name:0 "Bumpkin" #NT!
+ seelie_3_legacy_1_perk:0 "#flavor You are the solid, practical sort who has a solution to every problem.#!" #NT!
+ seelie_3_legacy_2_name:0 "Crafter" #NT!
+ seelie_3_legacy_2_perk:0 "#flavor Creation is your life's work.#!" #NT!
+ seelie_3_legacy_3_name:0 "Aspirant" #NT!
+ seelie_3_legacy_3_perk:0 "#flavor Life is a learning experience, and you always strive to improve yourself.#!" #NT!
+ seelie_3_legacy_4_name:0 "Sage" #NT!
+ seelie_3_legacy_4_perk:0 "Mystic become more common in the Dynasty.\n#flavor You are the advisor, the wise one, the teacher.#!" #NT!
+ seelie_3_legacy_5_name:0 "Virtuoso" #NT!
+ seelie_3_legacy_5_perk:0 "Select a lifestyle trait to become more common in the Dynasty.\n#flavor You are the master of your chosen field, whatever it may be.#!" #NT!
+
+ seelie_legacy_4_track_name:0 "Seelie Наследие" #NT!
+ seelie_legacy_4_track_desc:0 "Known for the vibrancy of spring and the searing heat of summer, followers of the Seelie Legacies tend to put an emphasis on groups and community." #NT!
+ seelie_4_legacy_1_name:0 "Squire" #NT!
+ seelie_4_legacy_1_perk:0 "#flavor You live to help and support your current hero in his endeavors.#!" #NT!
+ seelie_4_legacy_2_name:0 "Knight" #NT!
+ seelie_4_legacy_2_perk:0 "#flavor You follow the old codes of chivalry and help those in need.#!" #NT!
+ seelie_4_legacy_3_name:0 "Paladin" #NT!
+ seelie_4_legacy_3_perk:0 "#flavor You are a competitor; the brave, stalwart athlete or hero.#!" #NT!
+ seelie_4_legacy_4_name:0 "Philanthropist" #NT!
+ seelie_4_legacy_4_perk:0 "#flavor You strive to help others and do good deeds without expecting a reward.#!" #NT!
+ seelie_4_legacy_5_name:0 "Saint" #NT!
+ seelie_4_legacy_5_perk:0 "#flavor You strive to ease the pain of others.#!" #NT!
+
+ seelie_legacy_5_track_name:0 "Seelie Наследие" #NT!
+ seelie_legacy_5_track_desc:0 "Known for the vibrancy of spring and the searing heat of summer, followers of the Seelie Legacies tend to put an emphasis on groups and community." #NT!
+ seelie_5_legacy_1_name:0 "Orchid" #NT!
+ seelie_5_legacy_1_perk:0 "#flavor You are an innocent who has been forced into the big, wide, dangerous world.#!" #NT!
+ seelie_5_legacy_2_name:0 "Pishogue" #NT!
+ seelie_5_legacy_2_perk:0 "#flavor The world is a place of endless, childlike wonder to you.#!" #NT!
+ seelie_5_legacy_3_name:0 "Stoic" #NT!
+ seelie_5_legacy_3_perk:0 "#flavor You rarely reveal your emotions.#!" #NT!
+ seelie_5_legacy_4_name:0 "Hermit" #NT!
+ seelie_5_legacy_4_perk:0 "#flavor You prefer your own company to that of others.#!" #NT!
+ seelie_5_legacy_5_name:0 "Arcadian" #NT!
+ seelie_5_legacy_5_perk:0 "#flavor Your fae side far outweighs your human side.#!" #NT!
+
+ unseelie_legacy_1_track_name:0 "Unseelie Наследие" #NT!
+ unseelie_legacy_1_track_desc:0 "Colorful as an autumn harvest and chaotic and isolated as a winter ice storm, followers of the Unseelie Legacies tend to be passionate individualists." #NT!
+ unseelie_1_legacy_1_name:0 "Craven" #NT!
+ unseelie_1_legacy_1_perk:0 "#flavor Better a live coward than a dead hero.#!" #NT!
+ unseelie_1_legacy_2_name:0 "Humbug" #NT!
+ unseelie_1_legacy_2_perk:0 "#flavor Nothing ever satisfies you; you are grumpy, sour and just plain cranky.#!" #NT!
+ unseelie_1_legacy_3_name:0 "Wretch" #NT!
+ unseelie_1_legacy_3_perk:0 "#flavor You have no positive self-image and assume everyone else hates you as much as you hate yourself.#!" #NT!
+ unseelie_1_legacy_4_name:0 "Shade" #NT!
+ unseelie_1_legacy_4_perk:0 "#flavor You are a human zombie, an emotionless sleepwalker who sees the world as a never-ending horror show.#!" #NT!
+ unseelie_1_legacy_5_name:0 "Fool" #NT!
+ unseelie_1_legacy_5_perk:0 "#flavor There is no meaning in the world, so you act like a clown.#!" #NT!
+
+ unseelie_legacy_2_track_name:0 "Unseelie Наследие" #NT!
+ unseelie_legacy_2_track_desc:0 "Colorful as an autumn harvest and chaotic and isolated as a winter ice storm, followers of the Unseelie Legacies tend to be passionate individualists." #NT!
+ unseelie_2_legacy_1_name:0 "Churl" #NT!
+ unseelie_2_legacy_1_perk:0 "#flavor Rude and ill-bred, you have no manners and scoff at convention.#!" #NT!
+ unseelie_2_legacy_2_name:0 "Rogue" #NT!
+ unseelie_2_legacy_2_perk:0 "Allows the [raiding|E] of foreign [counties|E] for loot.\n#flavor Why work for a living when the world can work for you?#!" #NT!
+ unseelie_2_legacy_3_name:0 "Knave" #NT!
+ unseelie_2_legacy_3_perk:0 "#flavor You tempt others into exploring their darkest desires.#!" #NT!
+ unseelie_2_legacy_4_name:0 "Beast" #NT!
+ unseelie_2_legacy_4_perk:0 "#flavor You conquer all who oppose you.#!" #NT!
+ unseelie_2_legacy_5_name:0 "Ringleader" #NT!
+ unseelie_2_legacy_5_perk:0 "#flavor You rule your organization with an iron fist.#!" #NT!
+
+ unseelie_legacy_3_track_name:0 "Unseelie Наследие" #NT!
+ unseelie_legacy_3_track_desc:0 "Colorful as an autumn harvest and chaotic and isolated as a winter ice storm, followers of the Unseelie Legacies tend to be passionate individualists." #NT!
+ unseelie_3_legacy_1_name:0 "Fop" #NT!
+ unseelie_3_legacy_1_perk:0 "#flavor You are one of the beautiful people, the czars of style.#!" #NT!
+ unseelie_3_legacy_2_name:0 "Peacock" #NT!
+ unseelie_3_legacy_2_perk:0 "#flavor You are the most wonderful person in the world, and you want everyone to know it.#!" #NT!
+ unseelie_3_legacy_3_name:0 "Riddler" #NT!
+ unseelie_3_legacy_3_perk:0 "#flavor You are in love with secrets and never give a straight answer.#!" #NT!
+ unseelie_3_legacy_4_name:0 "Ragamuffin" #NT!
+ unseelie_3_legacy_4_perk:0 "#flavor Substance is more important than style, and so you act like a slob to show how deep you really are.#!" #NT!
+ unseelie_3_legacy_5_name:0 "Sophist" #NT!
+ unseelie_3_legacy_5_perk:0 "#flavor You share your knowledge solely for self-gain.#!" #NT!
+
+ unseelie_legacy_4_track_name:0 "Unseelie Наследие" #NT!
+ unseelie_legacy_4_track_desc:0 "Colorful as an autumn harvest and chaotic and isolated as a winter ice storm, followers of the Unseelie Legacies tend to be passionate individualists." #NT!
+ unseelie_4_legacy_1_name:0 "Grotesque" #NT!
+ unseelie_4_legacy_1_perk:0 "#flavor You love disgusting others.#!" #NT!
+ unseelie_4_legacy_2_name:0 "Fiend" #NT!
+ unseelie_4_legacy_2_perk:0 "#flavor You enjoy inflicting pain on others.#!" #NT!
+ unseelie_4_legacy_3_name:0 "Outlaw" #NT!
+ unseelie_4_legacy_3_perk:0 "#flavor You live to break the rules; you owe society nothing and it owes you everything.#!" #NT!
+ unseelie_4_legacy_4_name:0 "Schismatic" #NT!
+ unseelie_4_legacy_4_perk:0 "#flavor You are a destroyer of social institutions, be they governments, businesses, or families.#!" #NT!
+ unseelie_4_legacy_5_name:0 "Savage" #NT!
+ unseelie_4_legacy_5_perk:0 "#flavor Civilization is a waste of time; there is nothing but predation, reproduction and the law of the forest.#!" #NT!
+
+ unseelie_legacy_5_track_name:0 "Unseelie Наследие" #NT!
+ unseelie_legacy_5_track_desc:0 "Colorful as an autumn harvest and chaotic and isolated as a winter ice storm, followers of the Unseelie Legacies tend to be passionate individualists." #NT!
+ unseelie_5_legacy_1_name:0 "Pandora" #NT!
+ unseelie_5_legacy_1_perk:0 "#flavor You love to get others in trouble by revealing their secrets.#!" #NT!
+ unseelie_5_legacy_2_name:0 "Bogle" #NT!
+ unseelie_5_legacy_2_perk:0 "#flavor You don't care who gets hurt, as long as you get a good laugh out of it.#!" #NT!
+ unseelie_5_legacy_3_name:0 "Cerenaic" #NT!
+ unseelie_5_legacy_3_perk:0 "#flavor The pursuit of pleasure is your reason for living.#!" #NT!
+ unseelie_5_legacy_4_name:0 "Rake" #NT!
+ unseelie_5_legacy_4_perk:0 "#flavor You are obsessed with material experience and personal pleasure.#!" #NT!
+ unseelie_5_legacy_5_name:0 "Fatalist" #NT!
+ unseelie_5_legacy_5_perk:0 "#flavor Everything is flawed, and your only joy is to point this out.#!" #NT!

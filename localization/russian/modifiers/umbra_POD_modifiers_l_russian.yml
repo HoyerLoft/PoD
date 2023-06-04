@@ -1,0 +1,90 @@
+﻿l_russian:
+ difference_engine_modifier:0 "Difference Engine" #NT!
+ difference_engine_modifier_desc:0 "An automatic mechanical calculator designed to tabulate polynomial functions." #NT!
+ aeolipile_modifier:0 "Aeolipile" #NT!
+ aeolipile_modifier_desc:0 "A simple, bladeless radial steam turbine which spins when the central water container is heated." #NT!
+ antikythera_mechanism_modifier:0 "Antikythera Mechanism" #NT!
+ antikythera_mechanism_modifier_desc:0 "An Ancient Greek hand-powered orrery, used to predict astronomical positions and eclipses decades in advance." #NT!
+ flexible_glass_modifier:0 "Flexible Glass Bowl" #NT!
+ flexible_glass_modifier_desc:0 "The bowl was put through a test to break it, but it merely dented, rather than shatter." #NT!
+ archimedes_death_ray_modifier:0 "Archimedes Death Ray" #NT!
+ archimedes_death_ray_modifier_desc:0 "A large number of parabolic mirrors and shields polished to a shine." #NT!
+ wodden_hawk_modifier:0 "Wooden Hawk" #NT!
+ wodden_hawk_modifier_desc:0 "A wooden kite made by Mo-tse, that could fly in the sky." #NT!
+ wodden_ox_modifier:0 "Wooden Ox" #NT!
+ wodden_ox_modifier_desc:0 "A single-wheeled cart with two handles created by Zhuge Liang." #NT!
+ lingjen_modifier:0 "Ling Jen" #NT!
+ lingjen_modifier_desc:0 "A puppet made by Tanshi, can sing and dance, like a living person." #NT!
+ south_pointing_chariot_modifier:0 "South-Pointing Chariot" #NT!
+ south_pointing_chariot_modifier_desc:0 "An ancient Chinese two-wheeled vehicle that carried a movable pointer to indicate the south, no matter how the chariot turned." #NT!
+ seismoscope_modifier:0 "Earthquake Weathervane" #NT!
+ seismoscope_modifier_desc:0 "Zhang's seismoscope, able to roughly determine the direction where the earthquake came from." #NT!
+ bhaskaras_wheel_modifier:0 "Bhāskara's wheel" #NT!
+ bhaskaras_wheel_modifier_desc:0 "A hypothetical perpetual-motion machine created by the Indian mathematician Bhāskara II." #NT!
+
+ recruit_bygone_cockatrices_modifier:0 "[GetMaA('cockatrices').GetName] Resources" #NT!
+ recruit_bygone_cockatrices_modifier_desc:0 "Can recruit [GetMaA('cockatrices').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_feng_huang_modifier:0 "[GetMaA('feng_huang').GetName] Resources" #NT!
+ recruit_bygone_feng_huang_modifier_desc:0 "Can recruit [GetMaA('feng_huang').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_harpy_modifier:0 "[GetMaA('harpy').GetName] Resources" #NT!
+ recruit_bygone_harpy_modifier_desc:0 "Can recruit [GetMaA('harpy').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_homunculus_modifier:0 "[GetMaA('homunculus').GetName] Resources" #NT!
+ recruit_bygone_homunculus_modifier_desc:0 "Can recruit [GetMaA('homunculus').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_pegasus_modifier:0 "[GetMaA('pegasus').GetName] Resources" #NT!
+ recruit_bygone_pegasus_modifier_desc:0 "Can recruit [GetMaA('pegasus').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_peryton_modifier:0 "[GetMaA('peryton').GetName] Resources" #NT!
+ recruit_bygone_peryton_modifier_desc:0 "Can recruit [GetMaA('peryton').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_seabishop_modifier:0 "[GetMaA('seabishop').GetName] Resources" #NT!
+ recruit_bygone_seabishop_modifier_desc:0 "Can recruit [GetMaA('seabishop').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_shadhavar_modifier:0 "[GetMaA('shadhavar').GetName] Resources" #NT!
+ recruit_bygone_shadhavar_modifier_desc:0 "Can recruit [GetMaA('shadhavar').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_umkovu_modifier:0 "[GetMaA('umkovu').GetName] Resources" #NT!
+ recruit_bygone_umkovu_modifier_desc:0 "Can recruit [GetMaA('umkovu').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_vodayany_modifier:0 "[GetMaA('vodayany').GetName] Resources" #NT!
+ recruit_bygone_vodayany_modifier_desc:0 "Can recruit [GetMaA('vodayany').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_wilde_beast_modifier:0 "[GetMaA('wilde_beast').GetName] Resources" #NT!
+ recruit_bygone_wilde_beast_modifier_desc:0 "Can recruit [GetMaA('wilde_beast').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_sphinx_modifier:0 "[GetMaA('sphinx').GetName] Resources" #NT!
+ recruit_bygone_sphinx_modifier_desc:0 "Can recruit [GetMaA('sphinx').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_simurgh_modifier:0 "[GetMaA('simurgh').GetName] Resources" #NT!
+ recruit_bygone_simurgh_modifier_desc:0 "Can recruit [GetMaA('simurgh').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_lindworm_modifier:0 "[GetMaA('lindworm').GetName] Resources" #NT!
+ recruit_bygone_lindworm_modifier_desc:0 "Can recruit [GetMaA('lindworm').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_amphiptere_modifier:0 "[GetMaA('amphiptere').GetName] Resources" #NT!
+ recruit_bygone_amphiptere_modifier_desc:0 "Can recruit [GetMaA('amphiptere').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_fu_guardian_modifier:0 "[GetMaA('fu_guardian').GetName] Resources" #NT!
+ recruit_bygone_fu_guardian_modifier_desc:0 "Can recruit [GetMaA('fu_guardian').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_ghul_modifier:0 "[GetMaA('ghul').GetName] Resources" #NT!
+ recruit_bygone_ghul_modifier_desc:0 "Can recruit [GetMaA('ghul').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_gryphon_modifier:0 "[GetMaA('gryphon').GetName] Resources" #NT!
+ recruit_bygone_gryphon_modifier_desc:0 "Can recruit [GetMaA('gryphon').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_hippocampi_modifier:0 "[GetMaA('hippocampi').GetName] Resources" #NT!
+ recruit_bygone_hippocampi_modifier_desc:0 "Can recruit [GetMaA('hippocampi').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_hippogryph_modifier:0 "[GetMaA('hippogryph').GetName] Resources" #NT!
+ recruit_bygone_hippogryph_modifier_desc:0 "Can recruit [GetMaA('hippogryph').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_phoboros_modifier:0 "[GetMaA('phoboros').GetName] Resources" #NT!
+ recruit_bygone_phoboros_modifier_desc:0 "Can recruit [GetMaA('phoboros').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_unicorn_modifier:0 "[GetMaA('unicorn').GetName] Resources" #NT!
+ recruit_bygone_unicorn_modifier_desc:0 "Can recruit [GetMaA('unicorn').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_wyverns_modifier:0 "[GetMaA('wyverns').GetName] Resources" #NT!
+ recruit_bygone_wyverns_modifier_desc:0 "Can recruit [GetMaA('wyverns').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_manticore_modifier:0 "[GetMaA('manticore').GetName] Resources" #NT!
+ recruit_bygone_manticore_modifier_desc:0 "Can recruit [GetMaA('manticore').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_drake_modifier:0 "[GetMaA('drake').GetName] Resources" #NT!
+ recruit_bygone_drake_modifier_desc:0 "Can recruit [GetMaA('drake').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_orm_modifier:0 "[GetMaA('orm').GetName] Resources" #NT!
+ recruit_bygone_orm_modifier_desc:0 "Can recruit [GetMaA('orm').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_roc_modifier:0 "[GetMaA('roc').GetName] Resources" #NT!
+ recruit_bygone_roc_modifier_desc:0 "Can recruit [GetMaA('roc').GetName] as [men_at_arms|E]" #NT!
+ recruit_bygone_sea_serpent_modifier:0 "[GetMaA('sea_serpent').GetName] Resources" #NT!
+ recruit_bygone_sea_serpent_modifier_desc:0 "Can recruit [GetMaA('sea_serpent').GetName] as [men_at_arms|E]" #NT!
+ blessed_by_great_celestial_dragons_modifier:0 "Blessed by Great Celestial Dragons" #NT!
+ blessed_by_great_celestial_dragons_modifier_desc:0 "These entities are more forces of nature than beasts." #NT!
+
+ traveling_astral_reaches_modifier:0 "Journey into the [astral_reaches|E]" #NT!
+ traveling_spirit_wilds_modifier:0 "Journey into the Spirit Wilds" #NT!
+ traveling_underworld_modifier:0 "Journey into the [underworld|E]" #NT!
+ traveling_dreaming_modifier:0 "Journey into the [dreaming|E]" #NT!
+ traveling_deep_umbra_modifier:0 "Journey into the Deep Umbra" #NT!
+
+ paleontologist_modifier:0 "Paleontologist" #NT!

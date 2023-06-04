@@ -1,0 +1,603 @@
+﻿l_russian:
+
+ ##################### #NT!
+ # Hierarchy #NT!
+ ##################### #NT!
+
+ #Hierarchy Wraiths Localization #NT!
+ hierarchy_high_god_name:0 "Charon" #NT!
+ hierarchy_high_god_name_possessive:0 "Charon's" #NT!
+ hierarchy_high_god_name_alternate:0 "Emperor" #NT!
+ hierarchy_high_god_name_alternate_possessive:0 "Emperor's" #NT!
+ hierarchy_good_god_jesus:0 "Lady of Fate" #NT!
+ hierarchy_good_god_christ:0 "Lady of Fate" #NT!
+ hierarchy_devil_name:0 "Shadow" #NT!
+ hierarchy_devil_name_possessive:0 "Shadow's" #NT!
+ hierarchy_evil_god_lucifer:0 "Shadow" #NT!
+ hierarchy_evil_god_beelzebub:0 "Shadow" #NT!
+ hierarchy_evil_god_mephistopheles:0 "Shadow" #NT!
+ hierarchy_death_deity_name:0 "Death" #NT!
+ hierarchy_death_deity_name_possessive:0 "Death's" #NT!
+ hierarchy_house_of_worship:0 "Seat" #NT!
+ hierarchy_house_of_worship_plural:0 "Seat" #NT!
+ hierarchy_religious_symbol:0 "wraith" #NT!
+ hierarchy_religious_text:0 "code" #NT!
+ hierarchy_religious_head_title:0 "Deathlord" #NT!
+ hierarchy_religious_head_title_female:0 "Deathlady" #NT!
+ hierarchy_religious_head_title_name:0 "Seat" #NT!
+ hierarchy_devotee_male:0 "Legionnaire" #NT!
+ hierarchy_devotee_male_plural:0 "Legionnaires" #NT!
+ hierarchy_devotee_female:0 "Legionnaire" #NT!
+ hierarchy_devotee_female_plural:0 "Legionnaires" #NT!
+ hierarchy_devotee_neuter:0 "Legionnaire" #NT!
+ hierarchy_devotee_neuter_plural:0 "Legionnaires" #NT!
+ hierarchy_priest_male:0 "Centurion" #NT!
+ hierarchy_priest_male_plural:0 "Centurions" #NT!
+ hierarchy_priest_alternate_plural:0 "Centurions" #NT!
+ hierarchy_bishop:0 "Anacreon" #NT!
+ hierarchy_bishop_plural:0 "Anacreons" #NT!
+ hierarchy_bishop_male:0 "Anacreon" #NT!
+ hierarchy_bishop_male_plural:0 "Anacreons" #NT!
+ hierarchy_positive_afterlife:0 "Transcendence" #NT!
+ hierarchy_negative_afterlife:0 "Oblivion" #NT!
+ hierarchy_witchgodname_the_horned_god:0 "Shadow" #NT!
+
+ hierarchy_creator_god_name:0 "$hierarchy_high_god_name$" #NT!
+ hierarchy_creator_god_name_possessive:0 "$hierarchy_high_god_name_possessive$" #NT!
+ hierarchy_health_god_name:0 "Skeletal Lord" #NT!
+ hierarchy_health_god_name_possessive:0 "Skeletal Lord's" #NT!
+ hierarchy_fertility_god_name:0 "$hierarchy_health_god_name$" #NT!
+ hierarchy_fertility_god_name_possessive:0 "$hierarchy_health_god_name_possessive$" #NT!
+ hierarchy_wealth_god_name:0 "$hierarchy_health_god_name$" #NT!
+ hierarchy_wealth_god_name_possessive:0 "$hierarchy_health_god_name_possessive$" #NT!
+ hierarchy_household_god_name:0 "$hierarchy_health_god_name$" #NT!
+ hierarchy_household_god_name_possessive:0 "$hierarchy_health_god_name_possessive$" #NT!
+ hierarchy_fate_god_name:0 "Lady of Fate" #NT!
+ hierarchy_fate_god_name_possessive:0 "Lady of Fate's" #NT!
+ hierarchy_knowledge_god_name:0 "$hierarchy_high_god_name$" #NT!
+ hierarchy_knowledge_god_name_possessive:0 "$hierarchy_high_god_name_possessive$" #NT!
+ hierarchy_war_god_name:0 "Smiling Lord" #NT!
+ hierarchy_war_god_name_possessive:0 "Smiling Lord's" #NT!
+ hierarchy_trickster_god_name:0 "Lady of Fate" #NT!
+ hierarchy_trickster_god_name_possessive:0 "Lady of Fate's" #NT!
+ hierarchy_night_god_name:0 "$hierarchy_high_god_name$" #NT!
+ hierarchy_night_god_name_possessive:0 "$hierarchy_high_god_name_possessive$" #NT!
+ hierarchy_water_god_name:0 "Tempest" #NT!
+ hierarchy_water_god_name_possessive:0 "Tempest's" #NT!
+
+ hierarchy_religion:0 "Legion" #NT!
+ hierarchy_religion_adj:0 "Legion" #NT!
+ hierarchy_religion_adherent:0 "Wraith" #NT!
+ hierarchy_religion_adherent_plural:0 "Wraiths" #NT!
+ hierarchy_religion_desc:0 "Upon death, every Wraith is inducted into one of seven Legions based on the circumstances of their deaths. Each Legion has a headquarters (its Seat) and is overseen by one Deathlord." #NT!
+
+ #Hierarchy-Group Faiths #NT!
+
+ iron_legion:0 "Iron Legion" #NT!
+ iron_legion_adj:0 "Iron" #NT!
+ iron_legion_desc:0 "The Iron Legion is one of the divisions of the Hierarchy of Stygia. They take in wraiths who lived to a ripe old age or were brought down by time." #NT!
+ iron_legion_adherent:0 "Legionnaire" #NT!
+ iron_legion_adherent_plural:0 "Legionnaires" #NT!
+ iron_legion_religious_head_title:0 "Ashen Lord" #NT!
+ iron_legion_religious_head_title_female:0 "Ashen Lady" #NT!
+ iron_legion_religious_head_title_name:0 "Seat of Shadows" #NT!
+ holy_order_maelstrom_prediction_and_preparation_unit:0 "Maelstrom Prediction and Preparation Unit" #NT!
+
+ skeletal_legion:0 "Skeletal Legion" #NT!
+ skeletal_legion_adj:0 "Skeletal" #NT!
+ skeletal_legion_desc:0 "The Skeletal Legion is one of the divisions of the Hierarchy of Stygia. This Legion takes in victims of illness." #NT!
+ skeletal_legion_adherent:0 "Legionnaire" #NT!
+ skeletal_legion_adherent_plural:0 "Legionnaires" #NT!
+ skeletal_legion_religious_head_title:0 "Skeletal Lord" #NT!
+ skeletal_legion_religious_head_title_female:0 "Skeletal Lady" #NT!
+ skeletal_legion_religious_head_title_name:0 "Seat of Dust" #NT!
+ holy_order_the_hands_of_bone:0 "The Hands of Bone" #NT!
+ holy_order_the_plague_guard:0 "The Plague Guard" #NT!
+ holy_order_the_order_of_the_quill:0 "The Order of the Quill" #NT!
+
+ grim_legion:0 "Grim Legion" #NT!
+ grim_legion_adj:0 "Grim" #NT!
+ grim_legion_desc:0 "The Grim Legion is one of the divisions of the Hierarchy of Stygia. The Legion takes in wraiths that died as a result of violence, usually murder." #NT!
+ grim_legion_adherent:0 "Legionnaire" #NT!
+ grim_legion_adherent_plural:0 "Legionnaires" #NT!
+ grim_legion_religious_head_title_female:0 "Smiling Lady" #NT!
+ grim_legion_religious_head_title:0 "Smiling Lord" #NT!
+ grim_legion_religious_head_title_name:0 "Seat of Burning Waters" #NT!
+ holy_order_executioners:0 "Executioners" #NT!
+ holy_order_black_masks:0 "Black Masks" #NT!
+
+ penitent_legion:0 "Penitent Legion" #NT!
+ penitent_legion_adj:0 "Penitent" #NT!
+ penitent_legion_desc:0 "The Penitent Legion is one of the divisions of the Hierarchy of Stygia. They take in victims of madness." #NT!
+ penitent_legion_adherent:0 "Legionnaire" #NT!
+ penitent_legion_adherent_plural:0 "Legionnaires" #NT!
+ penitent_legion_religious_head_title_female:0 "Laughing Lady" #NT!
+ penitent_legion_religious_head_title:0 "Laughing Lord" #NT!
+ penitent_legion_religious_head_title_name:0 "Seat of Succor" #NT!
+ holy_order_the_storm_of_night:0 "The Storm of Night" #NT!
+ holy_order_the_wall_of_skulls:0 "The Wall of Skulls" #NT!
+ holy_order_the_razors_song:0 "The Razor's Song" #NT!
+ holy_order_the_tide_of_horror:0 "The Tide of Horror" #NT!
+ holy_order_the_cacophony_of_death:0 "The Cacophony of Death" #NT!
+ holy_order_the_storm_maidens:0 "The Storm Maidens" #NT!
+
+ emerald_legion:0 "Emerald Legion" #NT!
+ emerald_legion_adj:0 "Emerald" #NT!
+ emerald_legion_desc:0 "The Emerald Legion is one of the divisions of the Hierarchy of Stygia. They take in wraiths that died as a result of accidents, be it common or a freak." #NT!
+ emerald_legion_adherent:0 "Legionnaire" #NT!
+ emerald_legion_adherent_plural:0 "Legionnaires" #NT!
+ emerald_legion_religious_head_title_female:0 "Emerald Lady" #NT!
+ emerald_legion_religious_head_title:0 "Emerald Lord" #NT!
+ emerald_legion_religious_head_title_name:0 "Seat of Thorns" #NT!
+ holy_order_guardians_of_the_labyrinth:0 "Guardians of the Labyrinth" #NT!
+ holy_order_order_of_archimedes_bathtub:0 "Order of Archimedes' Bathtub" #NT!
+ holy_order_green_teams:0 "Green Teams" #NT!
+
+ silent_legion:0 "Silent Legion" #NT!
+ silent_legion_adj:0 "Silent" #NT!
+ silent_legion_desc:0 "The Silent Legion is one of the divisions of the Hierarchy of Stygia. They take in victims of suicide and other, similar circumstances." #NT!
+ silent_legion_adherent:0 "Legionnaire" #NT!
+ silent_legion_adherent_plural:0 "Legionnaires" #NT!
+ silent_legion_religious_head_title_female:0 "Quiet Lady" #NT!
+ silent_legion_religious_head_title:0 "Quiet Lord" #NT!
+ silent_legion_religious_head_title_name:0 "Seat of Silence" #NT!
+ holy_order_warriors_of_lethe:0 "Warriors of Lethe" #NT!
+ holy_order_the_band_of_quixote:0 "The Band of Quixote" #NT!
+ holy_order_angels_of_angst:0 "Angels of Angst" #NT!
+ holy_order_bleak_legion:0 "Bleak Legion" #NT!
+ holy_order_the_ten_thousand:0 "The Ten Thousand" #NT!
+
+ legion_of_paupers:0 "Legion of Paupers" #NT!
+ legion_of_paupers_adj:0 "Paupers" #NT!
+ legion_of_paupers_desc:0 "The Legion of Paupers is one of the divisions of the Hierarchy of Stygia. They are composed of a combination of wraiths that died under mysterious circumstances, and the leftovers from the other Legions." #NT!
+ legion_of_paupers_adherent:0 "Legionnaire" #NT!
+ legion_of_paupers_adherent_plural:0 "Legionnaires" #NT!
+ legion_of_paupers_religious_head_title_female:0 "Beggar Lady" #NT!
+ legion_of_paupers_religious_head_title:0 "Beggar Lord" #NT!
+ legion_of_paupers_religious_head_title_name:0 "Seat of Golden Tears" #NT!
+ holy_order_legion_of_august:0 "Legion of August" #NT!
+ holy_order_legion_of_the_onyx_tear:0 "Legion of the Onyx Tear" #NT!
+ holy_order_legion_of_revelations:0 "Legion of Revelations" #NT!
+
+ legion_of_fate:0 "Legion of Fate" #NT!
+ legion_of_fate_adj:0 "Fate" #NT!
+ legion_of_fate_desc:0 "The Legion of Fate is one of the divisions of the Hierarchy of Stygia. This Legion differs greatly from the others by means of who is essentially in charge, the Lady of Fate. The Legion is comprised of those who they have deemed marked by Fate." #NT!
+ legion_of_fate_adherent:0 "Legionnaire" #NT!
+ legion_of_fate_adherent_plural:0 "Legionnaires" #NT!
+ legion_of_fate_religious_head_title_female:0 "Lady of Fate" #NT!
+ legion_of_fate_religious_head_title:0 "Lord of Fate" #NT!
+ legion_of_fate_religious_head_title_name:0 "Isle of Eurydice" #NT!
+ holy_order_order_of_the_scarlet_sword:0 "Order of the Scarlet Sword" #NT!
+ holy_order_order_of_the_silver_hammer:0 "Order of the Silver Hammer" #NT!
+
+ ##################### #NT!
+ # Guilds #NT!
+ ##################### #NT!
+
+ #Guilds Wraiths Localization #NT!
+ guilds_house_of_worship:0 "house" #NT!
+ guilds_house_of_worship_plural:0 "houses" #NT!
+ guilds_religious_symbol:0 "arcanoi" #NT!
+ guilds_religious_text:0 "compact" #NT!
+ guilds_religious_head_title:0 "Guildmaster" #NT!
+ guilds_religious_head_title_name:0 "Guild" #NT!
+ guilds_devotee_male:0 "Member" #NT!
+ guilds_devotee_male_plural:0 "Members" #NT!
+ guilds_devotee_female:0 "Member" #NT!
+ guilds_devotee_female_plural:0 "Members" #NT!
+ guilds_devotee_neuter:0 "Member" #NT!
+ guilds_devotee_neuter_plural:0 "Members" #NT!
+ guilds_priest_male:0 "High Member" #NT!
+ guilds_priest_male_plural:0 "High Members" #NT!
+ guilds_priest_alternate_plural:0 "High Members" #NT!
+ guilds_bishop:0 "Great Member" #NT!
+ guilds_bishop_plural:0 "Great Members" #NT!
+ guilds_bishop_male:0 "Great Member" #NT!
+ guilds_bishop_male_plural:0 "Great Members" #NT!
+
+ guilds_religion:0 "Guilds" #NT!
+ guilds_religion_adj:0 "Guild" #NT!
+ guilds_religion_adherent:0 "Member" #NT!
+ guilds_religion_adherent_plural:0 "Members" #NT!
+ guilds_religion_desc:0 "In Stygian society, mastery of the Arcanoi was traditionally controlled by the Stygian Guilds. These organizations promoted the use, study, and regulation of each Arcanos." #NT!
+
+ artificers:0 "Artificers" #NT!
+ artificers_adj:0 "Artificers" #NT!
+ artificers_desc:0 "Less required for their Inhabit Arcanos than for their mastery of Soulforging, the Artificers consider themselves the oldest Guild." #NT!
+ artificers_adherent:0 "Artificer" #NT!
+ artificers_adherent_plural:0 "Artificers" #NT!
+ holy_order_hammerboys:0 "Hammerboys" #NT!
+ holy_order_wrenchwraiths:0 "Wrenchwraiths" #NT!
+ holy_order_ghostriders:0 "Ghostriders" #NT!
+ holy_order_gremlins:0 "Gremlins" #NT!
+
+ masquers:0 "Masquers" #NT!
+ masquers_adj:0 "Masquers" #NT!
+ masquers_desc:0 "Along with the Artificers, the masters of Moliate are responsible for the majority of Stygia's plasmic goods. As a result, the Masquers Guild is well-accepted within Stygia, even though the Masquers often use their abilities to skirt extremely dirty business, particularly through operatives such as Slander." #NT!
+ masquers_adherent:0 "Masquer" #NT!
+ masquers_adherent_plural:0 "Masquers" #NT!
+ holy_order_arrangers:0 "Arrangers" #NT!
+ holy_order_anonymae:0 "Anonymae" #NT!
+ holy_order_fetches:0 "Fetches" #NT!
+ holy_order_helldivers:0 "Helldivers" #NT!
+ holy_order_idunn:0 "Idunn" #NT!
+ holy_order_warsmiths:0 "Warsmiths" #NT!
+ holy_order_chorus_of_faces:0 "Chorus of Faces" #NT!
+ holy_order_fleshwrights:0 "Fleshwrights" #NT!
+ holy_order_janissaries:0 "Janissaries" #NT!
+ holy_order_secret_order:0 "Secret Order" #NT!
+
+ pardoners:0 "Pardoners" #NT!
+ pardoners_adj:0 "Pardoners" #NT!
+ pardoners_desc:0 "Acting as everything from therapists to exorcists, the Pardoners control and manage the shadow inside of every wraith, they are invaluable members of Stygian society because without the Pardoners and Castigation, Stygia would collapse into Oblivion in a fortnight." #NT!
+ pardoners_adherent:0 "Pardoner" #NT!
+ pardoners_adherent_plural:0 "Pardoners" #NT!
+ holy_order_confessors:0 "Confessors" #NT!
+ holy_order_inquisitors:0 "Inquisitors" #NT!
+ holy_order_crusaders:0 "Crusaders" #NT!
+ holy_order_psychists:0 "Psychists" #NT!
+ holy_order_scriveners:0 "Scriveners" #NT!
+ holy_order_scourges:0 "Scourges" #NT!
+ holy_order_simonists:0 "Simonists" #NT!
+
+ usurers:0 "Usurers" #NT!
+ usurers_adj:0 "Usurers" #NT!
+ usurers_desc:0 "Usury is an extremely useful Arcanos which allows the trade of pathos and other goods from one wraith to another." #NT!
+ usurers_adherent:0 "Usurer" #NT!
+ usurers_adherent_plural:0 "Usurers" #NT!
+ holy_order_vault_of_bone:0 "Vault of Bone" #NT!
+ holy_order_vault_of_breath:0 "Vault of Breath" #NT!
+ holy_order_vault_of_eyes:0 "Vault of Eyes" #NT!
+
+ chanteurs:0 "Chanteurs" #NT!
+ chanteurs_adj:0 "Chanteurs" #NT!
+ chanteurs_desc:0 "The guild of Keening is generally grouped together with the Sandmen as the entertainers of the dead; Able to affect and manipulate their voices to give life and passion to the hallow emptiness of the shadowlands. They are offered a wider berth than afforded to less fun guilds, Because after all, who wants to exist in a silent afterlife?" #NT!
+ chanteurs_adherent:0 "Chanteur" #NT!
+ chanteurs_adherent_plural:0 "Chanteurs" #NT!
+ holy_order_hadean_symphony:0 "Hadean Symphony" #NT!
+ holy_order_hard_corps:0 "Hard Corps" #NT!
+ holy_order_jesters:0 "Jesters" #NT!
+ holy_order_outcasts:0 "Outcasts" #NT!
+ holy_order_romantics:0 "Romantics" #NT!
+ holy_order_sanguine_chorus:0 "Sanguine Chorus" #NT!
+ holy_order_troubadours:0 "Troubadours" #NT!
+
+ harbringers:0 "Harbingers" #NT!
+ harbringers_adj:0 "Harbingers" #NT!
+ harbringers_desc:0 "Masters of the Argos Arcanos, the Harbingers are the primary transport and messenger service for the dead. Without the Harbingers, Stygian outposts would be unable to communicate and many wraiths would be lost in the Tempest." #NT!
+ harbringers_adherent:0 "Harbinger" #NT!
+ harbringers_adherent_plural:0 "Harbingers" #NT!
+ holy_order_harbormasters:0 "Harbormasters" #NT!
+ holy_order_anemographers:0 "Anemographers" #NT!
+ holy_order_circuit_riders:0 "Circuit Riders" #NT!
+ holy_order_emissaries:0 "Emissaries" #NT!
+ holy_order_privateers:0 "Privateers" #NT!
+
+ oracles:0 "Oracles" #NT!
+ oracles_adj:0 "Oracles" #NT!
+ oracles_desc:0 "The Fatalism Guild is the Arcanoi of seeing the past and future, draped in tarot cards and astrology they are looked at with suspicion and fear as the ones who always know too much. They have powerful patrons and a reputation for playing Cassandra to Charon." #NT!
+ oracles_adherent:0 "Oracle" #NT!
+ oracles_adherent_plural:0 "Oracles" #NT!
+ holy_order_pantheon:0 "Pantheon" #NT!
+ holy_order_delphics:0 "Delphics" #NT!
+ holy_order_augurs:0 "Augurs" #NT!
+ holy_order_clairvoyant:0 "Clairvoyant" #NT!
+ holy_order_doomsayers:0 "Doomsayers" #NT!
+ holy_order_gamblers:0 "Gamblers" #NT!
+ holy_order_the_hands:0 "The Hands" #NT!
+
+ sandmen:0 "Sandmen" #NT!
+ sandmen_adj:0 "Sandmen" #NT!
+ sandmen_desc:0 "As with the Chanteurs, the masters of Phantasm work the theatre of dreams and sleep, Their art is more subtle then most and it is one they love above all. They are afforded a high degree of independence because eventually, everyone in Stygia visits them for entertainment." #NT!
+ sandmen_adherent:0 "Sandman" #NT!
+ sandmen_adherent_plural:0 "Sandmen" #NT!
+ holy_order_dream_menders:0 "Dream Menders" #NT!
+ holy_order_dream_lords:0 "Dream Lords" #NT!
+ holy_order_paphians:0 "Paphians" #NT!
+ holy_order_fortifiers:0 "Fortifiers" #NT!
+ holy_order_nightriders:0 "Nightriders" #NT!
+ holy_order_night_terrors:0 "Night Terrors" #NT!
+ holy_order_night_angels:0 "Night Angels" #NT!
+ holy_order_plotters:0 "Plotters" #NT!
+ holy_order_playwrights:0 "Playwrights" #NT!
+ holy_order_school_of_dreamaturgy:0 "School of Dreamaturgy" #NT!
+ holy_order_school_of_guignol:0 "School of Guignol" #NT!
+ holy_order_school_of_meditation:0 "School of Meditation" #NT!
+ holy_order_school_of_oneiromancy:0 "School of Oneiromancy" #NT!
+ holy_order_school_of_beguilement:0 "School of Beguilement" #NT!
+
+ haunters:0 "Haunters" #NT!
+ haunters_adj:0 "Haunters" #NT!
+ haunters_desc:0 "The Haunters organized as a Guild not out of any desire for official recognition, but because they sought to pool what they knew, spread the knowledge of Pandemonium, and give more focus and effectiveness to their goals." #NT!
+ haunters_adherent:0 "Haunter" #NT!
+ haunters_adherent_plural:0 "Haunters" #NT!
+ holy_order_hg_dwellers:0 "H.G. Dwellers" #NT!
+ holy_order_mandelbrots:0 "Mandelbrots" #NT!
+ holy_order_caligarians:0 "Caligarians" #NT!
+ holy_order_dantes:0 "Dantes" #NT!
+ holy_order_bedlameers:0 "Bedlameers" #NT!
+ holy_order_order_of_the_glass_menagerie:0 "Order of the Glass Menagerie" #NT!
+
+ monitors:0 "Monitors" #NT!
+ monitors_adj:0 "Monitors" #NT!
+ monitors_desc:0 "Lifeweb is a critical Arcanos for the maintenance of Fetters allowing the Monitors to watch, visit and protect the Fetters of themselves and others but regardless the Monitors are mistrusted due to the encouraged abuse of their Arcanos by the Guild." #NT!
+ monitors_adherent:0 "Monitor" #NT!
+ monitors_adherent_plural:0 "Monitors" #NT!
+ holy_order_marmarans:0 "Marmarans" #NT!
+ holy_order_mentors:0 "Mentors" #NT!
+ holy_order_spinners:0 "Spinners" #NT!
+ holy_order_tsuchigumo:0 "Tsuchigumo" #NT!
+
+ spooks:0 "Spooks" #NT!
+ spooks_adj:0 "Spooks" #NT!
+ spooks_desc:0 "The closest thing to a New Jersey Mafia among the dead, the Spooks are a confederation of adoptive families united by their mastery of Outrage, their control of Pathos-running and other quasi-legal enterprises, and their willingness to do head-busting favors as often as possible. They are much like the Mafia of the living; you don't know they exist until you need a favor from them." #NT!
+ spooks_adherent:0 "Spook" #NT!
+ spooks_adherent_plural:0 "Spooks" #NT!
+ holy_order_lifeliners:0 "Lifeliners" #NT!
+ holy_order_mementomorians:0 "Mementomorians" #NT!
+ holy_order_shroudbreakers:0 "Shroudbreakers" #NT!
+ holy_order_gray_gangs:0 "Gray Gangs" #NT!
+ holy_order_harrowsmiths:0 "Harrowsmiths" #NT!
+
+ proctors:0 "Proctors" #NT!
+ proctors_adj:0 "Proctors" #NT!
+ proctors_desc:0 "Like the Haunters, Spooks and Puppeteers, the entire purpose of Embody is to visit the Skinlands. Unlike these other guilds, the Proctors have always been intensely self-absorbed." #NT!
+ proctors_adherent:0 "Proctor" #NT!
+ proctors_adherent_plural:0 "Proctors" #NT!
+ holy_order_agents:0 "Agents" #NT!
+ holy_order_boojums:0 "Boojums" #NT!
+ holy_order_secretaries:0 "Secretaries" #NT!
+ holy_order_tasters:0 "Tasters" #NT!
+
+ puppeteers:0 "Puppeteers" #NT!
+ puppeteers_adj:0 "Puppeteers" #NT!
+ puppeteers_desc:0 "The Puppetry Arcanos allows control of living bodies, and of the criminal Arcanoi is the one that has found the most unofficial use throughout the history of the dead." #NT!
+ puppeteers_adherent:0 "Puppeteer" #NT!
+ puppeteers_adherent_plural:0 "Puppeteers" #NT!
+ holy_order_harlequins:0 "Harlequins" #NT!
+ holy_order_marrionette:0 "Marrionette" #NT!
+ holy_order_silhouettes:0 "Silhouettes" #NT!
+
+ alchemists:0 "Alchemists" #NT!
+ alchemists_adj:0 "Alchemists" #NT!
+ alchemists_desc:0 "Flux masters were historically considered something of an appendage to the Artificers." #NT!
+ alchemists_adherent:0 "Alchemist" #NT!
+ alchemists_adherent_plural:0 "Alchemists" #NT!
+ holy_order_ordinis_denarii:0 "Ordinis Denarii" #NT!
+ holy_order_ordinis_oxidato:0 "Ordinis Oxidato" #NT!
+ holy_order_ordinis_silicium:0 "Ordinis Silicium" #NT!
+ holy_order_ordinis_velum:0 "Ordinis Velum" #NT!
+
+ mnemoi:0 "Mnemoi" #NT!
+ mnemoi_adj:0 "Mnemoi" #NT!
+ mnemoi_desc:0 "Once the judges of Stygia, the masters of Mnemosynis used their mind altering powers to interrogate and investigate." #NT!
+ mnemoi_adherent:0 "Mnemos" #NT!
+ mnemoi_adherent_plural:0 "Mnemoi" #NT!
+ holy_order_alkionides:0 "Alkionides" #NT!
+ holy_order_periphaeans:0 "Periphaeans" #NT!
+ holy_order_strigidae:0 "Strigidae" #NT!
+
+ solicitors:0 "Solicitors" #NT!
+ solicitors_adj:0 "Solicitors" #NT!
+ solicitors_desc:0 "Never part of the guilds per se, this cabal of Intimation masters could change and manipulate the desires this power has fearsome potential as in the wrong hands it could change someone's entire identity in a mere instant." #NT!
+ solicitors_adherent:0 "Solicitor" #NT!
+ solicitors_adherent_plural:0 "Solicitors" #NT!
+ holy_order_spoke_of_aries:0 "Spoke of Aries" #NT!
+ holy_order_spoke_of_capricorn:0 "Spoke of Capricorn" #NT!
+ holy_order_spoke_of_leo:0 "Spoke of Leo" #NT!
+ holy_order_spoke_of_pisces:0 "Spoke of Pisces" #NT!
+ holy_order_spoke_of_taurus:0 "Spoke of Taurus" #NT!
+
+
+ ##################### #NT!
+ # Renegade #NT!
+ ##################### #NT!
+
+ #Renegade Wraiths Localization #NT!
+ renegade_high_god_name:0 "Renegade Lord" #NT!
+ renegade_high_god_name_possessive:0 "Renegade Lord's" #NT!
+ renegade_high_god_name_alternate:0 "Lord" #NT!
+ renegade_high_god_name_alternate_possessive:0 "Lord's" #NT!
+ renegade_good_god_jesus:0 "Liberty" #NT!
+ renegade_good_god_christ:0 "Liberty" #NT!
+ renegade_devil_name:0 "Shadow" #NT!
+ renegade_devil_name_possessive:0 "Shadow's" #NT!
+ renegade_evil_god_lucifer:0 "Shadow" #NT!
+ renegade_evil_god_beelzebub:0 "Shadow" #NT!
+ renegade_evil_god_mephistopheles:0 "Shadow" #NT!
+ renegade_death_deity_name:0 "Death" #NT!
+ renegade_death_deity_name_possessive:0 "Death's" #NT!
+ renegade_house_of_worship:0 "Gangs" #NT!
+ renegade_house_of_worship_plural:0 "Gangs" #NT!
+ renegade_religious_symbol:0 "wraith" #NT!
+ renegade_religious_text:0 "code" #NT!
+ renegade_religious_head_title:0 "Renegade Lord" #NT!
+ renegade_religious_head_title_name:0 "Gangs" #NT!
+ renegade_devotee_male:0 "Renegade" #NT!
+ renegade_devotee_male_plural:0 "Renegades" #NT!
+ renegade_devotee_female:0 "Renegade" #NT!
+ renegade_devotee_female_plural:0 "Renegades" #NT!
+ renegade_devotee_neuter:0 "Renegade" #NT!
+ renegade_devotee_neuter_plural:0 "Renegades" #NT!
+ renegade_priest_male:0 "Councillor" #NT!
+ renegade_priest_male_plural:0 "Councillors" #NT!
+ renegade_priest_alternate_plural:0 "Councillors" #NT!
+ renegade_bishop:0 "Councillor" #NT!
+ renegade_bishop_plural:0 "Councillors" #NT!
+ renegade_bishop_male:0 "Councillor" #NT!
+ renegade_bishop_male_plural:0 "Councillors" #NT!
+ renegade_positive_afterlife:0 "Transcendence" #NT!
+ renegade_negative_afterlife:0 "Oblivion" #NT!
+ renegade_witchgodname_the_horned_god:0 "Shadow" #NT!
+
+ renegade_creator_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_creator_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_health_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_health_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_fertility_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_fertility_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_wealth_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_wealth_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_household_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_household_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_fate_god_name:0 "Fate" #NT!
+ renegade_fate_god_name_possessive:0 "Fate's" #NT!
+ renegade_knowledge_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_knowledge_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_war_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_war_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_trickster_god_name:0 "Fate" #NT!
+ renegade_trickster_god_name_possessive:0 "Fate's" #NT!
+ renegade_night_god_name:0 "$renegade_high_god_name$" #NT!
+ renegade_night_god_name_possessive:0 "$renegade_high_god_name_possessive$" #NT!
+ renegade_water_god_name:0 "Tempest" #NT!
+ renegade_water_god_name_possessive:0 "Tempest's" #NT!
+
+ renegade_religion:0 "Renegade" #NT!
+ renegade_religion_adj:0 "Renegade" #NT!
+ renegade_religion_adherent:0 "Renegade" #NT!
+ renegade_religion_adherent_plural:0 "Renegades" #NT!
+ renegade_religion_desc:0 "Renegades are the wraiths of Stygia whose agenda does not lie in following the government of the dead, or in seeking Transcendence. Instead, Renegades march to their own beat over a huge range of interests, from actively fighting the Hierarchy to simply wanting to be left to themselves." #NT!
+
+ holy_order_brotherhood_of_the_black_rabbit:0 "Brotherhood of the Black Rabbit" #NT!
+ holy_order_stormriders:0 "StormRiders" #NT!
+ holy_order_flying_column:0 "Flying Column" #NT!
+ holy_order_wraithjackers:0 "Wraithjackers" #NT!
+ holy_order_daughters_of_liberty:0 "Daughters of Liberty" #NT!
+ holy_order_midnight_watch:0 "Midnight Watch" #NT!
+ holy_order_greater_newark_skinriding_association:0 "Greater Newark Skinriding Association" #NT!
+ holy_order_dixie_tricksters:0 "Dixie Tricksters" #NT!
+ holy_order_world_wide_wraiths:0 "World Wide Wraiths" #NT!
+ holy_order_london_fogsuckers:0 "London Fogsuckers" #NT!
+ holy_order_armagh_irregulars:0 "Armagh Irregulars" #NT!
+ holy_order_the_hearse_riders:0 "The Hearse Riders" #NT!
+ holy_order_the_sons_of_the_imperial_dragon:0 "The Sons of the Imperial Dragon" #NT!
+ holy_order_the_shattered_chain:0 "The Shattered Chain" #NT!
+
+ #Renegade-Group Faiths #NT!
+ drop_outs:0 "Drop-Outs" #NT!
+ drop_outs_adj:0 "AWOLs" #NT!
+ drop_outs_desc:0 "Renegades who simply ignore Stygian society and take their own afterlives in their hands." #NT!
+ drop_outs_adherent:0 "Renegade" #NT!
+ drop_outs_adherent_plural:0 "Renegades" #NT!
+
+ idealists:0 "Idealists" #NT!
+ idealists_adj:0 "Dealers" #NT!
+ idealists_desc:0 "These Renegades wish to improve the Hierarchy, rather than destroy it completely." #NT!
+ idealists_adherent:0 "Renegade" #NT!
+ idealists_adherent_plural:0 "Renegades" #NT!
+
+ outlaws:0 "Outlaws" #NT!
+ outlaws_adj:0 "Cons" #NT!
+ outlaws_desc:0 "The Renegades that indulge in strictly illegal trades." #NT!
+ outlaws_adherent:0 "Renegade" #NT!
+ outlaws_adherent_plural:0 "Renegades" #NT!
+
+ protesters:0 "Protesters" #NT!
+ protesters_adj:0 "Pols" #NT!
+ protesters_desc:0 "These are the fanatical groups that actively fight the Hierarchy." #NT!
+ protesters_adherent:0 "Renegade" #NT!
+ protesters_adherent_plural:0 "Renegades" #NT!
+
+ ##################### #NT!
+ # Far Shore #NT!
+ ##################### #NT!
+
+ #Ferrymen Wraiths Localization #NT!
+ ferrymen_high_god_name:0 "Oath" #NT!
+ ferrymen_high_god_name_possessive:0 "Oath's" #NT!
+ ferrymen_high_god_name_alternate:0 "Oar" #NT!
+ ferrymen_high_god_name_alternate_possessive:0 "Oar's" #NT!
+ ferrymen_good_god_jesus:0 "Lady of Fate" #NT!
+ ferrymen_good_god_christ:0 "Lady of Fate" #NT!
+ ferrymen_devil_name:0 "Shadow" #NT!
+ ferrymen_devil_name_possessive:0 "Shadow's" #NT!
+ ferrymen_evil_god_lucifer:0 "Shadow" #NT!
+ ferrymen_evil_god_beelzebub:0 "Shadow" #NT!
+ ferrymen_evil_god_mephistopheles:0 "Shadow" #NT!
+ ferrymen_death_deity_name:0 "Death" #NT!
+ ferrymen_death_deity_name_possessive:0 "Death's" #NT!
+ ferrymen_house_of_worship:0 "circle" #NT!
+ ferrymen_house_of_worship_plural:0 "circles" #NT!
+ ferrymen_religious_symbol:0 "wraith" #NT!
+ ferrymen_religious_text:0 "code" #NT!
+ ferrymen_religious_head_title:0 "The First" #NT!
+ ferrymen_religious_head_title_female:0 "The First" #NT!
+ ferrymen_religious_head_title_name:0 "circle" #NT!
+ ferrymen_devotee_male:0 "Ferryman" #NT!
+ ferrymen_devotee_male_plural:0 "Ferrymen" #NT!
+ ferrymen_devotee_female:0 "Ferryman" #NT!
+ ferrymen_devotee_female_plural:0 "Ferrymen" #NT!
+ ferrymen_devotee_neuter:0 "Ferryman" #NT!
+ ferrymen_devotee_neuter_plural:0 "Ferrymen" #NT!
+ ferrymen_priest_male:0 "Senior Ferryman" #NT!
+ ferrymen_priest_male_plural:0 "Senior Ferrymen" #NT!
+ ferrymen_priest_alternate_plural:0 "Senior Ferrymen" #NT!
+ ferrymen_bishop:0 "Officer" #NT!
+ ferrymen_bishop_plural:0 "Officers" #NT!
+ ferrymen_bishop_male:0 "Officer" #NT!
+ ferrymen_bishop_male_plural:0 "Officers" #NT!
+ ferrymen_positive_afterlife:0 "Transcendence" #NT!
+ ferrymen_negative_afterlife:0 "Oblivion" #NT!
+ ferrymen_witchgodname_the_horned_god:0 "Shadow" #NT!
+
+ ferrymen_creator_god_name:0 "$ferrymen_high_god_name$" #NT!
+ ferrymen_creator_god_name_possessive:0 "$ferrymen_high_god_name_possessive$" #NT!
+ ferrymen_health_god_name:0 "$ferrymen_high_god_name$" #NT!
+ ferrymen_health_god_name_possessive:0 "$ferrymen_high_god_name_possessive$" #NT!
+ ferrymen_fertility_god_name:0 "$ferrymen_health_god_name$" #NT!
+ ferrymen_fertility_god_name_possessive:0 "$ferrymen_health_god_name_possessive$" #NT!
+ ferrymen_wealth_god_name:0 "$ferrymen_health_god_name$" #NT!
+ ferrymen_wealth_god_name_possessive:0 "$ferrymen_health_god_name_possessive$" #NT!
+ ferrymen_household_god_name:0 "$ferrymen_health_god_name$" #NT!
+ ferrymen_household_god_name_possessive:0 "$ferrymen_health_god_name_possessive$" #NT!
+ ferrymen_fate_god_name:0 "Lady of Fate" #NT!
+ ferrymen_fate_god_name_possessive:0 "Lady of Fate's" #NT!
+ ferrymen_knowledge_god_name:0 "$ferrymen_high_god_name$" #NT!
+ ferrymen_knowledge_god_name_possessive:0 "$ferrymen_high_god_name_possessive$" #NT!
+ ferrymen_war_god_name:0 "$ferrymen_high_god_name$" #NT!
+ ferrymen_war_god_name_possessive:0 "$ferrymen_high_god_name_possessive$" #NT!
+ ferrymen_trickster_god_name:0 "Lady of Fate" #NT!
+ ferrymen_trickster_god_name_possessive:0 "Lady of Fate's" #NT!
+ ferrymen_night_god_name:0 "$ferrymen_high_god_name$" #NT!
+ ferrymen_night_god_name_possessive:0 "$ferrymen_high_god_name_possessive$" #NT!
+ ferrymen_water_god_name:0 "Tempest" #NT!
+ ferrymen_water_god_name_possessive:0 "Tempest's" #NT!
+
+ ferrymen_religion:0 "Ferrymen" #NT!
+ ferrymen_religion_adj:0 "Ferrymen" #NT!
+ ferrymen_religion_adherent:0 "Ferryman" #NT!
+ ferrymen_religion_adherent_plural:0 "Ferrymen" #NT!
+ ferrymen_religion_desc:0 "The Boatmen's Society, or the Oath-Circle of the Oar, commonly called the Ferrymen by those unfamiliar with their secrets (a list that encompasses just about everybody) are one of the oldest and most powerful societies in the Underworld." #NT!
+
+ ferrymen:0 "Oath-Circle of the Oar" #NT!
+ ferrymen_adj:0 "Ferrymen" #NT!
+ ferrymen_desc:0 "The Boatmen's Society, or the Oath-Circle of the Oar, commonly called the Ferrymen by those unfamiliar with their secrets (a list that encompasses just about everybody) are one of the oldest and most powerful societies in the Underworld." #NT!
+ ferrymen_adherent:0 "Ferryman" #NT!
+ ferrymen_adherent_plural:0 "Ferrymen" #NT!
+
+ #Shining Ones Wraiths Localization #NT!
+ shining_ones_religion:0 "Shining Ones" #NT!
+ shining_ones_religion_adj:0 "Shining Ones" #NT!
+ shining_ones_religion_adherent:0 "Shining One" #NT!
+ shining_ones_religion_adherent_plural:0 "Shining Ones" #NT!
+ shining_ones_religion_desc:0 "The Shining Ones were sufficiently senior Ferrymen to consider Charon an equal, and many of them predated the Ritual of Severance." #NT!
+
+ shining_ones:0 "Shining Ones" #NT!
+ shining_ones_adj:0 "Shining Ones" #NT!
+ shining_ones_desc:0 "The Shining Ones were sufficiently senior Ferrymen to consider Charon an equal, and many of them predated the Ritual of Severance." #NT!
+ shining_ones_adherent:0 "Shining One" #NT!
+ shining_ones_adherent_plural:0 "Shining Ones" #NT!
+
+ #Fishers Wraiths Localization #NT!
+ fishers_religion:0 "Fishers" #NT!
+ fishers_religion_adj:0 "Fishers" #NT!
+ fishers_religion_adherent:0 "Fisher" #NT!
+ fishers_religion_adherent_plural:0 "Fishers" #NT!
+ fishers_religion_desc:0 "The Fishers were worshippers of a form of Christianity unique to the Underworld that flourished from approximately the 1st through 16th centuries." #NT!
+
+ fishers:0 "Fishers" #NT!
+ fishers_adj:0 "Fishers" #NT!
+ fishers_desc:0 "The Fishers were worshippers of a form of Christianity unique to the Underworld that flourished from approximately the 1st through 16th centuries." #NT!
+ fishers_adherent:0 "Fisher" #NT!
+ fishers_adherent_plural:0 "Fishers" #NT!

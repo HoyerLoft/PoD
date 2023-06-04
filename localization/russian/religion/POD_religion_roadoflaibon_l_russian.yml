@@ -1,0 +1,73 @@
+﻿l_russian:
+
+ #Common Laibon Localization #NT!
+ roadoflaibon_religion:0 "Laibon" #NT!
+ roadoflaibon_religion_adj:0 "Laibon" #NT!
+ roadoflaibon_religion_adherent:0 "Laibon" #NT!
+ roadoflaibon_religion_adherent_plural:0 "Laibons" #NT!
+ roadoflaibon_religion_desc:0 "Laibon is mostly a catch term used to determine a disdain for the Caine's myth shared by most African Vampires." #NT!
+ roadoflaibon_high_god_name:0 " Ebony Kingdom" #NT!
+ roadoflaibon_high_god_name_possessive:0 "Ebony Kingdom's" #NT!
+ roadoflaibon_high_god_name_alternate:0 "Africa" #NT!
+ roadoflaibon_high_god_name_alternate_possessive:0 "Africa's" #NT!
+ roadoflaibon_good_god_jesus:0 "$roadoflaibon_health_god_name$" #NT!
+ roadoflaibon_good_god_christ:0 "Hunger" #NT!
+ roadoflaibon_devil_name:0 "The Hunger" #NT!
+ roadoflaibon_devil_name_possessive:0 "The Hunger's" #NT!
+ roadoflaibon_evil_god_lucifer:0 "The Hunger" #NT!
+ roadoflaibon_evil_god_beelzebub:0 "The Hunger" #NT!
+ roadoflaibon_evil_god_mephistopheles:0 "The Hunger" #NT!
+ roadoflaibon_death_deity_name:0 "Destruction" #NT!
+ roadoflaibon_death_deity_name_possessive:0 "Destruction's" #NT!
+ roadoflaibon_house_of_worship:0 "tribe" #NT!
+ roadoflaibon_house_of_worship_plural:0 "tribes" #NT!
+ roadoflaibon_religious_symbol:0 "ebony crown" #NT!
+ roadoflaibon_religious_text:0 "lore" #NT!
+ roadoflaibon_religious_head_title:0 "Spiritual Kholo" #NT!
+ roadoflaibon_religious_head_title_name:0 "Spiritual Kholo" #NT!
+ roadoflaibon_devotee_male:0 "Lorekeeper" #NT!
+ roadoflaibon_devotee_male_plural:0 "Lorekeepers" #NT!
+ roadoflaibon_devotee_female:0 "Lorekeeper" #NT!
+ roadoflaibon_devotee_female_plural:0 "Lorekeepers" #NT!
+ roadoflaibon_devotee_neuter:0 "Lorekeeper" #NT!
+ roadoflaibon_devotee_neuter_plural:0 "Lorekeepers" #NT!
+ roadoflaibon_priest_male:0 "Kholo" #NT!
+ roadoflaibon_priest_male_plural:0 "Kholos" #NT!
+ roadoflaibon_priest_alternate_plural:0 "Lorekeepers" #NT!
+ roadoflaibon_bishop:0 "Lorekeeper" #NT!
+ roadoflaibon_bishop_plural:0 "Lorekeepers" #NT!
+ roadoflaibon_positive_afterlife:0 "wilds" #NT!
+ roadoflaibon_negative_afterlife:0 "the abyss" #NT!
+ roadoflaibon_witchgodname_the_horned_god:0 "the Hunger" #NT!
+
+ roadoflaibon_creator_god_name:0 "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_creator_god_name_possessive:0 "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_health_god_name:0 "blood" #NT!
+ roadoflaibon_health_god_name_possessive:0 "blood's" #NT!
+ roadoflaibon_fertility_god_name:0 "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_fertility_god_name_possessive:0 "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_wealth_god_name:0 "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_wealth_god_name_possessive:0 "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_household_god_name:0 "$roadoflaibon_health_god_name$" #NT!
+ roadoflaibon_household_god_name_possessive:0 "$roadoflaibon_health_god_name_possessive$" #NT!
+ roadoflaibon_fate_god_name:0 "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_fate_god_name_possessive:0 "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_knowledge_god_name:0 "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_knowledge_god_name_possessive:0 "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_war_god_name:0 "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_war_god_name_possessive:0 "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_trickster_god_name:0 "Fortuna" #NT!
+ roadoflaibon_trickster_god_name_possessive:0 "Fortuna's" #NT!
+ roadoflaibon_night_god_name:0 "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_night_god_name_possessive:0 "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_water_god_name:0 "$roadoflaibon_health_god_name$" #NT!
+ roadoflaibon_water_god_name_possessive:0 "$roadoflaibon_health_god_name_possessive$" #NT!
+
+ #Laibon-Group Faiths #NT!
+ laibon:0 "Laibon" #NT!
+ laibon_adj:0 "Laibon" #NT!
+ laibon_adherent:0 "Laibon" #NT!
+ laibon_adherent_plural:0 "Laibon" #NT!
+ laibon_desc:0 "Laibon are not a separate supernatural race, but the Laibon are in many ways quite different from 'regular' kindred. They ascribe their origins to African gods and legends, unlike the Kindred's Noddist version." #NT!
+
+

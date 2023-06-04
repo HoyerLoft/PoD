@@ -1,0 +1,65 @@
+﻿l_russian:
+
+ rf_hunters:0 "Hunters" #NT!
+
+ #Common Hunters Localization #NT!
+ hunters_religion:0 "Witch-Hunters" #NT!
+ hunters_religion_adj:0 "Witch-Hunting" #NT!
+ hunters_religion_adherent:0 "Witch-Hunter" #NT!
+ hunters_religion_adherent_plural:0 "Witch-Hunters" #NT!
+ hunters_religion_desc:0 "Humanity has not given up on their world yet. These brave souls fight the abominations that claim to enslave them." #NT!
+
+ demon_hunters_religion:0 "Demon-Hunters" #NT!
+ demon_hunters_religion_adj:0 "Demon-Hunting" #NT!
+ demon_hunters_religion_adherent:0 "Demon-Hunter" #NT!
+ demon_hunters_religion_adherent_plural:0 "Demon-Hunters" #NT!
+ demon_hunters_religion_desc:0 "Little would seem to constrain the Night People of the East. They suffer no Masquerades and respect no Veils. Their excesses are largely excused as divine vengeance or simple joss. A few souls, however, see the containment of unruly supernaturals as their divinely ordained karma." #NT!
+
+ #Hunter-Group Faiths #NT!
+
+ independenthunters:0 "Independent Hunters" #NT!
+ independenthunters_adj:0 "Independent" #NT!
+ independenthunters_adherent:0 "Hunter" #NT!
+ independenthunters_adherent_plural:0 "Hunters" #NT!
+ independenthunters_desc:0 "Independent of any governing ecclesiastical body, these hunters follow their own idiosyncratic wars against the supernatural horrors of the World of Darkness. While they lack the resources of a large institution, they also are not bound by any cumbersome ethics or bureaucratic rules. Most of these hunters discovered the threat of supernatural creatures on their own, though a few chafing under the rules of the Shadow Inquisition, quit responding to orders form on high and now walk their own path." #NT!
+
+ shadowinquisition:0 "Shadow Inquisition" #NT!
+ shadowinquisition_adj:0 "Inquisition" #NT!
+ shadowinquisition_adherent:0 "Inquisitor" #NT!
+ shadowinquisition_adherent_plural:0 "Inquisitors" #NT!
+ shadowinquisition_desc:0 "The Shadow Inquisition is a secret campaign orchestrated by the Catholic Church during the Dark Medieval period. Unlike the Papal Inquisition, which is targeted at heretics, the Shadow Inquisition targets vampires, werewolves, mages and other "servants of Satan" for either destruction or salvation. Its existence will be short lived, but its successes will change the [cainite|E] world forever." #NT!
+ shadowinquisition_religious_head_title:0 "Grand Inquisitor" #NT!
+ shadowinquisition_religious_head_title_name:0 "Office of the Grand Inquisitor" #NT!
+
+ ikhwan_al_safa:0 "Ikhwan al-Safa" #NT!
+ ikhwan_al_safa_adj:0 "Ikhwan" #NT!
+ ikhwan_al_safa_adherent:0 "Sayyad al- Ghulan" #NT!
+ ikhwan_al_safa_adherent_plural:0 "Sayyad al- Ghulan" #NT!
+ ikhwan_al_safa_desc:0 "Created during the 12th century, the Ikhwan al-Safa maintains its vigil over the faithful and battling the undead horrors of the night. Unlike the Inquisition, the Sayyadin were very careful in avoiding the public and tried to minimize the harm of their hunt on the innocents." #NT!
+
+ akritai:0 "Akritai" #NT!
+ akritai_adj:0 "Akritai" #NT!
+ akritai_adherent:0 "Hunter" #NT!
+ akritai_adherent_plural:0 "Hunters" #NT!
+ akritai_desc:0 "The Akritai are a collection of groups, made up of mostly Eastern Orthodox witch-hunters. It is considered both a serious ally and a competitor to the Inquisition." #NT!
+
+ judge:0 "Judge" #NT!
+ judge_adj:0 "Judge" #NT!
+ judge_adherent:0 "Hunter" #NT!
+ judge_adherent_plural:0 "Hunters" #NT!
+ judge_desc:0 "Drawing their name and their traditions from the biblical Judges, they fight against what they perceive as the brood of Lilith. They use the Torah and a special version of the Talmud as their resources for their fight against the unnatural. Due to the low Jewish percentage in most countries, the Judges operate in small groups without central coordination." #NT!
+
+ shih_faith:0 "Shih's Belief" #NT!
+ shih_faith_adj:0 "Belief" #NT!
+ shih_faith_adherent:0 "Shih" #NT!
+ shih_faith_adherent_plural:0 "Shih" #NT!
+ shih_faith_desc:0 "The [GetTrait('shih').GetName( GetPlayer )] have diversified and spread throughout the Middle Kingdom over the centuries, and they have adapted the philosophies they were taught to make sense in the areas where they dwell.\nBut none of these beliefs is their primary source of faith. All [GetTrait('shih').GetName( GetPlayer )] understand that what they practice on a personal level has little to do with the truth they follow as demon hunters." #NT!
+ shih_faith_religious_head_title:0 "Celestial Master" #NT!
+ shih_faith_religious_head_title_name:0 "Kingdom of the Celestial Master" #NT!
+
+ strike_force_zero:0 "Okamoto's Clan" #NT!
+ strike_force_zero_adj:0 "Taimanin" #NT!
+ strike_force_zero_adherent:0 "Taimanin" #NT!
+ strike_force_zero_adherent_plural:0 "Taimanins" #NT!
+ strike_force_zero_desc:0 "Okamoto's Clan and adopted family have changed names many times but their purpose never did. They fight the creatures of the night without mercy or remorse, acting as assassins and protectors of the Japanese Imperial lineage." #NT!
+

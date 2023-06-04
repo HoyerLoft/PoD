@@ -1,0 +1,106 @@
+﻿l_russian:
+
+ #Common Road of Bones Localization #NT!
+ roadofbones_religion:0 "Road of Bones" #NT!
+ roadofbones_religion_adj:0 "Scholar" #NT!
+ roadofbones_religion_adherent:0 "Scholar" #NT!
+ roadofbones_religion_adherent_plural:0 "Scholars" #NT!
+ roadofbones_religion_desc:0 "Kindred trying to understand death. Mostly followed by [Clan|E] Cappadocian." #NT!
+ roadofbones_high_god_name:0 "Death" #NT!
+ roadofbones_high_god_name_possessive:0 "Death's" #NT!
+ roadofbones_high_god_name_alternate:0 "The Death" #NT!
+ roadofbones_high_god_name_alternate_possessive:0 "The Death's" #NT!
+ roadofbones_good_god_jesus:0 "$roadofbones_health_god_name$" #NT!
+ roadofbones_good_god_christ:0 "Death" #NT!
+ roadofbones_devil_name:0 "The Beast" #NT!
+ roadofbones_devil_name_possessive:0 "The Beast's" #NT!
+ roadofbones_evil_god_lucifer:0 "The Beast" #NT!
+ roadofbones_evil_god_beelzebub:0 "The Beast" #NT!
+ roadofbones_evil_god_mephistopheles:0 "The Beast" #NT!
+ roadofbones_death_deity_name:0 "Destruction" #NT!
+ roadofbones_death_deity_name_possessive:0 "Destruction's" #NT!
+ roadofbones_house_of_worship:0 "refuge" #NT!
+ roadofbones_house_of_worship_plural:0 "refuges" #NT!
+ roadofbones_religious_symbol:0 "skull" #NT!
+ roadofbones_religious_text:0 "Sargon Codex" #NT!
+ roadofbones_religious_head_title:0 "first scholar" #NT!
+ roadofbones_religious_head_title_name:0 "first scholar" #NT!
+ roadofbones_devotee_male:0 "scholar" #NT!
+ roadofbones_devotee_male_plural:0 "scholars" #NT!
+ roadofbones_devotee_female:0 "scholar" #NT!
+ roadofbones_devotee_female_plural:0 "scholars" #NT!
+ roadofbones_devotee_neuter:0 "scholar" #NT!
+ roadofbones_devotee_neuter_plural:0 "scholars" #NT!
+ roadofbones_priest_male:0 "scholar" #NT!
+ roadofbones_priest_male_plural:0 "scholars" #NT!
+ roadofbones_priest_alternate_plural:0 "scholars" #NT!
+ roadofbones_bishop_male:0 "scholar" #NT!
+ roadofbones_bishop_male_plural:0 "scholars" #NT!
+ roadofbones_scholar:0 "scholar" #NT!
+ roadofbones_scholar_plural:0 "scholars" #NT!
+ roadofbones_positive_afterlife:0 "Underworld" #NT!
+ roadofbones_negative_afterlife:0 "Oblivion" #NT!
+ roadofbones_witchgodname_the_horned_god:0 "the Beast" #NT!
+
+ roadofbones_creator_god_name:0 "$roadofbones_high_god_name$" #NT!
+ roadofbones_creator_god_name_possessive:0 "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_health_god_name:0 "blood" #NT!
+ roadofbones_health_god_name_possessive:0 "blood's" #NT!
+ roadofbones_fertility_god_name:0 "$roadofbones_high_god_name$" #NT!
+ roadofbones_fertility_god_name_possessive:0 "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_wealth_god_name:0 "$roadofbones_high_god_name$" #NT!
+ roadofbones_wealth_god_name_possessive:0 "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_household_god_name:0 "$roadofbones_health_god_name$" #NT!
+ roadofbones_household_god_name_possessive:0 "$roadofbones_health_god_name_possessive$" #NT!
+ roadofbones_fate_god_name:0 "$roadofbones_high_god_name$" #NT!
+ roadofbones_fate_god_name_possessive:0 "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_knowledge_god_name:0 "$roadofbones_high_god_name$" #NT!
+ roadofbones_knowledge_god_name_possessive:0 "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_war_god_name:0 "$roadofbones_high_god_name$" #NT!
+ roadofbones_war_god_name_possessive:0 "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_trickster_god_name:0 "Fortuna" #NT!
+ roadofbones_trickster_god_name_possessive:0 "Fortuna's" #NT!
+ roadofbones_night_god_name:0 "$roadofbones_high_god_name$" #NT!
+ roadofbones_night_god_name_possessive:0 "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_water_god_name:0 "$roadofbones_health_god_name$" #NT!
+ roadofbones_water_god_name_possessive:0 "$roadofbones_health_god_name_possessive$" #NT!
+
+ #Scholar-Group Faiths #NT!
+ viaossium:0 "Via Ossium" #NT!
+ viaossium_adj:0 "Ossium" #NT!
+ viaossium_adherent:0 "Scholar" #NT!
+ viaossium_adherent_plural:0 "Scholars" #NT!
+ viaossium_desc:0 "The followers of Road of Bones value knowledge above all else. Through intense study of the unknown, the Scholars keep their Beasts at bay. They will go to nearly any lengths to learn something new, but will not needlessly sacrifice themselves for a cause. After all, their own gathered knowledge is too important to let others handle. At the same time, Scholars do not fear death; they are fascinated by it." #NT!
+
+ tariqelatham:0 "Tariq el-A'Tham" #NT!
+ tariqelatham_adj:0 "A'Tham" #NT!
+ tariqelatham_adherent:0 "Scholar" #NT!
+ tariqelatham_adherent_plural:0 "Scholars" #NT!
+ tariqelatham_desc:0 "Mainly an offshoot of the main Via Ossium in the Muslim world, the Tariq el-A'Tham benefit from older knowledge kept alive in this part of the world. Their sometimes callous practices can put them at odds with the zealous [ashirra|E] or the vigilant Children of Haqim, though." #NT!
+
+ followersoflazarus:0 "Followers of Lazarus" #NT!
+ followersoflazarus_adj:0 "Lazarene" #NT!
+ followersoflazarus_adherent:0 "Infitiore" #NT!
+ followersoflazarus_adherent_plural:0 "Infitiores" #NT!
+ followersoflazarus_desc:0 "The Followers of Lazarus, also called the Infitiores, were the Cappadocians who for one reason or another did not respond to the call that led to the Feast of Folly and thus avoided the culling of the [Clan|E]. Unsure as to whether they would have been spared and feeling betrayed by their founder, they effectively divorced themselves from the main body of [Clan|E] Cappadocian. Lazarus was informally considered the leader of the Infitiores." #NT!
+
+ pathofthewheel:0 "Path of the Wheel" #NT!
+ pathofthewheel_adj:0 "Wheel" #NT!
+ pathofthewheel_adherent:0 "Scientist" #NT!
+ pathofthewheel_adherent_plural:0 "Scientists" #NT!
+ pathofthewheel_desc:0 "Members of this path believe that Vampires are stuck in outside of the cycle and must move on. They search for any scientific means to push all [cainites|E] back into the cycle of life." #NT!
+
+ roadoftheabyss:0 "Road of the Abyss" #NT!
+ roadoftheabyss_adj:0 "Abyssal" #NT!
+ roadoftheabyss_adherent:0 "Mystic" #NT!
+ roadoftheabyss_adherent_plural:0 "Mystics" #NT!
+ roadoftheabyss_desc:0 "The Mystics are immersed in the undying study of a force transcending and ultimately opposing all light and life. Humanity and concepts like right or wrong have little use to those who study the mysteries of the outer darkness." #NT!
+
+ holy_order_harbringers_cappa:0 "The Harbingers" #NT!
+ holy_order_erciyes:0 "Guardians of the Erciyes" #NT!
+
+ viaprimordia:0 "Via Primordia" #NT!
+ viaprimordia_adj:0 "Primordia" #NT!
+ viaprimordia_adherent:0 "Primordian" #NT!
+ viaprimordia_adherent_plural:0 "Primordians" #NT!
+ viaprimordia_desc:0 "The Primordians believe in the 'Three', powerful spirits of Creation, Destruction and Preservation. They wait for a big event where the three spirits will merge into one Avatar. Strangely enough, it seems to be quite close to the belief of some Lupines." #NT!

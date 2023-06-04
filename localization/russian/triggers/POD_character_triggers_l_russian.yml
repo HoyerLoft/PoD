@@ -1,0 +1,55 @@
+﻿l_russian:
+
+ IS_A_COURTIER_OR_VASSAL_OF_CHARACTER:0 "Is [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [direct_vassal|E]" #NT!
+ CHARACTER_IS_A_COURTIER_OR_VASSAL_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [direct_vassal|E]" #NT!
+ I_AM_A_COURTIER_OR_VASSAL_OF_CHARACTER:1 "You are [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [direct_vassal|E]" #NT!
+ IS_NOT_A_COURTIER_OR_VASSAL_OF_CHARACTER:0 "Is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [direct_vassal|E]" #NT!
+ CHARACTER_IS_NOT_A_COURTIER_OR_VASSAL_OF_CHARACTER:0 "[CHARACTER.GetShortUIName|U] is #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [direct_vassal|E]" #NT!
+ I_AM_NOT_A_COURTIER_OR_VASSAL_OF_CHARACTER:1 "You are #bold not#! [TARGET_CHARACTER.GetShortUINamePossessive] [courtier|E] or [direct_vassal|E]" #NT!
+
+ has_full_true_name_hook:0 "Has [strong_hook|E] #weak ($true_name_hook$)#! on [TARGET_CHARACTER.GetName]" #NT!
+ not_has_full_true_name_hook:0 "Do not have [strong_hook|E] #weak ($true_name_hook$)#! on [TARGET_CHARACTER.GetName]" #NT!
+
+ POD_has_main_trait:0 "[TARGET_CHARACTER.GetShortUIName] does have any scarring, wound or main [trait|E]" #NT!
+ POD_has_injury_trait:0 "[TARGET_CHARACTER.GetShortUIName] does have any scarring or wound [trait|E]" #NT!
+ POD_has_disease_trait:0 "[TARGET_CHARACTER.GetShortUIName] does have any disease [trait|E]" #NT!
+ NOT_POD_has_main_trait:0 "[TARGET_CHARACTER.GetShortUIName] does #bold not#! have any scarring, wound or main [trait|E]" #NT!
+ NOT_POD_has_injury_trait:0 "[TARGET_CHARACTER.GetShortUIName] does #bold not#! have any scarring or wound [trait|E]" #NT!
+ NOT_POD_has_disease_trait:0 "[TARGET_CHARACTER.GetShortUIName] does #bold not#! have any disease [trait|E]" #NT!
+
+ NOT_POD_permanent_scarred:0 "[TARGET_CHARACTER.GetShortUIName]'s [GetTrait('scarred').GetName( GetPlayer )] [trait|E] can't be cured" #NT!
+ NOT_POD_permanent_disfigured:0 "[TARGET_CHARACTER.GetShortUIName]'s [GetTrait('disfigured').GetName( GetPlayer )] [trait|E] can't be cured" #NT!
+ NOT_POD_permanent_blind:0 "[TARGET_CHARACTER.GetShortUIName]'s [GetTrait('blind').GetName( GetPlayer )] [trait|E] can't be cured" #NT!
+ NOT_POD_permanent_one_eyed:0 "[TARGET_CHARACTER.GetShortUIName]'s [GetTrait('one_eyed').GetName( GetPlayer )] [trait|E] can't be cured" #NT!
+ NOT_POD_permanent_maimed:0 "[TARGET_CHARACTER.GetShortUIName]'s [GetTrait('maimed').GetName( GetPlayer )] [trait|E] can't be cured" #NT!
+ NOT_POD_permanent_one_legged:0 "[TARGET_CHARACTER.GetShortUIName]'s [GetTrait('one_legged').GetName( GetPlayer )] [trait|E] can't be cured" #NT!
+ NOT_POD_permanent_eunuch:0 "[TARGET_CHARACTER.GetShortUIName]'s [GetTrait('eunuch').GetName( GetPlayer )] [trait|E] can't be cured" #NT!
+
+ NUM_OF_RELATION_DEMONIC_THRALL_TARGET_TRIGGER:0 "Number of demonic thralls is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_SHADOW_TWIN_SERVANT_TRIGGER:1 "Number of Shadow Twin is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_DARKLING_MIRROR_SERVANT_TRIGGER:1 "Number of Darkling Mirror is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_SHADOWY_DUPLICATE_SERVANT_TRIGGER:1 "Number of Shadowy Duplicate is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_PHANTOM_SHADOW_SERVANT_TRIGGER:1 "Number of Phantom Shadow is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_SEPARATED_KHAIBIT_SERVANT_TRIGGER:1 "Number of Separate Khaibit is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_SEPARATED_SHADOW_SERVANT_TRIGGER:1 "Number of Separate Shadow is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_UNSPEAKABLE_SERVITOR_SERVANT_TRIGGER:1 "Number of Unspeakable Servitor is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_POSSESSED_TARGET_TRIGGER:1 "Number of Puppet is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_EFFIGY_CHARACTER_TARGET_TRIGGER:1 "Number of Effigy is $COMPARATOR$ $NUM|V0$" #NT!
+ NUM_OF_RELATION_DREAMER_MEMBER_TARGET_TRIGGER:1 "Number of Dreamer is $COMPARATOR$ $NUM|V0$" #NT!
+
+ effigy_on_task:0 "You already have an effigy on task." #NT!
+ can_hurt_wraith:0 "You does #bold not#! have any power to hurt a spirit." #NT!
+ lost_in_umbra:0 "You are lost in umbra." #NT!
+
+ kueijin_cant_follow_you_faith_tooltip:0 "[GetTrait('kueijin').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ vamp_cant_follow_you_faith_tooltip:0 "[GetTrait('vampire').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ ghoul_cant_follow_you_faith_tooltip:0 "[GetTrait('ghoul').GetName( GetNullCharacter )]/[GetTrait('revenant').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ werewolf_cant_follow_you_faith_tooltip:0 "[GetTraitGroup('shapeshifter').GetName()] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ hunter_cant_follow_you_faith_tooltip:0 "[GetTrait('superhunter').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ mortal_cant_follow_you_faith_tooltip:0 "[GetTrait('mortal').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ mummy_cant_follow_you_faith_tooltip:0 "[GetTrait('mummy').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ wraith_cant_follow_you_faith_tooltip:0 "[GetTrait('wraith').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ mage_cant_follow_you_faith_tooltip:0 "[GetTrait('mage').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ fae_cant_follow_you_faith_tooltip:0 "[GetTrait('fae').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ demon_cant_follow_you_faith_tooltip:0 "[GetTrait('demon').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!
+ changeling_cant_follow_you_faith_tooltip:0 "[GetTrait('changeling').GetName( GetNullCharacter )] can't follow [GetPlayer.GetFaith.GetAdjective]!" #NT!

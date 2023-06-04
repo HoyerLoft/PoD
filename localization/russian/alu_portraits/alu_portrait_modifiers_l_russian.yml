@@ -1,0 +1,26 @@
+﻿l_russian:
+
+ ### by ALU ### #NT!
+
+ ## Fantasy Armor Helm / Iron Skull Helm ## #NT!
+
+ ### Male ### #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_fantasy_war_01:0 "Iron Skull Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_fantasy_war_01_open:0 "Iron Skull Helm Open" #NT!
+ ### Female ### #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_fantasy_war_01:0 "Iron Skull Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_fantasy_war_01_open:0 "Iron Skull Helm Open" #NT!
+
+## Muscle Cuirass #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_greek_war_01:0 "Muscle Cuirass" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_greek_war_01:1 "Greek Armor" #NT!
+
+## White Plate #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_plate_war_01:0 "White Plate Armor" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_plate_war_01:1 "White Plate Legwear" #NT!
+
+ ## Legwear #NT!
+
+
+
+

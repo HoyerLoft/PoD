@@ -1,0 +1,340 @@
+﻿l_russian:
+ game_concept_possessedpower_lifestyle:0 "Possessed Power" #NT!
+ game_concept_possessedpower_lifestyle_desc:0 "Possessed Power are gifts from the Possessing Spirit." #NT!
+
+ possessedpower_lifestyle_name:0 "Possessed" #NT!
+ possessedpower_lifestyle_desc:0 "Focus on the power that come from the Possessing Spirit." #NT!
+ possessedpower_lifestyle_highlight_desc:0 "Because your faith has the Bane Possession [doctrine|E], you gain #P 50%#! more [experience|E] in this Lifestyle." #NT!
+ monthly_possessedpower_lifestyle_xp_gain_mult:0 "Monthly Possessed Power [lifestyle|E] [experience|E]" #NT!
+
+ fomori_focus:0 "Fomori Focus" #NT!
+ fomori_focus_modifier:1 "[GetFocus('fomori_focus').GetName]" #NT!
+ fomori_focus_desc:0 "Power of the Bane-spirit." #NT!
+ fomori_focus_effect_desc:0 "Focusing on Fomori Power grants:" #NT!
+
+ gorgon_focus:0 "Gorgon Focus" #NT!
+ gorgon_focus_modifier:1 "[GetFocus('gorgon_focus').GetName]" #NT!
+ gorgon_focus_desc:0 "Power of the Wyld-spirit." #NT!
+ gorgon_focus_effect_desc:0 "Focusing on Gorgon Power grants:" #NT!
+
+ drone_focus:0 "Drone Focus" #NT!
+ drone_focus_modifier:1 "[GetFocus('drone_focus').GetName]" #NT!
+ drone_focus_desc:0 "Power of the Weaver-spirit." #NT!
+ drone_focus_effect_desc:0 "Focusing on Drone Power grants:" #NT!
+
+ kami_focus:0 "Kami Focus" #NT!
+ kami_focus_modifier:1 "[GetFocus('kami_focus').GetName]" #NT!
+ kami_focus_desc:0 "Power of the Gaian spirit." #NT!
+ kami_focus_effect_desc:0 "Focusing on Kami Power grants:" #NT!
+
+ GAINS_POSSESSEDPOWER_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [possessedpower_lifestyle|E] Experience" #NT!
+ GAINED_POSSESSEDPOWER_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [possessedpower_lifestyle|E] Experience" #NT!
+ I_GAIN_POSSESSEDPOWER_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [possessedpower_lifestyle|E] Experience" #NT!
+ I_GAINED_POSSESSEDPOWER_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [possessedpower_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_POSSESSEDPOWER_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [possessedpower_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_POSSESSEDPOWER_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [possessedpower_lifestyle|E] Experience" #NT!
+
+ GAINS_A_POSSESSEDPOWER_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [possessedpower_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_POSSESSEDPOWER_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [possessedpower_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_POSSESSEDPOWER_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [possessedpower_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_POSSESSEDPOWER_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [possessedpower_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_POSSESSEDPOWER_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [possessedpower_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_POSSESSEDPOWER_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [possessedpower_lifestyle|E] [perk|E] Unlock" #NT!
+
+ POSSESSEDPOWER_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Possessed lifestyle perk points: $NUM|V0$" #NT!
+
+ NOT_has_fomori_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('fomori').GetName( GetPlayer )]#!" #NT!
+ NOT_has_drone_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('drone').GetName( GetPlayer )]#!" #NT!
+ NOT_has_gorgon_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('gorgon').GetName( GetPlayer )]#!" #NT!
+ NOT_has_kami_trait:0 "@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('kami').GetName( GetPlayer )]#!" #NT!
+ NOT_has_spirit_ties_perk:0 "@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('fomori_spirit_ties_perk').GetName( GetPlayer )]#!" #NT!
+
+ fomori_visible:1 "Fomori" #NT!
+ gorgon_visible:1 "Gorgon" #NT!
+ drone_visible:1 "Drone" #NT!
+ kami_visible:1 "Kami" #NT!
+
+ fomori_animal_control_perk_name:0 "Animal Control" #NT!
+ fomori_armored_hide_perk_name:0 "Armored Hide" #NT!
+ fomori_berseker_perk_name:0 "Berserker" #NT!
+ fomori_bestial_mutation_perk_name:0 "Bestial Mutation" #NT!
+ fomori_blending_perk_name:0 "Blending" #NT!
+ fomori_body_expansion_perk_name:0 "Body Expansion" #NT!
+ fomori_brain_eating_perk_name:0 "Brain Eating" #NT!
+ fomori_bulky_perk_name:0 "Bulky" #NT!
+ fomori_darksight_perk_name:0 "Darksight" #NT!
+ fomori_devour_perk_name:0 "Devour" #NT!
+ fomori_dispersion_perk_name:0 "Dispersion" #NT!
+ fomori_ectoplasmic_extrusion_perk_name:0 "Ectoplasmic Extrusion" #NT!
+ fomori_electrical_field_perk_name:0 "Electrical Field" #NT!
+ fomori_elemental_resistance_perk_name:0 "Elemental Resistance" #NT!
+ fomori_enchanting_voice_perk_name:0 "Enchanting Voice" #NT!
+ fomori_enhanced_attribute_perk_name:0 "Enhanced Attribute" #NT!
+ fomori_entropic_touch_perk_name:0 "Entropic Touch" #NT!
+ fomori_extensible_limb_perk_name:0 "Extensible Limb" #NT!
+ fomori_extra_limb_perk_name:0 "Extra Limb" #NT!
+ fomori_eyes_of_the_wyrm_perk_name:0 "Eyes of the Wyrm" #NT!
+ fomori_flight_perk_name:0 "Flight" #NT!
+ fomori_foot_pads_perk_name:0 "Foot Pads" #NT!
+ fomori_fungal_touch_perk_name:0 "Fungal Touch" #NT!
+ fomori_gaseous_form_perk_name:0 "Gaseous Form" #NT!
+ fomori_hazardous_breath_perk_name:0 "Hazardous Breath" #NT!
+ fomori_homogeneity_perk_name:0 "Homogeneity" #NT!
+ fomori_horror_perk_name:0 "Horror" #NT!
+ fomori_immunity_to_the_delirium_perk_name:0 "Immunity to the Delirium" #NT!
+ fomori_infectious_bite_touch_perk_name:0 "Infectious Bite/Touch" #NT!
+ fomori_invisibility_perk_name:0 "Invisibility" #NT!
+ fomori_liquid_form_perk_name:0 "Liquid Form" #NT!
+ fomori_malleate_perk_name:0 "Malleate" #NT!
+ fomori_mask_presence_perk_name:0 "Mask Presence" #NT!
+ fomori_memory_caress_perk_name:0 "Memory Caress" #NT!
+ fomori_mind_blast_perk_name:0 "Mind Blast" #NT!
+ fomori_mind_rape_perk_name:0 "Mind Rape" #NT!
+ fomori_natural_weaponry_perk_name:0 "Natural Weaponry" #NT!
+ fomori_nightmare_command_perk_name:0 "Nightmare Command" #NT!
+ fomori_pliant_bones_perk_name:0 "Pliant Bones" #NT!
+ fomori_poison_perk_name:0 "Poison" #NT!
+ fomori_poison_tumors_perk_name:0 "Poison Tumors" #NT!
+ fomori_reassuring_presence_perk_name:0 "Reassuring Presence" #NT!
+ fomori_regeneration_perk_name:0 "Regeneration" #NT!
+ fomori_sanity_rending_perk_name:0 "Sanity Rending" #NT!
+ fomori_self_immolation_perk_name:0 "Self-Immolation" #NT!
+ fomori_sense_gaia_perk_name:0 "Sense Gaia" #NT!
+ fomori_shadowplay_perk_name:0 "Shadowplay" #NT!
+ fomori_size_perk_name:0 "Size" #NT!
+ fomori_skinshift_perk_name:0 "Skinshift" #NT!
+ fomori_spirit_gift_perk_name:0 "Spirit Gift" #NT!
+ fomori_spirit_kinship_perk_name:0 "Spirit Kinship" #NT!
+ fomori_spirit_rending_perk_name:0 "Spirit Rending" #NT!
+ fomori_spirit_sense_perk_name:0 "Spirit Sense" #NT!
+ fomori_spirit_ties_perk_name:0 "Spirit Ties" #NT!
+ fomori_stasis_cocoon_perk_name:0 "Stasis Cocoon" #NT!
+ fomori_spirit_sideways_perk_name:0 "Spirit Sideways" #NT!
+ fomori_succubus_veil_perk_name:0 "Succubus' Veil" #NT!
+ fomori_taint_suppression_perk_name:0 "Taint Suppression" #NT!
+ fomori_tar_baby_perk_name:0 "Tar Baby" #NT!
+ fomori_thick_skinned_perk_name:0 "Thick-Skinned" #NT!
+ fomori_triatic_scent_perk_name:0 "Triatic Scent" #NT!
+ fomori_triatic_sense_perk_name:0 "Triatic Sense" #NT!
+ fomori_unnatural_strength_perk_name:0 "Unnatural Strength" #NT!
+ fomori_veil_breach_perk_name:0 "Veil Breach" #NT!
+ fomori_voice_of_the_wyrm_perk_name:0 "Voice of the Wyrm" #NT!
+ fomori_wall_walking_perk_name:0 "Wall Walking" #NT!
+ fomori_webbing_perk_name:0 "Webbing" #NT!
+
+ gorgon_animal_control_perk_name:0 "Animal Control" #NT!
+ gorgon_animate_self_perk_name:0 "Animate Self" #NT!
+ gorgon_armored_hide_perk_name:0 "Armored Hide" #NT!
+ gorgon_berseker_perk_name:0 "Berserker" #NT!
+ gorgon_bestial_mutation_perk_name:0 "Bestial Mutation" #NT!
+ gorgon_blending_perk_name:0 "Blending" #NT!
+ gorgon_body_expansion_perk_name:0 "Body Expansion" #NT!
+ gorgon_bulky_perk_name:0 "Bulky" #NT!
+ gorgon_chaos_engine_perk_name:0 "Chaos Engine" #NT!
+ gorgon_command_the_earth_perk_name:0 "Command the Earth" #NT!
+ gorgon_darksight_perk_name:0 "Darksight" #NT!
+ gorgon_devour_perk_name:0 "Devour" #NT!
+ gorgon_dispersion_perk_name:0 "Dispersion" #NT!
+ gorgon_ectoplasmic_extrusion_perk_name:0 "Ectoplasmic Extrusion" #NT!
+ gorgon_electrical_field_perk_name:0 "Electrical Field" #NT!
+ gorgon_elemental_resistance_perk_name:0 "Elemental Resistance" #NT!
+ gorgon_enchanting_voice_perk_name:0 "Enchanting Voice" #NT!
+ gorgon_enhanced_attribute_perk_name:0 "Enhanced Attribute" #NT!
+ gorgon_entropic_touch_perk_name:0 "Entropic Touch" #NT!
+ gorgon_extensible_limb_perk_name:0 "Extensible Limb" #NT!
+ gorgon_extra_limb_perk_name:0 "Extra Limb" #NT!
+ gorgon_flight_perk_name:0 "Flight" #NT!
+ gorgon_foot_pads_perk_name:0 "Foot Pads" #NT!
+ gorgon_fungal_touch_perk_name:0 "Fungal Touch" #NT!
+ gorgon_gaseous_form_perk_name:0 "Gaseous Form" #NT!
+ gorgon_hazardous_breath_perk_name:0 "Hazardous Breath" #NT!
+ gorgon_homogeneity_perk_name:0 "Homogeneity" #NT!
+ gorgon_horror_perk_name:0 "Horror" #NT!
+ gorgon_immunity_to_the_delirium_perk_name:0 "Immunity to the Delirium" #NT!
+ gorgon_infectious_bite_touch_perk_name:0 "Infectious Bite/Touch" #NT!
+ gorgon_invisibility_perk_name:0 "Invisibility" #NT!
+ gorgon_liquid_form_perk_name:0 "Liquid Form" #NT!
+ gorgon_malleate_perk_name:0 "Malleate" #NT!
+ gorgon_mask_presence_perk_name:0 "Mask Presence" #NT!
+ gorgon_matter_weave_perk_name:0 "Matter Weave" #NT!
+ gorgon_memory_caress_perk_name:0 "Memory Caress" #NT!
+ gorgon_natural_weaponry_perk_name:0 "Natural Weaponry" #NT!
+ gorgon_plant_animation_perk_name:0 "Plant Animation" #NT!
+ gorgon_pliant_bones_perk_name:0 "Pliant Bones" #NT!
+ gorgon_poison_perk_name:0 "Poison" #NT!
+ gorgon_regeneration_perk_name:0 "Regeneration" #NT!
+ gorgon_sanity_rending_perk_name:0 "Sanity Rending" #NT!
+ gorgon_shadowplay_perk_name:0 "Shadowplay" #NT!
+ gorgon_size_perk_name:0 "Size" #NT!
+ gorgon_skinshift_perk_name:0 "Skinshift" #NT!
+ gorgon_spirit_gift_perk_name:0 "Spirit Gift" #NT!
+ gorgon_spirit_kinship_perk_name:0 "Spirit Kinship" #NT!
+ gorgon_spirit_sense_perk_name:0 "Spirit Sense" #NT!
+ gorgon_spirit_ties_perk_name:0 "Spirit Ties" #NT!
+ gorgon_stasis_cocoon_perk_name:0 "Stasis Cocoon" #NT!
+ gorgon_spirit_sideways_perk_name:0 "Spirit Sideways" #NT!
+ gorgon_succubus_veil_perk_name:0 "Succubus' Veil" #NT!
+ gorgon_taint_suppression_perk_name:0 "Taint Suppression" #NT!
+ gorgon_thick_skinned_perk_name:0 "Thick-Skinned" #NT!
+ gorgon_triatic_scent_perk_name:0 "Triatic Scent" #NT!
+ gorgon_triatic_sense_perk_name:0 "Triatic Sense" #NT!
+ gorgon_unnatural_strength_perk_name:0 "Unnatural Strength" #NT!
+ gorgon_veil_breach_perk_name:0 "Veil Breach" #NT!
+ gorgon_wall_walking_perk_name:0 "Wall Walking" #NT!
+ gorgon_webbing_perk_name:0 "Webbing" #NT!
+
+ drone_aura_of_tranquility_perk_name:0 "Aura of Tranquility" #NT!
+ drone_blending_perk_name:0 "Blending" #NT!
+ drone_stasis_engine_perk_name:0 "Stasis Engine" #NT!
+ drone_computer_link_perk_name:0 "Mechanism Connection" #NT!
+ drone_cybersenses_perk_name:0 "Weaversenses" #NT!
+ drone_darksight_perk_name:0 "Darksight" #NT!
+ drone_dispersion_perk_name:0 "Dispersion" #NT!
+ drone_ectoplasmic_extrusion_perk_name:0 "Ectoplasmic Extrusion" #NT!
+ drone_electrical_field_perk_name:0 "Electrical Field" #NT!
+ drone_elemental_resistance_perk_name:0 "Elemental Resistance" #NT!
+ drone_enchanting_voice_perk_name:0 "Enchanting Voice" #NT!
+ drone_enhanced_attribute_perk_name:0 "Enhanced Attribute" #NT!
+ drone_homogeneity_perk_name:0 "Homogeneity" #NT!
+ drone_immunity_to_the_delirium_perk_name:0 "Immunity to the Delirium" #NT!
+ drone_invisibility_perk_name:0 "Invisibility" #NT!
+ drone_invulnerability_perk_name:0 "Invulnerability" #NT!
+ drone_lord_of_the_land_perk_name:0 "Lord of the Land" #NT!
+ drone_magnetokinesis_perk_name:0 "Magnetokinesis" #NT!
+ drone_mask_presence_perk_name:0 "Mask Presence" #NT!
+ drone_matter_weave_perk_name:0 "Matter Weave" #NT!
+ drone_memory_caress_perk_name:0 "Memory Caress" #NT!
+ drone_mind_blast_perk_name:0 "Mind Blast" #NT!
+ drone_peaceful_fighting_perk_name:0 "Peaceful Fighting" #NT!
+ drone_reassuring_presence_perk_name:0 "Reassuring Presence" #NT!
+ drone_regeneration_perk_name:0 "Regeneration" #NT!
+ drone_silent_speech_perk_name:0 "Silent Speech" #NT!
+ drone_spirit_gift_perk_name:0 "Spirit Gift" #NT!
+ drone_spirit_kinship_perk_name:0 "Spirit Kinship" #NT!
+ drone_spirit_sense_perk_name:0 "Spirit Sense" #NT!
+ drone_spirit_static_perk_name:0 "Spirit Static" #NT!
+ drone_spirit_ties_perk_name:0 "Spirit Ties" #NT!
+ drone_stasis_cocoon_perk_name:0 "Stasis Cocoon" #NT!
+ drone_spirit_touch_perk_name:0 "Spirit Touch" #NT!
+ drone_spirit_sideways_perk_name:0 "Spirit Sideways" #NT!
+ drone_thick_skinned_perk_name:0 "Thick-Skinned" #NT!
+ drone_triatic_scent_perk_name:0 "Triatic Scent" #NT!
+ drone_triatic_sense_perk_name:0 "Triatic Sense" #NT!
+ drone_unnatural_strength_perk_name:0 "Unnatural Strength" #NT!
+ drone_voice_of_reason_perk_name:0 "Voice of Reason" #NT!
+ drone_wall_walking_perk_name:0 "Wall Walking" #NT!
+ drone_webbing_perk_name:0 "Webbing" #NT!
+
+ kami_animal_control_perk_name:0 "Animal Control" #NT!
+ kami_animate_self_perk_name:0 "Animate Self" #NT!
+ kami_armored_hide_perk_name:0 "Armored Hide" #NT!
+ kami_aura_of_tranquility_perk_name:0 "Aura of Tranquility" #NT!
+ kami_berseker_perk_name:0 "Berserker" #NT!
+ kami_blending_perk_name:0 "Blending" #NT!
+ kami_bulky_perk_name:0 "Bulky" #NT!
+ kami_command_the_earth_perk_name:0 "Command the Earth" #NT!
+ kami_curse_of_gaia_perk_name:0 "Curse of Gaia" #NT!
+ kami_darksight_perk_name:0 "Darksight" #NT!
+ kami_dispersion_perk_name:0 "Dispersion" #NT!
+ kami_ectoplasmic_extrusion_perk_name:0 "Ectoplasmic Extrusion" #NT!
+ kami_electrical_field_perk_name:0 "Electrical Field" #NT!
+ kami_elemental_resistance_perk_name:0 "Elemental Resistance" #NT!
+ kami_enchanting_voice_perk_name:0 "Enchanting Voice" #NT!
+ kami_enhanced_attribute_perk_name:0 "Enhanced Attribute" #NT!
+ kami_flight_perk_name:0 "Flight" #NT!
+ kami_foot_pads_perk_name:0 "Foot Pads" #NT!
+ kami_gaseous_form_perk_name:0 "Gaseous Form" #NT!
+ kami_hazardous_breath_perk_name:0 "Hazardous Breath" #NT!
+ kami_heart_sense_perk_name:0 "Heart Sense" #NT!
+ kami_homogeneity_perk_name:0 "Homogeneity" #NT!
+ kami_horror_perk_name:0 "Horror" #NT!
+ kami_immunity_to_the_delirium_perk_name:0 "Immunity to the Delirium" #NT!
+ kami_invisibility_perk_name:0 "Invisibility" #NT!
+ kami_invulnerability_perk_name:0 "Invulnerability" #NT!
+ kami_liquid_form_perk_name:0 "Liquid Form" #NT!
+ kami_longevity_perk_name:0 "Longevity" #NT!
+ kami_lord_of_the_land_perk_name:0 "Lord of the Land" #NT!
+ kami_mask_presence_perk_name:0 "Mask Presence" #NT!
+ kami_memory_caress_perk_name:0 "Memory Caress" #NT!
+ kami_natural_weaponry_perk_name:0 "Natural Weaponry" #NT!
+ kami_peaceful_fighting_perk_name:0 "Peaceful Fighting" #NT!
+ kami_piercing_gaze_perk_name:0 "Piercing Gaze" #NT!
+ kami_plant_animation_perk_name:0 "Plant Animation" #NT!
+ kami_plant_kinship_perk_name:0 "Plant Kinship" #NT!
+ kami_pliant_bones_perk_name:0 "Pliant Bones" #NT!
+ kami_poison_perk_name:0 "Poison" #NT!
+ kami_regeneration_perk_name:0 "Regeneration" #NT!
+ kami_seasons_blessings_perk_name:0 "Season's Blessings" #NT!
+ kami_self_immolation_perk_name:0 "Self-Immolation" #NT!
+ kami_sense_gaia_perk_name:0 "Sense Gaia" #NT!
+ kami_shadowplay_perk_name:0 "Shadowplay" #NT!
+ kami_silent_speech_perk_name:0 "Silent Speech" #NT!
+ kami_size_perk_name:0 "Size" #NT!
+ kami_skinchanger_kinship_perk_name:0 "Skinchanger Kinship" #NT!
+ kami_skinshift_perk_name:0 "Skinshift" #NT!
+ kami_spirit_awakening_perk_name:0 "Spirit Awakening" #NT!
+ kami_spirit_gift_perk_name:0 "Spirit Gift" #NT!
+ kami_spirit_kinship_perk_name:0 "Spirit Kinship" #NT!
+ kami_spirit_sense_perk_name:0 "Spirit Sense" #NT!
+ kami_spirit_ties_perk_name:0 "Spirit Ties" #NT!
+ kami_stasis_cocoon_perk_name:0 "Stasis Cocoon" #NT!
+ kami_spirit_sideways_perk_name:0 "Spirit Sideways" #NT!
+ kami_taint_suppression_perk_name:0 "Taint Suppression" #NT!
+ kami_thick_skinned_perk_name:0 "Thick-Skinned" #NT!
+ kami_transformation_perk_name:0 "Transformation" #NT!
+ kami_triatic_sense_perk_name:0 "Triatic Sense" #NT!
+ kami_universal_tongue_perk_name:0 "Universal Tongue" #NT!
+ kami_unnatural_strength_perk_name:0 "Unnatural Strength" #NT!
+ kami_wall_walking_perk_name:0 "Wall Walking" #NT!
+ kami_webbing_perk_name:0 "Webbing" #NT!
+
+ ANIMAL_CONTROL_PERK_EFFECT:0 "As a [character_interaction|E], allows you to directly gain a pet.\nCan recruit several kind of animals as [men_at_arms|E]." #NT!
+ AURA_OF_TRANQUILITY_PERK_EFFECT:0 "Give [GetModifier('aura_of_tranquility_perk_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E]." #NT!
+ BERSEKER_PERK_EFFECT:0 "Can now do the berserker attack in wars as a knight." #NT!
+ BESTIAL_MUTATION_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_bestial_mutation_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ BODY_EXPANSION_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_body_expansion_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ BRAIN_EATING_PERK_EFFECT:0 "As a [character_interaction|E], allows you to absorb a prisoner's intelligent trait to gain lifestyle xp." #NT!
+ CHAOS_ENGINE_PERK_EFFECT:0 "Give enemy commanders [GetModifier('chaos_engine_perk_modifier').GetNameWithTooltip] modifier when in war as a commander." #NT!
+ STASIS_ENGINE_PERK_EFFECT:0 "Give enemy commanders [GetModifier('stasis_engine_perk_modifier').GetNameWithTooltip] modifier when in war as a commander." #NT!
+ COMMAND_THE_EARTH_PERK_EFFECT:0 "As a [character_interaction|E], allows you to unleash hostile weather effects over enemy realms." #NT!
+ CURSE_OF_GAIA_PERK_EFFECT:0 "As a [character_interaction|E], allows you to give enemy [GetModifier( 'mild_curse_of_gaia_modifier' ).GetNameWithTooltip|L], [GetModifier( 'moderate_curse_of_gaia_modifier' ).GetNameWithTooltip|L], [GetModifier( 'severe_curse_of_gaia_modifier' ).GetNameWithTooltip|L] or  [GetModifier( 'very_severe_curse_of_gaia_modifier' ).GetNameWithTooltip|L]." #NT!
+ CYBERSENSES_PERK_EFFECT:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!" #NT!
+ DEVOUR_PERK_EFFECT:0 "Bonus to cause a brutal maul to enemy knights in war as a knight." #NT!
+ DISPERSION_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_swarm_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ ELECTRICAL_FIELD_PERK_EFFECT:0 "Bonus to a cause brutal maul to enemy knights in war as a knight." #NT!
+ ENCHANTING_VOICE_PERK_EFFECT:0 "Give enemy commanders [GetModifier('enchanting_voice_perk_modifier').GetNameWithTooltip] modifier when in war as a commander." #NT!
+ FUNGAL_TOUCH_PERK_EFFECT:0 "Give [GetModifier('fungal_touch_perk_modifier').GetNameWithTooltip] modifier to enemy knights in war as a commander or to foe in [single_combat_duel|E]." #NT!
+ GASEOUS_FORM_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_mist_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ HAZARDOUS_BREATH_PERK_EFFECT:0 "Bonus to cause a brutal maul to enemy knights in war as a knight." #NT!
+ IMMUNITY_TO_THE_DELIRIUM_PERK_EFFECT:0 "You won't gain [GetModifier('POD_delirium_modifier').GetNameWithTooltip] modifier when fighting with shapeshifters in war or [single_combat_duel|E] anymore." #NT!
+ INFECTIOUS_BITE_TOUCH_PERK_EFFECT:0 "As a [character_interaction|E], allows you to give diseases." #NT!
+ INVISIBILITY_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_incorporeal_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ INVULNERABILITY_PERK_EFFECT:0 "Allow you to spend willpower instead of taking wounds.\nAllows you to not die by wounds." #NT!
+ LIQUID_FORM_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_blood_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ MALLEATE_PERK_EFFECT:0 "Bonus chance to maim an enemy knight in a war as a knight." #NT!
+ MASK_PRESENCE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to stop all schemes targeting you." #NT!
+ MIND_BLAST_PERK_EFFECT:0 "You are able to [imprison|E] [characters|E] that would have been impossible to capture in [siege|E] otherwise.\nWay more likely to [imprison|E] [characters|E] after a successful [siege|E] or [raid|E]." #NT!
+ FOMORI_MIND_RAPE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to know every secret and scheme of the target." #NT!
+ NATURAL_WEAPONRY_PERK_EFFECT:0 "Unlock Natural Weaponry Shapeshift option." #NT!
+ NIGHTMARE_COMMAND_PERK_EFFECT:0 "Unlocks [GetScheme('PODsoul_bridge').GetTypeName] [scheme|E]." #NT!
+ PEACEFUL_FIGHTING_PERK_EFFECT:0 "More likely to [imprison|E] [characters|E] after a successful [siege|E] or [raid|E]." #NT!
+ PLANT_ANIMATION_PERK_EFFECT:0 "Can recruit [GetMaA('animated_tree').GetName] as [men_at_arms|E]" #NT!
+ PLANT_KINSHIP_PERK_EFFECT:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!" #NT!
+ POISON_PERK_EFFECT:0 "Bonus chance to cause severe injuries to enemy knights in war as a knight." #NT!
+ POISON_TUMORS_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_poison_tumors_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ REGENERATION_PERK_EFFECT:0 "Remove all wounds and maims every three months." #NT!
+ SANITY_RENDING_PERK_EFFECT:0 "As a [character_interaction|E], allows you give the target a stress trait." #NT!
+ SELF_IMMOLATION_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_fire_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ SHADOWPLAY_PERK_EFFECT:0 "Unlock [GetModifier( 'POD_shapeshift_form_shadow_modifier' ).GetNameWithTooltip|L] shapeshift option." #NT!
+ SIZE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to become [GetTrait('giant').GetName( GetPlayer )] or [GetTrait('dwarf').GetName( GetPlayer )]." #NT!
+ SKINSHIFT_PERK_EFFECT:0 "Bonus to Shapeshift [character_interaction|E] to change appearance." #NT!
+ SPIRIT_KINSHIP_PERK_EFFECT:0 "Can recruit [GetMaA('materialized_spirits').GetName] as [men_at_arms|E]" #NT!
+ SPIRIT_RENDING_PERK_EFFECT:0 "You can imprison, torture, execute or physically hurt a spirit in [single_combat_duel|E]." #NT!
+ SPIRIT_SENSE_PERK_EFFECT:0 "Unlock [marked_for_return_interaction|E].\nUnlock [send_to_shadowland_interaction|E]." #NT!
+ SPIRIT_STATIC_PERK_EFFECT:0 "Unlock Manipulate the Shroud option in the umbra panel." #NT!
+ STASIS_COCOON_PERK_EFFECT:0 "Unlock Enter Cocoon [decision|E], allowing to enter [GetTrait('torpor').GetName( GetNullCharacter )] which will depose the target." #NT!
+ SPIRIT_SIDEWAYS_PERK_EFFECT:0 "Gain access to the Spirit Wilds.\nUmbra Escaping Time: #P -5%#!\nUmbra Exploration Cost: [piety_i]#P -5%#!" #NT!
+ SUCCUBUS_VEIL_PERK_EFFECT:0 "Unlock [GetScheme('PODenthrall').GetTypeName] [scheme|E]." #NT!
+ TAR_BABY_PERK_EFFECT:0 "Bonus chance to maim an enemy knight in a war as a knight." #NT!
+ THICK_SKINNED_PERK_EFFECT:0 "Bonus chance to maim an enemy knight in a war as a knight." #NT!
+ TRANSFORMATION_PERK_EFFECT:0 "Allow shapeshift to several animal forms." #NT!

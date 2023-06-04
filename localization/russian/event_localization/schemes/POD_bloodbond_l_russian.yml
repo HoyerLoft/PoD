@@ -1,0 +1,43 @@
+﻿l_russian:
+
+ POD_bloodbond.100.t:0 "Bindings of blood" #NT!
+ POD_bloodbond.100.desc:0 "[schemer.GetTitledFirstName] is trying to bloodbond you." #NT!
+ POD_bloodbond.100.option.a:0 "Exert my willpower to resist the bloodbond." #NT!
+ POD_bloodbond.100.option.b:0 "Refuse the bloodbond." #NT!
+ POD_bloodbond.100.option.c:0 "Accept the bloodbond." #NT!
+
+ POD_bloodbond.200.t:0 "Bloodbonding [target.GetFirstNameNoTooltip]" #NT!
+ POD_bloodbond.200.desc:0 "The scheme is in place to bloodbond [target.GetTitledFirstName], but [target.GetSheHe] is resisting." #NT!
+ POD_bloodbond.200.option.a:0 "Rouse the blood to bloodbond [target.GetHerHim]." #NT!
+ POD_bloodbond.200.a.tt_willpower:0 "[target.GetFirstNameNoTooltip] has exerted their will to resist being bloodbound." #NT!
+ POD_bloodbond.200.a.tt_fortitude:0 "[target.GetFirstNameNoTooltip] is skilled at the [discipline|E] of fortitude and is resistant to your manipulation." #NT!
+ POD_bloodbond.200.a.success.desc:0 "Victory" #NT!
+ POD_bloodbond.200.a.tt_success:0 "[target.GetTitledFirstName] will be bloodbonded to me." #NT!
+ POD_bloodbond.200.a.failure.desc:0 "Defeat" #NT!
+ POD_bloodbond.200.a.tt_failure:0 "[target.GetTitledFirstName] resisted my attempt to bloodbond." #NT!
+ POD_bloodbond.200.option.b:0 "Rouse the blood and exert my will. I will not be denied!" #NT!
+ POD_bloodbond.200.option.b.tt.beast:0 "#R [target.GetSheHe|U] must love us!#!" #NT!
+ POD_bloodbond.200.option.c:0 "Abandon this endeavour, I no longer wish to bloodbind [target.GetHerHim]." #NT!
+ POD_bloodbond.200.option.c.tt:0 "The bloodbond will fail." #NT!
+ POD_bloodbond.200.option.c.tt.beast:0 "#R We should be taking blood, not giving it!#!" #NT!
+
+ POD_bloodbond.300.t:0 "[target.GetFirstNameNoTooltip] bloodbonded" #NT!
+ POD_bloodbond.300.desc:0 "[target.GetTitledFirstName] has been bloodbonded to me." #NT!
+ POD_bloodbond.300.option.a:0 "It is as it should be." #NT!
+ POD_bloodbond.300.option.a.tt.beast:0 "#R Now, what to do with them?#!" #NT!
+
+ POD_bloodbond.400.t:0 "You Have Been Bloodbonded" #NT!
+ POD_bloodbond.400.desc:0 "Having drunk the blood of [schemer.GetTitledFirstName], you are bound to [schemer.GetHerHim]." #NT!
+ POD_bloodbond.400.option.a:0 "I shall do [schemer.GetHerHis] will." #NT!
+
+ POD_bloodbond.500.t:0 "Resisted bloodbonding" #NT!
+ POD_bloodbond.500.desc:0 "[target.GetTitledFirstName] has resisted my attempt to bloodbind [target.GetHerHim]." #NT!
+ POD_bloodbond.500.option.a:0 "Thwarted!" #NT!
+ POD_bloodbond.500.option.a.tt.beast:0 "#R Let us get more blood and try again!#!" #NT!
+
+ POD_bloodbond.600.t:0 "Resisted bloodbonding" #NT!
+ POD_bloodbond.600.desc:0 "[schemer.GetTitledFirstName] has abandoned [schemer.GetTitledHerHis] scheme to bloodbind you." #NT!
+ POD_bloodbond.600.option.a:0 "I will not be [schemer.GetTitledHerHis] blood thrall!" #NT!
+
+
+

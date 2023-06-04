@@ -1,0 +1,81 @@
+﻿l_russian:
+ # Replace game_rules loca #NT!
+ setting_on_generate_families_desc:0 "#R Keep this rule on 'Off' or unintended things will happen.#! Most landed historical characters with no recorded family will have a spouse and up to three children generated for them. This reduces the risk of an early game over." #NT!
+ setting_off_generate_families_desc:0 "#R Keep this rule on 'Off' or unintended things will happen.#! Landed historical characters with no recorded family will NOT have a family generated for them. This increases the risk of an early game over." #NT!
+ setting_on_generate_families_ai_only_desc:0 "#R Keep this rule on 'Off' or unintended things will happen.#! Most landed historical AI characters with no recorded family will have a spouse and up to three children generated for them. This increases the risk of an early game over." #NT!
+ # Replace perks loca #NT!
+ planned_cultivation_perk_name:0 "Worldly" #NT!
+ DOMESTIC_AFFAIRS_EFFICIENCY_BONUS:0 "[domestic_affairs|E] Efficiency: #P +[EmptyScope.ScriptValue('chains_of_loyalty_percentage')|0]%#! \nUnlocks the [buy_artifact_claim_interaction|E]" #NT!
+ # Replace religion_core_tenets loca #NT!
+ doctrine_parameter_piety_from_feasts_active:1 "Hosting a [feast|E] or an Elysium earns [piety|E]" #NT!
+ # Replace holy order requirement loca #NT!
+ I_HAVE_TWO_CASTLE_COUNTY:2 "You have a [barony|E] that can be leased out as the Holy Order's Headquarters" #NT!
+ # Replace Gamerule loca #NT!
+ setting_on_empire_obscurity_requirement_desc:0 "[de_jure|E] [empires|E] will be destroyed unless the holder controls at least 10% of its De Jure [counties|E]." #NT!
+ # Replace Court Amenities loca #NT!
+ court_food_quality:0 "Training Grounds" #NT!
+ court_food_quality_default:1 "No Training Grounds" #NT!
+ court_food_quality_modest:0 "Small Training Grounds" #NT!
+ court_food_quality_decent:0 "Decent Training Grounds" #NT!
+ court_food_quality_lavish:0 "Spacious Training Grounds" #NT!
+ court_food_quality_exotic:0 "Grand Training Grounds" #NT!
+ court_food_quality_default_desc:0 "The guards of this court lodge with the servants, being sometimes difficult to distinguish from one another." #NT!
+ court_food_quality_modest_desc:0 "Proper quarters for the court's guards, not much to look at though." #NT!
+ court_food_quality_decent_desc:0 "Proper quarters, and some space for training for the court's guards." #NT!
+ court_food_quality_lavish_desc:0 "Proper quarters and solid training grounds. Many local champions come here to train." #NT!
+ court_food_quality_exotic_desc:0 "Renowned throughout the land, those military quarters are the dream of every aspiring champion." #NT!
+ # Age hack #NT!
+ CHARACTER_DEAD_TOOLTIP_DATE_INFO:0 "[Character.GetDeathDate.GetString|V] #weak at age#! #V [Character.MakeScope.ScriptValue('true_age')]#! (born [SelectLocalization( Or(LessThanOrEqualTo_int32( Character.GetDeathDate.GetYear, '(int32)150' ), GreaterThanOrEqualTo_int32( Character.GetAge, '(int32)999' )), 'TrueBirthDate', 'DefaultBirthDate')])" #NT!
+ TrueBirthDate:0 "[Character.GetBirthDate.GetStringShortNoYear|V], [Character.MakeScope.ScriptValue('true_birth_age')|V0]" #NT!
+ DefaultBirthDate:0 "[Character.GetBirthDate.GetString|V]" #NT!
+ SteleCommemoratesAncestors_Gluttonous:1 "$SteleCommemoratesAncestors_Intro$. Not once in [second.MakeScope.Var('stele_container').Char.MakeScope.ScriptValue('true_age')] did [second.MakeScope.Var('stele_container').Char.GetSheHe] skip a meal. $SteleCommemoratesCarver$." #NT!
+ CHARACTER_TT_NAME_AGE:0 "[Character.GetUINameNotMeNoTooltip]#medium , [Character.MakeScope.ScriptValue('true_age')|0]#!" #NT!
+ CHARACTER_TT_AGE:0 "[Character.MakeScope.ScriptValue('true_age')|0] years old" #NT!
+ LEGACY_NAME:1 "[LegacyItem.GetCharacter.GetShortUINameNotMeNoTooltip], [LegacyItem.GetCharacter.MakeScope.ScriptValue('true_age')]" #NT!
+ OUTLINER_PINNED_CHARACTER:0 "[Character.GetShortUINameNotMeNoTooltip]#medium , [Character.MakeScope.ScriptValue('true_age')]#!" #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_1:0 "[ROOT.Char.GetFullNameNoTooltip] has given up the ghost at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_2:0 "[ROOT.Char.GetFullNameNoTooltip] has abandoned [ROOT.Char.GetHerHis] mortal coil at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_3:0 "[ROOT.Char.GetFullNameNoTooltip] has passed on at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_4:0 "[ROOT.Char.GetFullNameNoTooltip] has left this world at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_DEFAULT_5:0 "[ROOT.Char.GetFullNameNoTooltip] has passed on at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age and [ROOT.Char.Custom('GetAfterLifeDestination')]." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_PIOUS:1 "[ROOT.Char.GetFullNamePossessiveNoTooltip] spirit has flown to [ROOT.Char.GetFaith.PositiveAfterLife] at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_WICKED:1 "[ROOT.Char.GetFullNamePossessiveNoTooltip] soul has finally been cast to [ROOT.Char.GetFaith.NegativeAfterLife] at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_WOUNDED:0 "[ROOT.Char.GetFullNameNoTooltip] has finally found peace at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_CHRISTIANITY_1:0 "[ROOT.Char.GetFullNameNoTooltip] has found peace in Christ's embrace at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_CHRISTIANITY_2:0 "[ROOT.Char.GetFullNameNoTooltip] rests in the arms of the Lord at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_ISLAM_1:0 "[ROOT.Char.GetFullNameNoTooltip] has left the transient house at the call of the True One at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_ISLAM_2:0 "[ROOT.Char.GetFullNameNoTooltip] has abandoned this transient world​ and flown to [ROOT.Char.GetFaith.PositiveAfterLife] at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_ISLAM_3:0 "[ROOT.Char.GetFullNameNoTooltip] has passed on to eternity at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_NORSE_1:0 "[ROOT.Char.GetFullNameNoTooltip] has joined the feast in [ROOT.Char.GetFaith.PositiveAfterLife] at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_HELLENIC_1:0 "[ROOT.Char.GetFullNameNoTooltip] has crossed the River Styx at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_EASTERN_1:0 "[ROOT.Char.GetFullNameNoTooltip] has transcended [ROOT.Char.GetHerHis] material form at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ SUCCESSION_EVENT_WINDOW_DEAD_INTRO_TRIBAL_1:0 "[ROOT.Char.GetFullNameNoTooltip] has crossed the door to the world of spirits at [ROOT.Char.MakeScope.ScriptValue('true_age')] years of age." #NT!
+ # Replace struggle loca #NT!
+ ENDING_DECISION_AREA_HEADER:1 "#high Ending the Struggle#!" #NT!
+ catalyst_usurp_title_desc:0 "Usurp a new [title|E] which is part of the [de_jure|E] of the struggle area" #NT!
+ # Replace trait unlock x desc #NT!
+ TRAIT_FLAG_DESC_can_dismiss_hooks_interaction:0 "" #NT!
+ TRAIT_FLAG_DESC_can_abandon_hooks_interaction:0 "" #NT!
+ TRAIT_FLAG_DESC_can_duel_criminals_interaction:0 "" #NT!
+ TRAIT_FLAG_DESC_can_duel_anyone_interaction:0 "" #NT!
+
+ TRAIT_FLAG_DESC_can_improve_hostile_schemes_decision:0 "" #NT!
+ TRAIT_FLAG_DESC_can_improve_capital_decision:0 "" #NT!
+ TRAIT_FLAG_DESC_can_accelerate_schemes_decision:0 "" #NT!
+ TRAIT_FLAG_DESC_can_fabricate_hooks_on_rivals:2 "" #NT!
+
+ DYNASTY_VIEW_LEGACY_EXPLANATION:2 "All members of the #high [Dynasty.GetBaseNameNoTooltip]#! Dynasty gain the benefits of these [dynasty_perks|E]. Acquiring new [dynasty_perks|E] becomes harder and harder as the cost increases by [dynasty_prestige_i]#V 1000#! each time" #NT!
+ culture_parameter_archer_era_improvement:1 "The [GetMaA('longbowmen').GetName] [men_at_arms|E] get increasingly better every [era|E] up to (and including) the Late Medieval era." #NT!
+
+ #Remove bookmark age #NT!
+
+ BOOKMARK_CHARACTER_AGE:0 "" #NT!
+ BOOKMARK_CHARACTER_INFO:2 "#high;bold [BookmarkCharacter.GetName]#!" #NT!
+ BOOKMARK_CHARACTER_AGE_DATA:0 "" #NT!
+
+ #Replace court tutor loca #NT!
+
+ court_tutor_employer_custom_effect_description:2 "Reduce the prestige cost of the Mentoring [character_interaction|E].\nImproves [education|E] outcomes\nUnlocks the #V $make_child_learn_language_interaction$#! [interaction|E]" #NT!
+ court_tutor_court_position_desc:1 "The $court_tutor_court_position$ is in charge of the [education|E] of all at court, and their skill will influence how much they influence the students." #NT!
+
+

@@ -1,0 +1,18 @@
+﻿l_russian:
+ bloodhunger0_modifier:0 "Кровавый Голод 0: Сытый" #NT!
+ bloodhunger1_modifier:0 "Кровавый Голод 1: Голодный" #NT!
+ bloodhunger2_modifier:0 "Кровавый Голод 2: Хищный" #NT!
+ bloodhunger3_modifier:0 "Кровавый Голод 3: Изголодавшийся" #NT!
+ bloodhunger4_modifier:0 "Кровавый Голод 4: Истощенный" #NT!
+ bloodhunger5_modifier:0 "Кровавый Голод 5: Неистовый Голод" #NT!
+
+ slightbloodloss_modifier:0 "Небольшая потеря крови" #NT!
+ slightbloodloss_modifier_desc:0 "Автоматическое кормление стада приостанавливается до тех пор, пока не прекратится кровопотеря." #NT!
+ smallbloodloss_modifier:0 "Маленькая Потеря Крови" #NT!
+ smallbloodloss_modifier_desc:0 "Автоматическое кормление стада приостанавливается до тех пор, пока не прекратится кровопотеря." #NT!
+ majorbloodloss_modifier:0 "Большая Потеря Крови" #NT!
+ majorbloodloss_modifier_desc:0 "Автоматическое кормление стада приостанавливается до тех пор, пока не прекратится кровопотеря." #NT!
+ catastrophicbloodloss_modifier:0 "Катастрофическая Потеря Крови" #NT!
+ catastrophicbloodloss_modifier_desc:0 "Автоматическое кормление стада приостанавливается до тех пор, пока не прекратится кровопотеря." #NT!
+
+

@@ -1,0 +1,10 @@
+﻿l_russian:
+ POD_wraith_maintenance.21.t:0 "Without Fetter" #NT!
+ POD_wraith_maintenance.21.desc:0 "You don't have any fetters that bind you to the skinlands, as such you are forcefully sent back to the [dark_kingdom|E]." #NT!
+ POD_wraith_maintenance.21.option.a:0 "No!" #NT!
+ POD_wraith_maintenance.21.option.b:0 "Did my Po just split?" #NT!
+
+ POD_wraith_maintenance.22.t:0 "Escape from Yomi" #NT!
+ POD_wraith_maintenance.22.desc:0 "You have been trapped in the Yomi for a long time, being tortured by Yama Kings all the while, but you think you found a way to escape and reunite with your Hun." #NT!
+ POD_wraith_maintenance.22.option.a:0 "I could go even further!" #NT!
+ POD_wraith_maintenance.22.option.b:0 "Just let me go back to the [underworld|E]." #NT!

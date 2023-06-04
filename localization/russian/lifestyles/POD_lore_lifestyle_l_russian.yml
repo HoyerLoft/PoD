@@ -1,0 +1,114 @@
+﻿l_russian:
+ game_concept_lore_lifestyle:0 "Lore" #NT!
+ game_concept_lore_lifestyle_desc:0 "Lores are the remnants of the divine abilities that demons possessed as Elohim." #NT!
+
+ lore_lifestyle_name:0 "Lore" #NT!
+ lore_lifestyle_desc:0 "Focus on the powers that come from the remnants of the divine abilities." #NT!
+ lore_lifestyle_highlight_desc:0 "Because you Resolve, you gain #P [GetPlayer.Custom('GetDemonicLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_lore_lifestyle_xp_gain_mult:0 "Monthly Lore [lifestyle|E] [experience|E]" #NT!
+
+ lore_common_focus:0 "Common Lore Focus" #NT!
+ lore_common_focus_modifier:1 "[GetFocus('lore_common_focus').GetName]" #NT!
+ lore_common_focus_desc:0 "Collected secrets of the universe, evocations that encompass the foundations of reality and govern the forces that keep it in motion." #NT!
+ lore_common_focus_effect_desc:0 "Focusing on Common Lore grants:" #NT!
+
+ lore_earthbound_focus:0 "Earthbound Lores Focus" #NT!
+ lore_earthbound_focus_modifier:1 "[GetFocus('lore_earthbound_focus').GetName]" #NT!
+ lore_earthbound_focus_desc:0 "Over millennia, the Earthbound have developed new bodies of Lores, blasphemous powers that allow them to control Creation in ways that God never intended. " #NT!
+ lore_earthbound_focus_effect_desc:0 "Focusing on Earthbound Lore grants:" #NT!
+
+ GAINS_LORE_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [lore_lifestyle|E] Experience" #NT!
+ GAINED_LORE_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [lore_lifestyle|E] Experience" #NT!
+ I_GAIN_LORE_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [lore_lifestyle|E] Experience" #NT!
+ I_GAINED_LORE_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [lore_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_LORE_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [lore_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_LORE_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [lore_lifestyle|E] Experience" #NT!
+
+ GAINS_A_LORE_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [lore_lifestyle|E] [perk|E] Unlock" #NT!
+ GAINED_A_LORE_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [lore_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAIN_A_LORE_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [lore_lifestyle|E] [perk|E] Unlock" #NT!
+ I_GAINED_A_LORE_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [lore_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINS_A_LORE_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [lore_lifestyle|E] [perk|E] Unlock" #NT!
+ TARGET_GAINED_A_LORE_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [lore_lifestyle|E] [perk|E] Unlock" #NT!
+
+ LORE_LIFESTYLE_PERK_POINTS_TRIGGER:0 "Lore lifestyle perk points: $NUM|V0$" #NT!
+
+ NOT_has_earthbound_trait:0 "@warning_icon!#X You do #bold not#! have the [trait|E]: [GetTrait('earthbound').GetName( GetPlayer )]#!" #NT!
+
+ LACKS_LOW_PIETY_LEVEL:1 "@warning_icon!#X Your [piety_level|E] is #bold not#! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L] or higher#!" #NT!
+ LACKS_MEDIUM_PIETY_LEVEL:1 "@warning_icon!#X Your [piety_level|E] is #bold not#! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L] or higher#!" #NT!
+ LACKS_HIGH_PIETY_LEVEL:1 "@warning_icon!#X Your [piety_level|E] is #bold not#! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L] or higher#!" #NT!
+ LACKS_VERY_HIGH_PIETY_LEVEL:1 "@warning_icon!#X Your [piety_level|E] is #bold not#! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L] or higher#!" #NT!
+ LACKS_MAX_PIETY_LEVEL:1 "@warning_icon!#X Your [piety_level|E] is #bold not#! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]#!" #NT!
+
+ full_fundament_tooltip:0 "You gain the full Lore of the Fundament tree." #NT!
+ full_humanity_tooltip:0 "You gain the full Lore of Humanity tree." #NT!
+ full_chaos_tooltip:0 "You gain the full Lore of Chaos tree." #NT!
+ full_contamination_tooltip:0 "You gain the full Lore of Contamination tree." #NT!
+ full_violation_tooltip:0 "You gain the full Lore of Violation tree." #NT!
+
+ fundament_visible:1 "Fundament" #NT!
+ humanity_visible:1 "Humanity" #NT!
+ chaos_visible:1 "Chaos" #NT!
+ contamination_visible:1 "Contamination" #NT!
+ violation_visible:1 "Violation" #NT!
+
+ manipulate_gravity_perk_name:0 "Manipulate Gravity" #NT!
+ manipulate_adhesion_perk_name:0 "Manipulate Adhesion" #NT!
+ manipulate_inertia_perk_name:0 "Manipulate Inertia" #NT!
+ manipulate_acceleration_perk_name:0 "Manipulate Acceleration" #NT!
+ manipulate_cohesion_perk_name:0 "Manipulate Cohesion" #NT!
+
+ MANIPULATE_GRAVITY_PERK_EFFECT:0 "Give enemy commanders [GetModifier('high_gravity_modifier').GetNameWithTooltip] and ally commanders [GetModifier('low_gravity_modifier').GetNameWithTooltip] modifier when in war as a commander.\n#F The Fallen may leap tremendous distances, hover, or fall without harm.#!" #NT!
+ MANIPULATE_ADHESION_PERK_EFFECT:0 "Give enemy commanders [GetModifier('low_adhesion_modifier').GetNameWithTooltip] and ally commanders [GetModifier('high_adhesion_modifier').GetNameWithTooltip] modifier when in war as a commander.\n#F The Fallen may walk up walls or along ceilings, or cling to objects.#! " #NT!
+ MANIPULATE_INERTIA_PERK_EFFECT:0 "Give [GetModifier('protection_from_projectile_modifier').GetNameWithTooltip] modifier to ally knights in war as a commander or to yourself in [single_combat_duel|E].\nBonus chance to maul or injury an enemy knight in war as a knight.\nUnlock [single_combat_duel|E] moves.\n#F The Fallen may throw objects over tremendous distances, or simply stop attacks dead.#!" #NT!
+ MANIPULATE_ACCELERATION_PERK_EFFECT:0 "Give [GetModifier('momentum_boost_modifier').GetNameWithTooltip] modifier to ally knights in war as a commander or to yourself in [single_combat_duel|E].\nBonus chance to maim or maul an enemy knight in war as a knight.\nUnlock [single_combat_duel|E] moves.\n#F The Fallen may move blindingly fast and pour their momentum into devastating close-combat attacks.#!" #NT!
+ MANIPULATE_COHESION_PERK_EFFECT:0 "Unlock $EXECUTION_EVAPORATION$ [executions|E] option.\nBonus chance to kill or maim an enemy knight in war as a knight.\nUnlock [single_combat_duel|E] moves.\n#F The Fallen may alter the density of matter, allowing them to walk on water or evaporate stone or even flesh.#!" #NT!
+
+ translate_perk_name:0 "Translate" #NT!
+ insinuate_perk_name:0 "Insinuate" #NT!
+ fade_perk_name:0 "Fade" #NT!
+ confession_perk_name:0 "Confession" #NT!
+ alter_memory_perk_name:0 "Alter Memory" #NT!
+
+ TRANSLATE_PERK_EFFECT:0 "#F This evocation establishes a linguistic connection between the demon and a human recipient.#!" #NT!
+ INSINUATE_PERK_EFFECT:0 "[white_peace|E] Acceptance: #P +10#!\n[alliance|E] Negotiation Acceptance: #P +25#!\n$PERK_CAN_SIGN_ALLIANCE$\nUnlocks the $purchase_truce_interaction$ [interaction|E].\n#F This evocation allows the demon to subtly and quickly break down a human's personal boundaries.#!" #NT!
+ FADE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to break an alliance between two targets.\nAs a [character_interaction|E], allows you cancel a truce against a target.\nAs a [character_interaction|E], allows you end all scheme against a target.\n#F This evocation allows the demon to trick the minds of a large number of people to become supernaturally obscured or forgettable.#!" #NT!
+ CONFESSION_PERK_EFFECT:0 "[espionage|E] Progress Speed: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!\n#F The Fallen may make mortals reveal their innermost secrets and the mortals won't even remember spilling their hearts to the demon.#!" #NT!
+ ALTER_MEMORY_PERK_EFFECT:0 "As two [character_interaction|E], allows you to remove a claim that the target has to your title or artifact.\nUnlocks the [buy_artifact_claim_interaction|E].\n[buy_claim_interaction|E] and [buy_artifact_claim_interaction|E] Cost: #P -50%#!\n#F The Fallen may alter a mortal's memories in any fashion desired.#!" #NT!
+
+ reality_tremors_perk_name:0 "Reality Tremors" #NT!
+ sphere_of_chaos_perk_name:0 "Sphere of Chaos" #NT!
+ wave_of_mutilation_perk_name:0 "Wave of Mutilation" #NT!
+ summon_outsider_perk_name:0 "Summon Outsider" #NT!
+ hell_on_earth_perk_name:0 "Hell on Earth" #NT!
+
+ REALITY_TREMORS_PERK_EFFECT:0 "Allow release [GetModifier('reality_tremors_modifier').GetNameWithTooltip] on target realm.\n#F The Earthbound creates a disturbing but largely cosmetic effect in an area.#!" #NT!
+ SPHERE_OF_CHAOS_PERK_EFFECT:0 "Allow release [GetModifier('sphere_of_chaos_modifier').GetNameWithTooltip] on target realm.\n#F The Earthbound temporarily suspends the laws of cause and effect in an area.#!" #NT!
+ WAVE_OF_MUTILATION_PERK_EFFECT:0 "Allow release [GetModifier('wave_of_mutilation_modifier').GetNameWithTooltip] on target realm.\n#F The Earthbound infuses all living flesh in the vicinity with chaotic energies, firing neurons at random and triggering random emotions through unbalanced brain chemistry.#!" #NT!
+ SUMMON_OUTSIDER_PERK_EFFECT:0 "Allow destroy the barony of target county.\nCan recruit [GetMaA('the_unnamable').GetName] as [men_at_arms|E].\n#F The Earthbound summons something from outside Creation.#!" #NT!
+ HELL_ON_EARTH_PERK_EFFECT:0 "Allow release [GetModifier('hell_on_earth_modifier').GetNameWithTooltip] on target realm.\n#F This evocation summons a miniature apocalypse.#!" #NT!
+
+ create_proxy_perk_name:0 "Create Proxy" #NT!
+ lash_of_corruption_perk_name:0 "Lash of Corruption" #NT!
+ taint_the_land_perk_name:0 "Taint the Land" #NT!
+ corrupt_relic_perk_name:0 "Corrupt Relic" #NT!
+ unspeakable_servitor_perk_name:0 "Unspeakable Servitor" #NT!
+
+ CREATE_PROXY_PERK_EFFECT:0 "As a [character_interaction|E], allows you to give the target a wound with its severity depending on the rarity of the claimed recipient's artifact.\n#F The Earthbound turns an object into a node that they can then use their perception and powers through.#!" #NT!
+ LASH_OF_CORRUPTION_PERK_EFFECT:0 "Bonus chance to kill an enemy knight in war as a knight.\n#F The Earthbound instills their energies into a creature, harming and possibly killing it.#!" #NT!
+ TAINT_THE_LAND_PERK_EFFECT:0 "Give target county [GetModifier('earthbound_negative_modifier').GetNameWithTooltip] if its holder is at war with you when you move your army on it as a commander.\n#F The Earthbound instills their essence into an area, making it come to life and attack intruders.#!" #NT!
+ CORRUPT_RELIC_PERK_EFFECT:0 "As a [character_interaction|E], allow you to create a custom artifact.\n#F This evocation allows the Earthbound to create magical artifacts.#!" #NT!
+ UNSPEAKABLE_SERVITOR_PERK_EFFECT:0 "As a [character_interaction|E], allows you to create a [GetTrait('statue').GetName( GetPlayer )] of yourself to fight in wars, and allow you become a commander even bound to the earth.\n#F The Earthbound has their minions create a statue that they can use as a temporary host body instead of a living body.#!" #NT!
+
+ nightmare_sending_perk_name:0 "Nightmare Sending" #NT!
+ mind_rape_perk_name:0 "Mind Rape" #NT!
+ visions_of_terror_perk_name:0 "Visions of Terror" #NT!
+ enslave_perk_name:0 "Enslave" #NT!
+ devour_the_soul_perk_name:0 "Devour the Soul" #NT!
+
+ NIGHTMARE_SENDING_PERK_EFFECT:0 "#F This evocation allows the Earthbound to send messages into the dreams of sleeping mortals.#!" #NT!
+ MIND_RAPE_PERK_EFFECT:0 "As a [character_interaction|E], allows you to know every secret and scheme of the target.\n#F This evocation allows the Earthbound to probe the mind of a mortal that they can see, scanning their thoughts and memories for information.#!" #NT!
+ VISIONS_OF_TERROR_PERK_EFFECT:0 "#F This evocation projects terrifying visions into the mind of one or more mortals.#!" #NT!
+ ENSLAVE_PERK_EFFECT:0 "As a [character_interaction|E], allows you gain hook from target.\n#F With this evocation, an Earthbound can completely control the mind and body of a mortal, making them do and say whatever the Earthbound wishes.#!" #NT!
+ DEVOUR_THE_SOUL_PERK_EFFECT:0 "Bonus to $EXECUTION_DEVOUR_SOUL$ [executions|E] option, allows you to devour the target's mind to increase your education or an attribute.\n#F With this evocation, an Earthbound can tear the soul from a living mortal and devour it, draining it of energy, memories and even precious Faith.#!" #NT!

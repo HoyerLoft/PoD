@@ -1,0 +1,1314 @@
+﻿l_russian:
+ # Umbra gui #NT!
+ tab_spirit_travel:0 "#T Umbra#!" #NT!
+ UMBRA_HEAD:0 "$line_break$$line_break$#S Effect:#!$line_break$$BULLET_WITH_TAB$" #NT!
+ UMBRA_BREAK:0 "$line_break$$BULLET_WITH_TAB$" #NT!
+ UMBRA_SPACE:0 " " #NT!
+ location:0 "Location" #NT!
+ action:0 "Action" #NT!
+
+ umbra_explorer_window:0 "Umbra Explorer" #NT!
+ local_umbra_explorer:0 "Local Explorer" #NT!
+ UMBRA_EXPLORER_WINDOW_CURRENTLY_APPOINTED:0 "Currently Appointed Explorer" #NT!
+ UMBRA_EXPLORAITON_PROGRESS:0 "Progress: [GetPlayer.MakeScope.ScriptValue('local_umbra_progress')|0]/[GetPlayer.MakeScope.ScriptValue('umbra_location_size')|0] towards the next level" #NT!
+ UMBRA_APTITUDE:0 "Monthly Progress Gain: [Character.MakeScope.ScriptValue('umbra_aptitude')|0]" #NT!
+ CURRENT_EXPLORATION_PLACE:0 "Currently Exploring: " #NT!
+ GAINS_UMBRA_PROGRESS:1 "Gains Progress $VALUE|+0$" #NT!
+ GAINED_UMBRA_PROGRESS:1 "Gained Progress $VALUE|+0$" #NT!
+ I_GAIN_UMBRA_PROGRESS:1 "You gain Progress $VALUE|+0$" #NT!
+ I_GAINED_UMBRA_PROGRESS:1 "You gained Progress $VALUE|+0$" #NT!
+ umbra_level_5_reached_tt:0 "Target umbra region is now $umbra_level_5$" #NT!
+ umbra_level_4_reached_tt:0 "Target umbra region is now $umbra_level_4$" #NT!
+ umbra_level_3_reached_tt:0 "Target umbra region is now $umbra_level_3$" #NT!
+ umbra_level_2_reached_tt:0 "Target umbra region is now $umbra_level_2$" #NT!
+ umbra_level_1_reached_tt:0 "Target umbra region is now $umbra_level_1$" #NT!
+ umbra_level_5:0 "Understand" #NT!
+ umbra_level_4:0 "Learned" #NT!
+ umbra_level_3:0 "Studied" #NT!
+ umbra_level_2:0 "Investigated" #NT!
+ umbra_level_1:0 "Searched" #NT!
+ umbra_level_0:0 "Unlocked" #NT!
+
+ current_umbra_grace:0 "[grace_i] [GetPlayer.MakeScope.GetVariable('current_grace').GetValue|0V]" #NT!
+ HAVE_AT_LEAST_COUNT_GRACE:2 "You have at least [grace_i] $VALUE|0V$" #NT!
+ NOT_HAVE_AT_LEAST_COUNT_GRACE:2 "You do #bold not#! have at least [grace_i] $VALUE|0V$" #NT!
+ GAINS_GRACE:1 "Gains [grace_i] $VALUE|+0$" #NT!
+ GAINED_GRACE:1 "Gained [grace_i] $VALUE|+0$" #NT!
+ I_GAIN_GRACE:1 "You gain [grace_i] $VALUE|+0$" #NT!
+ I_GAINED_GRACE:1 "You gained [grace_i] $VALUE|+0$" #NT!
+ LOSES_GRACE:1 "Spends [grace_i] $VALUE|-0$" #NT!
+ LOST_GRACE:1 "Spent [grace_i] $VALUE|-0$" #NT!
+ I_LOSE_GRACE:1 "You spend [grace_i] $VALUE|-0$" #NT!
+ I_LOST_GRACE:1 "You spent [grace_i] $VALUE|-0$" #NT!
+ umbra_offer:0 "Offer" #NT!
+ umbra_offer_piety:0 "Piety" #NT!
+ umbra_offer_prestige:0 "Prestige" #NT!
+ umbra_request:0 "Request" #NT!
+ umbra_request_perk:0 "Perk" #NT!
+ umbra_request_army:0 "Army" #NT!
+ umbra_request_opinion:0 "Opinion" #NT!
+
+ # Umbra Action #NT!
+ umbra_exploration_valid_tooltip:0 "You already explored this place in this month." #NT!
+ HAVE_AT_LEAST_COUNT_UMBRA_LEVEL:2 "You have at least Level $VALUE|0V$ knowledge of this Umbra Region" #NT!
+ NOT_HAVE_AT_LEAST_COUNT_UMBRA_LEVEL:2 "You do #bold not#! have at least Level $VALUE|0V$ knowledge of this Umbra Region" #NT!
+ QUICK_RETURN:0 "Flee the Umbra" #NT!
+ QUICK_RETURN_TOOLTIP:0 "Spend [GetPlayer.MakeScope.ScriptValue('umbra_escaping_time')|V0] days to return to the material realm." #NT!
+ UMBRA_ASK_REWEAVE:0 "Ask to Reweave Artifact" #NT!
+ UMBRA_RECRUIT_LESSER_BYGONE:0 "Recruit Lesser Bygone" #NT!
+ POD_has_lesser_bygone_tooltip:0 "You already have a lesser bygone." #NT!
+ UMBRA_RECRUIT_GREATER_BYGONE:0 "Recruit Greater Bygone" #NT!
+ POD_has_greater_bygone_tooltip:0 "You already have a greater bygone." #NT!
+ UMBRA_RECRUIT_POTENT_BYGONE:0 "Recruit Potent Bygone" #NT!
+ POD_has_potent_bygone_tooltip:0 "You already have a potent bygone." #NT!
+ umbra_recruit_bygone_desc:0 "You were trekking in the umbra for some time until you ran across some mythical beasts, the bygones of legends. Long forgotten by mortals' minds, these legends are still at home in the deepest reaches of the Umbra; surviving on the dreams and nightmares of mortals. Recruit them for surely they could be useful." #NT!
+ UMBRA_DIPLOMACY_LIFESTYLE_TRAIN:0 "Diplomacy Lifestyle Training" #NT!
+ UMBRA_MARTIAL_LIFESTYLE_TRAIN:0 "Martial Lifestyle Training" #NT!
+ UMBRA_STEWARDSHIP_LIFESTYLE_TRAIN:0 "Stewardship Lifestyle Training" #NT!
+ UMBRA_INTRIGUE_LIFESTYLE_TRAIN:0 "Intrigue Lifestyle Training" #NT!
+ UMBRA_LEARNING_LIFESTYLE_TRAIN:0 "Learning Lifestyle Training" #NT!
+ UMBRA_BOW_TO_WYRM:0 "Bow to the Grand Serpent!" #NT!
+ umbra_bow_to_wyrm_desc:0 "You see no chance of escape, perhaps you should listen to the alluring voice..." #NT!
+ UMBRA_COLLECT_ARTIFACT_PIECES:0 "Adventure into Maelstroms" #NT!
+ umbra_collect_artifact_pieces_desc:0 "Maelstroms erupt from the Labyrinth and can touch anywhere the Tempest touches - from the Shadowlands to the [dark_kingdom|E]. Maelstroms are composed of the stuff of the [underworld|E] - relics, Specters and Tempest-matter itself, ranging from rains of plasma to storms of soulfire. The Tempest is a font of memory, and a lucky scavenger can sometimes find a useful item hidden among the dross." #NT!
+ UMBRA_GAIN_COMMANDER_TRAIT:0 "Learn Strategies" #NT!
+ umbra_gain_commander_trait_sucess:0 "You are able to choose a new commander trait." #NT!
+ UMBRA_SEARCH_INVENTION:0 "Search Inventions" #NT!
+ umbra_search_invention_desc:0 "Found a mysterious device in the massive piles filling the realm." #NT!
+ UMBRA_SEARCH_INNOVATION:0 "Search Innovation" #NT!
+ umbra_search_innovation_desc:0 "Do you want to search in the massive piles filling the Inventium to find something useful?" #NT!
+ UMBRA_CALIBURN:0 "Take the Sword" #NT!
+ umbra_caliburn_desc:0 "A sword stuck in a stone appears before you, could it be..." #NT!
+ UMBRA_INCARNA_FETISH:0 "Request Incarna Fetish" #NT!
+ UMBRA_BANE_POSSESION:0 "Call Bane" #NT!
+ umbra_bane_possesion_desc:0 "Call a bane spirit to possess you." #NT!
+ UMBRA_WYLD_POSSESION:0 "Call Wyld-spirit" #NT!
+ umbra_wyld_possesion_desc:0 "Call a Wyld-spirit spirit to possess you." #NT!
+ UMBRA_WEAVER_POSSESION:0 "Call Weaver-spirit" #NT!
+ umbra_weaver_possesion_desc:0 "Call a Weaver-spirit to possess you." #NT!
+ UMBRA_GAIA_POSSESION:0 "Call Gaian spirit" #NT!
+ umbra_gaia_possesion_desc:0 "Call a Gaian spirit to possess you." #NT!
+
+ # Umbra Place #NT!
+ glen_title:0 "Glen" #NT!
+ glen_desc:0 "A Glen is an area of the [penumbra|E] saturated with the energies of the Wyld. Glens are usually tied to areas of unspoiled wilderness in the material world (making them increasingly rare and inaccessible)." #NT!
+ glen_confirm:0 "Rest in a Glen" #NT!
+
+ veinous_stair_title:0 "Veinous Stair" #NT!
+ veinous_stair_desc:0 "The Veinous Stair is a passage from Stygia directly into the Labyrinth. The most stable place in the Shadowlands, the Stair is composed of black stone of an unknown type." #NT!
+ veinous_stair_confirm:0 "Sneak into the Veinous Stair" #NT!
+
+ # Umbra Acess #NT!
+ ASTRAL_REACHES_TOOLTIP:0 "You do not have access to the [astral_reaches|E]:\n@warning_icon!#X $TRIGGER_OR$#!\n$has_kueijin_trait_tooltip$\n$has_see_the_lands_of_the_spirit_perk_tooltip$\n$has_separate_ba_perk_tooltip$\n$has_journey_to_the_spirit_realm_perk_tooltip$\n$has_psychic_projection_perk_tooltip$\n$has_psychic_astral_projection_perk_tooltip$\n$has_astral_projection_perk_tooltip$" #NT!
+ SPIRIT_WILD_TOOLTIP:0 "You do not have access to the Spirit Wild:\n@warning_icon!#X $TRIGGER_OR$#!\n$has_werewolf_trait_tooltip$\n$has_ajaba_trait_tooltip$\n$has_bastet_trait_tooltip$\n$has_kueijin_trait_tooltip$\n$has_see_the_lands_of_the_spirit_perk_tooltip$\n$has_separate_ba_perk_tooltip$\n$has_ephemera_perk_tooltip$\n$has_spirit_sideways_perk_tooltip$\n$has_the_spirit_beast_perk_tooltip$\n$has_part_the_curtain_perk_tooltip$\n$has_walking_between_worlds_perk_tooltip$\n$has_journey_to_the_spirit_realm_perk_tooltip$" #NT!
+ UNDERWORLD_TOOLTIP:0 "You do not have access to the [underworld|E]:\n@warning_icon!#X $TRIGGER_OR$#!\n$has_wraith_trait_tooltip$\n$has_kueijin_trait_tooltip$\n$has_ex_nihilo_perk_tooltip$\n$has_separate_ka_perk_tooltip$\n$has_lesser_spirit_projection_perk_tooltip$\n$has_walk_with_hades_perk_tooltip$\n$has_step_into_the_shadowlands_perk_tooltip$" #NT!
+ DREAMING_TOOLTIP:0 "You do not have access to the [dreaming|E]:\n@warning_icon!#X $TRIGGER_OR$#!\n$has_fae_trait_tooltip$\n$has_kueijin_trait_tooltip$\n$has_see_the_lands_of_the_spirit_perk_tooltip$\n$has_oneiromancy_perk_tooltip$\n$has_sandman_perk_tooltip$" #NT!
+ SKINLANDS_TOOLTIP:0 "You do not have access to the Skinlands:\n@warning_icon!#X $TRIGGER_OR$#!\n$NOT_has_wraith_trait_tooltip$\n$has_risen_trait_tooltip$\n$has_lament_trait_tooltip$\n$has_shroudshield_perk_tooltip$" #NT!
+
+ has_kueijin_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('kueijin').GetName( GetPlayer )]#!" #NT!
+ has_werewolf_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('werewolf').GetName( GetPlayer )]#!" #NT!
+ has_ajaba_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('ajaba').GetName( GetPlayer )]#!" #NT!
+ has_bastet_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('bastet').GetName( GetPlayer )] and have location in [GetPlayer.Custom( 'custom_realm_custom_name' )]#!" #NT!
+ has_fae_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('fae').GetName( GetPlayer )]#!" #NT!
+ has_wraith_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('wraith').GetName( GetPlayer )]#!" #NT!
+ NOT_has_wraith_trait_tooltip:"$TAB$@warning_icon!#X You do have [trait|E]: [GetTrait('wraith').GetName( GetPlayer )]#!" #NT!
+ has_risen_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('risen').GetName( GetPlayer )]#!" #NT!
+ has_lament_trait_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [trait|E]: [GetTrait('lament').GetName( GetPlayer )]#!" #NT!
+
+ has_see_the_lands_of_the_spirit_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('see_the_lands_of_the_spirit_perk').GetName( GetPlayer )]#!" #NT!
+ has_separate_ba_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('separate_ba_perk').GetName( GetPlayer )]#!" #NT!
+ has_journey_to_the_spirit_realm_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('journey_to_the_spirit_realm_perk').GetName( GetPlayer )]#!" #NT!
+
+ has_psychic_projection_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('psychic_projection_perk').GetName( GetPlayer )]#!" #NT!
+ has_psychic_astral_projection_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('psychic_astral_projection_perk').GetName( GetPlayer )]#!" #NT!
+ has_astral_projection_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('astral_projection_perk').GetName( GetPlayer )]#!" #NT!
+
+ has_ephemera_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('ephemera_perk').GetName( GetPlayer )]#!" #NT!
+ has_spirit_sideways_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('fomori_spirit_sideways_perk').GetName( GetPlayer )]#!" #NT!
+ has_the_spirit_beast_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('the_spirit_beast_perk').GetName( GetPlayer )]#!" #NT!
+ has_part_the_curtain_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('part_the_curtain_perk').GetName( GetPlayer )]#!" #NT!
+ has_walking_between_worlds_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('walking_between_worlds_perk').GetName( GetPlayer )]#!" #NT!
+
+ has_oneiromancy_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('oneiromancy_perk').GetName( GetPlayer )]#!" #NT!
+ has_sandman_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('sandman_perk').GetName( GetPlayer )]#!" #NT!
+
+ has_ex_nihilo_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('ex_nihilo_perk').GetName( GetPlayer )]#!" #NT!
+ has_separate_ka_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('separate_ka_perk').GetName( GetPlayer )]#!" #NT!
+ has_lesser_spirit_projection_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('lesser_spirit_projection_perk').GetName( GetPlayer )]#!" #NT!
+ has_walk_with_hades_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('walk_with_hades_perk').GetName( GetPlayer )]#!" #NT!
+ has_step_into_the_shadowlands_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('step_into_the_shadowlands_perk').GetName( GetPlayer )]#!" #NT!
+
+ has_shroudshield_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('shroudshield_perk').GetName( GetPlayer )]#!" #NT!
+
+ # Gauntlet Change #NT!
+ MANIPULATE_THE_SHROUD:0 "Manipulate the Shroud" #NT!
+ MANIPULATE_THE_SHROUD_TOOLTIP:0 "[GetPlayer.Custom( 'ManipulateShroud' )]" #NT!
+ manipulate_the_shroud_valid:0 "You will manipulate the Shroud rating of your current location ([GetPlayer.GetCurrentLocation.GetTitle.GetNameNoTier])" #NT!
+ manipulate_the_shroud_invalid:0 "@warning_icon!#X $TRIGGER_OR$#!\n$has_dark_wall_of_hatshepsut_perk_tooltip$\n$has_shroud_mastery_perk_tooltip$\n$has_anger_enough_for_two_worlds_perk_tooltip$\n$has_prelude_to_apocalypse_perk_tooltip$\n$has_drone_spirit_static_perk_tooltip$" #NT!
+ has_dark_wall_of_hatshepsut_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('dark_wall_of_hatshepsut_perk').GetName( GetPlayer )]#!" #NT!
+ has_shroud_mastery_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('shroud_mastery_perk').GetName( GetPlayer )]#!" #NT!
+ has_anger_enough_for_two_worlds_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('anger_enough_for_two_worlds_perk').GetName( GetPlayer )]#!" #NT!
+ has_prelude_to_apocalypse_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('prelude_to_apocalypse_perk').GetName( GetPlayer )]#!" #NT!
+ has_drone_spirit_static_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('drone_spirit_static_perk').GetName( GetPlayer )]#!" #NT!
+ MANIPULATE_THE_WALL:0 "Manipulate the Wall" #NT!
+ MANIPULATE_THE_WALL_TOOLTIP:0 "[GetPlayer.Custom( 'ManipulateWall' )]" #NT!
+ manipulate_the_wall_valid:0 "You will manipulate the Wall rating of your current location ([GetPlayer.GetCurrentLocation.GetTitle.GetNameNoTier])" #NT!
+ manipulate_the_wall_invalid:0 "@warning_icon!#X $TRIGGER_OR$#!\n$has_chi_ward_perk_tooltip$\n$has_brambles_on_the_road_perk_tooltip$\n$has_the_clearing_of_the_way_perk_tooltip$" #NT!
+ has_chi_ward_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('chi_ward_perk').GetName( GetPlayer )]#!" #NT!
+ has_brambles_on_the_road_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('brambles_on_the_road_perk').GetName( GetPlayer )]#!" #NT!
+ has_the_clearing_of_the_way_perk_tooltip:"$TAB$@warning_icon!#X You do #bold not#! have [perk|E]: [GetPerk('the_clearing_of_the_way_perk').GetName( GetPlayer )]#!" #NT!
+ DISCERN_THE_GAUNTLET:0 "Discern the Gauntlet" #NT!
+ DISCERN_THE_GAUNTLET_TOOLTIP:0 "You will discern the Gauntlet rating of your current location ([GetPlayer.GetCurrentLocation.GetTitle.GetNameNoTier])" #NT!
+
+ # Umbra tooltip #NT!
+ paying_for_spirit_travel_toast:0 "You paid gold to purchase a [true_jade|E]" #NT!
+ paying_for_spirit_travel_notification_yin:0 "Without [GetPerk('semblance_of_the_ebon_dragon_perk').GetName( GetPlayer )] [perk|E], you must use a [true_jade|E] to perform a ritual to enter the [yin_world|E]" #NT!
+ paying_for_spirit_travel_notification_yang:0 "Without [GetPerk('semblance_of_the_scalet_queen_perk').GetName( GetPlayer )] [perk|E], you must use a [true_jade|E] to perform a ritual to enter the Yang World" #NT!
+ stepping_sideways_toast:0 "Stepping Sideways" #NT!
+ stepping_sideways_tooltip:0 "You spend Gnosis to enter the Umbra" #NT!
+ passing_gauntlet_toast:0 "Passing the Gauntlet" #NT!
+ passing_gauntlet_tooltip:0 "You spend resource to pass the Gauntlet" #NT!
+
+ SPIRIT_TRAVELING_TOOLTIP:0 "Escaping..." #NT!
+ SPIRIT_EXPLORING_TOOLTIP:0 "Exploring..." #NT!
+ spirit_travel_arrived_title:0 "Umbra Reached" #NT!
+ spirit_travel_arrived_desc:0 "You have reached the umbra." #NT!
+
+ shadow_realm_to_skinlands_option_tooltip:0 "This option is available because I have the [GetPerk('empower_ba_perk').GetName( GetPlayer )] [perk|E]." #NT!
+ shadowlands_fetter_maintenance_tooltip:0 "You pay the cost of staying in the shadowlands without [Fetters|E]." #NT!
+
+ TIME_IN_ASTRAL_REACHES_TRIGGER:0 "Years spent in #color_yellow High Umbra#!: $VALUE|0V$" #NT!
+ TIME_IN_SPIRIT_WILDS_TRIGGER:0 "Years of [GetCourtPositionType('umbra_ambassador_court_position').GetName()] spent in #P Middle Umbra#!: $VALUE|0V$" #NT!
+ TIME_IN_UNDERWORLD_TRIGGER:0 "Years of [GetCourtPositionType('underworld_ambassador_court_position').GetName()] spent in #N Lower Umbra#!: $VALUE|0V$" #NT!
+ TIME_IN_DREAMING_TRIGGER:0 "Years of [GetCourtPositionType('trod_wayfarer_court_position').GetName()] spent in #V [dreaming|E]#!: $VALUE|0V$" #NT!
+
+ has_gauntlet1_modifier_tooltip:"County do have the Modifier: [GetModifier( 'gauntlet1_modifier' ).GetNameWithTooltip|L]" #NT!
+ has_gauntlet2_modifier_tooltip:"County do have the Modifier: [GetModifier( 'gauntlet2_modifier' ).GetNameWithTooltip|L]" #NT!
+ has_gauntlet3_modifier_tooltip:"County do have the Modifier: [GetModifier( 'gauntlet3_modifier' ).GetNameWithTooltip|L]" #NT!
+ has_gauntlet4_modifier_tooltip:"County do have the Modifier: [GetModifier( 'gauntlet4_modifier' ).GetNameWithTooltip|L]" #NT!
+ has_gauntlet5_modifier_tooltip:"County do have the Modifier: [GetModifier( 'gauntlet5_modifier' ).GetNameWithTooltip|L]" #NT!
+
+ is_in_umbra_tooltip:0 "You are in Umbra." #NT!
+ is_in_dreaming_tooltip:0 "You are in [dreaming|E]." #NT!
+
+ # Umbra panel #NT!
+ skinlands_title:0 "Skinlands" #NT!
+ skinlands_desc:0 "Wraiths refer to the world of the living as the Skinlands; this contrasts with the Shadowlands, the lands of the dead and the wraiths' home.\nThis is basically your starting point, from here you have a variety of options below depending on your powers from where to go from here.\nTake notice that traveling from one plane to another will take time.\nBe careful, you might get some boons during your travels, but you might also get lost." #NT!
+ skinlands_confirm:0 "Return to the Material World" #NT!
+ skinlands_0_tt:0 "Unbound [GetTrait('wraith').GetName( GetPlayer )] that are not [GetTrait('risen').GetName( GetPlayer )] gains medium [stress|E] every years to maintain in Skinlands." #NT!
+ skinlands_1_tt:0 "" #NT!
+ skinlands_2_tt:0 "" #NT!
+ skinlands_3_tt:0 "" #NT!
+ skinlands_4_tt:0 "" #NT!
+ skinlands_5_tt:0 "" #NT!
+
+ custom_realm_title:0 "[GetPlayer.Custom( 'custom_realm_custom_name' )]" #NT!
+ custom_realm_desc:0 "[GetPlayer.Custom( 'custom_realm_custom_desc' )]" #NT!
+ custom_realm_confirm:0 "Step to your [GetPlayer.Custom( 'custom_realm_custom_name' )]" #NT!
+ custom_name_den_realm:0 "Den-Realm" #NT!
+ custom_desc_den_realm:0 "A Den-Realm is a patch from the Umbra that is tied to a Shapeshifter and serves as her personal retreat. Most Den-Realms are tied to areas in the physical reality and provide a tunnel into the Near Umbra, so that stepping sideways or using similar ways to get into the Umbra are easier. Den-Realms are well protected and it's difficult to breach their defenses." #NT!
+ custom_name_ananata:0 "Ananata" #NT!
+ custom_name_sylie:0 "Sylie" #NT!
+ custom_realm_0_tt:0 "As an action option, allow you to gain a random lifestyle training." #NT!
+ custom_realm_1_tt:0 "Higher reward/requirement for random lifestyle training unlocked. (+1)" #NT!
+ custom_realm_2_tt:0 "Higher reward/requirement for random lifestyle training unlocked. (+2)" #NT!
+ custom_realm_3_tt:0 "Higher reward/requirement for random lifestyle training unlocked. (+3)" #NT!
+ custom_realm_4_tt:0 "Higher reward/requirement for random lifestyle training unlocked. (+4)" #NT!
+ custom_realm_5_tt:0 "Higher reward/requirement for random lifestyle training unlocked. (+5)" #NT!
+
+ periphery_title:0 "Periphery" #NT!
+ periphery_desc:0 "The Periphery, sometimes also called the "Soft Umbra", is a place - or a state of mind, as many Fera would point out - between the [penumbra|E] and the Material World." #NT!
+ periphery_confirm:0 "If I change my mind..." #NT!
+ periphery_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ periphery_1_tt:0 "" #NT!
+ periphery_2_tt:0 "" #NT!
+ periphery_3_tt:0 "" #NT!
+ periphery_4_tt:0 "" #NT!
+ periphery_5_tt:0 "" #NT!
+
+ near_dreaming_title:0 "Near Dreaming" #NT!
+ near_dreaming_desc:0 "The Near Dreaming is the part of the [dreaming|E] closest to the Mundane World." #NT!
+ near_dreaming_confirm:0 "Wander the Near Dreaming" #NT!
+ near_dreaming_0_tt:0 "" #NT!
+ near_dreaming_1_tt:0 "" #NT!
+ near_dreaming_2_tt:0 "" #NT!
+ near_dreaming_3_tt:0 "" #NT!
+ near_dreaming_4_tt:0 "" #NT!
+ near_dreaming_5_tt:0 "" #NT!
+
+ far_dreaming_title:0 "Far Dreaming" #NT!
+ far_dreaming_desc:0 "The Far Dreaming is the part of the [dreaming|E] corresponding to the collective dreams of humanity." #NT!
+ far_dreaming_confirm:0 "Wander the Far Dreaming" #NT!
+ far_dreaming_0_tt:0 "" #NT!
+ far_dreaming_1_tt:0 "" #NT!
+ far_dreaming_2_tt:0 "" #NT!
+ far_dreaming_3_tt:0 "" #NT!
+ far_dreaming_4_tt:0 "" #NT!
+ far_dreaming_5_tt:0 "" #NT!
+
+ deep_dreaming_title:0 "Deep Dreaming" #NT!
+ deep_dreaming_desc:0 "The Deep Dreaming is the part of the [dreaming|E] furthest from the Waking World." #NT!
+ deep_dreaming_confirm:0 "Wander the Deep Dreaming" #NT!
+ deep_dreaming_0_tt:0 "" #NT!
+ deep_dreaming_1_tt:0 "As an action option, allow you to gain the legendary Caliburn [artifact|E]." #NT!
+ deep_dreaming_2_tt:0 "" #NT!
+ deep_dreaming_3_tt:0 "" #NT!
+ deep_dreaming_4_tt:0 "" #NT!
+ deep_dreaming_5_tt:0 "" #NT!
+
+ astral_plane_title:0 "Astral Plane" #NT!
+ astral_plane_desc:0 "The astral plane can broadly be considered a reflection of the consciousness of the entirety of humanity, being then subdivided into various realms for each category of ideas." #NT!
+ astral_plane_confirm:0 "Ascend to Astral plane" #NT!
+ astral_plane_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ astral_plane_1_tt:0 "" #NT!
+ astral_plane_2_tt:0 "" #NT!
+ astral_plane_3_tt:0 "" #NT!
+ astral_plane_4_tt:0 "" #NT!
+ astral_plane_5_tt:0 "" #NT!
+
+ vulgate_title:0 "Vulgate" #NT!
+ vulgate_desc:0 "A Vulgate- also known as Mundus Imaginalis- is the lowest part of the [astral_reaches|E]. It incorporates the most common concepts that the collective philosophy and mindsets of humanity (and, possibly, some other species) have thought of." #NT!
+ vulgate_confirm:0 "Ascend to the Vulgate" #NT!
+ vulgate_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ vulgate_1_tt:0 "" #NT!
+ vulgate_2_tt:0 "" #NT!
+ vulgate_3_tt:0 "" #NT!
+ vulgate_4_tt:0 "" #NT!
+ vulgate_5_tt:0 "" #NT!
+
+ grand_hall_title:0 "Grand Hall" #NT!
+ grand_hall_desc:0 "It rises from the Astral mists like a specter-the Grand Hall of Endless Gates. It never stays in place for long, but always retains a similar shape- a sparse but welcoming corridor between the worlds, shaped in Classical Mediterranean style and furnished in ancient wood and mosaic tiles." #NT!
+ grand_hall_confirm:0 "Enter the Grand Hall" #NT!
+ grand_hall_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ grand_hall_1_tt:0 "" #NT!
+ grand_hall_2_tt:0 "" #NT!
+ grand_hall_3_tt:0 "" #NT!
+ grand_hall_4_tt:0 "" #NT!
+ grand_hall_5_tt:0 "" #NT!
+
+ city_of_brass_title:0 "City of Brass" #NT!
+ city_of_brass_desc:0 "The City of Brass has the shape of a gigantic city with eight great streets made out of various shades of brass and copper. It acts as an economic center between the Djinn pashas of the Invisible World and sorcerers who want to gain the Djinn’s aid without needlessly angering them by using the Solomonic Code to force them into servitude." #NT!
+ city_of_brass_confirm:0 "Enter the City of Brass" #NT!
+ city_of_brass_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ city_of_brass_1_tt:0 "" #NT!
+ city_of_brass_2_tt:0 "" #NT!
+ city_of_brass_3_tt:0 "" #NT!
+ city_of_brass_4_tt:0 "" #NT!
+ city_of_brass_5_tt:0 "" #NT!
+
+ spires_title:0 "Spires" #NT!
+ spires_desc:0 "Cosmologists believe that the Spires are the result of many minds concentrating on the same idea, causing it to be elevated from the Vulgate into a higher realm." #NT!
+ spires_confirm:0 "Ascend to the Spires" #NT!
+ spires_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ spires_1_tt:0 "" #NT!
+ spires_2_tt:0 "" #NT!
+ spires_3_tt:0 "" #NT!
+ spires_4_tt:0 "" #NT!
+ spires_5_tt:0 "" #NT!
+
+ inventium_title:0 "Inventium" #NT!
+ inventium_desc:0 "The Inventium is a Realm of the [astral_reaches|E] full of every invention humankind has ever dreamed of. These inventions manifest with an audible popping sound and drop gently into massive piles that fill the Realm in all directions." #NT!
+ inventium_confirm:0 "Enter the Inventium" #NT!
+ inventium_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ inventium_1_tt:0 "As an action option, allow you to gain a mysterious device." #NT!
+ inventium_2_tt:0 "As an action option, allow you to gain a random innovation." #NT!
+ inventium_3_tt:0 "" #NT!
+ inventium_4_tt:0 "" #NT!
+ inventium_5_tt:0 "" #NT!
+
+ epiphamy_title:0 "Epiphamy" #NT!
+ epiphamy_desc:0 "Epiphamies embody concepts of complete abstraction, such as "Nature's Laws" or "True Love". They are marked as colorful clouds in the umbral sky of the Vulgate that can give the visitor hints about the concept they embody." #NT!
+ epiphamy_confirm:0 "Ascend to the Epiphamy" #NT!
+ epiphamy_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ epiphamy_1_tt:0 "" #NT!
+ epiphamy_2_tt:0 "" #NT!
+ epiphamy_3_tt:0 "" #NT!
+ epiphamy_4_tt:0 "" #NT!
+ epiphamy_5_tt:0 "" #NT!
+
+ elemental_courts_title:0 "Elemental Courts" #NT!
+ elemental_courts_desc:0 "The Courts of the Elements are found midway up a Spire, before a traveler actually reaches the Five Gates, with each Element represented by a realm that expresses its intrinsic nature." #NT!
+ elemental_courts_confirm:0 "Visit an Elemental Court" #NT!
+ elemental_courts_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ elemental_courts_1_tt:0 "" #NT!
+ elemental_courts_2_tt:0 "" #NT!
+ elemental_courts_3_tt:0 "" #NT!
+ elemental_courts_4_tt:0 "" #NT!
+ elemental_courts_5_tt:0 "" #NT!
+
+ the_court_of_the_muses_title:0 "The Court of the Muses" #NT!
+ the_court_of_the_muses_desc:0 "The Court of the Muses has suffered a great deal with the almost complete extinction of Classical Hellenic belief. Still, while their realm gets smaller every day, the nine daughters of Zeus still practice their art, hoping that their passion will stave off Oblivion for a little longer." #NT!
+ the_court_of_the_muses_confirm:0 "Visit the Muses" #NT!
+ the_court_of_the_muses_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_court_of_the_muses_1_tt:0 "" #NT!
+ the_court_of_the_muses_2_tt:0 "" #NT!
+ the_court_of_the_muses_3_tt:0 "" #NT!
+ the_court_of_the_muses_4_tt:0 "" #NT!
+ the_court_of_the_muses_5_tt:0 "" #NT!
+
+ shadowlands_title:0 "Shadowlands" #NT!
+ shadowlands_desc:0 "The Shadowlands are a mirror 'skin' of reality, with every location in the breathing realm having a corresponding location in the Shadowlands which, for the most part, obey conventional rules of distance. It is where wraiths dwell, waiting for salvation or, most likely, oblivion." #NT!
+ shadowlands_confirm:0 "Fall into the Shadowlands" #NT!
+ shadowlands_0_tt:0 "[GetTrait('wraith').GetName( GetPlayer )] without [Fetters|E] gains medium [stress|E] every year to maintain themselves in the Shadowlands. (10% of chance per every unassigned or lost [Fetter|E])\nChance of getting a random monthly event if a stationed explorer is here." #NT!
+ shadowlands_1_tt:0 "" #NT!
+ shadowlands_2_tt:0 "" #NT!
+ shadowlands_3_tt:0 "" #NT!
+ shadowlands_4_tt:0 "" #NT!
+ shadowlands_5_tt:0 "" #NT!
+
+ river_of_death_title:0 "River of Death" #NT!
+ river_of_death_desc:0 "The River of Death is a waterway in the Tempest that serves as the primary Byway from Stygia to the Shadowlands and other Dark Kingdoms." #NT!
+ river_of_death_confirm:0 "Dive into the River of Death" #NT!
+ river_of_death_0_tt:0 "" #NT!
+ river_of_death_1_tt:0 "" #NT!
+ river_of_death_2_tt:0 "" #NT!
+ river_of_death_3_tt:0 "" #NT!
+ river_of_death_4_tt:0 "" #NT!
+ river_of_death_5_tt:0 "" #NT!
+
+ sunless_sea_title:0 "Sunless Sea" #NT!
+ sunless_sea_desc:0 "Named because the sky above it is always dark, light in the Sunless Sea from sources such as ships and beacons can be seen for miles because it scatters off the surface of the water." #NT!
+ sunless_sea_confirm:0 "Dive into the Sunless Sea" #NT!
+ sunless_sea_0_tt:0 "" #NT!
+ sunless_sea_1_tt:0 "" #NT!
+ sunless_sea_2_tt:0 "" #NT!
+ sunless_sea_3_tt:0 "" #NT!
+ sunless_sea_4_tt:0 "" #NT!
+ sunless_sea_5_tt:0 "" #NT!
+
+ far_shore_title:0 "Far Shore" #NT!
+ far_shore_desc:0 "The Far Shores are a mysterious territory in the [underworld|E] controlled by pythian entities called Shining Ones. To modern Stygians, the Far Shores are territories controlled by Heretics, and not to be trusted." #NT!
+ far_shore_confirm:0 "Travel to the Far Shore" #NT!
+ far_shore_0_tt:0 "" #NT!
+ far_shore_1_tt:0 "" #NT!
+ far_shore_2_tt:0 "" #NT!
+ far_shore_3_tt:0 "" #NT!
+ far_shore_4_tt:0 "" #NT!
+ far_shore_5_tt:0 "" #NT!
+
+ weeping_bay_title:0 "Weeping Bay" #NT!
+ weeping_bay_desc:0 "The Weeping Bay lies halfway between the Sea of Souls and the Sunless Sea and serves as Stygia's main port and connection to various other Necropoli. The bay has a characteristic shape in the form of a half-moon and is constantly filled with the sobs and moans of the various soulforged wraiths that make up the bay." #NT!
+ weeping_bay_confirm:0 "Travel to the Weeping Bay" #NT!
+ weeping_bay_0_tt:0 "" #NT!
+ weeping_bay_1_tt:0 "" #NT!
+ weeping_bay_2_tt:0 "" #NT!
+ weeping_bay_3_tt:0 "" #NT!
+ weeping_bay_4_tt:0 "" #NT!
+ weeping_bay_5_tt:0 "" #NT!
+
+ sea_of_souls_title:0 "Sea of Souls" #NT!
+ sea_of_souls_desc:0 "The protective sea-wall built around Stygia and the Isle of Sorrows. Its name comes from the unfortunate wraiths who have been forged or chained into the wall's structure." #NT!
+ sea_of_souls_confirm:0 "Dive into the Sea of Souls" #NT!
+ sea_of_souls_0_tt:0 "" #NT!
+ sea_of_souls_1_tt:0 "" #NT!
+ sea_of_souls_2_tt:0 "" #NT!
+ sea_of_souls_3_tt:0 "" #NT!
+ sea_of_souls_4_tt:0 "" #NT!
+ sea_of_souls_5_tt:0 "" #NT!
+
+ isle_of_sorrows_title:0 "Isle of Sorrows" #NT!
+ isle_of_sorrows_desc:0 "The Isle of Sorrows is a rocky island located at the delta of the River of Death, deep in the Tempest." #NT!
+ isle_of_sorrows_confirm:0 "Travel to the Isle of Sorrows" #NT!
+ isle_of_sorrows_0_tt:0 "" #NT!
+ isle_of_sorrows_1_tt:0 "" #NT!
+ isle_of_sorrows_2_tt:0 "" #NT!
+ isle_of_sorrows_3_tt:0 "" #NT!
+ isle_of_sorrows_4_tt:0 "" #NT!
+ isle_of_sorrows_5_tt:0 "" #NT!
+
+ dark_kingdom_of_iron_title:0 "Dark Kingdom of Iron" #NT!
+ dark_kingdom_of_iron_desc:0 "Stygia is the capital of the western dead, an incomprehensibly huge city located on the Isle of Sorrows deep in the Tempest. It is the location of the major headquarters of the various organizations of western wraiths." #NT!
+ dark_kingdom_of_iron_confirm:0 "Travel to Stygia" #NT!
+ dark_kingdom_of_iron_0_tt:0 "" #NT!
+ dark_kingdom_of_iron_1_tt:0 "As an action option, allow you to ask for reweaving artifact pieces." #NT!
+ dark_kingdom_of_iron_2_tt:0 "" #NT!
+ dark_kingdom_of_iron_3_tt:0 "" #NT!
+ dark_kingdom_of_iron_4_tt:0 "Unlock Veinous Stairs, allow you to pass and return from the Labyrinth without risk of get lost." #NT!
+ dark_kingdom_of_iron_5_tt:0 "" #NT!
+
+ dark_kingdom_of_clay_title:0 "Dark Kingdom of Clay" #NT!
+ dark_kingdom_of_clay_desc:0 "Karta, known to outsiders as the [dark_kingdom|E] of Clay, is the realm in the Tempest that belongs to the aboriginal people of Australia." #NT!
+ dark_kingdom_of_clay_confirm:0 "Travel to Karta" #NT!
+ dark_kingdom_of_clay_0_tt:0 "" #NT!
+ dark_kingdom_of_clay_1_tt:0 "As an action option, allow you to ask for reweaving artifact pieces." #NT!
+ dark_kingdom_of_clay_2_tt:0 "" #NT!
+ dark_kingdom_of_clay_3_tt:0 "" #NT!
+ dark_kingdom_of_clay_4_tt:0 "" #NT!
+ dark_kingdom_of_clay_5_tt:0 "" #NT!
+
+ dark_kingdom_of_ivory_title:0 "Dark Kingdom of Ivory" #NT!
+ dark_kingdom_of_ivory_desc:0 "The Bush of Ghosts, which also goes by the [dark_kingdom|E] of Ivory, is the Shadowlands for the abambo, or the wraiths of Africa." #NT!
+ dark_kingdom_of_ivory_confirm:0 "Travel to the Bush of Ghosts" #NT!
+ dark_kingdom_of_ivory_0_tt:0 "" #NT!
+ dark_kingdom_of_ivory_1_tt:0 "As an action option, allow you to ask for reweaving artifact pieces." #NT!
+ dark_kingdom_of_ivory_2_tt:0 "" #NT!
+ dark_kingdom_of_ivory_3_tt:0 "" #NT!
+ dark_kingdom_of_ivory_4_tt:0 "" #NT!
+ dark_kingdom_of_ivory_5_tt:0 "" #NT!
+
+ dark_kingdom_of_jade_title:0 "Dark Kingdom of Jade" #NT!
+ dark_kingdom_of_jade_desc:0 "The Yellow Springs, also called the [dark_kingdom|E] of Jade, is a part of the [underworld|E] dedicated to and controlled by the dead of Asia." #NT!
+ dark_kingdom_of_jade_confirm:0 "Travel to the Yellow Springs" #NT!
+ dark_kingdom_of_jade_0_tt:0 "" #NT!
+ dark_kingdom_of_jade_1_tt:0 "As an action option, allow you to ask for reweaving artifact pieces." #NT!
+ dark_kingdom_of_jade_2_tt:0 "" #NT!
+ dark_kingdom_of_jade_3_tt:0 "" #NT!
+ dark_kingdom_of_jade_4_tt:0 "" #NT!
+ dark_kingdom_of_jade_5_tt:0 "" #NT!
+
+ dark_kingdom_of_obsidian_title:0 "Dark Kingdom of Obsidian" #NT!
+ dark_kingdom_of_obsidian_desc:0 "The Flayed Lands is the name for the kingdom of the dead that held dominion over Central America, part of the mighty [dark_kingdom|E] of Obsidian." #NT!
+ dark_kingdom_of_obsidian_confirm:0 "Travel to the Flayed Lands" #NT!
+ dark_kingdom_of_obsidian_0_tt:0 "" #NT!
+ dark_kingdom_of_obsidian_1_tt:0 "As an action option, allow you to ask for reweaving artifact pieces." #NT!
+ dark_kingdom_of_obsidian_2_tt:0 "" #NT!
+ dark_kingdom_of_obsidian_3_tt:0 "" #NT!
+ dark_kingdom_of_obsidian_4_tt:0 "" #NT!
+ dark_kingdom_of_obsidian_5_tt:0 "" #NT!
+
+ dark_kingdom_of_sand_title:0 "Dark Kingdom of Sand" #NT!
+ dark_kingdom_of_sand_desc:0 "Amenti, the [dark_kingdom|E] of Sand, is the Dark Kingdom of the Undying in the [underworld|E]. It's not populated by wraiths, but by Immortals, who died and found themselves back in the Shadowlands." #NT!
+ dark_kingdom_of_sand_confirm:0 "Travel to Amenti" #NT!
+ dark_kingdom_of_sand_0_tt:0 "Stationed Amenti [GetTrait('mummy').GetName( GetPlayer )] gains #P 2#! Sekhem every #V 3#! months.\nChance of getting a random monthly event if a stationed explorer is here." #NT!
+ dark_kingdom_of_sand_1_tt:0 "As an action option, allow you to ask for reweaving artifact pieces." #NT!
+ dark_kingdom_of_sand_2_tt:0 "Stationed Amenti [GetTrait('mummy').GetName( GetPlayer )] Sekhem regeneration #P +2#! (Total #P 4#!)." #NT!
+ dark_kingdom_of_sand_3_tt:0 "Stationed Amenti [GetTrait('mummy').GetName( GetPlayer )] Sekhem regeneration #P +2#! (Total #P 6#!)." #NT!
+ dark_kingdom_of_sand_4_tt:0 "Stationed Amenti [GetTrait('mummy').GetName( GetPlayer )] Sekhem regeneration #P +2#! (Total #P 8#!)." #NT!
+ dark_kingdom_of_sand_5_tt:0 "Stationed Amenti [GetTrait('mummy').GetName( GetPlayer )] Sekhem regeneration #P +2#! (Total #P 10#!)." #NT!
+
+ swar_title:0 "Swar" #NT!
+ swar_desc:0 "Swar (or Svarga), the City of Delights, is the city of the dead of India, Swar serves as the head city of Bhuvar, the Indian Shadowlands." #NT!
+ swar_confirm:0 "Travel to Swar" #NT!
+ swar_0_tt:0 "" #NT!
+ swar_1_tt:0 "" #NT!
+ swar_2_tt:0 "" #NT!
+ swar_3_tt:0 "" #NT!
+ swar_4_tt:0 "" #NT!
+ swar_5_tt:0 "" #NT!
+
+ night_markets_title:0 "Night Markets" #NT!
+ night_markets_desc:0 "The Night Markets, nominally a part of Swar, where the Southeast Asian Dead dwell." #NT!
+ night_markets_confirm:0 "Travel to Night Markets" #NT!
+ night_markets_0_tt:0 "" #NT!
+ night_markets_1_tt:0 "" #NT!
+ night_markets_2_tt:0 "" #NT!
+ night_markets_3_tt:0 "" #NT!
+ night_markets_4_tt:0 "" #NT!
+ night_markets_5_tt:0 "" #NT!
+
+ mantaqat_khayal_title:0 "Mantaqat Khayal" #NT!
+ mantaqat_khayal_desc:0 "Mantaqat Khayal, the Shadowlands of the Middle East. Little is known of this land, except that the Keening had engulfed it in a perpetual sandstorm since at least the dawn of Islam. Only Necropoli provide shelter from this sandstorm, and it is traversed only by merchants, pilgrims, and nomads." #NT!
+ mantaqat_khayal_confirm:0 "Travel to Mantaqat Khayal" #NT!
+ mantaqat_khayal_0_tt:0 "" #NT!
+ mantaqat_khayal_1_tt:0 "" #NT!
+ mantaqat_khayal_2_tt:0 "" #NT!
+ mantaqat_khayal_3_tt:0 "" #NT!
+ mantaqat_khayal_4_tt:0 "" #NT!
+ mantaqat_khayal_5_tt:0 "" #NT!
+
+ shadow_realm_title:0 "Shadow Realm" #NT!
+ shadow_realm_desc:0 "Shadow Realms are places in the [underworld|E] that Mummies visit in order to regenerate themselves until they are ready to inhabit their bodies again and that grant them protection against the predations of Spectres or Maelstroms." #NT!
+
+ hades_title:0 "Hades" #NT!
+ hades_desc:0 "The central [shadow_realm|E] of the Cabiri Mummies is called Hades, after the mythical Greek [underworld|E]." #NT!
+
+ gates_of_heaven_title:0 "Gates of Heaven" #NT!
+ gates_of_heaven_desc:0 "Responsibility weighs heavily on all of the Reborn. The Eight Immortals give the Wu T’ian missions. They receive instruction, and they must carry out the will of heaven. When they fail, they spend time in contemplation at the Gates of Heaven, preparing themselves so that they will not fail again." #NT!
+
+ yomi_wan_title:0 "Yomi Wan" #NT!
+ yomi_wan_desc:0 "Yomi Wan, literally meaning Thousand Hells, is an artificial spiritual dimension created by the Yama Kings from a combination of the spirit worlds of the Yang World and the [yin_world|E], to serve as their headquarters. The Yomi Wan are often called the Yomi Worlds, and are often referred to in the collective form as Yomi." #NT!
+
+ tempest_title:0 "[GetPlayer.Custom( 'tempest_custom_name' )]" #NT!
+ tempest_desc:0 "[GetPlayer.Custom( 'tempest_custom_desc' )]" #NT!
+ tempest_confirm:0 "#X Fall into the [GetPlayer.Custom( 'tempest_custom_name' )]#!" #NT!
+ custom_name_seaofshadow:0 "Sea of Shadows" #NT!
+ custom_name_tempest:0 "Tempest" #NT!
+ custom_name_stormwall:0 "Stormwall" #NT!
+ custom_desc_seaofshadow:0 "Sea of Shadows is a term used by Wraiths to describe the "bottom" layer of the Tempest which flows around and into the Labyrinth and Oblivion." #NT!
+ custom_desc_tempest:0 "The Tempest is a perpetually swirling maelstrom of energy, memories and [GetTrait('spectre').GetName( GetPlayer )]s issuing from the Labyrinth and continuously raining plasma and materials on both the Shadowlands and Dark Kingdoms." #NT!
+ custom_desc_stormwall:0 "The Stormwall is a metaphysical barrier between the worlds of the living and the dead." #NT!
+ tempest_0_tt:0 "#N 50%#! of chance being lost in the [GetPlayer.Custom( 'tempest_custom_name' )].\nAs an action option, allow collecting artifact pieces from the Maelstrom." #NT!
+ tempest_1_tt:0 "" #NT!
+ tempest_2_tt:0 "" #NT!
+ tempest_3_tt:0 "" #NT!
+ tempest_4_tt:0 "" #NT!
+ tempest_5_tt:0 "" #NT!
+
+ labyrinth_title:0 "Labyrinth" #NT!
+ labyrinth_desc:0 "The Labyrinth has relatively little structure, and no map could make sense of it; what landmarks do exist are prone to movement." #NT!
+ labyrinth_confirm:0 "#X Fall into the Labyrinth#!" #NT!
+ labyrinth_0_tt:0 "#N 90%#! chance of returning here when trying to escape.\nGain a little [stress|E] every #V 3#! months.\n#Weak (Unless you are serving the Wyrm)#!" #NT!
+ labyrinth_1_tt:0 "" #NT!
+ labyrinth_2_tt:0 "" #NT!
+ labyrinth_3_tt:0 "" #NT!
+ labyrinth_4_tt:0 "" #NT!
+ labyrinth_5_tt:0 "" #NT!
+
+ well_of_the_void_title:0 "Well of the Void" #NT!
+ well_of_the_void_desc:0 "The Well of the Void is the physical manifestation of Oblivion, located at the center and bottom of the Labyrinth." #NT!
+ well_of_the_void_confirm:0 "#X Fall into the Well#!" #NT!
+ well_of_the_void_0_tt:0 "#N 90%#! chance of returning here when trying to escape.\n#N 9%#! risk of being erased from existence when trying to escape.\nGain certain [stress|E] every #V 3#! months.\n#Weak (Unless you are serving the Wyrm)#!" #NT!
+ well_of_the_void_1_tt:0 "" #NT!
+ well_of_the_void_2_tt:0 "" #NT!
+ well_of_the_void_3_tt:0 "" #NT!
+ well_of_the_void_4_tt:0 "" #NT!
+ well_of_the_void_5_tt:0 "" #NT!
+
+ oblivion_title:0 "#X Oblivion#!" #NT!
+ oblivion_desc:0 "#X Oblivion is entropy itself, a constantly churning force of destruction and madness from which there is no return.#!" #NT!
+ oblivion_0_tt:0 "#X Any being who enter here will have their existence erased.#!" #NT!
+ oblivion_1_tt:0 "" #NT!
+ oblivion_2_tt:0 "" #NT!
+ oblivion_3_tt:0 "" #NT!
+ oblivion_4_tt:0 "" #NT!
+ oblivion_5_tt:0 "" #NT!
+
+ abyss_title:0 "Abyss" #NT!
+ abyss_desc:0 "The Abyss, also known as Hell or the Pit, is the murky dimension of darkness created by God as an eternal prison for the Fallen." #NT!
+ abyss_confirm:0 "#X Fall into the Abyss#!" #NT!
+ abyss_0_tt:0 "#N 50%#! of chance being trapped in the Abyss.\nGain a lot of [stress|E] every #V 3#! months.\nChance of getting a random monthly event if a stationed explorer is here." #NT!
+ abyss_1_tt:0 "" #NT!
+ abyss_2_tt:0 "" #NT!
+ abyss_3_tt:0 "" #NT!
+ abyss_4_tt:0 "" #NT!
+ abyss_5_tt:0 "" #NT!
+
+ dis_title:0 "Dis" #NT!
+ dis_desc:0 "What little organization the Ferrymen have is centered around Dis, a Sargasso Sea of fortresses, caverns, and ships in the Tempest. This holds their main gathering places, the headquarters of their archival and fabrication divisions, and their small steering committee." #NT!
+ dis_confirm:0 "Pass to Dis" #NT!
+ dis_0_tt:0 "" #NT!
+ dis_1_tt:0 "" #NT!
+ dis_2_tt:0 "" #NT!
+ dis_3_tt:0 "" #NT!
+ dis_4_tt:0 "" #NT!
+ dis_5_tt:0 "" #NT!
+
+ spirit_wilds_title:0 "Spirit Wilds" #NT!
+ spirit_wilds_desc:0 "The Spirit Wilds are another name for the Middle Umbra, particularly the space between the Near Realms. This part of the Umbra reflects the natural environment, both in its pristine state and wounded by civilization one." #NT!
+ spirit_wilds_confirm:0 "Step into the Spirit Wilds" #NT!
+ spirit_wilds_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ spirit_wilds_1_tt:0 "As an action option, allow recruiting lesser bygones." #NT!
+ spirit_wilds_2_tt:0 "" #NT!
+ spirit_wilds_3_tt:0 "As an action option, allow recruiting greater bygones." #NT!
+ spirit_wilds_4_tt:0 "" #NT!
+ spirit_wilds_5_tt:0 "" #NT!
+
+ the_homeland_of_the_black_furies_title:0 "The Homeland of the Black Furies" #NT!
+ the_homeland_of_the_black_furies_desc:0 "The homeland of the Black Furies resembles landscapes of mythical Greece: Rocky mountains tower over numerous small islands and peninsulas that stretch into a turquoise sea. Lush forests of pines and olives, always bearing fruits, stretch over the island, along with buildings constructed in Grecian styles, although recently, buildings from all parts of the world have appeared. Numerous emanations of predators, prey and humans dwell in the homeland. All creatures live as part of nature’s cycle of predator and prey with neither side being over-hunted or dying of starvation." #NT!
+ the_homeland_of_the_black_furies_confirm:0 "Return to the Black Fury Homeland" #NT!
+ the_homeland_of_the_black_furies_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_black_furies_1_tt:0 "" #NT!
+ the_homeland_of_the_black_furies_2_tt:0 "" #NT!
+ the_homeland_of_the_black_furies_3_tt:0 "" #NT!
+ the_homeland_of_the_black_furies_4_tt:0 "" #NT!
+ the_homeland_of_the_black_furies_5_tt:0 "" #NT!
+
+ the_homeland_of_the_bone_gnawers_title:0 "The Homeland of the Bone Gnawers" #NT!
+ the_homeland_of_the_bone_gnawers_desc:0 "The homeland of the Bone Gnawers resembles a slum part of a city. Taverns are open 24 hours every day and all serve cheap beer by the pitcher. Joyhouse joints are on every block, but the canny Gnawer knows the best are found in back alleyways, by knocking on the right doors. Outside the city, there is a hilly expanse with light forests and fat cattle." #NT!
+ the_homeland_of_the_bone_gnawers_confirm:0 "Return to the Bone Gnawer Homeland" #NT!
+ the_homeland_of_the_bone_gnawers_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_bone_gnawers_1_tt:0 "" #NT!
+ the_homeland_of_the_bone_gnawers_2_tt:0 "" #NT!
+ the_homeland_of_the_bone_gnawers_3_tt:0 "" #NT!
+ the_homeland_of_the_bone_gnawers_4_tt:0 "" #NT!
+ the_homeland_of_the_bone_gnawers_5_tt:0 "" #NT!
+
+ the_homeland_of_the_children_of_gaia_title:0 "The Homeland of the Children of Gaia" #NT!
+ the_homeland_of_the_children_of_gaia_desc:0 "The homeland of the Children of Gaia is a vast expanse of lush forests, rolling hills and bubbling streams meandering through the valleys. Humans free of the Delirium wander nomadic across the homeland, with central metropolises that reflect cleaner versions of the cities of ancient Sumer. Herds of unicorn-spirits graze the hills and every visitor gains a unicorn-anamae who guides the visitor through the realm." #NT!
+ the_homeland_of_the_children_of_gaia_confirm:0 "Return to the Child of Gaia Homeland" #NT!
+ the_homeland_of_the_children_of_gaia_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_children_of_gaia_1_tt:0 "" #NT!
+ the_homeland_of_the_children_of_gaia_2_tt:0 "" #NT!
+ the_homeland_of_the_children_of_gaia_3_tt:0 "" #NT!
+ the_homeland_of_the_children_of_gaia_4_tt:0 "" #NT!
+ the_homeland_of_the_children_of_gaia_5_tt:0 "" #NT!
+
+ the_homeland_of_the_fianna_title:0 "The Homeland of the Fianna" #NT!
+ the_homeland_of_the_fianna_desc:0 "The homeland of the Fianna is a green landscape of hills, dales and vales that look like they were drawn from the traditions of historical fantasy novels. Faeries play in the woods and stag-spirits roam the land under the guidance of Stag as the "Wild Hunt", protecting the homeland against intruders. Spontaneous celebrations are common in the homeland and tend to draw together anyone within earshot." #NT!
+ the_homeland_of_the_fianna_confirm:0 "Return to the Fianna Homeland" #NT!
+ the_homeland_of_the_fianna_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_fianna_1_tt:0 "" #NT!
+ the_homeland_of_the_fianna_2_tt:0 "" #NT!
+ the_homeland_of_the_fianna_3_tt:0 "" #NT!
+ the_homeland_of_the_fianna_4_tt:0 "" #NT!
+ the_homeland_of_the_fianna_5_tt:0 "" #NT!
+
+ the_homeland_of_the_get_of_fenris_title:0 "The Homeland of the Get of Fenris" #NT!
+ the_homeland_of_the_get_of_fenris_desc:0 "Fjords, vast expanses of tundra and cold, dark taiga, all enshrouded by perpetual winter, make up the Fenrir's homeland. Packs of ice-age megafauna, like dire wolves and mammoths, roam the land and attack any solitary werewolf. The Fenrir congregate in lodge-villages where they drink, fight, carouse and pass on the sagas of their deeds." #NT!
+ the_homeland_of_the_get_of_fenris_confirm:0 "Return to the Get of Fenris Homeland" #NT!
+ the_homeland_of_the_get_of_fenris_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_get_of_fenris_1_tt:0 "" #NT!
+ the_homeland_of_the_get_of_fenris_2_tt:0 "" #NT!
+ the_homeland_of_the_get_of_fenris_3_tt:0 "" #NT!
+ the_homeland_of_the_get_of_fenris_4_tt:0 "" #NT!
+ the_homeland_of_the_get_of_fenris_5_tt:0 "" #NT!
+
+ the_homeland_of_the_glass_walkers_title:0 "The Homeland of the [GetPlayer.Custom( 'glasswalker_custom_name' )]" #NT!
+ the_homeland_of_the_glass_walkers_desc:0 "The homeland of the [GetPlayer.Custom( 'glasswalker_custom_name' )] is a metropolis build in accordance with Gaian designs. High towers have dozens of open-air garden levels brimming with vegetation and the birds and animals that are naturally attracted to these plants. Each garden caters to a different ecology. Many human happily spend their lives within just a few towers." #NT!
+ the_homeland_of_the_glass_walkers_confirm:0 "Return to the [GetPlayer.Custom( 'glasswalker_custom_name' )] Homeland" #NT!
+ the_homeland_of_the_glass_walkers_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_glass_walkers_1_tt:0 "" #NT!
+ the_homeland_of_the_glass_walkers_2_tt:0 "" #NT!
+ the_homeland_of_the_glass_walkers_3_tt:0 "" #NT!
+ the_homeland_of_the_glass_walkers_4_tt:0 "" #NT!
+ the_homeland_of_the_glass_walkers_5_tt:0 "" #NT!
+
+ the_homeland_of_the_red_talons_title:0 "The Homeland of the Red Talons" #NT!
+ the_homeland_of_the_red_talons_desc:0 "The Red Talon homeland is a large, unspoiled wilderness. Predators hunt unrestricted and compete with each other. Foremost are large packs of wolfs that have come to dominate the homeland." #NT!
+ the_homeland_of_the_red_talons_confirm:0 "Return to the Red Talon Homeland" #NT!
+ the_homeland_of_the_red_talons_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_red_talons_1_tt:0 "" #NT!
+ the_homeland_of_the_red_talons_2_tt:0 "" #NT!
+ the_homeland_of_the_red_talons_3_tt:0 "" #NT!
+ the_homeland_of_the_red_talons_4_tt:0 "" #NT!
+ the_homeland_of_the_red_talons_5_tt:0 "" #NT!
+
+ the_homeland_of_the_shadow_lords_title:0 "The Homeland of the Shadow Lords" #NT!
+ the_homeland_of_the_shadow_lords_desc:0 "The Shadow Lords live in an area dominated by a Great Mountain, the sky perpetually shrouded by dark clouds and lightning-storms. The peaks and forests below lie in eternal shadow, where the Shadow Lords gather in castles to conspire against each other to find a way to climb the mountain." #NT!
+ the_homeland_of_the_shadow_lords_confirm:0 "Return to the Shadow Lord Homeland" #NT!
+ the_homeland_of_the_shadow_lords_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_shadow_lords_1_tt:0 "" #NT!
+ the_homeland_of_the_shadow_lords_2_tt:0 "" #NT!
+ the_homeland_of_the_shadow_lords_3_tt:0 "" #NT!
+ the_homeland_of_the_shadow_lords_4_tt:0 "" #NT!
+ the_homeland_of_the_shadow_lords_5_tt:0 "" #NT!
+
+ the_homeland_of_the_stargazers_title:0 "The Homeland of the Stargazers" #NT!
+ the_homeland_of_the_stargazers_desc:0 "The domain of the Stargazers is a realm designed to test all five forms of the Garou. Mountains higher than the Himalayas occupy the center of the Realm. A ring of foothills surround the base of these peaks, covered in luscious grasslands, deserts or majestic forests. Shrines accommodate to the need of any Garou's internal spiritual exercise." #NT!
+ the_homeland_of_the_stargazers_confirm:0 "Return to the  Stargazer Homeland" #NT!
+ the_homeland_of_the_stargazers_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_stargazers_1_tt:0 "" #NT!
+ the_homeland_of_the_stargazers_2_tt:0 "" #NT!
+ the_homeland_of_the_stargazers_3_tt:0 "" #NT!
+ the_homeland_of_the_stargazers_4_tt:0 "" #NT!
+ the_homeland_of_the_stargazers_5_tt:0 "" #NT!
+
+ the_homeland_of_the_silver_fangs_title:0 "The Homeland of the Silver Fangs" #NT!
+ the_homeland_of_the_silver_fangs_desc:0 "The Silver Fang's homeland is a vast expanse of territory that resembles the Russian steppes. Falcon-spirits soar through the sky, watching over any visitor and alerting Falcon of their presence. In the center of the realm stands the Castle of Heroes, a monument to the deeds of the Silver Fangs in service to the Garou Nation." #NT!
+ the_homeland_of_the_silver_fangs_confirm:0 "Return to the Silver Fang Homeland" #NT!
+ the_homeland_of_the_silver_fangs_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_silver_fangs_1_tt:0 "" #NT!
+ the_homeland_of_the_silver_fangs_2_tt:0 "" #NT!
+ the_homeland_of_the_silver_fangs_3_tt:0 "" #NT!
+ the_homeland_of_the_silver_fangs_4_tt:0 "" #NT!
+ the_homeland_of_the_silver_fangs_5_tt:0 "" #NT!
+
+ the_homeland_of_the_silent_striders_title:0 "The Homeland of the Silent Striders" #NT!
+ the_homeland_of_the_silent_striders_desc:0 "The homeland of the Silent Striders is dominated by a gigantic river called the River of Life. Shrouded in ever-lasting night, it is otherwise made up of large silvery deserts and dominated by obelisks and similar monumental buildings inscribed with hieroglyphs. carefully aligned to highlight constellations commemorating Silent Strider heroes of old." #NT!
+ the_homeland_of_the_silent_striders_confirm:0 "Return to the Silent Strider Homeland" #NT!
+ the_homeland_of_the_silent_striders_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_homeland_of_the_silent_striders_1_tt:0 "" #NT!
+ the_homeland_of_the_silent_striders_2_tt:0 "" #NT!
+ the_homeland_of_the_silent_striders_3_tt:0 "" #NT!
+ the_homeland_of_the_silent_striders_4_tt:0 "" #NT!
+ the_homeland_of_the_silent_striders_5_tt:0 "" #NT!
+
+ the_former_homeland_of_the_white_howlers_title:0 "The Former Homeland of the White Howlers" #NT!
+ the_former_homeland_of_the_white_howlers_desc:0 "The former homeland of the White Howlers has unrecognizably been twisted by the Wyrm. The air is thick with smoke and ripples with heat. A sickly green sun beats down on the surface, unblocked by any kind of ozone layer. Night brings no relief as pollutants cool and sink to the surface, causing the moon to appear fluorescent yellow through the vapors." #NT!
+ the_former_homeland_of_the_white_howlers_confirm:0 "Return to the White Howler Homeland" #NT!
+ the_former_homeland_of_the_white_howlers_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ the_former_homeland_of_the_white_howlers_1_tt:0 "" #NT!
+ the_former_homeland_of_the_white_howlers_2_tt:0 "" #NT!
+ the_former_homeland_of_the_white_howlers_3_tt:0 "" #NT!
+ the_former_homeland_of_the_white_howlers_4_tt:0 "" #NT!
+ the_former_homeland_of_the_white_howlers_5_tt:0 "" #NT!
+
+ calumn_title:0 "Calumn" #NT!
+ calumn_desc:0 "A Calumn is a Wyrm domain within the Near Umbra. They develop when a particularly strong, negative emotion is expressed in a place within the physical world that it leaves a print within the Umbra. It is a magnet for Banes and Spirits that live near a Calumn show signs of their respective emotion and even inanimate objects becomes tainted by the proximity." #NT!
+ calumn_confirm:0 "Fall into the Calumn" #NT!
+ calumn_0_tt:0 "Gain minor [stress|E] every #V 3#! months. #Weak (Unless you are serving the Wyrm)#!\nChance of getting a random monthly event if a stationed explorer is here." #NT!
+ calumn_1_tt:0 "" #NT!
+ calumn_2_tt:0 "" #NT!
+ calumn_3_tt:0 "" #NT!
+ calumn_4_tt:0 "" #NT!
+ calumn_5_tt:0 "" #NT!
+
+ atrocity_realm_title:0 "Atrocity Realm" #NT!
+ atrocity_realm_desc:0 "The Atrocity Realm, known to mages as the Wasteland, is one of the Near Realms. Millennia of suffering from all the world's victims have created this Realm, a place where the worst cruelties and tortures have been immortalized." #NT!
+ atrocity_realm_confirm:0 "Step into the Atrocity" #NT!
+ atrocity_realm_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ atrocity_realm_1_tt:0 "" #NT!
+ atrocity_realm_2_tt:0 "" #NT!
+ atrocity_realm_3_tt:0 "" #NT!
+ atrocity_realm_4_tt:0 "" #NT!
+ atrocity_realm_5_tt:0 "" #NT!
+
+ battleground_title:0 "Battleground" #NT!
+ battleground_desc:0 "The Battleground, known in the East as the Realm of Fighting Spirits, is a Near Realm within the Umbra containing every battle that has ever been fought, from the earliest conflicts between neolithic tribes against bears and wolves, the Impergium and the Wars of Rage up to the current religious conflicts in Iberia and the Middle East." #NT!
+ battleground_confirm:0 "Step into the Battleground" #NT!
+ battleground_0_tt:0 "As action option, allow you to gain martial lifestyle training.\nChance of getting a random monthly event if a stationed explorer is here." #NT!
+ battleground_1_tt:0 "As action option, allow you to gain a new Commander trait.\nHigher reward/requirement for martial lifestyle training unlocked. (+1)" #NT!
+ battleground_2_tt:0 "Higher reward/requirement for martial lifestyle training unlocked. (+2)" #NT!
+ battleground_3_tt:0 "Higher reward/requirement for martial lifestyle training unlocked. (+3)" #NT!
+ battleground_4_tt:0 "Higher reward/requirement for martial lifestyle training unlocked. (+4)" #NT!
+ battleground_5_tt:0 "Higher reward/requirement for martial lifestyle training unlocked. (+5)" #NT!
+
+ cyberrealm_title:0 "CyberRealm" #NT!
+ cyberrealm_desc:0 "The CyberRealm is one of the thirteen Near Realms in the Umbra. This realm represents perhaps the pinnacle of the Weaver's influence in the Umbra. It is called Dystopia by mages." #NT!
+ cyberrealm_confirm:0 "Step into the CyberRealm" #NT!
+ cyberrealm_0_tt:0 "" #NT!
+ cyberrealm_1_tt:0 "" #NT!
+ cyberrealm_2_tt:0 "" #NT!
+ cyberrealm_3_tt:0 "" #NT!
+ cyberrealm_4_tt:0 "" #NT!
+ cyberrealm_5_tt:0 "" #NT!
+
+ erebus_title:0 "Erebus" #NT!
+ erebus_desc:0 "Often compared to Garou 'hell', Erebus is actually a place of spiritual cleansing. It is filled with rivers of molten silver which both burn and heal at the same time, extending the torment of the inmates for months, years, possibly even centuries." #NT!
+ erebus_confirm:0 "Step into the Erebus" #NT!
+ erebus_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ erebus_1_tt:0 "" #NT!
+ erebus_2_tt:0 "" #NT!
+ erebus_3_tt:0 "" #NT!
+ erebus_4_tt:0 "" #NT!
+ erebus_5_tt:0 "" #NT!
+
+ flux_realm_title:0 "Flux Realm" #NT!
+ flux_realm_desc:0 "The Flux, Flux Realm, or Radiance is a Realm within the Near Umbra. It is a powerful reservoir of pure, undiluted Wyld energy, untainted by the chartering of the Weaver." #NT!
+ flux_realm_confirm:0 "Step into the Flux" #NT!
+ flux_realm_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ flux_realm_1_tt:0 "" #NT!
+ flux_realm_2_tt:0 "" #NT!
+ flux_realm_3_tt:0 "" #NT!
+ flux_realm_4_tt:0 "" #NT!
+ flux_realm_5_tt:0 "" #NT!
+
+ hy_brasil_title:0 "Hy-Brasil" #NT!
+ hy_brasil_desc:0 "Hy-Brasil appears as a land of endless fantasy stories. Here, the seasons never change and day stands locked eternally in twilight. In the western half of the land, the sun sets in a midsummer sky. To the east, the moon rises, cold and baleful, over a midwinter night." #NT!
+ hy_brasil_confirm:0 "Step into Hy-Brasil" #NT!
+ hy_brasil_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ hy_brasil_1_tt:0 "" #NT!
+ hy_brasil_2_tt:0 "" #NT!
+ hy_brasil_3_tt:0 "" #NT!
+ hy_brasil_4_tt:0 "" #NT!
+ hy_brasil_5_tt:0 "" #NT!
+
+ legendary_realm_title:0 "Legendary Realm" #NT!
+ legendary_realm_desc:0 "The Legendary Realm is one of the Near Realms located in the Near Umbra. Garou traveling through this realm can experience the lives of their legendary ancestors. Events within the realm not strict historical recreations, however; they may reflect tales altered over time to suit the ideals of the current world." #NT!
+ legendary_realm_confirm:0 "Step into the Legendary Realm" #NT!
+ legendary_realm_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ legendary_realm_1_tt:0 "" #NT!
+ legendary_realm_2_tt:0 "" #NT!
+ legendary_realm_3_tt:0 "" #NT!
+ legendary_realm_4_tt:0 "" #NT!
+ legendary_realm_5_tt:0 "" #NT!
+
+ mountains_of_heaven_title:0 "Mountains of Heaven" #NT!
+ mountains_of_heaven_desc:0 "The Mountains of Heaven are an Umbral Realm within the Yang World. The Realm manifests as a great chain of mountains, dwarfing even the mighty Himalayas, crests above a sea of clouds." #NT!
+ mountains_of_heaven_confirm:0 "Climb the Mountains of Heaven" #NT!
+ mountains_of_heaven_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ mountains_of_heaven_1_tt:0 "" #NT!
+ mountains_of_heaven_2_tt:0 "" #NT!
+ mountains_of_heaven_3_tt:0 "" #NT!
+ mountains_of_heaven_4_tt:0 "" #NT!
+ mountains_of_heaven_5_tt:0 "" #NT!
+
+ pangaea_title:0 "Pangaea" #NT!
+ pangaea_desc:0 "Pangaea is a reflection of primal Earth, showing the world as it was before civilization, human history, and even the Impergium." #NT!
+ pangaea_confirm:0 "Step into the Pangaea" #NT!
+ pangaea_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ pangaea_1_tt:0 "Can recruit [GetMaA('plesiosaurs').GetName] as [men_at_arms|E]" #NT!
+ pangaea_2_tt:0 "Can recruit [GetMaA('pterosaurs').GetName] as [men_at_arms|E]" #NT!
+ pangaea_3_tt:0 "Can recruit [GetMaA('carnosaurs').GetName] as [men_at_arms|E]" #NT!
+ pangaea_4_tt:0 "Can recruit [GetMaA('herbosaurs').GetName] as [men_at_arms|E]" #NT!
+ pangaea_5_tt:0 "" #NT!
+
+ scar_title:0 "Scar" #NT!
+ scar_desc:0 "Scar is one of the Near Realms of the Umbra. It is a manifestation of the industrial revolution corrupted into a soul grinding oppression under a rusted prosperity ideal." #NT!
+ scar_confirm:0 "Step into the Scar" #NT!
+ scar_0_tt:0 "" #NT!
+ scar_1_tt:0 "" #NT!
+ scar_2_tt:0 "" #NT!
+ scar_3_tt:0 "" #NT!
+ scar_4_tt:0 "" #NT!
+ scar_5_tt:0 "" #NT!
+
+ summer_country_title:0 "Summer Country" #NT!
+ summer_country_desc:0 "The Summer Country is one of the Near Realms located in Earth's Near Umbra. It is now little more than a myth, as it’s been fading away for decades. Legends say the realm is a reflection of Gaia’s pure and boundless love for Her children." #NT!
+ summer_country_confirm:0 "Step into the Summer Country" #NT!
+ summer_country_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ summer_country_1_tt:0 "" #NT!
+ summer_country_2_tt:0 "" #NT!
+ summer_country_3_tt:0 "" #NT!
+ summer_country_4_tt:0 "" #NT!
+ summer_country_5_tt:0 "" #NT!
+
+ tiger_lands_title:0 "Tiger Lands" #NT!
+ tiger_lands_desc:0 "The Tiger Lands are a Yang Realm within the Eastern Umbra that acts as a refugee for the spirits of threatened animals and spirits who have lost their homes following human clearcuttings." #NT!
+ tiger_lands_confirm:0 "Step into the Tiger Lands" #NT!
+ tiger_lands_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ tiger_lands_1_tt:0 "" #NT!
+ tiger_lands_2_tt:0 "" #NT!
+ tiger_lands_3_tt:0 "" #NT!
+ tiger_lands_4_tt:0 "" #NT!
+ tiger_lands_5_tt:0 "" #NT!
+
+ umi_title:0 "Umi" #NT!
+ umi_desc:0 "One of the mightiest Umbral realms of the Middle Kingdom, the domain of Umi claims the entire Pacific as its purview, though certain Polynesian and Indonesian spirit realms beg to differ." #NT!
+ umi_confirm:0 "Dive into the Umi" #NT!
+ umi_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ umi_1_tt:0 "" #NT!
+ umi_2_tt:0 "" #NT!
+ umi_3_tt:0 "" #NT!
+ umi_4_tt:0 "" #NT!
+ umi_5_tt:0 "" #NT!
+
+ wolfhome_title:0 "Wolfhome" #NT!
+ wolfhome_desc:0 "Wolfhome is one of the Near Realms, located in Earth's Near Umbra. It is frequented by Garou. This realm is a vast expanse of pristine wilderness. Answers to primal mysteries are hidden here." #NT!
+ wolfhome_confirm:0 "Step into the Wolfhome" #NT!
+ wolfhome_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ wolfhome_1_tt:0 "" #NT!
+ wolfhome_2_tt:0 "" #NT!
+ wolfhome_3_tt:0 "" #NT!
+ wolfhome_4_tt:0 "" #NT!
+ wolfhome_5_tt:0 "" #NT!
+
+ aetherial_realm_title:0 "Aetherial Realm" #NT!
+ aetherial_realm_desc:0 "The Aetherial Realm, also known as Aetheria, is the farthest expanse of the Near Realm within the Umbra that spans over the Spirit Wilds up to the Membrane. It is reflected in the physical world as the skies above that constantly cycle through night and day." #NT!
+ aetherial_realm_confirm:0 "Fly into the Aetheria" #NT!
+ aetherial_realm_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ aetherial_realm_1_tt:0 "" #NT!
+ aetherial_realm_2_tt:0 "" #NT!
+ aetherial_realm_3_tt:0 "" #NT!
+ aetherial_realm_4_tt:0 "" #NT!
+ aetherial_realm_5_tt:0 "" #NT!
+
+ court_of_eshtarra_title:0 "Court of Eshtarra" #NT!
+ court_of_eshtarra_desc:0 "Eshtarra, the Songteller, is the Planetary Incarna of Earth according to Garou Astrology." #NT!
+ court_of_eshtarra_confirm:0 "Visit the Incarna of Earth" #NT!
+ court_of_eshtarra_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_eshtarra_1_tt:0 "Gain the [GetPerk('earth_sense_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_eshtarra_2_tt:0 "Gain the [GetPerk('herb_call_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_eshtarra_3_tt:0 "Gain the [GetPerk('oaksong_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_eshtarra_4_tt:0 "Gain the [GetPerk('lore_of_the_land_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_eshtarra_5_tt:0 "Gain the [GetPerk('earth_heal_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_sokhta_title:0 "Court of Sokhta" #NT!
+ court_of_sokhta_desc:0 "Sokhta is an aspect of Luna, the Celestine who is the patron of the Garou and many other Changing Breeds, and her court is home to many Lunes and other spirits sympathetic to the Garou Nation." #NT!
+ court_of_sokhta_confirm:0 "Visit the Incarna of the Moon" #NT!
+ court_of_sokhta_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_sokhta_1_tt:0 "Gain the [GetPerk('lambent_sight_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_sokhta_2_tt:0 "Gain the [GetPerk('moonpool_of_sokhta_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_sokhta_3_tt:0 "Gain the [GetPerk('moonriver_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_sokhta_4_tt:0 "Gain the [GetPerk('mooncat_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_sokhta_5_tt:0 "Gain the [GetPerk('moondream_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_katanka_sonnak_title:0 "Court of Katanka-Sonnak" #NT!
+ court_of_katanka_sonnak_desc:0 "Katanka-Sonnak, the Wind Rider, is the Planetary Incarna of the Sun in Garou Astrology." #NT!
+ court_of_katanka_sonnak_confirm:0 "Visit the Incarna of Sun" #NT!
+ court_of_katanka_sonnak_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_katanka_sonnak_1_tt:0 "Gain the [GetPerk('find_the_hearts_flame_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_katanka_sonnak_2_tt:0 "Gain the [GetPerk('flame_of_the_wind_rider_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_katanka_sonnak_3_tt:0 "Gain the [GetPerk('ride_the_solar_winds_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_katanka_sonnak_4_tt:0 "Gain the [GetPerk('hand_of_the_sun_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_katanka_sonnak_5_tt:0 "Gain the [GetPerk('cleansing_flame_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_mitanu_title:0 "Court of Mitanu" #NT!
+ court_of_mitanu_desc:0 "Mitanu, the Clever Rogue, is known in Garou astrology as the Planetary Incarna of Mercury. He is both a trickster and a lover of comedy." #NT!
+ court_of_mitanu_confirm:0 "Visit the Incarna of Mercury" #NT!
+ court_of_mitanu_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_mitanu_1_tt:0 "Gain the [GetPerk('speed_of_the_messenger_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_mitanu_2_tt:0 "Gain the [GetPerk('planetarygifts_sticky_fingers_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_mitanu_3_tt:0 "Gain the [GetPerk('planetarygifts_deliberate_misinformation_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_mitanu_4_tt:0 "Gain the [GetPerk('mercurial_messenger_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_mitanu_5_tt:0 "Gain the [GetPerk('madthought_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_hakahe_title:0 "Court of Hakahe" #NT!
+ court_of_hakahe_desc:0 "Hakahe is the Incarna of Vulcan, the planet closer to the sun than Mercury, and is credited with forging the souls of newborn Garou." #NT!
+ court_of_hakahe_confirm:0 "Visit the Incarna of Vulcan" #NT!
+ court_of_hakahe_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_hakahe_1_tt:0 "Gain the [GetPerk('uncloak_the_hidden_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_hakahe_2_tt:0 "Gain the [GetPerk('shadow_of_the_ebon_whisperer_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_hakahe_3_tt:0 "Gain the [GetPerk('hidden_heart_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_hakahe_4_tt:0 "Gain the [GetPerk('whisper_in_the_dark_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_hakahe_5_tt:0 "Gain the [GetPerk('planetarygifts_ebon_binding_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_tambiyah_title:0 "Court of Tambiyah" #NT!
+ court_of_tambiyah_desc:0 "Tambiyah, the Veiled Mother, is the Planetary Incarna of the Venus in Garou Astrology." #NT!
+ court_of_tambiyah_confirm:0 "Visit the Incarna of Venus" #NT!
+ court_of_tambiyah_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_tambiyah_1_tt:0 "Gain the [GetPerk('find_the_child_within_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_tambiyah_2_tt:0 "Gain the [GetPerk('mantle_of_the_land_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_tambiyah_3_tt:0 "Gain the [GetPerk('veil_of_the_mother_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_tambiyah_4_tt:0 "Gain the [GetPerk('motherly_guardian_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_tambiyah_5_tt:0 "Gain the [GetPerk('bring_forth_the_future_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_nerigal_title:0 "Court of Nerigal" #NT!
+ court_of_nerigal_desc:0 "Nerigal, the Ice Warrior, is the Planetary Incarna of Mars according to Garou Astrology." #NT!
+ court_of_nerigal_confirm:0 "Visit the Incarna of Mars" #NT!
+ court_of_nerigal_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_nerigal_1_tt:0 "Gain the [GetPerk('planetarygifts_battlesense_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_nerigal_2_tt:0 "Gain the [GetPerk('shards_of_icy_rage_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_nerigal_3_tt:0 "Gain the [GetPerk('nerigals_call_to_arms_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_nerigal_4_tt:0 "Gain the [GetPerk('challenge_of_single_combat_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_nerigal_5_tt:0 "Gain the [GetPerk('heart_of_the_ice_warrior_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_rorg_title:0 "Court of Rorg" #NT!
+ court_of_rorg_desc:0 "Rorg, the Many-Taloned Hunter, is the Incarna of Turog, a destroyed planet that forms the Asteroid Belt, according to Garou astrology." #NT!
+ court_of_rorg_confirm:0 "Visit the Incarna of Turog" #NT!
+ court_of_rorg_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_rorg_1_tt:0 "Gain the [GetPerk('rouse_to_anger_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_rorg_2_tt:0 "Gain the [GetPerk('foetracker_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_rorg_3_tt:0 "Gain the [GetPerk('savagery_of_the_taloned_hunter_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_rorg_4_tt:0 "Gain the [GetPerk('hunters_horn_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_rorg_5_tt:0 "Gain the [GetPerk('pack_mind_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_zarok_title:0 "Court of Zarok" #NT!
+ court_of_zarok_desc:0 "Zarok, the Crowned Ruler, is the Planetary Incarna of the Jupiter in Garou Astrology." #NT!
+ court_of_zarok_confirm:0 "Visit the Incarna of Jupiter" #NT!
+ court_of_zarok_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_zarok_1_tt:0 "Gain the [GetPerk('aura_of_leadership_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_zarok_2_tt:0 "Gain the [GetPerk('proclamation_of_action_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_zarok_3_tt:0 "Gain the [GetPerk('planetarygifts_undisputed_ruler_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_zarok_4_tt:0 "Gain the [GetPerk('enthronement_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_zarok_5_tt:0 "Gain the [GetPerk('grand_gesture_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_lu_bat_title:0 "Court of Lu-Bat" #NT!
+ court_of_lu_bat_desc:0 "Lu-Bat, the Peaceful Counselor, is the Planetary Incarna of the Saturn in Garou Astrology." #NT!
+ court_of_lu_bat_confirm:0 "Visit the Incarna of Saturn" #NT!
+ court_of_lu_bat_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_lu_bat_1_tt:0 "Gain the [GetPerk('sense_limits_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_lu_bat_2_tt:0 "Gain the [GetPerk('peace_of_the_counselor_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_lu_bat_3_tt:0 "Gain the [GetPerk('pall_of_despair_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_lu_bat_4_tt:0 "Gain the [GetPerk('harmonious_slumber_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_lu_bat_5_tt:0 "Gain the [GetPerk('burden_of_knowledge_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_ruatma_title:0 "Court of Ruatma" #NT!
+ court_of_ruatma_desc:0 "Ruatma, the Shadowed One, is the Incarna of Uranus." #NT!
+ court_of_ruatma_confirm:0 "Visit the Incarna of Uranus" #NT!
+ court_of_ruatma_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_ruatma_1_tt:0 "Gain the [GetPerk('find_the_portent_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_ruatma_2_tt:0 "Gain the [GetPerk('hidden_depths_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_ruatma_3_tt:0 "Gain the [GetPerk('unravel_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_ruatma_4_tt:0 "Gain the [GetPerk('blank_slate_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_ruatma_5_tt:0 "Gain the [GetPerk('diplomatic_immunity_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_shantar_title:0 "Court of Shantar" #NT!
+ court_of_shantar_desc:0 "Shantar, the Loom Maker, is the Incarna of Neptune." #NT!
+ court_of_shantar_confirm:0 "Visit the Incarna of Neptune" #NT!
+ court_of_shantar_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_shantar_1_tt:0 "Gain the [GetPerk('threads_of_the_tapestry_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_shantar_2_tt:0 "Gain the [GetPerk('fixit_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_shantar_3_tt:0 "Gain the [GetPerk('tangling_the_skein_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_shantar_4_tt:0 "Gain the [GetPerk('shantars_loom_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_shantar_5_tt:0 "Gain the [GetPerk('drown_perk').GetName( GetPlayer )] Perk" #NT!
+
+ court_of_meros_title:0 "Court of Meros" #NT!
+ court_of_meros_desc:0 "Meros, the Wanderer, is the Incarna of Pluto." #NT!
+ court_of_meros_confirm:0 "Visit the Incarna of Pluto" #NT!
+ court_of_meros_0_tt:0 "Allow sending offers and requests to Incarna." #NT!
+ court_of_meros_1_tt:0 "Gain the [GetPerk('sense_of_the_transformation_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_meros_2_tt:0 "Gain the [GetPerk('shorten_the_road_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_meros_3_tt:0 "Gain the [GetPerk('wyld_spirits_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_meros_4_tt:0 "Gain the [GetPerk('sleeps_travels_perk').GetName( GetPlayer )] Perk" #NT!
+ court_of_meros_5_tt:0 "Gain the [GetPerk('essential_transformation_perk').GetName( GetPlayer )] Perk" #NT!
+
+ weaver_reaches_title:0 "Weaver Reaches" #NT!
+ weaver_reaches_desc:0 "The Weaver Reaches are strands of calcified reality, similar to an astronomer’s computerized map. The web’s intersecting nodes lock cold stars and frozen planets to an unnatural symmetry. No signs of life exist. Colossal Weaver spirits such as ‘star spiders’ patrol and maintain the web and ensure everything remains in its ordained place." #NT!
+ weaver_reaches_confirm:0 "Enter the Weaver Reaches" #NT!
+ weaver_reaches_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ weaver_reaches_1_tt:0 "As an action option, allow you to gain [GetTrait('drone').GetName( GetPlayer )] trait." #NT!
+ weaver_reaches_2_tt:0 "" #NT!
+ weaver_reaches_3_tt:0 "" #NT!
+ weaver_reaches_4_tt:0 "" #NT!
+ weaver_reaches_5_tt:0 "" #NT!
+
+ wyld_reaches_title:0 "Wyld Reaches" #NT!
+ wyld_reaches_desc:0 "The Wyld Reaches are a place of chaos. Planets and comets dance around each other with colliding according to ever-shifting laws. Burning cold suns that freeze everything around them and others that push everything away with antigravity waves circle among them." #NT!
+ wyld_reaches_confirm:0 "Enter the Wyld Reaches" #NT!
+ wyld_reaches_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ wyld_reaches_1_tt:0 "As action option, allow you to gain [GetTrait('gorgon').GetName( GetPlayer )] trait." #NT!
+ wyld_reaches_2_tt:0 "" #NT!
+ wyld_reaches_3_tt:0 "" #NT!
+ wyld_reaches_4_tt:0 "" #NT!
+ wyld_reaches_5_tt:0 "" #NT!
+
+ wyrm_reaches_title:0 "Wyrm Reaches" #NT!
+ wyrm_reaches_desc:0 "The stars within the Wyrm Reaches have burned-out to lifeless husks or collapsed into black holes that usually lead into Malfeas. Nebulas of pollution and balefire swirl around them, obscuring their constellations from anyone who looks at them, making them dark blotches within the Umbral sky." #NT!
+ wyrm_reaches_confirm:0 "Enter the Wyrm Reaches" #NT!
+ wyrm_reaches_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ wyrm_reaches_1_tt:0 "As action option, allow you to gain [GetTrait('fomori').GetName( GetPlayer )] trait." #NT!
+ wyrm_reaches_2_tt:0 "" #NT!
+ wyrm_reaches_3_tt:0 "" #NT!
+ wyrm_reaches_4_tt:0 "" #NT!
+ wyrm_reaches_5_tt:0 "" #NT!
+
+ shard_realm_of_prime_title:0 "Shard Realm of Prime" #NT!
+ shard_realm_of_prime_desc:0 "[shard_realm|E] connected to the Earth and Luna." #NT!
+ shard_realm_of_prime_confirm:0 "Enter the Shard of Prime" #NT!
+ shard_realm_of_prime_0_tt:0 "" #NT!
+ shard_realm_of_prime_1_tt:0 "As action option, allow you to gain [GetTrait('kami').GetName( GetPlayer )] trait." #NT!
+ shard_realm_of_prime_2_tt:0 "" #NT!
+ shard_realm_of_prime_3_tt:0 "" #NT!
+ shard_realm_of_prime_4_tt:0 "" #NT!
+ shard_realm_of_prime_5_tt:0 "" #NT!
+
+ shard_realm_of_infinity_title:0 "Shard Realm of Infinity" #NT!
+ shard_realm_of_infinity_desc:0 "[shard_realm|E] connected to Sol." #NT!
+ shard_realm_of_infinity_confirm:0 "Enter the Shard of Infinity" #NT!
+ shard_realm_of_infinity_0_tt:0 "" #NT!
+ shard_realm_of_infinity_1_tt:0 "" #NT!
+ shard_realm_of_infinity_2_tt:0 "" #NT!
+ shard_realm_of_infinity_3_tt:0 "" #NT!
+ shard_realm_of_infinity_4_tt:0 "" #NT!
+ shard_realm_of_infinity_5_tt:0 "" #NT!
+
+ shard_realm_of_correspondence_title:0 "Shard Realm of Correspondence" #NT!
+ shard_realm_of_correspondence_desc:0 "[shard_realm|E] connected to Mercury." #NT!
+ shard_realm_of_correspondence_confirm:0 "Enter the Shard of Correspondence" #NT!
+ shard_realm_of_correspondence_0_tt:0 "" #NT!
+ shard_realm_of_correspondence_1_tt:0 "" #NT!
+ shard_realm_of_correspondence_2_tt:0 "" #NT!
+ shard_realm_of_correspondence_3_tt:0 "" #NT!
+ shard_realm_of_correspondence_4_tt:0 "" #NT!
+ shard_realm_of_correspondence_5_tt:0 "" #NT!
+
+ shard_realm_of_life_title:0 "Shard Realm of Life" #NT!
+ shard_realm_of_life_desc:0 "[shard_realm|E] connected to Venus." #NT!
+ shard_realm_of_life_confirm:0 "Enter the Shard of Life" #NT!
+ shard_realm_of_life_0_tt:0 "" #NT!
+ shard_realm_of_life_1_tt:0 "" #NT!
+ shard_realm_of_life_2_tt:0 "" #NT!
+ shard_realm_of_life_3_tt:0 "" #NT!
+ shard_realm_of_life_4_tt:0 "" #NT!
+ shard_realm_of_life_5_tt:0 "" #NT!
+
+ shard_realm_of_forces_title:0 "Shard Realm of Forces" #NT!
+ shard_realm_of_forces_desc:0 "[shard_realm|E] connected to Mars." #NT!
+ shard_realm_of_forces_confirm:0 "Enter the Shard of Forces" #NT!
+ shard_realm_of_forces_0_tt:0 "" #NT!
+ shard_realm_of_forces_1_tt:0 "" #NT!
+ shard_realm_of_forces_2_tt:0 "" #NT!
+ shard_realm_of_forces_3_tt:0 "" #NT!
+ shard_realm_of_forces_4_tt:0 "" #NT!
+ shard_realm_of_forces_5_tt:0 "" #NT!
+
+ shard_realm_of_matter_title:0 "Shard Realm of Matter" #NT!
+ shard_realm_of_matter_desc:0 "[shard_realm|E] connected to Jupiter." #NT!
+ shard_realm_of_matter_confirm:0 "Enter the Shard of Matter" #NT!
+ shard_realm_of_matter_0_tt:0 "" #NT!
+ shard_realm_of_matter_1_tt:0 "" #NT!
+ shard_realm_of_matter_2_tt:0 "" #NT!
+ shard_realm_of_matter_3_tt:0 "" #NT!
+ shard_realm_of_matter_4_tt:0 "" #NT!
+ shard_realm_of_matter_5_tt:0 "" #NT!
+
+ shard_realm_of_time_title:0 "Shard Realm of Time" #NT!
+ shard_realm_of_time_desc:0 "[shard_realm|E] connected to Saturn." #NT!
+ shard_realm_of_time_confirm:0 "Enter the Shard of Time" #NT!
+ shard_realm_of_time_0_tt:0 "" #NT!
+ shard_realm_of_time_1_tt:0 "" #NT!
+ shard_realm_of_time_2_tt:0 "" #NT!
+ shard_realm_of_time_3_tt:0 "" #NT!
+ shard_realm_of_time_4_tt:0 "" #NT!
+ shard_realm_of_time_5_tt:0 "" #NT!
+
+ shard_realm_of_spirit_title:0 "Shard Realm of Spirit" #NT!
+ shard_realm_of_spirit_desc:0 "[shard_realm|E] connected to Uranus." #NT!
+ shard_realm_of_spirit_confirm:0 "Enter the Shard of Spirit" #NT!
+ shard_realm_of_spirit_0_tt:0 "" #NT!
+ shard_realm_of_spirit_1_tt:0 "" #NT!
+ shard_realm_of_spirit_2_tt:0 "" #NT!
+ shard_realm_of_spirit_3_tt:0 "" #NT!
+ shard_realm_of_spirit_4_tt:0 "" #NT!
+ shard_realm_of_spirit_5_tt:0 "" #NT!
+
+ shard_realm_of_mind_title:0 "Shard Realm of Mind" #NT!
+ shard_realm_of_mind_desc:0 "[shard_realm|E] connected to Neptune." #NT!
+ shard_realm_of_mind_confirm:0 "Enter the Shard of Mind" #NT!
+ shard_realm_of_mind_0_tt:0 "" #NT!
+ shard_realm_of_mind_1_tt:0 "" #NT!
+ shard_realm_of_mind_2_tt:0 "" #NT!
+ shard_realm_of_mind_3_tt:0 "" #NT!
+ shard_realm_of_mind_4_tt:0 "" #NT!
+ shard_realm_of_mind_5_tt:0 "" #NT!
+
+ shard_realm_of_entropy_title:0 "Shard Realm of Entropy" #NT!
+ shard_realm_of_entropy_desc:0 "[shard_realm|E] connected to Pluto." #NT!
+ shard_realm_of_entropy_confirm:0 "Enter the Shard of Entropy" #NT!
+ shard_realm_of_entropy_0_tt:0 "" #NT!
+ shard_realm_of_entropy_1_tt:0 "" #NT!
+ shard_realm_of_entropy_2_tt:0 "" #NT!
+ shard_realm_of_entropy_3_tt:0 "" #NT!
+ shard_realm_of_entropy_4_tt:0 "" #NT!
+ shard_realm_of_entropy_5_tt:0 "" #NT!
+
+ shade_realm_of_correspondence_title:0 "Shade Realm of Correspondence" #NT!
+ shade_realm_of_correspondence_desc:0 "[shade_realm|E] connected to Mercury. This Shade Realm cannot be directly reached from Earth, and those who do manage to get there find themselves moving though omnidimensional space according to unfathomable geometries." #NT!
+ shade_realm_of_correspondence_confirm:0 "Enter the Shade of Correspondence" #NT!
+ shade_realm_of_correspondence_0_tt:0 "" #NT!
+ shade_realm_of_correspondence_1_tt:0 "" #NT!
+ shade_realm_of_correspondence_2_tt:0 "" #NT!
+ shade_realm_of_correspondence_3_tt:0 "" #NT!
+ shade_realm_of_correspondence_4_tt:0 "" #NT!
+ shade_realm_of_correspondence_5_tt:0 "" #NT!
+
+ shade_realm_of_life_title:0 "Shade Realm of Life" #NT!
+ shade_realm_of_life_desc:0 "[shade_realm|E] connected to Venus. This Realm is a lush, ever-changing jungle. Its relative accessibility from Earth has made it a frequent battleground in the Ascension War." #NT!
+ shade_realm_of_life_confirm:0 "Enter the Shade of Life" #NT!
+ shade_realm_of_life_0_tt:0 "" #NT!
+ shade_realm_of_life_1_tt:0 "" #NT!
+ shade_realm_of_life_2_tt:0 "" #NT!
+ shade_realm_of_life_3_tt:0 "" #NT!
+ shade_realm_of_life_4_tt:0 "" #NT!
+ shade_realm_of_life_5_tt:0 "" #NT!
+
+ shade_realm_of_forces_title:0 "Shade Realm of Forces" #NT!
+ shade_realm_of_forces_desc:0 "[shade_realm|E] connected to Mars. The Shade Realm of Forces is a never-ending tempest with only rare, isolated spots of relative calm. Doissetep occupied one of those calm spots, at least until its destruction. Like the Shade Realm of Life, its is a frequent (if dangerous) host to mage battles." #NT!
+ shade_realm_of_forces_confirm:0 "Enter the Shade of Forces" #NT!
+ shade_realm_of_forces_0_tt:0 "" #NT!
+ shade_realm_of_forces_1_tt:0 "" #NT!
+ shade_realm_of_forces_2_tt:0 "" #NT!
+ shade_realm_of_forces_3_tt:0 "" #NT!
+ shade_realm_of_forces_4_tt:0 "" #NT!
+ shade_realm_of_forces_5_tt:0 "" #NT!
+
+ shade_realm_of_matter_title:0 "Shade Realm of Matter" #NT!
+ shade_realm_of_matter_desc:0 "[shade_realm|E] connected to Jupiter. This Realm may be connected to Hollow Earth, or may be similar but on a far vaster scale--an empire of dinosaurs, lost civilizations and other things that no longer exist." #NT!
+ shade_realm_of_matter_confirm:0 "Enter the Shade of Matter" #NT!
+ shade_realm_of_matter_0_tt:0 "" #NT!
+ shade_realm_of_matter_1_tt:0 "" #NT!
+ shade_realm_of_matter_2_tt:0 "" #NT!
+ shade_realm_of_matter_3_tt:0 "" #NT!
+ shade_realm_of_matter_4_tt:0 "" #NT!
+ shade_realm_of_matter_5_tt:0 "" #NT!
+
+ shade_realm_of_time_title:0 "Shade Realm of Time" #NT!
+ shade_realm_of_time_desc:0 "[shade_realm|E] connected to Saturn. Any visitors to the Shade Realm of Time are taking a serious risk, as even the slightest movement results in temporal distortions and uncontrolled time travel." #NT!
+ shade_realm_of_time_confirm:0 "Enter the Shade of Time" #NT!
+ shade_realm_of_time_0_tt:0 "" #NT!
+ shade_realm_of_time_1_tt:0 "" #NT!
+ shade_realm_of_time_2_tt:0 "" #NT!
+ shade_realm_of_time_3_tt:0 "" #NT!
+ shade_realm_of_time_4_tt:0 "" #NT!
+ shade_realm_of_time_5_tt:0 "" #NT!
+
+ shade_realm_of_spirit_title:0 "Shade Realm of Spirit" #NT!
+ shade_realm_of_spirit_desc:0 "[shade_realm|E] connected to Uranus. There is no Gauntlet in the Shade Realm of Spirit: spirits and mortals can interact directly. It is also possible for a mage's Avatar to manifest corporeally here and converse with them." #NT!
+ shade_realm_of_spirit_confirm:0 "Enter the Shade of Spirit" #NT!
+ shade_realm_of_spirit_0_tt:0 "" #NT!
+ shade_realm_of_spirit_1_tt:0 "" #NT!
+ shade_realm_of_spirit_2_tt:0 "" #NT!
+ shade_realm_of_spirit_3_tt:0 "" #NT!
+ shade_realm_of_spirit_4_tt:0 "" #NT!
+ shade_realm_of_spirit_5_tt:0 "" #NT!
+
+ shade_realm_of_mind_title:0 "Shade Realm of Mind" #NT!
+ shade_realm_of_mind_desc:0 "[shade_realm|E] connected to Neptune. The nature of the Shade Realm of Mind is, as one might expect, defined by what one expects to find there. It reflects back the visitor's own thoughts and feelings, much like a mirror." #NT!
+ shade_realm_of_mind_confirm:0 "Enter the Shade of Mind" #NT!
+ shade_realm_of_mind_0_tt:0 "" #NT!
+ shade_realm_of_mind_1_tt:0 "" #NT!
+ shade_realm_of_mind_2_tt:0 "" #NT!
+ shade_realm_of_mind_3_tt:0 "" #NT!
+ shade_realm_of_mind_4_tt:0 "" #NT!
+ shade_realm_of_mind_5_tt:0 "" #NT!
+
+ shade_realm_of_entropy_title:0 "Shade Realm of Entropy" #NT!
+ shade_realm_of_entropy_desc:0 "[shade_realm|E] connected to Pluto. Supposedly here the Great Karmic Wheel of the Universe is laid bare, and it may even have a direct connection to the Shadowlands." #NT!
+ shade_realm_of_entropy_confirm:0 "Enter the Shade of Entropy" #NT!
+ shade_realm_of_entropy_0_tt:0 "" #NT!
+ shade_realm_of_entropy_1_tt:0 "" #NT!
+ shade_realm_of_entropy_2_tt:0 "" #NT!
+ shade_realm_of_entropy_3_tt:0 "" #NT!
+ shade_realm_of_entropy_4_tt:0 "" #NT!
+ shade_realm_of_entropy_5_tt:0 "" #NT!
+
+ first_horizon_title:0 "First Horizon" #NT!
+ first_horizon_desc:0 " The First Horizon lies at the edge of Earth's atmosphere and is studded with Horizon Realms, including the [shade_realm|E]s. " #NT!
+ first_horizon_confirm:0 "Fly into the First Horizon" #NT!
+ first_horizon_0_tt:0 "" #NT!
+ first_horizon_1_tt:0 "" #NT!
+ first_horizon_2_tt:0 "" #NT!
+ first_horizon_3_tt:0 "" #NT!
+ first_horizon_4_tt:0 "" #NT!
+ first_horizon_5_tt:0 "" #NT!
+
+ true_horizon_title:0 "True Horizon" #NT!
+ true_horizon_desc:0 "The True Horizon is a vast expanse of the Umbra located between the Near Umbra and Far Umbra. To Sleepers, it manifests as the space between the Sun and the asteroid belt. " #NT!
+ true_horizon_confirm:0 "Fly into the True Horizon" #NT!
+ true_horizon_0_tt:0 "" #NT!
+ true_horizon_1_tt:0 "" #NT!
+ true_horizon_2_tt:0 "" #NT!
+ true_horizon_3_tt:0 "" #NT!
+ true_horizon_4_tt:0 "" #NT!
+ true_horizon_5_tt:0 "" #NT!
+
+ far_horizon_title:0 "Far Horizon" #NT!
+ far_horizon_desc:0 "The Far Horizon corresponds roughly to the location of the asteroid belt." #NT!
+ far_horizon_confirm:0 "Fly into the Far Horizon" #NT!
+ far_horizon_0_tt:0 "" #NT!
+ far_horizon_1_tt:0 "" #NT!
+ far_horizon_2_tt:0 "" #NT!
+ far_horizon_3_tt:0 "" #NT!
+ far_horizon_4_tt:0 "" #NT!
+ far_horizon_5_tt:0 "" #NT!
+
+ deep_umbra_title:0 "Deep Umbra" #NT!
+ deep_umbra_desc:0 "Deep Umbra, also called the Deep Universe, is a vast realm outside Earth's Umbral space. It is largely an immense void. From the human perspective, the Deep Umbra is deep space, outer space, or the whole of the universe." #NT!
+ deep_umbra_confirm:0 "Fly into the Deep Umbra" #NT!
+ deep_umbra_0_tt:0 "" #NT!
+ deep_umbra_1_tt:0 "As an action option, allow recruiting greater bygones." #NT!
+ deep_umbra_2_tt:0 "" #NT!
+ deep_umbra_3_tt:0 "As an action option, allow recruiting potent bygones." #NT!
+ deep_umbra_4_tt:0 "" #NT!
+ deep_umbra_5_tt:0 "" #NT!
+
+ malfeas_title:0 "Malfeas" #NT!
+ malfeas_desc:0 "Malfeas is the mad Shenti realm of the Wyrm located in the Deep Umbra. This is a hellish nightmare world full of every horrible thing imaginable, and a few things so horrible that simply trying to imagine them would drive people insane." #NT!
+ malfeas_confirm:0 "#X Fall into the Malfeas#!" #NT!
+ malfeas_0_tt:0 "Gain medium [stress|E] every #V 3#! months. #Weak (Unless you are serving the Wyrm)#!\nCan recruit [GetMaA('liderci').GetName] as [men_at_arms|E] if you have [GetPerk('bane_protector_perk').GetName( GetPlayer )] [perk|E]." #NT!
+ malfeas_1_tt:0 "" #NT!
+ malfeas_2_tt:0 "" #NT!
+ malfeas_3_tt:0 "" #NT!
+ malfeas_4_tt:0 "" #NT!
+ malfeas_5_tt:0 "" #NT!
+
+ black_spiral_labyrinth_title:0 "Black Spiral Labyrinth" #NT!
+ black_spiral_labyrinth_desc:0 "The Black Spiral Labyrinth, also called the Ebon Maze in the Middle Kingdom, is a spiral labyrinth within the realm of Malfeas containing unimaginable horrors of the Wyrm." #NT!
+ black_spiral_labyrinth_confirm:0 "#X Walk the Black Spiral#!" #NT!
+ black_spiral_labyrinth_0_tt:0 "#N 90%#! chance returning here when trying to escape.\nGain a lot of [stress|E] every #V 3#! months.\n#Weak (Unless you are serving the Wyrm)#!\nChance of getting a random monthly event if a stationed explorer is here." #NT!
+ black_spiral_labyrinth_1_tt:0 "" #NT!
+ black_spiral_labyrinth_2_tt:0 "" #NT!
+ black_spiral_labyrinth_3_tt:0 "" #NT!
+ black_spiral_labyrinth_4_tt:0 "" #NT!
+ black_spiral_labyrinth_5_tt:0 "" #NT!
+
+ first_city_title:0 "First City" #NT!
+ first_city_desc:0 "The First City, also known as The City of Enoch among other names, is recognized by Noddist scholars to be the first city of Cainite mythology as documented by the Book of Nod." #NT!
+ first_city_confirm:0 "#X Teleport to the First City#!" #NT!
+ first_city_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ first_city_1_tt:0 "Stationed character gain minor [prestige|E] every #V 3#! months." #NT!
+ first_city_2_tt:0 "" #NT!
+ first_city_3_tt:0 "Stationed character gain medium [prestige|E] every #V 3#! months." #NT!
+ first_city_4_tt:0 "" #NT!
+ first_city_5_tt:0 "Stationed character gain major [prestige|E] every #V 3#! months." #NT!
+
+ mirror_zone_title:0 "Mirror Zone" #NT!
+ mirror_zone_desc:0 "The mysterious Mirror Zone is fond of showing its "guests" what could have been." #NT!
+ mirror_zone_confirm:0 "Visit the Mirror Zone?" #NT!
+ mirror_zone_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ mirror_zone_1_tt:0 "" #NT!
+ mirror_zone_2_tt:0 "" #NT!
+ mirror_zone_3_tt:0 "" #NT!
+ mirror_zone_4_tt:0 "" #NT!
+ mirror_zone_5_tt:0 "" #NT!
+
+ null_zone_title:0 "Paths of the Wyck" #NT!
+ null_zone_desc:0 "The Paths of the Wyck are a maze of small roads leading to most realms of the Umbra. Orientation here is difficult, as the roads are always shifting and all look the same." #NT!
+ null_zone_confirm:0 "Visit the Paths of the Wyck?" #NT!
+ null_zone_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ null_zone_1_tt:0 "" #NT!
+ null_zone_2_tt:0 "" #NT!
+ null_zone_3_tt:0 "" #NT!
+ null_zone_4_tt:0 "" #NT!
+ null_zone_5_tt:0 "" #NT!
+
+ neter_khertet_title:0 "Neter-khertet" #NT!
+ neter_khertet_desc:0 "Before the foundation of the Dark Kingdom of Sand, the Egyptian dead dwelt within Neter-Khertet, the "divine subterranean place"." #NT!
+ neter_khertet_confirm:0 "Travel to Neter-khertet" #NT!
+ neter_khertet_0_tt:0 "Chance of getting a random monthly event if a stationed explorer is here." #NT!
+ neter_khertet_1_tt:0 "" #NT!
+ neter_khertet_2_tt:0 "" #NT!
+ neter_khertet_3_tt:0 "" #NT!
+ neter_khertet_4_tt:0 "" #NT!
+ neter_khertet_5_tt:0 "" #NT!
