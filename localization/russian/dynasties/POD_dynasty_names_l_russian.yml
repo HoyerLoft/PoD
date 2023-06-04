@@ -124,40 +124,40 @@
 
  dynn_gangrel:0 "[Clan|E] Гангрел" #NT!
  dynn_gangrel_motto:0 "[Clan|E] Зверя" #NT!
- dynn_wahsheen:0 "Wah'Sheen" #NT!
- dynn_wahsheen_motto:0 "Protectors of the Desert" #NT!
- dynn_noiad:0 "Noiad" #NT!
- dynn_noiad_motto:0 "Wanderers of the Northern Light" #NT!
- dynn_anda:0 "Anda" #NT!
- dynn_anda_motto:0 "We Will Mount the Night" #NT!
- dynn_akunanse:0 "Akunanse" #NT!
- dynn_akunanse_motto:0 "Experienced Weavers" #NT!
- dynn_lhiannan:0 "Lhiannan" #NT!
- dynn_lhiannan_motto:0 "Uncaged Beasts" #NT!
- dynn_odin:0 "Odin" #NT!
- dynn_odin_motto:0 "Chosen Warriors of Caharl" #NT!
- dynn_rufus:0 "Rufus" #NT!
- dynn_rufus_motto:0 "Precise Hunters" #NT!
- dynn_matasuntha:0 "Matasuntha" #NT!
- dynn_matasuntha_motto:0 "Scourges of God" #NT!
- dynn_hukros:0 "Hukros" #NT!
- dynn_hukros_motto:0 "Servants of the Bestial Mother" #NT!
- dynn_aajav:0 "Aajav" #NT!
- dynn_aajav_motto:0 "Without Equal" #NT!
- dynn_kurru:0 "Kurru" #NT!
- dynn_kurru_motto:0 "Eater of Snakes" #NT!
- dynn_vola:0 "Vola" #NT!
- dynn_vola_motto:0 "On Seas of Blood" #NT!
- dynn_ahrimane:0 "Ahrimane" #NT!
- dynn_ahrimane_motto:0 "Spirit of Vengeance" #NT!
- dynn_feroux:0 "Feroux" #NT!
- dynn_feroux_motto:0 "Loyalty Beyond Death" #NT!
- dynn_gilgamesh:0 "Gilgamesh" #NT!
- dynn_gilgamesh_motto:0 "Kings and Adventurers" #NT!
- dynn_enkidu:0 "Enkidu" #NT!
- dynn_enkidu_motto:0 "Wrath of Nature" #NT!
- dynn_ereshkigal:0 "Ereshkigal" #NT!
- dynn_ereshkigal_motto:0 "Beast of Oblivion" #NT!
+ dynn_wahsheen:0 "Вах'Шин" #NT!
+ dynn_wahsheen_motto:0 "Защитники Пустыни" #NT!
+ dynn_noiad:0 "Нойад" #NT!
+ dynn_noiad_motto:0 "Странники Северного сияния" #NT!
+ dynn_anda:0 "Анда" #NT!
+ dynn_anda_motto:0 "Мы Оседлаем Ночь" #NT!
+ dynn_akunanse:0 "Акунансе" #NT!
+ dynn_akunanse_motto:0 "Опытные Ткачи" #NT!
+ dynn_lhiannan:0 "Лианнан" #NT!
+ dynn_lhiannan_motto:0 "Звери Вне Клеток" #NT!
+ dynn_odin:0 "Один" #NT!
+ dynn_odin_motto:0 "Избранные Воины Кахарла" #NT!
+ dynn_rufus:0 "Руфус" #NT!
+ dynn_rufus_motto:0 "Точные Ахатники" #NT!
+ dynn_matasuntha:0 "Матасунта" #NT!
+ dynn_matasuntha_motto:0 "Бичи Божьи" #NT!
+ dynn_hukros:0 "Хукрос" #NT!
+ dynn_hukros_motto:0 "Слуги Звериной Матери" #NT!
+ dynn_aajav:0 "Ааджав" #NT!
+ dynn_aajav_motto:0 "Без равных" #NT!
+ dynn_kurru:0 "Курру" #NT!
+ dynn_kurru_motto:0 "Поедатель Змей" #NT!
+ dynn_vola:0 "Вола" #NT!
+ dynn_vola_motto:0 "По Морям Крови" #NT!
+ dynn_ahrimane:0 "Ахриман" #NT!
+ dynn_ahrimane_motto:0 "Дух Мести" #NT!
+ dynn_feroux:0 "Фурукс" #NT!
+ dynn_feroux_motto:0 "Верность После Смерти" #NT!
+ dynn_gilgamesh:0 "Гильгамеш" #NT!
+ dynn_gilgamesh_motto:0 "Короли и Авантюристы" #NT!
+ dynn_enkidu:0 "Энкиду" #NT!
+ dynn_enkidu_motto:0 "Гнев Природы" #NT!
+ dynn_ereshkigal:0 "Эрешкигаль" #NT!
+ dynn_ereshkigal_motto:0 "Зверь Бездны" #NT!
 
 # Lasombra #NT!
 
@@ -169,53 +169,53 @@
  dynn_deruiz_motto:0 "Nec Plus Ultra Noctis" #NT!
  dynn_narses:0 "Нарсес" #NT!
  dynn_narses_motto:0 "Молот Готов" #NT!
- dynn_boukephos:0 "Boukephos" #NT!
+ dynn_boukephos:0 "Букефос" #NT!
  dynn_boukephos_motto:0 "Morte Ascendo" #NT!
  dynn_sybil:0 "Сибиль" #NT!
  dynn_sybil_motto:0 "Превозмогай Все" #NT!
  dynn_gratiano:0 "Грациано" #NT!
  dynn_gratiano_motto:0 "Сила Определяет Положение" #NT!
- dynn_khanommehr:0 "Khanom Mehr" #NT!
- dynn_khanommehr_motto:0 "Shield of Darkness" #NT!
- dynn_karotos:0 "Karotos" #NT!
- dynn_karotos_motto:0 "Poets of Night and Death" #NT!
- dynn_qabilatalkhayal:0 "Qabilat al'Khayal" #NT!
- dynn_qabilatalkhayal_motto:0 "Faithful beyond Adversity" #NT!
- dynn_allama:0 "al'Lama" #NT!
- dynn_allama_motto:0 "The Other Way" #NT!
- dynn_tubalcain:0 "Tubalcain" #NT!
- dynn_tubalcain_motto:0 "Conquerors of the Unconquered" #NT!
- dynn_tepelit:0 "Tepelit" #NT!
- dynn_tepelit_motto:0 "Caring Fathers" #NT!
- dynn_blueeye:0 "Blue Eye" #NT!
- dynn_blueeye_motto:0 "Hidden behind Sight" #NT!
- dynn_ramanga:0 "Ramanga" #NT!
- dynn_ramanga_motto:0 "Aristocratic Puppeteers" #NT!
- dynn_giangaleazzo:0 "Visconti" #NT!
- dynn_giangaleazzo_motto:0 "True Princes" #NT!
+ dynn_khanommehr:0 "Ханом Мехр" #NT!
+ dynn_khanommehr_motto:0 "Щит Тьмы" #NT!
+ dynn_karotos:0 "Каротос" #NT!
+ dynn_karotos_motto:0 "Поэты Смерти и Ночи" #NT!
+ dynn_qabilatalkhayal:0 "Кабилат аль'Хаял" #NT!
+ dynn_qabilatalkhayal_motto:0 "Верность Вопреки Невзгодам" #NT!
+ dynn_allama:0 "аль'Лама" #NT!
+ dynn_allama_motto:0 "Другой Путь" #NT!
+ dynn_tubalcain:0 "Тубалькаин" #NT!
+ dynn_tubalcain_motto:0 "Завоеватели Непокоренного" #NT!
+ dynn_tepelit:0 "Тепелит" #NT!
+ dynn_tepelit_motto:0 "Заботливые Отцы" #NT!
+ dynn_blueeye:0 "Блю Ай" #NT!
+ dynn_blueeye_motto:0 "Скрытое от Взора" #NT!
+ dynn_ramanga:0 "Раманга" #NT!
+ dynn_ramanga_motto:0 "Аристократические Кукловоды" #NT!
+ dynn_giangaleazzo:0 "Висконти" #NT!
+ dynn_giangaleazzo_motto:0 "Настоящие Князья" #NT!
 
  # Malkavian #NT!
 
  dynn_malkavian:0 "[Clan|E] Малкавиан" #NT!
  dynn_malkavian_motto:0 "[Clan|E] Луны" #NT!
- dynn_lamdiel:0 "Lamdiel" #NT!
- dynn_lamdiel_motto:0 "Always Watching" #NT!
- dynn_eater:0 "Eater" #NT!
- dynn_eater_motto:0 "Right Behind You" #NT!
- dynn_brahina:0 "Brahina" #NT!
- dynn_brahina_motto:0 "Omen Makers" #NT!
- dynn_delaurent:0 "De Laurent" #NT!
- dynn_delaurent_motto:0 "Search, Learn, Gather" #NT!
- dynn_midian:0 "Midian" #NT!
- dynn_midian_motto:0 "Holding the Scepter" #NT!
- dynn_banes:0 "Banes" #NT!
- dynn_banes_motto:0 "Broken Mirrors" #NT!
- dynn_plague:0 "Plague-Bride" #NT!
- dynn_plague_motto:0 "Wed to Madness" #NT!
- dynn_izaha:0 "Izaha" #NT!
- dynn_izaha_motto:0 "Your Own Biblical Mistake" #NT!
- dynn_lerterimas:0 "Lerterimas" #NT!
- dynn_lerterimas_motto:0 "Don't Look, Don't Touch" #NT!
+ dynn_lamdiel:0 "Ламдиэль" #NT!
+ dynn_lamdiel_motto:0 "Всегда Смотрящие" #NT!
+ dynn_eater:0 "Пожиратель" #NT!
+ dynn_eater_motto:0 "Прямо За Тобой" #NT!
+ dynn_brahina:0 "Брахина" #NT!
+ dynn_brahina_motto:0 "Создатели Знамений" #NT!
+ dynn_delaurent:0 "Дэ Лаурент" #NT!
+ dynn_delaurent_motto:0 "Ищи, Учись, Собирай" #NT!
+ dynn_midian:0 "Мидиан" #NT!
+ dynn_midian_motto:0 "Держа Скипетр" #NT!
+ dynn_banes:0 "Бэйнс" #NT!
+ dynn_banes_motto:0 "Разбитые Зеркала" #NT!
+ dynn_plague:0 "Чумная Невеста" #NT!
+ dynn_plague_motto:0 "Обвенчаться с Безумием" #NT!
+ dynn_izaha:0 "Изаха" #NT!
+ dynn_izaha_motto:0 "Ваша Собственная Библейская Ошибка" #NT!
+ dynn_lerterimas:0 "Лертеримас" #NT!
+ dynn_lerterimas_motto:0 "Не смотри, Не трогай" #NT!
  dynn_siren:0 "Daughters of Cacophony" #NT!
  dynn_siren_motto:0 "Sirens of the Night" #NT!
  dynn_panehesy:0 "Panehesy" #NT!
