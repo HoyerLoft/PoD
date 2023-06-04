@@ -152,7 +152,7 @@
  setite_victory_objective_decision_tooltip:1 "Любящие объятия Сета и величайшее стремление к моральной свободе должны быть распространены повсюду." #NT!
  setite_victory_objective_decision_desc:0 "Так называемые Дети Каина введены в заблуждение, веря в извращенную пародию на правду. Мы все сетиты, и, защищая наши традиционные границы, мы сделаем первый шаг к тому, чтобы заставить их понять." #NT!
  setite_victory_objective_decision_confirm:0 "Давайте поприветствуем наших новых братьев." #NT!
- setite_victory_objective_decision_effect_tooltip:1 "Правда распространится повсюду, и вы вступите в бой с традиционными врагами вашего [Clan|E]." #NT!
+ setite_victory_objective_decision_effect_tooltip:1 "Правда распространится повсюду, и вы вступите в бой с традиционными врагами вашего [Clan|E]а." #NT!
  setite_victory_objective_decision_custom:0 "Титул [GetTitleByKey('e_ashirra').GetNameNoTier] должен быть уничтожен." #NT!
  salubri_victory_objective_decision:0 "Отомщение" #NT!
  salubri_victory_objective_decision_tooltip:1 "Многие думают, что мы переживаем последние часы Салюбри как [Clan|E]а, поскольку нас быстро уничтожают наши многочисленные враги." #NT!
@@ -178,77 +178,77 @@
  ravnos_victory_objective_decision_confirm:0 "Появляется новый Клан Равнос." #NT!
  ravnos_victory_objective_decision_effect_tooltip:1 "Вы объедините Западный Клан Равнос и выберете позицию по отношению к своим восточным собратьям." #NT!
  indian_victory_objective_decision:0 "Конец вечной войны" #NT!
- indian_victory_objective_decision_tooltip:1 "The subcontinent is torn apart by war and strife. You must step up and take action." #NT!
- indian_victory_objective_decision_desc:0 "The Eternal War between native Indian [cainites|E] and the invading Wan Kuei has gone on for as long as anyone can remember. India will never be free unless someone can unite its disparate defenders." #NT!
- indian_victory_objective_decision_confirm:0 "Finally, we won." #NT!
- indian_victory_objective_decision_effect_tooltip:1 "You will unite India, claim the mantle of Chakravarti and start the purge of the remaining Wan Kuei." #NT!
- kueijin_victory_objective_decision:0 "Rise of The Scarlet Sun" #NT!
- kueijin_victory_objective_decision_tooltip:1 "The Eternal War is a sordid affair, one your people can't afford to lose." #NT!
- kueijin_victory_objective_decision_desc:0 "The Wan Kuei invasion of India has stalled for millennia now, with thousands dying without the stubborn Kain-Jin looking any closer to surrender. You will not be stuck with the same fate." #NT!
- kueijin_victory_objective_decision_confirm:0 "Send a message to the Home Courts." #NT!
- kueijin_victory_objective_decision_effect_tooltip:1 "You will unite India. Then you will choose how to deal with the Home Courts." #NT!
- laibon_victory_objective_decision:0 "The Ebony Kingdom" #NT!
- laibon_victory_objective_decision_tooltip:1 "The Children of Cagn are always infighting, and this has permitted foreign threats to take hold in the Ebony Kingdom." #NT!
- laibon_victory_objective_decision_desc:0 "Africa lies disunited, with encroaching [cainites|E] from the Muslim world and beyond claiming our land as their own. It is time to push them back." #NT!
- laibon_victory_objective_decision_confirm:0 "We have protected Africa." #NT!
- laibon_victory_objective_decision_effect_tooltip:1 "You will unite the Ebony Kingdom and reap the massive prestige coming with such an accomplishment." #NT!
- restore_the_dream:0 "Restoring the Dream" #NT!
- restore_the_dream_tooltip:1 "As long as some Vampires believe in it, the Dream can still rise from its ashes." #NT!
- restore_the_dream_desc:0 "1204 destroyed the peerless utopia that was the Dream of Constantinople. Such a tragedy will usher a terrible era of darkness for the [cainite|E] world, unless someone takes up the mantle of Michael once again." #NT!
- restore_the_dream_confirm:0 "As it was, it will be." #NT!
- restore_the_dream_effect_tooltip:1 "You will create the Dream Empire title." #NT!
- witching_lands:0 "Founding the Witching-Lands" #NT!
- witching_lands_tooltip:1 "The time of the Druids has come." #NT!
- witching_lands_desc:0 "With the rise of the Druidic cults and witch-vampires, the forests of the British Isles themselves seem to have revolted against the old Cainite dominions. A new chorus cries out in the Sceptred and Emerald Isles; the Druids - once rejected by all Cainites - now stand triumphant, and their dark forests shall spread forever." #NT!
- witching_lands_confirm:0 "Forever, and ever." #NT!
- witching_lands_effect_tooltip:1 "You will create the Witching-Lands title." #NT!
- restore_the_black_cross:0 "Restoring the Black Cross" #NT!
- restore_the_black_cross_tooltip:1 "Germany needs a strong Ventrue leadership more than ever." #NT!
- restore_the_black_cross_desc:0 "Hardestadt's first Black Cross had faults, but it was nonetheless a testament to Ventrue leadership that we could use to legitimize our rule." #NT!
- restore_the_black_cross_confirm:0 "Under the Cross once again." #NT!
- restore_the_black_cross_effect_tooltip:1 "You will create the Black Cross Empire title." #NT!
- restore_the_voivodate:0 "Restoring the Voivodate" #NT!
- restore_the_voivodate_tooltip:1 "The Tzimisce are an unruly lot, and need a strong leadership." #NT!
- restore_the_voivodate_desc:0 "A political tool, the Voivodate has always been contested. But it is still a prestigious title, and could be made stronger than ever." #NT!
- restore_the_voivodate_confirm:0 "We enter here once again." #NT!
- restore_the_voivodate_effect_tooltip:1 "You will create the Voivodate Empire title." #NT!
- restore_the_sea_of_shadows:0 "Restoring the Sea of Shadows" #NT!
- restore_the_sea_of_shadows_tooltip:1 "Our progenitor, Lasombra, needs a strong right hand to lead his [Clan|E]." #NT!
- restore_the_sea_of_shadows_desc:0 "The Lasombra realm had always been led by Montano, Lasombra's most loyal childe. But times are changing, and a new favorite could come to the fore." #NT!
- restore_the_sea_of_shadows_confirm:0 "Father, see my ascension!" #NT!
- restore_the_sea_of_shadows_effect_tooltip:1 "You will create the Sea of Shadows Empire title." #NT!
- restore_avalon:0 "Restoring Avalon" #NT!
- restore_avalon_tooltip:1 "A God's realm never truly dies." #NT!
- restore_avalon_desc:0 "As you know, Mithras is more God than Vampire. Whether he decides to one day returns to his followers, you must prepare a mortal realm for his followers." #NT!
- restore_avalon_confirm:0 "We stand at the ready." #NT!
- restore_avalon_effect_tooltip:1 "You will create the Avalon Empire title." #NT!
- restore_love:0 "Restoring the Courts of Love" #NT!
- restore_love_tooltip:1 "France will be Toreador, or won't be at all." #NT!
- restore_love_desc:0 "The Courts of Love were the expression of the Toreador Matriarch triumph over the Ventrue in France. This grand political and artistic venture can't be left to rot as history." #NT!
- restore_love_confirm:0 "Love is eternal, after all." #NT!
- restore_love_effect_tooltip:1 "You will create the Courts of Love Empire title." #NT!
- restore_midgard:0 "Restoring Midgard" #NT!
- restore_midgard_tooltip:1 "Odin still watches over us." #NT!
- restore_midgard_desc:0 "Midgard has suffered setback after setback as the [einherjar|E] crumbled before the Ventrue invasion. To survive, they will need a massive counterattack and a new All-High." #NT!
- restore_midgard_confirm:0 "Ragnarok can wait." #NT!
- restore_midgard_effect_tooltip:1 "You will create the Midgard Empire title." #NT!
- restore_ashirra:0 "Restoring the Ashirra Caliphate" #NT!
- restore_ashirra_tooltip:1 "The Faithful need an home." #NT!
- restore_ashirra_desc:0 "The [ashirra|E] Caliphate was a young creation by Vampire standards. But it is backed by the faith of millions already and, as such, can only rise once more in due time." #NT!
- restore_ashirra_confirm:0 "God truly is great." #NT!
- restore_ashirra_effect_tooltip:1 "You will create the [ashirra|E] Caliphate Empire title." #NT!
- restore_alamut:0 "Restoring Alamut" #NT!
- restore_alamut_tooltip:1 "The Children of Haqim are lost without their home." #NT!
- restore_alamut_desc:0 "Reputed impregnable, Alamut was more than a fortress for the Haqimite [Clan|E]. A political symbol of Haqim's will and unity, it must be made whole if the Children are to prosper again." #NT!
- restore_alamut_confirm:0 "The wind is back in our favor." #NT!
- restore_alamut_effect_tooltip:1 "You will create the Alamut Empire title." #NT!
- restore_giovanni:0 "Restoring the Family" #NT!
- restore_giovanni_tooltip:1 "The Family's beginnings weren't as smooth as anticipated." #NT!
- restore_giovanni_desc:0 "The Giovanni have suffered setbacks, but we now have an eternity to come out on top. Let us start by bringing the family back together." #NT!
- restore_giovanni_confirm:0 "The perfect deal." #NT!
- restore_giovanni_effect_tooltip:1 "You will create the Giovanni Kingdom title." #NT!
- restore_ravnos:0 "Restoring the [Clan|E]" #NT!
- restore_ravnos_tooltip:1 "The Eternal War doesn't permit any dissidence." #NT!
+ indian_victory_objective_decision_tooltip:1 "Субконтинент раздираем войной и междоусобицами. Вы должны сделать шаг вперед и принять меры." #NT!
+ indian_victory_objective_decision_desc:0 "Вечная Война между коренными Индийскими [Concept('cainites', 'каинитами')|E] и вторгающимися Ван Куэй продолжалось столько, сколько кто-либо может вспомнить. Индия никогда не будет свободной, если кто-то не сможет объединить ее разрозненных защитников." #NT!
+ indian_victory_objective_decision_confirm:0 "Наконец, мы выиграли." #NT!
+ indian_victory_objective_decision_effect_tooltip:1 "Вы объедините Индию, заявите права на мантию Чакраварти и начнете чистку от оставшихся Ван Куэй." #NT!
+ kueijin_victory_objective_decision:0 "Восход Алого солнца" #NT!
+ kueijin_victory_objective_decision_tooltip:1 "Вечная война - грязное дело, которое ваш народ не может позволить себе проиграть." #NT!
+ kueijin_victory_objective_decision_desc:0 "Вторжение Ван Куэй в Индию застопорилось на тысячелетия, тысячи людей погибли, а упрямые кайдзины и близко не подошли к тому, чтобы сдаться. Вас не постигнет та же участь." #NT!
+ kueijin_victory_objective_decision_confirm:0 "Отправьте сообщение в домашние дворы." #NT!
+ kueijin_victory_objective_decision_effect_tooltip:1 "Вы объедините Индию. Затем вы сами выберете, как вести себя на домашних дворах." #NT!
+ laibon_victory_objective_decision:0 "Королевство Черного Дерева" #NT!
+ laibon_victory_objective_decision_tooltip:1 "Дети Кагна постоянно враждуют, и это привело к тому, что в Эбеновом королевстве появились внешние угрозы." #NT!
+ laibon_victory_objective_decision_desc:0 "Африка разобщена, и вторгающиеся каиниты из мусульманского мира и за его пределами заявляют о своих правах на нашу землю как на свою собственную. Пришло время отбросить их назад." #NT!
+ laibon_victory_objective_decision_confirm:0 "Мы защитили Африку." #NT!
+ laibon_victory_objective_decision_effect_tooltip:1 "Вы объедините Королевство Серного Дерева и получите огромный престиж, связанный с таким достижением." #NT!
+ restore_the_dream:0 "Восстановление Мечты" #NT!
+ restore_the_dream_tooltip:1 "Пока некоторые вампиры верят в это, Мечта все еще может восстать из пепла." #NT!
+ restore_the_dream_desc:0 "1204 год разрушил несравненную утопию, которой была Мечта Константинополя. Такая трагедия положит начало ужасной эре тьмы для мира каинитов, если только кто-нибудь снова не примет мантию Михаила." #NT!
+ restore_the_dream_confirm:0 "Все будет так, как тогда." #NT!
+ restore_the_dream_effect_tooltip:1 "Вы создадите титул Империя Мечты." #NT!
+ witching_lands:0 "Основание Ведьминых Земель" #NT!
+ witching_lands_tooltip:1 "Время Друидов пришло." #NT!
+ witching_lands_desc:0 "С появлением культов друидов и ведьм-вампиров леса самих Британских островов, похоже, восстали против старых каинитских владений. Новый хор раздается на Скипетровом и Изумрудном островах; друиды, некогда отвергнутые всеми каинитами, теперь торжествуют победу, и их темные леса будут простираться вечно." #NT!
+ witching_lands_confirm:0 "Во веки веков." #NT!
+ witching_lands_effect_tooltip:1 "Вы создадите титул Ведьмины Земли." #NT!
+ restore_the_black_cross:0 "Восстановление Черного Креста" #NT!
+ restore_the_black_cross_tooltip:1 "Германия больше, чем когда-либо, нуждается в сильном руководстве Вентру." #NT!
+ restore_the_black_cross_desc:0 "Первый Черный Крест Хардештадта был неидеален, но, тем не менее, это было свидетельством лидерства Вентру, которое мы могли использовать, чтобы упрочить наше правление." #NT!
+ restore_the_black_cross_confirm:0 "Снова под Крестом." #NT!
+ restore_the_black_cross_effect_tooltip:1 "Вы создадите титул империи Вотчины Черного креста." #NT!
+ restore_the_voivodate:0 "Восстановление Воеводства" #NT!
+ restore_the_voivodate_tooltip:1 "Цимисхи неуправляемы и им нужен сильный лидер." #NT!
+ restore_the_voivodate_desc:0 "Будучи политическим инструментом, воеводство всегда было предметом споров. Но это по-прежнему престижный титул, и его можно было бы сделать сильнее, чем когда-либо." #NT!
+ restore_the_voivodate_confirm:0 "Мы возвращаемся снова" #NT!
+ restore_the_voivodate_effect_tooltip:1 "Вы создадите титул империи Воеводства." #NT!
+ restore_the_sea_of_shadows:0 "Восстановление Моря Теней" #NT!
+ restore_the_sea_of_shadows_tooltip:1 "Наш прародитель, Ласомбра, нуждается в твердой руке, чтобы вести его [Clan|E]." #NT!
+ restore_the_sea_of_shadows_desc:0 "Королевством Ласомбра всегда руководил Монтано, самый преданный сын Ласомбры. Но времена меняются, и на первый план может выйти новый фаворит." #NT!
+ restore_the_sea_of_shadows_confirm:0 "Отец, узри мое восхождение!" #NT!
+ restore_the_sea_of_shadows_effect_tooltip:1 "Вы создадите титул "Море Теней"." #NT!
+ restore_avalon:0 "Восстановить Авалон" #NT!
+ restore_avalon_tooltip:1 "Царство Бога никогда по-настоящему не умирает." #NT!
+ restore_avalon_desc:0 "Как вы знаете, Митра - скорее Бог, чем вампир. Независимо от того, решит ли он однажды вернуться к своим последователям, вы должны подготовить царство смертных для его последователей." #NT!
+ restore_avalon_confirm:0 "Мы стоим наготове." #NT!
+ restore_avalon_effect_tooltip:1 "Вы создадите титул ранга империя "Баронства Авалона"." #NT!
+ restore_love:0 "Восстановить Дворы Любви" #NT!
+ restore_love_tooltip:1 "Франция будет тореадорской или не будет вообще." #NT!
+ restore_love_desc:0 "Дворы любви были выражением триумфа матриарха-тореадора над Вентру во Франции. Это грандиозное политическое и художественное событие нельзя оставлять пылиться на полке истории." #NT!
+ restore_love_confirm:0 "В конце концов, любовь вечна." #NT!
+ restore_love_effect_tooltip:1 "Вы создадите титул ранга империя "Дворы Любви"." #NT!
+ restore_midgard:0 "Восстановить Мидгард" #NT!
+ restore_midgard_tooltip:1 "Один все ещё присматривает за нами." #NT!
+ restore_midgard_desc:0 "Мидгард терпел неудачу за неудачей, поскольку эйнхерии пали перед вторжением Вентру. Чтобы выжить, им понадобится массштабная контратака и новый Праотец." #NT!
+ restore_midgard_confirm:0 "Рагнарек подождет." #NT!
+ restore_midgard_effect_tooltip:1 "Вы создадите титул ранга империя "Мидгард"." #NT!
+ restore_ashirra:0 "Восстановление Аширрского Халифата" #NT!
+ restore_ashirra_tooltip:1 "Праведным нужен дом." #NT!
+ restore_ashirra_desc:0 "Аширрский Халифат был молодым творением по вампирским меркам. Но он уже опирается на веру миллионов и, как таковой, может возродиться, когда настанет полходящее время свое время." #NT!
+ restore_ashirra_confirm:0 "Аллах действительно велик." #NT!
+ restore_ashirra_effect_tooltip:1 "Вы создадите титул ранга империя "Аширрский Халифат"." #NT!
+ restore_alamut:0 "Восстановить Аламут" #NT!
+ restore_alamut_tooltip:1 "Дети Хакима потеряны без своего дома." #NT!
+ restore_alamut_desc:0 "Считавшийся неприступным, Аламут был для ассамитов больше, чем крепостью. Политический символ воли и единства Хакима, он должен быть восстановлен, если мы хотим, чтобы дети снова процветали." #NT!
+ restore_alamut_confirm:0 "Ветер снова в нашу пользу." #NT!
+ restore_alamut_effect_tooltip:1 "Вы создадите титул ранга империя "Аламут"." #NT!
+ restore_giovanni:0 "Восстановить Семью" #NT!
+ restore_giovanni_tooltip:1 "Семейные начала не пошли так гладко, как ожидалось." #NT!
+ restore_giovanni_desc:0 ""Джованни" терпели неудачи, но теперь у нас есть целая вечность, чтобы выйти на первое место. Давайте начнем с того, что снова соберем семью вместе." #NT!
+ restore_giovanni_confirm:0 "Идеальное предложение." #NT!
+ restore_giovanni_effect_tooltip:1 "Вы создадите титул ранга королевства "Семья Джованни"." #NT!
+ restore_ravnos:0 "Восстановить [Clan|E]" #NT!
+ restore_ravnos_tooltip:1 "Вечная война не допускает никакого инакомыслия." #NT!
  restore_ravnos_desc:0 "We have lost the unifying heartland of [Clan|E] Ravnos. This crushing blow to our pride and spirit must be avenged as quickly as possible." #NT!
  restore_ravnos_confirm:0 "The war rages on." #NT!
  restore_ravnos_effect_tooltip:1 "You will create the Ravnos Empire title." #NT!
